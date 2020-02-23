@@ -7,7 +7,7 @@ link: https://drc.bz/mein-persoenlicher-eindruck-vom-fieldday-am-tschaufen/
 slug: mein-persoenlicher-eindruck-vom-fieldday-am-tschaufen
 title: Mein "persönlicher Eindruck" vom Fieldday am Tschaufen.
 wordpress_id: 16839
-categories:
+tags:
 - Fieldday
 ---
 

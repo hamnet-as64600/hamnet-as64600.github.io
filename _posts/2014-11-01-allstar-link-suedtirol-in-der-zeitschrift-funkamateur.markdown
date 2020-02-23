@@ -7,7 +7,7 @@ link: https://drc.bz/allstar-link-suedtirol-in-der-zeitschrift-funkamateur/
 slug: allstar-link-suedtirol-in-der-zeitschrift-funkamateur
 title: ALLSTAR LINK SÜDTIROL in der Zeitschrift FUNKAMATEUR
 wordpress_id: 9619
-categories:
+tags:
 - Pubblic Relation
 ---
 

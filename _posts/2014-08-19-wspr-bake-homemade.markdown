@@ -7,7 +7,7 @@ link: https://drc.bz/wspr-bake-homemade/
 slug: wspr-bake-homemade
 title: WSPR Bake Homemade!
 wordpress_id: 8925
-categories:
+tags:
 - Allgemein
 ---
 

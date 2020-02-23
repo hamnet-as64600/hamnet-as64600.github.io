@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-anderswo-und-ein-paar-bekannte-gesichter/
 slug: hamnet-anderswo-und-ein-paar-bekannte-gesichter
 title: 'Hamnet: Blick über den Tellerrand und ein paar altbekannte Gesichter'
 wordpress_id: 3851
-categories:
+tags:
 - HamNet
 ---
 

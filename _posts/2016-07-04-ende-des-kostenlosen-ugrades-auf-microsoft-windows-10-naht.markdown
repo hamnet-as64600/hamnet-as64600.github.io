@@ -7,7 +7,7 @@ link: https://drc.bz/ende-des-kostenlosen-ugrades-auf-microsoft-windows-10-naht/
 slug: ende-des-kostenlosen-ugrades-auf-microsoft-windows-10-naht
 title: Ende des kostenlosen Ugrades auf Microsoft Windows 10 naht
 wordpress_id: 12436
-categories:
+tags:
 - Allgemein
 ---
 

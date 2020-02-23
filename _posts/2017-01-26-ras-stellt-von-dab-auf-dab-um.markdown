@@ -7,7 +7,7 @@ link: https://drc.bz/ras-stellt-von-dab-auf-dab-um/
 slug: ras-stellt-von-dab-auf-dab-um
 title: RAS stellt von DAB auf DAB+ um.
 wordpress_id: 13642
-categories:
+tags:
 - Allgemein
 ---
 

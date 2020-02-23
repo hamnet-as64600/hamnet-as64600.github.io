@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-ueber-echolink-im-clublokal/
 slug: vortrag-ueber-echolink-im-clublokal
 title: Vortrag über Echolink im Clublokal
 wordpress_id: 10806
-categories:
+tags:
 - Echolink
 - Kurse
 ---

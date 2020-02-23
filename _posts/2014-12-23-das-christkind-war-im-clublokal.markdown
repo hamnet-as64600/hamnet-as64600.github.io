@@ -7,7 +7,7 @@ link: https://drc.bz/das-christkind-war-im-clublokal/
 slug: das-christkind-war-im-clublokal
 title: Das Christkind war im Clublokal...
 wordpress_id: 9892
-categories:
+tags:
 - Clublokal
 ---
 

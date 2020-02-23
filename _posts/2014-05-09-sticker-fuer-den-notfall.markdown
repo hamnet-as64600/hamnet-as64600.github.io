@@ -7,7 +7,7 @@ link: https://drc.bz/sticker-fuer-den-notfall/
 slug: sticker-fuer-den-notfall
 title: Sticker für den Notfall
 wordpress_id: 8355
-categories:
+tags:
 - Notfunk
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/internet-via-satellit/
 slug: internet-via-satellit
 title: Internet via Satellit, Radiogeschichte!
 wordpress_id: 8590
-categories:
+tags:
 - Allgemein
 ---
 

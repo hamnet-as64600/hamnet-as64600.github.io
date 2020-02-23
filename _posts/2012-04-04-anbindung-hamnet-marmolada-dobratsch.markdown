@@ -7,7 +7,7 @@ link: https://drc.bz/anbindung-hamnet-marmolada-dobratsch/
 slug: anbindung-hamnet-marmolada-dobratsch
 title: Anbindung Hamnet Marmolada-Dobratsch
 wordpress_id: 4448
-categories:
+tags:
 - HamNet
 ---
 

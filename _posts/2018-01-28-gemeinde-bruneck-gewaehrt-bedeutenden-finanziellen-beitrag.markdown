@@ -7,7 +7,7 @@ link: https://drc.bz/gemeinde-bruneck-gewaehrt-bedeutenden-finanziellen-beitrag/
 slug: gemeinde-bruneck-gewaehrt-bedeutenden-finanziellen-beitrag
 title: Gemeinde Bruneck gewährt bedeutenden finanziellen Beitrag.
 wordpress_id: 15244
-categories:
+tags:
 - Umsetzer Plose
 ---
 

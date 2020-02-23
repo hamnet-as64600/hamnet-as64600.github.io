@@ -7,7 +7,7 @@ link: https://drc.bz/modifikation-des-baofeng-uv3/
 slug: modifikation-des-baofeng-uv3
 title: Modifikation des BAOFENG UV3
 wordpress_id: 5737
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-entwicklung-in-italien/
 slug: d-star-entwicklung-in-italien
 title: D-Star Entwicklung in Italien
 wordpress_id: 2238
-categories:
+tags:
 - D-STAR
 ---
 

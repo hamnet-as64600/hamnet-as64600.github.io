@@ -7,7 +7,7 @@ link: https://drc.bz/blitzeinsatz-zwecks-link-sudtirol-am-standort-piz-chavalats
 slug: blitzeinsatz-zwecks-link-sudtirol-am-standort-piz-chavalatsch-ir3eb
 title: Blitzeinsatz zwecks Link Südtirol am Standort Piz Chavalatsch IR3EB
 wordpress_id: 7621
-categories:
+tags:
 - Cisar Suedtirol
 - Link Suedtirol
 - Umsetzer Chavalatsch

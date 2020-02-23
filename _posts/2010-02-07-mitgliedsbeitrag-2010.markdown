@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliedsbeitrag-2010/
 slug: mitgliedsbeitrag-2010
 title: Mitgliedsbeitrag 2010
 wordpress_id: 759
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-auf-rai-suedtirol/
 slug: der-drc-auf-rai-suedtirol
 title: Der DRC auf RAI Südtirol
 wordpress_id: 8044
-categories:
+tags:
 - Allgemein
 ---
 

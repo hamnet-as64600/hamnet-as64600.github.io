@@ -7,7 +7,7 @@ link: https://drc.bz/news-vom-gitschberg-umsetzer/
 slug: news-vom-gitschberg-umsetzer
 title: News vom Gitschberg Umsetzer
 wordpress_id: 439
-categories:
+tags:
 - Allgemein
 ---
 

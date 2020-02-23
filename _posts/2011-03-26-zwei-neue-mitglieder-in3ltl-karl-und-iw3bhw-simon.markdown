@@ -7,7 +7,7 @@ link: https://drc.bz/zwei-neue-mitglieder-in3ltl-karl-und-iw3bhw-simon/
 slug: zwei-neue-mitglieder-in3ltl-karl-und-iw3bhw-simon
 title: 'Zwei neue Mitglieder: IN3LTL Karl und IW3BHW Simon'
 wordpress_id: 2900
-categories:
+tags:
 - Neue Mitglieder
 ---
 

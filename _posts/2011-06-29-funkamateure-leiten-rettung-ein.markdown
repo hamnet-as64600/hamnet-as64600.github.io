@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateure-leiten-rettung-ein/
 slug: funkamateure-leiten-rettung-ein
 title: Funkamateure leiten Rettung ein.
 wordpress_id: 3333
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/zuweisung-von-5-promille-der-steuererklaerung-an-den-drc/
 slug: zuweisung-von-5-promille-der-steuererklaerung-an-den-drc
 title: Zuweisung von 5 Promille der Steuererklärung an den DRC
 wordpress_id: 10334
-categories:
+tags:
 - Allgemein
 ---
 

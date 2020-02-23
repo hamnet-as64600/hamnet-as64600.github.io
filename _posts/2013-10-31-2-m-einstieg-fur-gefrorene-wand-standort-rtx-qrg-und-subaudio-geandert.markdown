@@ -7,7 +7,7 @@ link: https://drc.bz/2-m-einstieg-fur-gefrorene-wand-standort-rtx-qrg-und-subaud
 slug: 2-m-einstieg-fur-gefrorene-wand-standort-rtx-qrg-und-subaudio-geandert
 title: 2 m Einstieg für Gefrorene Wand - Standort, RTX QRG und Subaudio geändert
 wordpress_id: 7582
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

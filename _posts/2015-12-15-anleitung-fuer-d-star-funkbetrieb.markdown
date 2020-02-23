@@ -7,7 +7,7 @@ link: https://drc.bz/anleitung-fuer-d-star-funkbetrieb/
 slug: anleitung-fuer-d-star-funkbetrieb
 title: Anleitung für D-STAR Funkbetrieb
 wordpress_id: 11330
-categories:
+tags:
 - D-STAR
 ---
 

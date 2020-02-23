@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3eco-roland/
 slug: neues-mitglied-im-drc-in3eco-roland
 title: 'Neues Mitglied im DRC: IN3ECU Roland'
 wordpress_id: 1749
-categories:
+tags:
 - Neue Mitglieder
 ---
 

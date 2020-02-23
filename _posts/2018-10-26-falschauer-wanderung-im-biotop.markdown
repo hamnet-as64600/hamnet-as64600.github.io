@@ -7,7 +7,7 @@ link: https://drc.bz/falschauer-wanderung-im-biotop/
 slug: falschauer-wanderung-im-biotop
 title: 'Falschauer: Wanderung im Biotop'
 wordpress_id: 17504
-categories:
+tags:
 - Ausflüge
 ---
 

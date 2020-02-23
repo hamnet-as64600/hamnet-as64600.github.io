@@ -7,7 +7,7 @@ link: https://drc.bz/r4-rittnerhorn-ir3uhf-neuer-umsetzer-installiert-svx-link/
 slug: r4-rittnerhorn-ir3uhf-neuer-umsetzer-installiert-svx-link
 title: R4 - Rittnerhorn, IR3UHF. Neuer Umsetzer installiert (SVX-Link)
 wordpress_id: 11141
-categories:
+tags:
 - Echolink
 - Umsetzer Rittner Horn
 ---

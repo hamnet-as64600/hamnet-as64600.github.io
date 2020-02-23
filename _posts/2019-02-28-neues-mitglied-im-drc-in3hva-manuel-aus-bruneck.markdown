@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3hva-manuel-aus-bruneck/
 slug: neues-mitglied-im-drc-in3hva-manuel-aus-bruneck
 title: 'Neues Mitglied im DRC: IN3HVA Manuel aus Bruneck'
 wordpress_id: 18065
-categories:
+tags:
 - Neue Mitglieder
 ---
 

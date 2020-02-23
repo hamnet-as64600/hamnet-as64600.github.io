@@ -7,7 +7,7 @@ link: https://drc.bz/die-erste-suedtiroler-funkuebung-hat-stattgefunden/
 slug: die-erste-suedtiroler-funkuebung-hat-stattgefunden
 title: Die erste Südtiroler Funkübung hat stattgefunden.
 wordpress_id: 12036
-categories:
+tags:
 - Notfunk
 - Südtiroler Funkübung
 ---

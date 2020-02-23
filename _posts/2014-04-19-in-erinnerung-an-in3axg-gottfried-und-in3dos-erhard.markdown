@@ -7,7 +7,7 @@ link: https://drc.bz/in-erinnerung-an-in3axg-gottfried-und-in3dos-erhard/
 slug: in-erinnerung-an-in3axg-gottfried-und-in3dos-erhard
 title: In Erinnerung an IN3AXG Gottfried und IN3DOS Erhard
 wordpress_id: 8310
-categories:
+tags:
 - Allgemein
 ---
 

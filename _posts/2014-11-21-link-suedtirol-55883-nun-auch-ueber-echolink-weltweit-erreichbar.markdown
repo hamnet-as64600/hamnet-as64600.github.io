@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-55883-nun-auch-ueber-echolink-weltweit-errei
 slug: link-suedtirol-55883-nun-auch-ueber-echolink-weltweit-erreichbar
 title: Link Südtirol (55883) nun auch über Echolink weltweit erreichbar!
 wordpress_id: 9707
-categories:
+tags:
 - Echolink
 - Link Suedtirol
 ---

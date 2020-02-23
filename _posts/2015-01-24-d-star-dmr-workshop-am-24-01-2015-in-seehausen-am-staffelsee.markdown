@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-dmr-workshop-am-24-01-2015-in-seehausen-am-staffelse
 slug: d-star-dmr-workshop-am-24-01-2015-in-seehausen-am-staffelsee
 title: D-Star / DMR Workshop am 24.01.2015 in Seehausen am Staffelsee
 wordpress_id: 10006
-categories:
+tags:
 - D-STAR
 ---
 

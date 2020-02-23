@@ -7,7 +7,7 @@ link: https://drc.bz/kochrezept-aprs-mit-dem-th-d7/
 slug: kochrezept-aprs-mit-dem-th-d7
 title: 'Kochrezept : APRS mit dem TH-D7'
 wordpress_id: 2114
-categories:
+tags:
 - Allgemein
 ---
 

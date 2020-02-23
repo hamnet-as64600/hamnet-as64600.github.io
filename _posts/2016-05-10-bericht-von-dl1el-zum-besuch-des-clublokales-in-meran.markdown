@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-von-dl1el-zum-besuch-des-clublokales-in-meran/
 slug: bericht-von-dl1el-zum-besuch-des-clublokales-in-meran
 title: Bericht von DL1EL zum Besuch des Clublokales in Meran.
 wordpress_id: 12181
-categories:
+tags:
 - Allgemein
 ---
 

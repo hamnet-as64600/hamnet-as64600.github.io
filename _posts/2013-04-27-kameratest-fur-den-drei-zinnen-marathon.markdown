@@ -7,7 +7,7 @@ link: https://drc.bz/kameratest-fur-den-drei-zinnen-marathon/
 slug: kameratest-fur-den-drei-zinnen-marathon
 title: Kameratest für den Drei-Zinnen-Marathon
 wordpress_id: 6284
-categories:
+tags:
 - Funkassistenz
 ---
 

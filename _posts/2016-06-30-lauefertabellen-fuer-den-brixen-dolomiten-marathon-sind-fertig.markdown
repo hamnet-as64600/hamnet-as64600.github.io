@@ -7,7 +7,7 @@ link: https://drc.bz/lauefertabellen-fuer-den-brixen-dolomiten-marathon-sind-fer
 slug: lauefertabellen-fuer-den-brixen-dolomiten-marathon-sind-fertig
 title: Läufertabellen für den Brixen Dolomiten Marathon sind fertig.
 wordpress_id: 12424
-categories:
+tags:
 - Allgemein
 ---
 

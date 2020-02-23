@@ -7,7 +7,7 @@ link: https://drc.bz/brixen-dolomiten-marathon-neuer-einsatzplan-version-2/
 slug: brixen-dolomiten-marathon-neuer-einsatzplan-version-2
 title: Brixen Dolomiten Marathon - Neuer Einsatzplan Version 2
 wordpress_id: 12432
-categories:
+tags:
 - Allgemein
 ---
 

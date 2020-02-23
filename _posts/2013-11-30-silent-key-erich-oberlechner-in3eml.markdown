@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-erich-oberlechner-in3eml/
 slug: silent-key-erich-oberlechner-in3eml
 title: 'Silent key: Erich Oberlechner IN3EML'
 wordpress_id: 7797
-categories:
+tags:
 - Silent key
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/diskussionsthemastille-zuhorer-auf-unseren-umsetzern/
 slug: diskussionsthemastille-zuhorer-auf-unseren-umsetzern
 title: Diskussionsthema:"Stille Zuhörer auf unseren Umsetzern"
 wordpress_id: 2260
-categories:
+tags:
 - Allgemein
 ---
 

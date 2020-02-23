@@ -7,7 +7,7 @@ link: https://drc.bz/koennte-das-handfunkgeraet-der-zukunft-so-aussehen/
 slug: koennte-das-handfunkgeraet-der-zukunft-so-aussehen
 title: Könnte das Handfunkgerät der Zukunft so aussehen?
 wordpress_id: 11225
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/oe7phi-und-sota-aktivitaten/
 slug: oe7phi-und-sota-aktivitaten
 title: OE7PHI und Sota Aktivitäten
 wordpress_id: 5661
-categories:
+tags:
 - SOTA
 ---
 

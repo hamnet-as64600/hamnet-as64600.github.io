@@ -7,7 +7,7 @@ link: https://drc.bz/vereinsbekleidung-kann-wieder-bestellt-werden/
 slug: vereinsbekleidung-kann-wieder-bestellt-werden
 title: Vereinsbekleidung kann wieder bestellt werden.
 wordpress_id: 14429
-categories:
+tags:
 - Vereinsbekleidung
 ---
 

@@ -8,7 +8,7 @@ slug: einsatz-gantkofel-dutzende-von-umgefallenen-baeumen-auf-dem-forstweg-und-b
 title: 'Einsatz Gantkofel: dutzende von umgefallenen Bäumen auf dem Forstweg und bis
   zu 1 m Schnee !'
 wordpress_id: 8358
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Gantkofel
 - Webcam

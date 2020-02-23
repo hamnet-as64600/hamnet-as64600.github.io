@@ -7,7 +7,7 @@ link: https://drc.bz/umbau-im-cl-meran-funkgeraete-und-technik-installiert/
 slug: umbau-im-cl-meran-funkgeraete-und-technik-installiert
 title: Umbau im CL Meran - Funkgeräte und Technik installiert
 wordpress_id: 15374
-categories:
+tags:
 - Cisar Suedtirol
 - Clublokal
 - D-STAR

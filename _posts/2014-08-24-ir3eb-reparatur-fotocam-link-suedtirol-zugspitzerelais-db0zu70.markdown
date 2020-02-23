@@ -7,7 +7,7 @@ link: https://drc.bz/ir3eb-reparatur-fotocam-link-suedtirol-zugspitzerelais-db0z
 slug: ir3eb-reparatur-fotocam-link-suedtirol-zugspitzerelais-db0zu70
 title: 'IR3EB: Reparatur Fotocam, Link Südtirol & Zugspitzerelais DB0ZU/70'
 wordpress_id: 8956
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Chavalatsch
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-link-suedtirol-ir3ugm-wieder-aktiv/
 slug: gantkofel-link-suedtirol-ir3ugm-wieder-aktiv
 title: Gantkofel Link Südtirol - IR3UGM wieder aktiv
 wordpress_id: 18397
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Gantkofel
 ---

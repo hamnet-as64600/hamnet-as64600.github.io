@@ -7,7 +7,7 @@ link: https://drc.bz/foto-der-hamradio-2019/
 slug: foto-der-hamradio-2019
 title: Foto der Hamradio 2019
 wordpress_id: 18428
-categories:
+tags:
 - Allgemein
 ---
 

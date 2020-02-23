@@ -7,7 +7,7 @@ link: https://drc.bz/zutritt-ins-clublokal/
 slug: zutritt-ins-clublokal
 title: Zutritt ins Clublokal
 wordpress_id: 960
-categories:
+tags:
 - Allgemein
 ---
 

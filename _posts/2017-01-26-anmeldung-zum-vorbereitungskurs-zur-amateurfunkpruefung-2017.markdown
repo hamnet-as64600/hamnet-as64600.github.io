@@ -7,7 +7,7 @@ link: https://drc.bz/anmeldung-zum-vorbereitungskurs-zur-amateurfunkpruefung-201
 slug: anmeldung-zum-vorbereitungskurs-zur-amateurfunkpruefung-2017
 title: Anmeldung zum Vorbereitungskurs zur Funkamateurprüfung 2017
 wordpress_id: 13644
-categories:
+tags:
 - Kurse
 ---
 

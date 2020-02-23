@@ -7,7 +7,7 @@ link: https://drc.bz/funkaktivitaten-aus-dem-passeiertal/
 slug: funkaktivitaten-aus-dem-passeiertal
 title: Funkaktivitäten aus dem Passeiertal
 wordpress_id: 6883
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

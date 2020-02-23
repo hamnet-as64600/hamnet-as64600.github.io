@@ -7,7 +7,7 @@ link: https://drc.bz/ir3eb-chavalatsch-r6-und-ogn/
 slug: ir3eb-chavalatsch-r6-und-ogn
 title: IR3EB - Chavalatsch, R6 und OGN
 wordpress_id: 12803
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

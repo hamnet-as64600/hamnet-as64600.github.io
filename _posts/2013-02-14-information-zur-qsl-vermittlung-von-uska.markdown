@@ -7,7 +7,7 @@ link: https://drc.bz/information-zur-qsl-vermittlung-von-uska/
 slug: information-zur-qsl-vermittlung-von-uska
 title: Information zur QSL Vermittlung von USKA
 wordpress_id: 6063
-categories:
+tags:
 - QSL
 ---
 

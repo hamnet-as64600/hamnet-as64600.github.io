@@ -7,7 +7,7 @@ link: https://drc.bz/plc-petition-bitte-mitmachen/
 slug: plc-petition-bitte-mitmachen
 title: 'PLC Petition: bitte mitmachen!'
 wordpress_id: 8338
-categories:
+tags:
 - Allgemein
 ---
 

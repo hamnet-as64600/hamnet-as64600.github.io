@@ -8,7 +8,7 @@ slug: brenner-basistunnel-baustellenbesuch-heute-nachmittag-1400-uhr-1-platz-noc
 title: Brenner Basistunnel – Baustellenbesuch heute nachmittag 14:00 Uhr – 1 Platz
   noch frei!
 wordpress_id: 12140
-categories:
+tags:
 - Allgemein
 ---
 

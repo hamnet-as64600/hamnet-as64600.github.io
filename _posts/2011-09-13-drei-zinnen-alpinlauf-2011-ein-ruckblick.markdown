@@ -7,7 +7,7 @@ link: https://drc.bz/drei-zinnen-alpinlauf-2011-ein-ruckblick/
 slug: drei-zinnen-alpinlauf-2011-ein-ruckblick
 title: Drei Zinnen-Alpinlauf 2011 - ein Rückblick
 wordpress_id: 3676
-categories:
+tags:
 - Funkassistenz
 ---
 

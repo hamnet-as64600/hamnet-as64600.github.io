@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-anja-vom-ritten/
 slug: neues-mitglied-im-drc-anja-vom-ritten
 title: 'Neues Mitglied im DRC: Anja vom Ritten'
 wordpress_id: 18775
-categories:
+tags:
 - Neue Mitglieder
 ---
 

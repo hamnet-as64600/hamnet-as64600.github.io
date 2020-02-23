@@ -7,7 +7,7 @@ link: https://drc.bz/einfuhrungskurs-sota/
 slug: einfuhrungskurs-sota
 title: Einführungskurs SOTA
 wordpress_id: 4736
-categories:
+tags:
 - Kurse
 ---
 

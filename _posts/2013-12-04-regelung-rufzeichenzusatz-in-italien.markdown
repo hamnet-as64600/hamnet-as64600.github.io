@@ -7,7 +7,7 @@ link: https://drc.bz/regelung-rufzeichenzusatz-in-italien/
 slug: regelung-rufzeichenzusatz-in-italien
 title: Regelung Rufzeichenzusatz in Italien
 wordpress_id: 7824
-categories:
+tags:
 - Allgemein
 ---
 

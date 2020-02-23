@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-dienst-fur-alle-mitglieder/
 slug: qsl-dienst-fur-alle-mitglieder
 title: Der QSL Dienst für alle Mitglieder ist im Anrollen!
 wordpress_id: 4021
-categories:
+tags:
 - Allgemein
 ---
 

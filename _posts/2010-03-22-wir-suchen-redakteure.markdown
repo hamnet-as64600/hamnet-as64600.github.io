@@ -7,7 +7,7 @@ link: https://drc.bz/wir-suchen-redakteure/
 slug: wir-suchen-redakteure
 title: Wir suchen Redakteure!
 wordpress_id: 969
-categories:
+tags:
 - Allgemein
 ---
 

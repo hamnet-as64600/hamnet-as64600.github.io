@@ -7,7 +7,7 @@ link: https://drc.bz/buchempfehlung-not-und-katastrophenfunk-auf-kurzwelle/
 slug: buchempfehlung-not-und-katastrophenfunk-auf-kurzwelle
 title: 'Buchempfehlung: Not- und Katastrophenfunk auf Kurzwelle'
 wordpress_id: 11127
-categories:
+tags:
 - Notfunk
 ---
 

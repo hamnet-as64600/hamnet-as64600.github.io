@@ -7,7 +7,7 @@ link: https://drc.bz/bergfunk-auf-den-gigahertz-baendern/
 slug: bergfunk-auf-den-gigahertz-baendern
 title: Bergfunk auf den Gigahertz-Bändern
 wordpress_id: 10496
-categories:
+tags:
 - Allgemein
 ---
 

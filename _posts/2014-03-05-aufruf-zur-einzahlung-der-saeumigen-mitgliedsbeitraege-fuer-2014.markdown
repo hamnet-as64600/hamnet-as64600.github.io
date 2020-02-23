@@ -7,7 +7,7 @@ link: https://drc.bz/aufruf-zur-einzahlung-der-saeumigen-mitgliedsbeitraege-fuer
 slug: aufruf-zur-einzahlung-der-saeumigen-mitgliedsbeitraege-fuer-2014
 title: Aufruf zur Einzahlung der säumigen Mitgliedsbeiträge für 2014.
 wordpress_id: 8167
-categories:
+tags:
 - Allgemein
 ---
 

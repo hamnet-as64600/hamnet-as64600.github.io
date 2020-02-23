@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-martin-m-aus-bruneck/
 slug: neues-mitglied-im-drc-martin-m-aus-bruneck
 title: 'Neues Mitglied im DRC: Martin M. aus Bruneck'
 wordpress_id: 1829
-categories:
+tags:
 - Neue Mitglieder
 ---
 

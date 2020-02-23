@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-iw3aia-erich-aus-tirol/
 slug: neues-mitglied-im-drc-iw3aia-erich-aus-tirol
 title: 'Neues Mitglied im DRC: IW3AIA Erich aus Tirol'
 wordpress_id: 14359
-categories:
+tags:
 - Neue Mitglieder
 ---
 

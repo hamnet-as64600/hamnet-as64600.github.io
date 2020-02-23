@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-antennenkurs-im-clublokal/
 slug: nachtrag-antennenkurs-im-clublokal
 title: Nachtrag Antennenkurs im Clublokal
 wordpress_id: 6686
-categories:
+tags:
 - Kurse
 ---
 

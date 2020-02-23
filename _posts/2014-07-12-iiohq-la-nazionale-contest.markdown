@@ -7,7 +7,7 @@ link: https://drc.bz/iiohq-la-nazionale-contest/
 slug: iiohq-la-nazionale-contest
 title: 'IIØHQ: Nazionale Contest'
 wordpress_id: 8544
-categories:
+tags:
 - ARI
 ---
 

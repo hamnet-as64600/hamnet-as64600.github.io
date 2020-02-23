@@ -7,7 +7,7 @@ link: https://drc.bz/alle-mitgliedsbeitrage-fur-2012-eingehoben/
 slug: alle-mitgliedsbeitrage-fur-2012-eingehoben
 title: Alle Mitgliedsbeiträge für 2012 eingehoben!
 wordpress_id: 4969
-categories:
+tags:
 - Allgemein
 ---
 

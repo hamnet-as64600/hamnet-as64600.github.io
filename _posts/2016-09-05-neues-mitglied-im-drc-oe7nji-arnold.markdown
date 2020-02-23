@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-oe7nji-arnold/
 slug: neues-mitglied-im-drc-oe7nji-arnold
 title: 'Neues Mitglied im DRC: OE7NJI, Arnold'
 wordpress_id: 12880
-categories:
+tags:
 - Neue Mitglieder
 ---
 

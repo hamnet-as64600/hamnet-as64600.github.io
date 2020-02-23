@@ -7,7 +7,7 @@ link: https://drc.bz/geostationaerer-funkamateursatellit-oscar-100-in-betrieb/
 slug: geostationaerer-funkamateursatellit-oscar-100-in-betrieb
 title: Geostationärer Funkamateursatellit OSCAR-100 in Betrieb
 wordpress_id: 18005
-categories:
+tags:
 - Satelliten
 ---
 

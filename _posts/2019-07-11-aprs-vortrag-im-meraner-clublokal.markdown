@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-vortrag-im-meraner-clublokal/
 slug: aprs-vortrag-im-meraner-clublokal
 title: APRS - Vortrag im Meraner Clublokal
 wordpress_id: 18494
-categories:
+tags:
 - APRS
 ---
 

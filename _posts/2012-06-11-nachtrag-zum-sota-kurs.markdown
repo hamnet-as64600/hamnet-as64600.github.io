@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-sota-kurs/
 slug: nachtrag-zum-sota-kurs
 title: Nachtrag zum SOTA Kurs
 wordpress_id: 4802
-categories:
+tags:
 - Kurse
 ---
 

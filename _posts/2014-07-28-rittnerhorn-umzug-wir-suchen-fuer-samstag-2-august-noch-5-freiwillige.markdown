@@ -7,7 +7,7 @@ link: https://drc.bz/rittnerhorn-umzug-wir-suchen-fuer-samstag-2-august-noch-5-f
 slug: rittnerhorn-umzug-wir-suchen-fuer-samstag-2-august-noch-5-freiwillige
 title: Rittnerhorn Umzug - Wir suchen für Samstag, 2. August noch 5 Freiwillige!
 wordpress_id: 8635
-categories:
+tags:
 - HamNet
 - Umsetzer Rittner Horn
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/die-ebu-weist-auf-stoerende-led-leuchtmittel-hin/
 slug: die-ebu-weist-auf-stoerende-led-leuchtmittel-hin
 title: Die EBU weist auf störende LED-Leuchtmittel hin.
 wordpress_id: 12294
-categories:
+tags:
 - Allgemein
 ---
 

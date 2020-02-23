@@ -7,7 +7,7 @@ link: https://drc.bz/einsatz-am-gitschberg-aprs-digipeater-ir3uhi-ist-wieder-akt
 slug: einsatz-am-gitschberg-aprs-digipeater-ir3uhi-ist-wieder-aktiv
 title: Einsatz am Gitschberg - APRS Digipeater IR3UHI ist wieder aktiv.
 wordpress_id: 16502
-categories:
+tags:
 - Remotestation
 - Umsetzer Gitschberg
 ---

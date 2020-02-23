@@ -7,7 +7,7 @@ link: https://drc.bz/link-sudtirol-update-qrg/
 slug: link-sudtirol-update-qrg
 title: Link Südtirol - Update QRG
 wordpress_id: 7226
-categories:
+tags:
 - Link Suedtirol
 ---
 

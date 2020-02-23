@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-storung-auf-431300-mhz-behoben/
 slug: gantkofel-storung-auf-431300-mhz-behoben
 title: Gantkofel - Störung auf 431,300 MHz behoben!
 wordpress_id: 3998
-categories:
+tags:
 - HamNet
 - Umsetzer Gantkofel
 ---

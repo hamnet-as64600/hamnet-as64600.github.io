@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunkgebuhr-fur-2011/
 slug: amateurfunkgebuhr-fur-2011
 title: Amateurfunkgebühr für 2012
 wordpress_id: 2277
-categories:
+tags:
 - Allgemein
 ---
 

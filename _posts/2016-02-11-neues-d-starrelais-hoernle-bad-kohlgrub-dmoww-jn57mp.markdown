@@ -7,7 +7,7 @@ link: https://drc.bz/neues-d-starrelais-hoernle-bad-kohlgrub-dmoww-jn57mp/
 slug: neues-d-starrelais-hoernle-bad-kohlgrub-dmoww-jn57mp
 title: Neues D-Star Relais Hörnle / Bad Kohlgrub DMØWW (JN57MP)
 wordpress_id: 11562
-categories:
+tags:
 - D-STAR
 - DRC Aussenstelle Nord
 ---

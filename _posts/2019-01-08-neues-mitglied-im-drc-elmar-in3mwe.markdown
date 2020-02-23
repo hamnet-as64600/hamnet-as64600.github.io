@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-elmar-in3mwe/
 slug: neues-mitglied-im-drc-elmar-in3mwe
 title: 'Neues Mitglied im DRC: Elmar, IN3MWE'
 wordpress_id: 17846
-categories:
+tags:
 - Neue Mitglieder
 ---
 

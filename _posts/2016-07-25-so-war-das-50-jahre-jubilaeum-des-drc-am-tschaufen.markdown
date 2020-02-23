@@ -7,7 +7,7 @@ link: https://drc.bz/so-war-das-50-jahre-jubilaeum-des-drc-am-tschaufen/
 slug: so-war-das-50-jahre-jubilaeum-des-drc-am-tschaufen
 title: So war das 50 Jahre Jubiläum des DRC am Tschaufen.
 wordpress_id: 12602
-categories:
+tags:
 - 50 Jahre DRC
 - Feiern und Unterhaltung
 ---

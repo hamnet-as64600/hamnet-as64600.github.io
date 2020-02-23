@@ -7,7 +7,7 @@ link: https://drc.bz/hamradio-nuetzlicher-flyer-zur-hamradio-2014/
 slug: hamradio-nuetzlicher-flyer-zur-hamradio-2014
 title: 'Hamradio: Nützlicher Flyer zur Hamradio 2014'
 wordpress_id: 8471
-categories:
+tags:
 - Allgemein
 ---
 

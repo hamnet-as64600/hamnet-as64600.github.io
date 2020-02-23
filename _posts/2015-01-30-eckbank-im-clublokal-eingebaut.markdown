@@ -7,7 +7,7 @@ link: https://drc.bz/eckbank-im-clublokal-eingebaut/
 slug: eckbank-im-clublokal-eingebaut
 title: Eckbank im Clublokal eingebaut.
 wordpress_id: 10026
-categories:
+tags:
 - Clublokal
 ---
 

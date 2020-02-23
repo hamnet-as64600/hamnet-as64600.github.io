@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3pwe-pernthaler-egon/
 slug: silent-key-in3pwe-pernthaler-egon
 title: 'Silent key: IN3PWE Pernthaler Egon'
 wordpress_id: 8096
-categories:
+tags:
 - Silent key
 ---
 

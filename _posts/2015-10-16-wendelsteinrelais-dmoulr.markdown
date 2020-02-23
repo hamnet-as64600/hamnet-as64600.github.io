@@ -7,7 +7,7 @@ link: https://drc.bz/wendelsteinrelais-dmoulr/
 slug: wendelsteinrelais-dmoulr
 title: Wendelsteinrelais DMØULR
 wordpress_id: 11001
-categories:
+tags:
 - Allgemein
 - Murnau
 ---

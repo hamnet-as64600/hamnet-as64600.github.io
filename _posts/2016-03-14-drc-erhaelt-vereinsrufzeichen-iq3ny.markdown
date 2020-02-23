@@ -7,7 +7,7 @@ link: https://drc.bz/drc-erhaelt-vereinsrufzeichen-iq3ny/
 slug: drc-erhaelt-vereinsrufzeichen-iq3ny
 title: 'DRC erhält Vereinsrufzeichen: IQ3NY'
 wordpress_id: 11741
-categories:
+tags:
 - Clublokal
 - IQ3NY
 ---

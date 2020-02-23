@@ -7,7 +7,7 @@ link: https://drc.bz/antennenkurs-mit-in3ray-michael/
 slug: antennenkurs-mit-in3ray-michael
 title: Antennenkurs mit IN3RAY Michael
 wordpress_id: 6636
-categories:
+tags:
 - Kurse
 ---
 

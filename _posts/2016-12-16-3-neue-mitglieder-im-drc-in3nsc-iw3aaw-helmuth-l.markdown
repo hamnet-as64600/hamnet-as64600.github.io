@@ -7,7 +7,7 @@ link: https://drc.bz/3-neue-mitglieder-im-drc-in3nsc-iw3aaw-helmuth-l/
 slug: 3-neue-mitglieder-im-drc-in3nsc-iw3aaw-helmuth-l
 title: '3 neue Mitglieder im DRC: IN3NSC, IW3AAW, Helmuth L.'
 wordpress_id: 13440
-categories:
+tags:
 - Neue Mitglieder
 ---
 

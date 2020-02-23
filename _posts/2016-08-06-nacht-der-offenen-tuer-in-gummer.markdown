@@ -7,7 +7,7 @@ link: https://drc.bz/nacht-der-offenen-tuer-in-gummer/
 slug: nacht-der-offenen-tuer-in-gummer
 title: Nacht der offenen Tür in Gummer
 wordpress_id: 12715
-categories:
+tags:
 - Allgemein
 ---
 

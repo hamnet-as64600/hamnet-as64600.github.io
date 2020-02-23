@@ -7,7 +7,7 @@ link: https://drc.bz/2-tages-einsatz-am-piz-chavalatsch-erfolgreich-beendet/
 slug: 2-tages-einsatz-am-piz-chavalatsch-erfolgreich-beendet
 title: 2-Tages-Einsatz am Piz Chavalatsch erfolgreich beendet.
 wordpress_id: 6960
-categories:
+tags:
 - HamNet
 - Umsetzer Chavalatsch
 - Webcam

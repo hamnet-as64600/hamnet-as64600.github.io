@@ -7,7 +7,7 @@ link: https://drc.bz/neue-fotos-vom-gitschberg-relais/
 slug: neue-fotos-vom-gitschberg-relais
 title: Neue Fotos vom Gitschberg Relais
 wordpress_id: 843
-categories:
+tags:
 - Allgemein
 ---
 

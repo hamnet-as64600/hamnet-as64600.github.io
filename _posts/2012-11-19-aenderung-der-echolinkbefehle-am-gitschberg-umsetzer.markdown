@@ -7,7 +7,7 @@ link: https://drc.bz/aenderung-der-echolinkbefehle-am-gitschberg-umsetzer/
 slug: aenderung-der-echolinkbefehle-am-gitschberg-umsetzer
 title: Aenderung der Echolinkbefehle am Gitschberg Umsetzer.
 wordpress_id: 5782
-categories:
+tags:
 - Echolink
 - Umsetzer Gitschberg
 ---

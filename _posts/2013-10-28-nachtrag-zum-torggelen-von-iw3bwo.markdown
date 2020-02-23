@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-torggelen-von-iw3bwo/
 slug: nachtrag-zum-torggelen-von-iw3bwo
 title: Nachtrag zum Törggelen von IW3BWO
 wordpress_id: 7574
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/einen-oldtimer-wiederbelebt-von-christian-dl1mcg/
 slug: einen-oldtimer-wiederbelebt-von-christian-dl1mcg
 title: Einen Oldtimer wiederbelebt (von Christian, DL1MCG)
 wordpress_id: 15393
-categories:
+tags:
 - Bastelecke
 ---
 

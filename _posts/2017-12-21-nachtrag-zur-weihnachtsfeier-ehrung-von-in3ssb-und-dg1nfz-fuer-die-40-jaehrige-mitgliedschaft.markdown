@@ -8,7 +8,7 @@ slug: nachtrag-zur-weihnachtsfeier-ehrung-von-in3ssb-und-dg1nfz-fuer-die-40-jaeh
 title: 'Nachtrag zur Weihnachtsfeier: Ehrung von IN3SSB und DG1NFZ für die 40 jährige
   Mitgliedschaft'
 wordpress_id: 15136
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

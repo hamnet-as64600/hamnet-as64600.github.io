@@ -7,7 +7,7 @@ link: https://drc.bz/dstar-gantkofel-uebermittelt-nun-auch-gps/
 slug: dstar-gantkofel-uebermittelt-nun-auch-gps
 title: DSTAR Gantkofel übermittelt nun auch GPS
 wordpress_id: 10857
-categories:
+tags:
 - D-STAR
 - Umsetzer Gantkofel
 ---

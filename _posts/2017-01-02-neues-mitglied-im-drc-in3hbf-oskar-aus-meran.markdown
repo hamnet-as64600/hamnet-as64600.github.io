@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3hbf-oskar-aus-meran/
 slug: neues-mitglied-im-drc-in3hbf-oskar-aus-meran
 title: 'Neues Mitglied im DRC: IN3HBF Oskar aus Meran'
 wordpress_id: 13494
-categories:
+tags:
 - Neue Mitglieder
 ---
 

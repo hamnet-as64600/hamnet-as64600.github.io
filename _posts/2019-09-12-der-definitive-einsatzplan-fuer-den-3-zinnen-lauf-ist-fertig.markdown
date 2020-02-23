@@ -7,7 +7,7 @@ link: https://drc.bz/der-definitive-einsatzplan-fuer-den-3-zinnen-lauf-ist-ferti
 slug: der-definitive-einsatzplan-fuer-den-3-zinnen-lauf-ist-fertig
 title: Der definitive Einsatzplan für den 3 Zinnen Lauf ist fertig.
 wordpress_id: 18780
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

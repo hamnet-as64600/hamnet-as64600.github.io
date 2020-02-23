@@ -7,7 +7,7 @@ link: https://drc.bz/14-convention-digital-radio-communication/
 slug: 14-convention-digital-radio-communication
 title: 14. Convention Digital & Radio Communication
 wordpress_id: 5457
-categories:
+tags:
 - Kurse
 ---
 

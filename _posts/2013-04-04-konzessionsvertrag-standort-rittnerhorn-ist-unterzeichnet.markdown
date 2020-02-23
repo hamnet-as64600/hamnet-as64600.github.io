@@ -7,7 +7,7 @@ link: https://drc.bz/konzessionsvertrag-standort-rittnerhorn-ist-unterzeichnet/
 slug: konzessionsvertrag-standort-rittnerhorn-ist-unterzeichnet
 title: Konzessionsvertrag Standort Rittnerhorn ist unterzeichnet
 wordpress_id: 6197
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

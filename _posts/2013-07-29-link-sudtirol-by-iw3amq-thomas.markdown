@@ -7,7 +7,7 @@ link: https://drc.bz/link-sudtirol-by-iw3amq-thomas/
 slug: link-sudtirol-by-iw3amq-thomas
 title: '"Link Südtirol" by IW3AMQ Thomas'
 wordpress_id: 6735
-categories:
+tags:
 - Link Suedtirol
 ---
 

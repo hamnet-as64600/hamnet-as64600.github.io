@@ -7,7 +7,7 @@ link: https://drc.bz/zusatzlicher-beitrag-von-stadtgemeinde-bruneck/
 slug: zusatzlicher-beitrag-von-stadtgemeinde-bruneck
 title: Zusätzlicher Beitrag von Stadtgemeinde Bruneck
 wordpress_id: 7529
-categories:
+tags:
 - Clublokal
 ---
 

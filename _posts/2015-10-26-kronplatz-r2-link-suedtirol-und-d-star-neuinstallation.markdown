@@ -7,7 +7,7 @@ link: https://drc.bz/kronplatz-r2-link-suedtirol-und-d-star-neuinstallation/
 slug: kronplatz-r2-link-suedtirol-und-d-star-neuinstallation
 title: Kronplatz R2, Link Südtirol und D-Star - Neuinstallation
 wordpress_id: 10990
-categories:
+tags:
 - D-STAR
 - Link Suedtirol
 - Umsetzer Kronplatz

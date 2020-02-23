@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dl4los-lorenz/
 slug: neues-mitglied-im-drc-dl4los-lorenz
 title: 'Neues Mitglied im DRC: DL4LOS Lorenz'
 wordpress_id: 14282
-categories:
+tags:
 - Neue Mitglieder
 ---
 

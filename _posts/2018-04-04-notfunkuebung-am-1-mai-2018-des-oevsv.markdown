@@ -7,7 +7,7 @@ link: https://drc.bz/notfunkuebung-am-1-mai-2018-des-oevsv/
 slug: notfunkuebung-am-1-mai-2018-des-oevsv
 title: Notfunkübung am 1.Mai 2018 des OEVSV
 wordpress_id: 16208
-categories:
+tags:
 - Funkübung
 ---
 

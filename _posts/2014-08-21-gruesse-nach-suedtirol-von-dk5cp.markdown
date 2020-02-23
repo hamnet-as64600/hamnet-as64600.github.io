@@ -7,7 +7,7 @@ link: https://drc.bz/gruesse-nach-suedtirol-von-dk5cp/
 slug: gruesse-nach-suedtirol-von-dk5cp
 title: Grüsse nach Südtirol von DK5CP
 wordpress_id: 8933
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

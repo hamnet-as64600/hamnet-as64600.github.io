@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-vom-fieldday-am-tschaufen-von-dl4ttb-und-dl1mcg/
 slug: bericht-vom-fieldday-am-tschaufen-von-dl4ttb-und-dl1mcg
 title: Bericht vom Fieldday am Tschaufen von DL4TTB und DL1MCG
 wordpress_id: 10650
-categories:
+tags:
 - Fieldday
 ---
 

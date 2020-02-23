@@ -7,7 +7,7 @@ link: https://drc.bz/der-qsl-dienst-tritt-in-kraft/
 slug: der-qsl-dienst-tritt-in-kraft
 title: Der QSL Dienst ist in Kraft getreten.
 wordpress_id: 4137
-categories:
+tags:
 - Allgemein
 ---
 

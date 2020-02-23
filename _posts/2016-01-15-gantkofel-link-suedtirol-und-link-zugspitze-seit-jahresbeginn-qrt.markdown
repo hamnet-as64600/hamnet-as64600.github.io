@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-link-suedtirol-und-link-zugspitze-seit-jahresbegi
 slug: gantkofel-link-suedtirol-und-link-zugspitze-seit-jahresbeginn-qrt
 title: Gantkofel Link Südtirol und Link Zugspitze seit Jahresbeginn QRT
 wordpress_id: 11425
-categories:
+tags:
 - Bastelecke
 - Link Suedtirol
 - Umsetzer Gantkofel

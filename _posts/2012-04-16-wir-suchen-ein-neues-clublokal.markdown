@@ -7,7 +7,7 @@ link: https://drc.bz/wir-suchen-ein-neues-clublokal/
 slug: wir-suchen-ein-neues-clublokal
 title: Wir suchen ein neues Clublokal!
 wordpress_id: 4490
-categories:
+tags:
 - Clublokal
 ---
 

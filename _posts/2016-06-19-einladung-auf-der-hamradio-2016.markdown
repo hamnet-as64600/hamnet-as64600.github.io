@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-auf-der-hamradio-2016/
 slug: einladung-auf-der-hamradio-2016
 title: Einladung auf der Hamradio 2016.
 wordpress_id: 12379
-categories:
+tags:
 - Allgemein
 ---
 

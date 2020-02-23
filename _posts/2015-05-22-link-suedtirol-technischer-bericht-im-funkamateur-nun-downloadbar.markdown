@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-technischer-bericht-im-funkamateur-nun-downl
 slug: link-suedtirol-technischer-bericht-im-funkamateur-nun-downloadbar
 title: Link Südtirol - Technischer Bericht im "Funkamateur" nun downloadbar
 wordpress_id: 10484
-categories:
+tags:
 - Link Suedtirol
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3ray-michael/
 slug: neues-mitglied-im-drc-in3ray-michael
 title: 'Neues Mitglied im DRC: IN3RAY Michael'
 wordpress_id: 3354
-categories:
+tags:
 - Neue Mitglieder
 ---
 

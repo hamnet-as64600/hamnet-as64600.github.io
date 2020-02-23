@@ -7,7 +7,7 @@ link: https://drc.bz/prompte-vorbereitungen-fuer-die-uebersiedelung-rittnerhorn/
 slug: prompte-vorbereitungen-fuer-die-uebersiedelung-rittnerhorn
 title: Prompte Vorbereitungen für die Übersiedelung Rittnerhorn
 wordpress_id: 8576
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

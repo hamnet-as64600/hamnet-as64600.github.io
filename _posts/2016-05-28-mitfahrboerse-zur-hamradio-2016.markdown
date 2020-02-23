@@ -7,7 +7,7 @@ link: https://drc.bz/mitfahrboerse-zur-hamradio-2016/
 slug: mitfahrboerse-zur-hamradio-2016
 title: Mitfahrbörse zur Hamradio vom 24 - 26 Juni 2016
 wordpress_id: 12261
-categories:
+tags:
 - Allgemein
 ---
 

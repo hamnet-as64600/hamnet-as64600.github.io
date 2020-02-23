@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunktagung-muenchen-am-12-und-13-maerz-2016/
 slug: amateurfunktagung-muenchen-am-12-und-13-maerz-2016
 title: Amateurfunktagung München am 12. und 13. März 2016
 wordpress_id: 11460
-categories:
+tags:
 - Allgemein
 - Murnau
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/optoelektronische-oszillatoren-aktuelle-und-aufstrebende-tr
 slug: optoelektronische-oszillatoren-aktuelle-und-aufstrebende-trends
 title: 'Optoelektronische Oszillatoren: Aktuelle und aufstrebende Trends'
 wordpress_id: 17168
-categories:
+tags:
 - Bastelecke
 - Hochfrequenz
 ---

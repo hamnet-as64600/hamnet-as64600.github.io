@@ -7,7 +7,7 @@ link: https://drc.bz/reise-nach-gm-schottland/
 slug: reise-nach-gm-schottland
 title: Reise nach GM (Schottland)
 wordpress_id: 6774
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

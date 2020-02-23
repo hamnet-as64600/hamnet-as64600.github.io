@@ -7,7 +7,7 @@ link: https://drc.bz/kurzfilm-vom-fieldday-2018-am-tschaufen/
 slug: kurzfilm-vom-fieldday-2018-am-tschaufen
 title: Kurzfilm vom Fieldday 2018 am Tschaufen.
 wordpress_id: 16886
-categories:
+tags:
 - Allgemein
 - Feiern und Unterhaltung
 - Fieldday

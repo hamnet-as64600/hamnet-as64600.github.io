@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliedsbeitrag-einzahlungen/
 slug: mitgliedsbeitrag-einzahlungen
 title: Mitgliedsbeitrag Einzahlungen
 wordpress_id: 1080
-categories:
+tags:
 - Allgemein
 ---
 

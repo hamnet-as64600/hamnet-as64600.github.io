@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-oe7agt-gottfried/
 slug: neues-mitglied-im-drc-oe7agt-gottfried
 title: 'Neues Mitglied im DRC: OE7AGT Gottfried'
 wordpress_id: 14631
-categories:
+tags:
 - Neue Mitglieder
 ---
 

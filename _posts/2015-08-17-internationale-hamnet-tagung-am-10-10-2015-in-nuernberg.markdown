@@ -7,7 +7,7 @@ link: https://drc.bz/internationale-hamnet-tagung-am-10-10-2015-in-nuernberg/
 slug: internationale-hamnet-tagung-am-10-10-2015-in-nuernberg
 title: Internationale Hamnet Tagung am 10.10.2015 in Nürnberg
 wordpress_id: 10756
-categories:
+tags:
 - HamNet
 ---
 

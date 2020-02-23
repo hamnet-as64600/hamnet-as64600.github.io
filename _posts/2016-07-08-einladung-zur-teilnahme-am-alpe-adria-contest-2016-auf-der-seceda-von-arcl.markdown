@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-teilnahme-am-alpe-adria-contest-2016-auf-der-
 slug: einladung-zur-teilnahme-am-alpe-adria-contest-2016-auf-der-seceda-von-arcl
 title: Einladung zur Teilnahme am Alpe Adria Contest 2016 auf der Seceda von ARCL.
 wordpress_id: 12441
-categories:
+tags:
 - ARCL
 ---
 

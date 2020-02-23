@@ -7,7 +7,7 @@ link: https://drc.bz/einsatz-rittnerhorn-ir3uhf/
 slug: einsatz-rittnerhorn-ir3uhf
 title: Einsatz Rittnerhorn IR3UHF
 wordpress_id: 12621
-categories:
+tags:
 - HamNet
 - Umsetzer Rittner Horn
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3fqq-simon/
 slug: neues-mitglied-im-drc-in3fqq-simon
 title: 'Neues Mitglied im DRC: IN3FQQ, Simon'
 wordpress_id: 10917
-categories:
+tags:
 - Neue Mitglieder
 ---
 

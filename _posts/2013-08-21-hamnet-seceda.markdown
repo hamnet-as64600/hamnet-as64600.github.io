@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-seceda/
 slug: hamnet-seceda
 title: Hamnet Seceda
 wordpress_id: 6948
-categories:
+tags:
 - HamNet
 - Umsetzer Seceda
 ---

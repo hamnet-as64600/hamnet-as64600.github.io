@@ -7,7 +7,7 @@ link: https://drc.bz/cisar-hat-italienische-funkamateure-auf-der-hamradio-2011-v
 slug: cisar-hat-italienische-funkamateure-auf-der-hamradio-2011-vertreten
 title: CISAR hat italienische Funkamateure auf der Hamradio 2011 vertreten
 wordpress_id: 3359
-categories:
+tags:
 - Allgemein
 ---
 

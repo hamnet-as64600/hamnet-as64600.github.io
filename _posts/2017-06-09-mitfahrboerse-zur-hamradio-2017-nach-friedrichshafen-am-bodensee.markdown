@@ -7,7 +7,7 @@ link: https://drc.bz/mitfahrboerse-zur-hamradio-2017-nach-friedrichshafen-am-bod
 slug: mitfahrboerse-zur-hamradio-2017-nach-friedrichshafen-am-bodensee
 title: Mitfahrbörse zur Hamradio 2017 nach Friedrichshafen am Bodensee.
 wordpress_id: 14384
-categories:
+tags:
 - Allgemein
 ---
 

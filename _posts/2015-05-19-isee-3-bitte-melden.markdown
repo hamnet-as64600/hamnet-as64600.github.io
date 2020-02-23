@@ -7,7 +7,7 @@ link: https://drc.bz/isee-3-bitte-melden/
 slug: isee-3-bitte-melden
 title: „ISEE-3 bitte melden!"
 wordpress_id: 10470
-categories:
+tags:
 - Allgemein
 ---
 

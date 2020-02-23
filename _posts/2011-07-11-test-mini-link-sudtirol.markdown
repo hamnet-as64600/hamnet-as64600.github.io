@@ -7,7 +7,7 @@ link: https://drc.bz/test-mini-link-sudtirol/
 slug: test-mini-link-sudtirol
 title: TEST "Mini Link Südtirol"
 wordpress_id: 3370
-categories:
+tags:
 - Umsetzer Gantkofel
 - Umsetzer Gitschberg
 ---

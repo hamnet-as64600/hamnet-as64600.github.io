@@ -7,7 +7,7 @@ link: https://drc.bz/drc-autoaufkleber/
 slug: drc-autoaufkleber
 title: DRC - Autoaufkleber
 wordpress_id: 13267
-categories:
+tags:
 - Allgemein
 ---
 

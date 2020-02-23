@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3bao-franz-sorio/
 slug: silent-key-in3bao-franz-sorio
 title: 'Silent key: IN3BAO Franz Sorio'
 wordpress_id: 1277
-categories:
+tags:
 - Silent key
 ---
 

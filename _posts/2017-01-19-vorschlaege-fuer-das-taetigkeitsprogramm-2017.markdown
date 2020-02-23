@@ -7,7 +7,7 @@ link: https://drc.bz/vorschlaege-fuer-das-taetigkeitsprogramm-2017/
 slug: vorschlaege-fuer-das-taetigkeitsprogramm-2017
 title: Vorschläge für das Tätigkeitsprogramm 2017
 wordpress_id: 13603
-categories:
+tags:
 - Allgemein
 ---
 

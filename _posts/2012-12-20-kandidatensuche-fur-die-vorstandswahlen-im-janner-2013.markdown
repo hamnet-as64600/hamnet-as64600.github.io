@@ -7,7 +7,7 @@ link: https://drc.bz/kandidatensuche-fur-die-vorstandswahlen-im-janner-2013/
 slug: kandidatensuche-fur-die-vorstandswahlen-im-janner-2013
 title: Kandidatensuche für die Vorstandswahlen im Jänner 2013
 wordpress_id: 5890
-categories:
+tags:
 - Allgemein
 ---
 

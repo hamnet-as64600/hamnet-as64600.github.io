@@ -7,7 +7,7 @@ link: https://drc.bz/finanzieller-beitrag-von-der-raika-bruneck/
 slug: finanzieller-beitrag-von-der-raika-bruneck
 title: Finanzieller Beitrag von der RAIKA Bruneck
 wordpress_id: 10865
-categories:
+tags:
 - Allgemein
 ---
 

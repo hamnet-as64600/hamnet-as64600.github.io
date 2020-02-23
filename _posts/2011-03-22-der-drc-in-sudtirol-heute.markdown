@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-in-sudtirol-heute/
 slug: der-drc-in-sudtirol-heute
 title: Der Dolomites Radio Club in "Südtirol Heute"
 wordpress_id: 2820
-categories:
+tags:
 - Allgemein
 ---
 

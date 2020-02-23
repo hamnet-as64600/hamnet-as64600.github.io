@@ -7,7 +7,7 @@ link: https://drc.bz/ich-uber-mich-in3biy-gino/
 slug: ich-uber-mich-in3biy-gino
 title: 'Ich über mich: IN3BIY Gino'
 wordpress_id: 5561
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-ueber-notfunk-am-staffelsee-bayern/
 slug: vortrag-ueber-notfunk-am-staffelsee-bayern
 title: Vortrag über Notfunk am Staffelsee (Bayern)
 wordpress_id: 11508
-categories:
+tags:
 - DRC Aussenstelle Nord
 - Notfunk
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/blitzschutz-im-amateurfunk/
 slug: blitzschutz-im-amateurfunk
 title: Blitzschutz im Amateurfunk - Version 5
 wordpress_id: 2981
-categories:
+tags:
 - Allgemein
 ---
 

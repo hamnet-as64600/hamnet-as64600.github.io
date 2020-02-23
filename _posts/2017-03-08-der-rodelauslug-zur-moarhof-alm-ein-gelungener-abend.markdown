@@ -7,7 +7,7 @@ link: https://drc.bz/der-rodelauslug-zur-moarhof-alm-ein-gelungener-abend/
 slug: der-rodelauslug-zur-moarhof-alm-ein-gelungener-abend
 title: Der Rodelauslug zur Moarhof Alm, ein gelungener Abend.
 wordpress_id: 13845
-categories:
+tags:
 - Ausflüge
 ---
 

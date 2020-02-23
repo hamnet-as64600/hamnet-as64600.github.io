@@ -7,7 +7,7 @@ link: https://drc.bz/jahreshauptversammlung-und-neuwahlen-2010-des-drc-und-der-a
 slug: jahreshauptversammlung-und-neuwahlen-2010-des-drc-und-der-ari-sektion-bruneck
 title: Jahreshauptversammlung und Neuwahlen 2010 des DRC
 wordpress_id: 310
-categories:
+tags:
 - Allgemein
 ---
 

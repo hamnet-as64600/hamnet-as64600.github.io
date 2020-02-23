@@ -7,7 +7,7 @@ link: https://drc.bz/discord-neuer-drc-messenger-geht-in-betrieb/
 slug: discord-neuer-drc-messenger-geht-in-betrieb
 title: 'Discord: Neuer DRC-Messenger geht in Betrieb'
 wordpress_id: 15410
-categories:
+tags:
 - Allgemein
 ---
 

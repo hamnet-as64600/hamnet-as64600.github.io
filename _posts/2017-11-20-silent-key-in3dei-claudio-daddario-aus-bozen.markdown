@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3dei-claudio-daddario-aus-bozen/
 slug: silent-key-in3dei-claudio-daddario-aus-bozen
 title: 'Silent key: IN3DEI - Claudio Daddario aus Bozen.'
 wordpress_id: 14992
-categories:
+tags:
 - Allgemein
 - Silent key
 ---

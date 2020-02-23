@@ -7,7 +7,7 @@ link: https://drc.bz/neue-antenne-auf-dem-dach-des-clublokals/
 slug: neue-antenne-auf-dem-dach-des-clublokals
 title: Neue Antenne auf dem Dach des Clublokals
 wordpress_id: 983
-categories:
+tags:
 - Allgemein
 ---
 

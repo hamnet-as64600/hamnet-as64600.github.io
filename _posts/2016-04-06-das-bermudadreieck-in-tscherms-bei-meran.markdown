@@ -7,7 +7,7 @@ link: https://drc.bz/das-bermudadreieck-in-tscherms-bei-meran/
 slug: das-bermudadreieck-in-tscherms-bei-meran
 title: Das "Bermudadreieck" in Tscherms bei Meran
 wordpress_id: 11891
-categories:
+tags:
 - Allgemein
 ---
 

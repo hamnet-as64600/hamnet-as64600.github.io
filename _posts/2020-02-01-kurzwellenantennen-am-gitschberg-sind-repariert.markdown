@@ -7,7 +7,7 @@ link: https://drc.bz/kurzwellenantennen-am-gitschberg-sind-repariert/
 slug: kurzwellenantennen-am-gitschberg-sind-repariert
 title: Kurzwellenantennen am Gitschberg sind repariert.
 wordpress_id: 19188
-categories:
+tags:
 - Allgemein
 ---
 

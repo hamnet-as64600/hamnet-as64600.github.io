@@ -7,7 +7,7 @@ link: https://drc.bz/praesentation-ueber-elektrisch-kurze-antennen-etwas-fuer-ne
 slug: praesentation-ueber-elektrisch-kurze-antennen-etwas-fuer-neugierige
 title: Präsentation über elektrisch kurze Antennen (etwas für Neugierige).
 wordpress_id: 15009
-categories:
+tags:
 - Antennen
 - Bastelecke
 ---

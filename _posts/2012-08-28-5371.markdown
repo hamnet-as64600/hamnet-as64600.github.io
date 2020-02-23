@@ -7,7 +7,7 @@ link: https://drc.bz/5371/
 slug: '5371'
 title: APRS I-Gate "Suedtirol Ost" in Betrieb genommen
 wordpress_id: 5371
-categories:
+tags:
 - APRS
 ---
 

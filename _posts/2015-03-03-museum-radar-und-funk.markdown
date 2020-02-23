@@ -7,7 +7,7 @@ link: https://drc.bz/museum-radar-und-funk/
 slug: museum-radar-und-funk
 title: Museum "Radar und Funk"
 wordpress_id: 10161
-categories:
+tags:
 - Murnau
 ---
 

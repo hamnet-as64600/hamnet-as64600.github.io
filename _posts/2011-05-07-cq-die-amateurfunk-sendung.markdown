@@ -7,7 +7,7 @@ link: https://drc.bz/cq-die-amateurfunk-sendung/
 slug: cq-die-amateurfunk-sendung
 title: CQ-Die Amateurfunk Sendung
 wordpress_id: 3092
-categories:
+tags:
 - Allgemein
 ---
 

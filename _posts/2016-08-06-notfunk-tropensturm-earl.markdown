@@ -7,7 +7,7 @@ link: https://drc.bz/notfunk-tropensturm-earl/
 slug: notfunk-tropensturm-earl
 title: 'Notfunk: Tropensturm "Earl"'
 wordpress_id: 12713
-categories:
+tags:
 - Notfunk
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/news-aus-murnau-arbeiten-auf-dem-wank/
 slug: news-aus-murnau-arbeiten-auf-dem-wank
 title: 'News aus Murnau: Arbeiten auf dem Wank'
 wordpress_id: 9634
-categories:
+tags:
 - DRC Aussenstelle Nord
 ---
 

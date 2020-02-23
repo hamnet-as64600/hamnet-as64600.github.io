@@ -7,7 +7,7 @@ link: https://drc.bz/rodelausflug-zur-moarhof-alm-im-pustertal-am-dienstag-den-0
 slug: rodelausflug-zur-moarhof-alm-im-pustertal-am-dienstag-den-07-03-2017
 title: Rodelausflug zur Moarhof Alm im Pustertal am Dienstag, den 07.03.2017
 wordpress_id: 13822
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

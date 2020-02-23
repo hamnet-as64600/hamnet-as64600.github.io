@@ -7,7 +7,7 @@ link: https://drc.bz/bilder-rittnerhorn-von-iw3bbi-robert/
 slug: bilder-rittnerhorn-von-iw3bbi-robert
 title: Bilder Rittnerhorn von IW3BBI Robert
 wordpress_id: 8119
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/so-wars-bei-der-weihnachtsfeier-2014/
 slug: so-wars-bei-der-weihnachtsfeier-2014
 title: So war's bei der Weihnachtsfeier 2014
 wordpress_id: 9845
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

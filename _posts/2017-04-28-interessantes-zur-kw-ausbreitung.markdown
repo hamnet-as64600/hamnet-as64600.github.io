@@ -7,7 +7,7 @@ link: https://drc.bz/interessantes-zur-kw-ausbreitung/
 slug: interessantes-zur-kw-ausbreitung
 title: Interessantes zur KW-Ausbreitung
 wordpress_id: 14041
-categories:
+tags:
 - Allgemein
 ---
 

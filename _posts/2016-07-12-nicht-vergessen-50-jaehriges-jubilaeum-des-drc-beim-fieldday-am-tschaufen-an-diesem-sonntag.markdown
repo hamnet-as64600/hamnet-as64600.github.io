@@ -8,7 +8,7 @@ slug: nicht-vergessen-50-jaehriges-jubilaeum-des-drc-beim-fieldday-am-tschaufen-
 title: 'Nicht vergessen: 50 jähriges Jubiläum des DRC beim Fieldday am Tschaufen an
   diesem Sonntag.'
 wordpress_id: 12493
-categories:
+tags:
 - 50 Jahre DRC
 - Fieldday
 ---

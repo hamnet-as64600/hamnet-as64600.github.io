@@ -7,7 +7,7 @@ link: https://drc.bz/nachricht-an-die-helfer-des-3-zinnen-laufes-2017/
 slug: nachricht-an-die-helfer-des-3-zinnen-laufes-2017
 title: Nachricht an die Helfer des 3 Zinnen Laufes 2017
 wordpress_id: 14726
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

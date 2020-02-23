@@ -7,7 +7,7 @@ link: https://drc.bz/verbesserungsarbeiten-am-umsetzer-piz-chavalatsch/
 slug: verbesserungsarbeiten-am-umsetzer-piz-chavalatsch
 title: Verbesserungsarbeiten am Umsetzer Piz Chavalatsch
 wordpress_id: 3746
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtsfeier-2019-im-clublokal-in-bruneck/
 slug: weihnachtsfeier-2019-im-clublokal-in-bruneck
 title: Weihnachtsfeier 2019 im Clublokal in Bruneck
 wordpress_id: 18900
-categories:
+tags:
 - Allgemein
 - Feiern und Unterhaltung
 ---

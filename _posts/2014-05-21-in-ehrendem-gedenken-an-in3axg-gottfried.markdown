@@ -7,7 +7,7 @@ link: https://drc.bz/in-ehrendem-gedenken-an-in3axg-gottfried/
 slug: in-ehrendem-gedenken-an-in3axg-gottfried
 title: In ehrendem Gedenken an IN3AXG Gottfried
 wordpress_id: 8404
-categories:
+tags:
 - Silent key
 ---
 

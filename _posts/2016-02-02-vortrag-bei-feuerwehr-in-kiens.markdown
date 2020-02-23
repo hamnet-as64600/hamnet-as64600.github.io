@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-bei-feuerwehr-in-kiens/
 slug: vortrag-bei-feuerwehr-in-kiens
 title: Vortrag bei Feuerwehr in Kiens
 wordpress_id: 11496
-categories:
+tags:
 - Allgemein
 ---
 

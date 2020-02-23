@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-ueber-ogn-open-glider-netwerk-beim-ov-abend/
 slug: vortrag-ueber-ogn-open-glider-netwerk-beim-ov-abend
 title: Vortrag über OGN (Open Glider Netwerk) beim OV Abend.
 wordpress_id: 11608
-categories:
+tags:
 - Clublokal
 ---
 

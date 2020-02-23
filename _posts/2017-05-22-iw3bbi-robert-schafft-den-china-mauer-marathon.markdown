@@ -7,7 +7,7 @@ link: https://drc.bz/iw3bbi-robert-schafft-den-china-mauer-marathon/
 slug: iw3bbi-robert-schafft-den-china-mauer-marathon
 title: IW3BBI Robert schafft den "China Mauer Marathon"!
 wordpress_id: 14256
-categories:
+tags:
 - Allgemein
 ---
 

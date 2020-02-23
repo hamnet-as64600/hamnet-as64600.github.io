@@ -7,7 +7,7 @@ link: https://drc.bz/anderung-subaudioton-link-sudtirol-kronplatz/
 slug: anderung-subaudioton-link-sudtirol-kronplatz
 title: Änderung Subaudioton Link Südtirol – Kronplatz
 wordpress_id: 7570
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Kronplatz
 ---

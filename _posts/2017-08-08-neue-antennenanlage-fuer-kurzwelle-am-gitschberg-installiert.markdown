@@ -7,7 +7,7 @@ link: https://drc.bz/neue-antennenanlage-fuer-kurzwelle-am-gitschberg-installier
 slug: neue-antennenanlage-fuer-kurzwelle-am-gitschberg-installiert
 title: Neue Antennenanlage für Kurzwelle am Gitschberg installiert.
 wordpress_id: 14546
-categories:
+tags:
 - Ferngesteuerte Funkstation
 - Umsetzer Gitschberg
 ---

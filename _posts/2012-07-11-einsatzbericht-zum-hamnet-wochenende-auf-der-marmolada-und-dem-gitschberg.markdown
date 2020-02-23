@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzbericht-zum-hamnet-wochenende-auf-der-marmolada-und-
 slug: einsatzbericht-zum-hamnet-wochenende-auf-der-marmolada-und-dem-gitschberg
 title: Einsatzbericht zum Hamnet-Wochenende auf der Marmolada und dem Gitschberg
 wordpress_id: 4929
-categories:
+tags:
 - HamNet
 - Umsetzer Gitschberg
 ---

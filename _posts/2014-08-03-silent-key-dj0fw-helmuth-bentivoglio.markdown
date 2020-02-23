@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-dj0fw-helmuth-bentivoglio/
 slug: silent-key-dj0fw-helmuth-bentivoglio
 title: 'Silent key: DJ0FW, Helmuth Bentivoglio'
 wordpress_id: 8844
-categories:
+tags:
 - Silent key
 ---
 

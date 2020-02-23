@@ -7,7 +7,7 @@ link: https://drc.bz/svxlink-mit-einem-orange-pi-zero/
 slug: svxlink-mit-einem-orange-pi-zero
 title: Svxlink mit einem Orange Pi Zero
 wordpress_id: 16201
-categories:
+tags:
 - Bastelecke
 ---
 

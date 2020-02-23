@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhe-marlinger-berg-clublokal-meran-mit-zuverlaessiger-ha
 slug: ir3uhe-marlinger-berg-clublokal-meran-mit-zuverlaessiger-hamnetanbindung
 title: IR3UHE Marlinger Berg - Clublokal Meran mit zuverlässiger Hamnetanbindung
 wordpress_id: 13319
-categories:
+tags:
 - HamNet
 - Umsetzer Marlinger Berg
 ---

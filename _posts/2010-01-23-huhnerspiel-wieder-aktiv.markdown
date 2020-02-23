@@ -7,7 +7,7 @@ link: https://drc.bz/huhnerspiel-wieder-aktiv/
 slug: huhnerspiel-wieder-aktiv
 title: Hühnerspiel wieder aktiv
 wordpress_id: 682
-categories:
+tags:
 - Umsetzer Hühnerspiel
 ---
 

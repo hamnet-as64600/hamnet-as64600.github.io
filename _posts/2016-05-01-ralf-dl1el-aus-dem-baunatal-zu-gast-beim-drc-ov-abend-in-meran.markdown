@@ -7,7 +7,7 @@ link: https://drc.bz/ralf-dl1el-aus-dem-baunatal-zu-gast-beim-drc-ov-abend-in-me
 slug: ralf-dl1el-aus-dem-baunatal-zu-gast-beim-drc-ov-abend-in-meran
 title: Ralf DL1EL aus Baunatal zu Gast beim DRC OV-Abend in Meran
 wordpress_id: 12110
-categories:
+tags:
 - Allgemein
 ---
 

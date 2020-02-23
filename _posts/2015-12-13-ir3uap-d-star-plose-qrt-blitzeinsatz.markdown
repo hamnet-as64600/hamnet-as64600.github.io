@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uap-d-star-plose-qrt-blitzeinsatz/
 slug: ir3uap-d-star-plose-qrt-blitzeinsatz
 title: IR3UAP - D-Star Plose QRT => Blitzeinsatz
 wordpress_id: 11282
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

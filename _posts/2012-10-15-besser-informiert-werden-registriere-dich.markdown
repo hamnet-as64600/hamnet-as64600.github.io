@@ -7,7 +7,7 @@ link: https://drc.bz/besser-informiert-werden-registriere-dich/
 slug: besser-informiert-werden-registriere-dich
 title: 'Besser informiert werden: Registriere dich!'
 wordpress_id: 5643
-categories:
+tags:
 - Allgemein
 ---
 

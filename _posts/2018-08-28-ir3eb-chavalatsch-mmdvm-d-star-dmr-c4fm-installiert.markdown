@@ -7,7 +7,7 @@ link: https://drc.bz/ir3eb-chavalatsch-mmdvm-d-star-dmr-c4fm-installiert/
 slug: ir3eb-chavalatsch-mmdvm-d-star-dmr-c4fm-installiert
 title: IR3EB Chavalatsch - MMDVM (D-Star, DMR, C4FM) installiert
 wordpress_id: 17122
-categories:
+tags:
 - D-STAR
 - DMR
 - Umsetzer Chavalatsch

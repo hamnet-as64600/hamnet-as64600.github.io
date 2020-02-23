@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-manager-in3adf-uberreicht-geschenk-an-hb9cql/
 slug: qsl-manager-in3adf-uberreicht-geschenk-an-hb9cql
 title: QSL Manager IN3ADF überreicht Geschenk an HB9CQL
 wordpress_id: 6571
-categories:
+tags:
 - QSL
 ---
 

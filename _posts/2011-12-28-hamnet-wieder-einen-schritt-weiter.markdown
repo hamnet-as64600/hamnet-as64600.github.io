@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-wieder-einen-schritt-weiter/
 slug: hamnet-wieder-einen-schritt-weiter
 title: 'Hamnet: wieder einen Schritt weiter.'
 wordpress_id: 4077
-categories:
+tags:
 - HamNet
 - Umsetzer Gitschberg
 - Umsetzer Seceda

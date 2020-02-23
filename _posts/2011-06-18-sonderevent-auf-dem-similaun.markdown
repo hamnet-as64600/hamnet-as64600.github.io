@@ -7,7 +7,7 @@ link: https://drc.bz/sonderevent-auf-dem-similaun/
 slug: sonderevent-auf-dem-similaun
 title: Sonderevent auf dem Similaun
 wordpress_id: 3312
-categories:
+tags:
 - SOTA
 ---
 

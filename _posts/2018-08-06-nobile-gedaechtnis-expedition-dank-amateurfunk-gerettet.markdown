@@ -7,7 +7,7 @@ link: https://drc.bz/nobile-gedaechtnis-expedition-dank-amateurfunk-gerettet/
 slug: nobile-gedaechtnis-expedition-dank-amateurfunk-gerettet
 title: Nobile-Gedächtnis-Expedition dank Amateurfunk gerettet
 wordpress_id: 16961
-categories:
+tags:
 - Allgemein
 - Notfunk
 ---

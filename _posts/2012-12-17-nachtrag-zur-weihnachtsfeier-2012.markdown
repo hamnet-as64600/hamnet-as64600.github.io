@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zur-weihnachtsfeier-2012/
 slug: nachtrag-zur-weihnachtsfeier-2012
 title: Nachtrag zur Weihnachtsfeier 2012
 wordpress_id: 5871
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

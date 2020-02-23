@@ -7,7 +7,7 @@ link: https://drc.bz/linksuedtirol-auf-svxlink-umgestellt/
 slug: linksuedtirol-auf-svxlink-umgestellt
 title: LinkSüdtirol auf SVXLink umgestellt
 wordpress_id: 14938
-categories:
+tags:
 - Allgemein
 - Echolink
 - Link Suedtirol

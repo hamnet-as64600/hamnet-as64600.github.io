@@ -8,7 +8,7 @@ slug: rainer-in3krh-mit-80-auf-die-3-zinnen-fernsehbericht-rai-suedtirol-heute-a
 title: Rainer IN3KRH - Mit 80 auf die 3 Zinnen - Fernsehbericht RAI Südtirol, heute
   abend 20:20 Uhr
 wordpress_id: 18491
-categories:
+tags:
 - Allgemein
 ---
 

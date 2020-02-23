@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-d-star-umsetzer-in-betrieb-gegangen/
 slug: neuer-d-star-umsetzer-in-betrieb-gegangen
 title: Neuer D-Star Umsetzer in Betrieb gegangen
 wordpress_id: 9690
-categories:
+tags:
 - D-STAR
 ---
 

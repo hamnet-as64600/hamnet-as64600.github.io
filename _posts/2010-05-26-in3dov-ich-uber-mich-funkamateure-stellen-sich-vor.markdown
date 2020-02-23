@@ -7,7 +7,7 @@ link: https://drc.bz/in3dov-ich-uber-mich-funkamateure-stellen-sich-vor/
 slug: in3dov-ich-uber-mich-funkamateure-stellen-sich-vor
 title: '"IN3DOV - Ich über mich -" - Funkamateure stellen sich vor'
 wordpress_id: 1319
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

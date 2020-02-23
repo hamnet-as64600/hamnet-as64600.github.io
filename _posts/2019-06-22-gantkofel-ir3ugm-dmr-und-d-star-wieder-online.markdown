@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-ir3ugm-dmr-und-d-star-wieder-online/
 slug: gantkofel-ir3ugm-dmr-und-d-star-wieder-online
 title: Gantkofel IR3UGM - DMR und D-Star wieder online!
 wordpress_id: 18419
-categories:
+tags:
 - D-STAR
 - DMR
 - Umsetzer Gantkofel

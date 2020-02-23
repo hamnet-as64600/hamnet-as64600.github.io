@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-einweihnung-der-station-in-saulgrub/
 slug: einladung-einweihnung-der-station-in-saulgrub
 title: Einladung Einweihnung der Station in Saulgrub
 wordpress_id: 10853
-categories:
+tags:
 - Murnau
 ---
 

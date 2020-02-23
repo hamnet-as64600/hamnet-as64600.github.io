@@ -7,7 +7,7 @@ link: https://drc.bz/kommunikationsinfrastrukturen-richtlinien-festgelegt/
 slug: kommunikationsinfrastrukturen-richtlinien-festgelegt
 title: 'Kommunikationsinfrastrukturen: Richtlinien festgelegt.'
 wordpress_id: 4771
-categories:
+tags:
 - Allgemein
 ---
 

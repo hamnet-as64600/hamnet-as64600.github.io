@@ -7,7 +7,7 @@ link: https://drc.bz/hoher-peissenberg-dbottb-10m-29610-mhz-fm-echolink-wieder-a
 slug: hoher-peissenberg-dbottb-10m-29610-mhz-fm-echolink-wieder-aktiv
 title: Hoher Peissenberg, DBØTTB 10m 29,610 MHz FM, Echolink wieder aktiv
 wordpress_id: 11341
-categories:
+tags:
 - Echolink
 - Murnau
 ---

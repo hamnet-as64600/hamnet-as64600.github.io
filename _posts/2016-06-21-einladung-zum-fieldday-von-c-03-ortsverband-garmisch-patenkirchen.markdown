@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zum-fieldday-von-c-03-ortsverband-garmisch-patenk
 slug: einladung-zum-fieldday-von-c-03-ortsverband-garmisch-patenkirchen
 title: Einladung zum Fieldday von C-03, Ortsverband Garmisch Patenkirchen
 wordpress_id: 12398
-categories:
+tags:
 - Murnau
 ---
 

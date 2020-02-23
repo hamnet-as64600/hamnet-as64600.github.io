@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-julian-in3ehs/
 slug: neues-mitglied-im-drc-julian-in3ehs
 title: 'Neues Mitglied im DRC: Julian IN3EHS'
 wordpress_id: 10581
-categories:
+tags:
 - Allgemein
 - Neue Mitglieder
 ---

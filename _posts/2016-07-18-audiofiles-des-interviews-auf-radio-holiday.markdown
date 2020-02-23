@@ -7,7 +7,7 @@ link: https://drc.bz/audiofiles-des-interviews-auf-radio-holiday/
 slug: audiofiles-des-interviews-auf-radio-holiday
 title: Audiofiles des Interviews auf Radio Holiday.
 wordpress_id: 12525
-categories:
+tags:
 - 50 Jahre DRC
 ---
 

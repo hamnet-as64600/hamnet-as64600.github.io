@@ -7,7 +7,7 @@ link: https://drc.bz/softshell-jacke-und-polo-fur-mitglieder/
 slug: softshell-jacke-und-polo-fur-mitglieder
 title: Softshell Jacke und Polo für Mitglieder
 wordpress_id: 2938
-categories:
+tags:
 - Allgemein
 ---
 

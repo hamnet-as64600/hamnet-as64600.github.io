@@ -7,7 +7,7 @@ link: https://drc.bz/kronplatz-vorbereitungsarbeiten-fuer-d-star-70-cm-und-echol
 slug: kronplatz-vorbereitungsarbeiten-fuer-d-star-70-cm-und-echolink-r2
 title: Kronplatz IR3DV - Vorbereitungsarbeiten für D-Star 70 cm und Echolink R2
 wordpress_id: 10528
-categories:
+tags:
 - D-STAR
 - Echolink
 - Umsetzer Kronplatz

@@ -7,7 +7,7 @@ link: https://drc.bz/zwei-neue-fotoalben-sind-im-archiv/
 slug: zwei-neue-fotoalben-sind-im-archiv
 title: Zwei neue Fotoalben sind im Archiv
 wordpress_id: 8495
-categories:
+tags:
 - Allgemein
 ---
 

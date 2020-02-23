@@ -7,7 +7,7 @@ link: https://drc.bz/webcam-kronplatz-ein-jahr-in-ein-einem-bild/
 slug: webcam-kronplatz-ein-jahr-in-ein-einem-bild
 title: 'Webcam Kronplatz: Ein Jahr in einem Bild!'
 wordpress_id: 11386
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

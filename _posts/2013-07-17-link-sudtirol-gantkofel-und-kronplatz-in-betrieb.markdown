@@ -7,7 +7,7 @@ link: https://drc.bz/link-sudtirol-gantkofel-und-kronplatz-in-betrieb/
 slug: link-sudtirol-gantkofel-und-kronplatz-in-betrieb
 title: '"Link Südtirol": Gantkofel und Kronplatz in Betrieb!'
 wordpress_id: 6630
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Kronplatz
 ---

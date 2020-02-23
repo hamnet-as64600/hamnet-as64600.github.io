@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-erster-feldtest-gelungen/
 slug: hamnet-erster-feldtest-gelungen
 title: Hamnet - Erster Feldtest gelungen
 wordpress_id: 3340
-categories:
+tags:
 - HamNet
 ---
 

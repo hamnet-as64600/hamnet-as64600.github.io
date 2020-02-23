@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-notfunk-kommunikation-pactor-rms-usw/
 slug: vortrag-notfunk-kommunikation-pactor-rms-usw
 title: Vortrag Notfunk Kommunikation (Pactor, RMS, usw.)
 wordpress_id: 10956
-categories:
+tags:
 - Notfunk
 ---
 

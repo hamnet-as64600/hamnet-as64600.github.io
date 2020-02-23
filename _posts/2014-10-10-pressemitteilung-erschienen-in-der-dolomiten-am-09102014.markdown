@@ -7,7 +7,7 @@ link: https://drc.bz/pressemitteilung-erschienen-in-der-dolomiten-am-09102014/
 slug: pressemitteilung-erschienen-in-der-dolomiten-am-09102014
 title: Pressemitteilung erschienen in der DOLOMITEN am 09/10/2014
 wordpress_id: 9337
-categories:
+tags:
 - Pubblic Relation
 - Umsetzer Rittner Horn
 ---

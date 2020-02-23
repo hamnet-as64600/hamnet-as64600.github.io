@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-dh1gy-erwin-schock/
 slug: silent-key-dh1gy-erwin-schock
 title: 'Silent key: DH1GY, Erwin Schock'
 wordpress_id: 8626
-categories:
+tags:
 - Silent key
 ---
 

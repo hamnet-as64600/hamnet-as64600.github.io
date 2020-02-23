@@ -7,7 +7,7 @@ link: https://drc.bz/ideenumfrage-50-jahre-drc/
 slug: ideenumfrage-50-jahre-drc
 title: 'Ideenumfrage: 50 Jahre DRC'
 wordpress_id: 11489
-categories:
+tags:
 - 50 Jahre DRC
 ---
 

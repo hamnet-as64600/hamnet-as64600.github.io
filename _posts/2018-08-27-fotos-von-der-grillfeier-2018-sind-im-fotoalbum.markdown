@@ -7,7 +7,7 @@ link: https://drc.bz/fotos-von-der-grillfeier-2018-sind-im-fotoalbum/
 slug: fotos-von-der-grillfeier-2018-sind-im-fotoalbum
 title: Fotos von der Grillfeier 2018 sind im Fotoalbum.
 wordpress_id: 17116
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

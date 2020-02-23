@@ -7,7 +7,7 @@ link: https://drc.bz/die-aktion-vereinsbekleidung-laeuft-wieder/
 slug: die-aktion-vereinsbekleidung-laeuft-wieder
 title: Die Aktion Vereinsbekleidung läuft wieder.
 wordpress_id: 8699
-categories:
+tags:
 - Vereinsbekleidung
 ---
 

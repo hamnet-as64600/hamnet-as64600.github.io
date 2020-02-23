@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uap-plose-telegraph-hat-neue-infrastruktur/
 slug: ir3uap-plose-telegraph-hat-neue-infrastruktur
 title: IR3UAP - Plose / Telegraph hat neue Infrastruktur
 wordpress_id: 14842
-categories:
+tags:
 - D-STAR
 - HamNet
 - Link Suedtirol

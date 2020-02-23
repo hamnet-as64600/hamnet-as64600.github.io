@@ -7,7 +7,7 @@ link: https://drc.bz/die-vorbereitungen-zum-drei-zinnen-run-laufen-auf-hochtoure
 slug: die-vorbereitungen-zum-drei-zinnen-run-laufen-auf-hochtouren
 title: Die Vorbereitungen zum DREI ZINNEN RUN laufen auf Hochtouren.
 wordpress_id: 10771
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

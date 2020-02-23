@@ -7,7 +7,7 @@ link: https://drc.bz/df3mi-kurt-gibt-die-leitung-der-suedtiroler-runde-ab/
 slug: df3mi-kurt-gibt-die-leitung-der-suedtiroler-runde-ab
 title: DF3MI, Kurt, gibt die Leitung der "Südtiroler Runde" ab.
 wordpress_id: 15226
-categories:
+tags:
 - Allgemein
 ---
 

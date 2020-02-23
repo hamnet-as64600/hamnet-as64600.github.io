@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-ir3ugm-gantkofel-online/
 slug: link-suedtirol-ir3ugm-gantkofel-online
 title: Link Südtirol IR3UGM Gantkofel online
 wordpress_id: 19183
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-einleitung-fuer-beginner/
 slug: d-star-einleitung-fuer-beginner
 title: D-Star Einleitung für Beginner
 wordpress_id: 14014
-categories:
+tags:
 - D-STAR
 ---
 

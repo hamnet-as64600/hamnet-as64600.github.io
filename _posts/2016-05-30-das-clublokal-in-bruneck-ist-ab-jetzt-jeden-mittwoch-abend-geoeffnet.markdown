@@ -7,7 +7,7 @@ link: https://drc.bz/das-clublokal-in-bruneck-ist-ab-jetzt-jeden-mittwoch-abend-
 slug: das-clublokal-in-bruneck-ist-ab-jetzt-jeden-mittwoch-abend-geoeffnet
 title: Das Clublokal in Bruneck ist ab jetzt jeden Mittwoch Abend geöffnet.
 wordpress_id: 12269
-categories:
+tags:
 - Clublokal
 ---
 

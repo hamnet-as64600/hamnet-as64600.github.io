@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3hvq-konrad-weithaler/
 slug: silent-key-in3hvq-konrad-weithaler
 title: 'Silent key: IN3HVQ Konrad Weithaler'
 wordpress_id: 7548
-categories:
+tags:
 - Silent key
 ---
 

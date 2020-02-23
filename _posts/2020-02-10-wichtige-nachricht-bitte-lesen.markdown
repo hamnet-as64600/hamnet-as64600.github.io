@@ -7,7 +7,7 @@ link: https://drc.bz/wichtige-nachricht-bitte-lesen/
 slug: wichtige-nachricht-bitte-lesen
 title: 'WICHTIGE NACHRICHT: Bitte lesen!!!!'
 wordpress_id: 19265
-categories:
+tags:
 - Allgemein
 ---
 

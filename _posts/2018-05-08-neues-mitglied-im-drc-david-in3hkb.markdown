@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-david-in3hkb/
 slug: neues-mitglied-im-drc-david-in3hkb
 title: 'Neues Mitglied im DRC: David, IN3HKB'
 wordpress_id: 16494
-categories:
+tags:
 - Neue Mitglieder
 ---
 

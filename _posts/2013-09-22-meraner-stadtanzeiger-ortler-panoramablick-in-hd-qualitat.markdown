@@ -7,7 +7,7 @@ link: https://drc.bz/meraner-stadtanzeiger-ortler-panoramablick-in-hd-qualitat/
 slug: meraner-stadtanzeiger-ortler-panoramablick-in-hd-qualitat
 title: 'Meraner Stadtanzeiger: Ortler-Panoramablick in HD-Qualität'
 wordpress_id: 7174
-categories:
+tags:
 - Allgemein
 - Cisar Suedtirol
 ---

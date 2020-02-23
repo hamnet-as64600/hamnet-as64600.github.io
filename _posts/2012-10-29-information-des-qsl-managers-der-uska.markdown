@@ -7,7 +7,7 @@ link: https://drc.bz/information-des-qsl-managers-der-uska/
 slug: information-des-qsl-managers-der-uska
 title: Information des QSL-Managers der USKA
 wordpress_id: 5701
-categories:
+tags:
 - QSL
 ---
 

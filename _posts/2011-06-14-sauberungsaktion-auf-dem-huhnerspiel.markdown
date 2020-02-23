@@ -7,7 +7,7 @@ link: https://drc.bz/sauberungsaktion-auf-dem-huhnerspiel/
 slug: sauberungsaktion-auf-dem-huhnerspiel
 title: Aufräumaktion auf dem Hühnerspiel
 wordpress_id: 3270
-categories:
+tags:
 - Umsetzer Hühnerspiel
 ---
 

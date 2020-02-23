@@ -7,7 +7,7 @@ link: https://drc.bz/30-minuten-sporadic-e-auf-144-mhz-ueber-europa/
 slug: 30-minuten-sporadic-e-auf-144-mhz-ueber-europa
 title: 30 Minuten Sporadic-E auf 144 MHz über Europa
 wordpress_id: 12210
-categories:
+tags:
 - Allgemein
 ---
 

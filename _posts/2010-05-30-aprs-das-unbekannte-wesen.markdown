@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-das-unbekannte-wesen/
 slug: aprs-das-unbekannte-wesen
 title: APRS – das unbekannte Wesen …
 wordpress_id: 1331
-categories:
+tags:
 - APRS
 ---
 

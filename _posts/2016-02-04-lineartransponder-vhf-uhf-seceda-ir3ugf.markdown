@@ -7,7 +7,7 @@ link: https://drc.bz/lineartransponder-vhf-uhf-seceda-ir3ugf/
 slug: lineartransponder-vhf-uhf-seceda-ir3ugf
 title: Lineartransponder VHF / UHF Seceda IR3UGF
 wordpress_id: 11530
-categories:
+tags:
 - ARCL
 - Umsetzer Seceda
 ---

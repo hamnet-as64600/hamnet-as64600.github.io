@@ -7,7 +7,7 @@ link: https://drc.bz/wer-moechte-moebel-vom-alten-clublokal/
 slug: wer-moechte-moebel-vom-alten-clublokal
 title: Wer moechte Moebel vom alten Clublokal?
 wordpress_id: 6169
-categories:
+tags:
 - Clublokal
 ---
 

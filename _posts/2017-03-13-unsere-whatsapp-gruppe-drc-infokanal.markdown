@@ -7,7 +7,7 @@ link: https://drc.bz/unsere-whatsapp-gruppe-drc-infokanal/
 slug: unsere-whatsapp-gruppe-drc-infokanal
 title: 'Unsere WhatsApp Gruppe: DRC - Infokanal'
 wordpress_id: 13876
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/4102/
 slug: '4102'
 title: Neue Mitglieder im DRC
 wordpress_id: 4102
-categories:
+tags:
 - Neue Mitglieder
 ---
 

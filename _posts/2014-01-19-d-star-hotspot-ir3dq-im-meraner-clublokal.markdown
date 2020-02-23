@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-hotspot-ir3dq-im-meraner-clublokal/
 slug: d-star-hotspot-ir3dq-im-meraner-clublokal
 title: D-Star Hotspot IR3DQ im Meraner Clublokal
 wordpress_id: 8028
-categories:
+tags:
 - Clublokal
 - D-STAR
 - HamNet

@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-torggelen-2011/
 slug: nachtrag-zum-torggelen-2011
 title: Nachtrag zum Törggelen 2011
 wordpress_id: 3859
-categories:
+tags:
 - Allgemein
 ---
 

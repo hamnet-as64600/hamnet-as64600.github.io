@@ -7,7 +7,7 @@ link: https://drc.bz/linksuedtirol-kronplatz-aenderung-subaudioton-auf-110-9hz/
 slug: linksuedtirol-kronplatz-aenderung-subaudioton-auf-110-9hz
 title: 'LinkSüdtirol Kronplatz: Änderung Subaudioton auf 110.9Hz'
 wordpress_id: 16754
-categories:
+tags:
 - Allgemein
 - Link Suedtirol
 - Umsetzer Kronplatz

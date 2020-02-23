@@ -7,7 +7,7 @@ link: https://drc.bz/clublokal-meran-hamnetanbindung-installiert/
 slug: clublokal-meran-hamnetanbindung-installiert
 title: Clublokal Meran - Hamnetanbindung installiert
 wordpress_id: 11580
-categories:
+tags:
 - Clublokal
 ---
 

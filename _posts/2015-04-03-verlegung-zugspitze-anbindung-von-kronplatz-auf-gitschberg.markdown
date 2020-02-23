@@ -7,7 +7,7 @@ link: https://drc.bz/verlegung-zugspitze-anbindung-von-kronplatz-auf-gitschberg/
 slug: verlegung-zugspitze-anbindung-von-kronplatz-auf-gitschberg
 title: Verlegung Zugspitze Anbindung von Kronplatz auf Gitschberg
 wordpress_id: 10299
-categories:
+tags:
 - Echolink
 - Umsetzer Gitschberg
 - Umsetzer Kronplatz

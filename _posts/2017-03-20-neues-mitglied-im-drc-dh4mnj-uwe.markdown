@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dh4mnj-uwe/
 slug: neues-mitglied-im-drc-dh4mnj-uwe
 title: 'Neues Mitglied im DRC: DH4MNJ Uwe'
 wordpress_id: 13887
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/helfer-fuer-einsatz-am-chavalatsch-gesucht/
 slug: helfer-fuer-einsatz-am-chavalatsch-gesucht
 title: Helfer für Einsatz am Chavalatsch gesucht
 wordpress_id: 14820
-categories:
+tags:
 - Allgemein
 - Umsetzer Chavalatsch
 ---

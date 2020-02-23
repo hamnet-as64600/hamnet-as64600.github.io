@@ -7,7 +7,7 @@ link: https://drc.bz/der-neue-vorstand-fur-2013-2015/
 slug: der-neue-vorstand-fur-2013-2015
 title: Der neue Vorstand für 2013-2015
 wordpress_id: 5999
-categories:
+tags:
 - Allgemein
 ---
 

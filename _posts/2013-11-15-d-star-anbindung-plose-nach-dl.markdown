@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-anbindung-plose-nach-dl/
 slug: d-star-anbindung-plose-nach-dl
 title: D-Star Anbindung aus DL an Plose
 wordpress_id: 7730
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

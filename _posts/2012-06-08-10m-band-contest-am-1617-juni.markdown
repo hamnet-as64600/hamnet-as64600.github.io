@@ -7,7 +7,7 @@ link: https://drc.bz/10m-band-contest-am-1617-juni/
 slug: 10m-band-contest-am-1617-juni
 title: 10m Band Contest am 16/17 Juni
 wordpress_id: 4767
-categories:
+tags:
 - Allgemein
 ---
 

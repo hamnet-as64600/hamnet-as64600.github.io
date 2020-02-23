@@ -7,7 +7,7 @@ link: https://drc.bz/alljaehrliches-treffen-der-nord-und-suedtiroler-funkamateur
 slug: alljaehrliches-treffen-der-nord-und-suedtiroler-funkamateure-am-pfitscherjoch
 title: Alljährliches Treffen der Nord- und Südtiroler Funkamateure am Pfitscherjoch.
 wordpress_id: 12675
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

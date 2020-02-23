@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-gitschberg-zur-12-auf-vordermann-gebracht/
 slug: hamnet-gitschberg-zur-12-auf-vordermann-gebracht
 title: Hamnet Gitschberg (zur 1/2) auf Vordermann gebracht!
 wordpress_id: 13058
-categories:
+tags:
 - HamNet
 - Umsetzer Gitschberg
 ---

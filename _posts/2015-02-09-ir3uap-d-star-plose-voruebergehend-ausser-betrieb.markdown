@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uap-d-star-plose-voruebergehend-ausser-betrieb/
 slug: ir3uap-d-star-plose-voruebergehend-ausser-betrieb
 title: IR3UAP D-Star Plose vorübergehend ausser Betrieb.
 wordpress_id: 10103
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

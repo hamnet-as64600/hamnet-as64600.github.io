@@ -7,7 +7,7 @@ link: https://drc.bz/guinness-weltrekord-versuch-wer-erinnert-sich-noch/
 slug: guinness-weltrekord-versuch-wer-erinnert-sich-noch
 title: 'Guinness Weltrekord Versuch: Wer erinnert sich noch?'
 wordpress_id: 10713
-categories:
+tags:
 - Allgemein
 - Funkassistenz
 ---

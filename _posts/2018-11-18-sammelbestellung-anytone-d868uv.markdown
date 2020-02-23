@@ -7,7 +7,7 @@ link: https://drc.bz/sammelbestellung-anytone-d868uv/
 slug: sammelbestellung-anytone-d868uv
 title: Sammelbestellung ANYTONE D868UV
 wordpress_id: 17585
-categories:
+tags:
 - DMR
 ---
 

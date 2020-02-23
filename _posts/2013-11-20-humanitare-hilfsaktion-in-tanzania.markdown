@@ -7,7 +7,7 @@ link: https://drc.bz/humanitare-hilfsaktion-in-tanzania/
 slug: humanitare-hilfsaktion-in-tanzania
 title: Humanitäre Hilfsaktion in Tanzania
 wordpress_id: 7755
-categories:
+tags:
 - Allgemein
 ---
 

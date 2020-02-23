@@ -7,7 +7,7 @@ link: https://drc.bz/key-silent-dj1fm-frank/
 slug: key-silent-dj1fm-frank
 title: 'Silent Key: DJ1FM Frank'
 wordpress_id: 18415
-categories:
+tags:
 - Silent key
 ---
 

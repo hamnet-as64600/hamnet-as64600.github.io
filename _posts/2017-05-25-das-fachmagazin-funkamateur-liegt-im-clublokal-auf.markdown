@@ -7,7 +7,7 @@ link: https://drc.bz/das-fachmagazin-funkamateur-liegt-im-clublokal-auf/
 slug: das-fachmagazin-funkamateur-liegt-im-clublokal-auf
 title: Das Fachmagazin "FUNKAMATEUR" liegt im Clublokal auf.
 wordpress_id: 14274
-categories:
+tags:
 - Allgemein
 ---
 

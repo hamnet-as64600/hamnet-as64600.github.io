@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-norbert-aus-lana/
 slug: neues-mitglied-im-drc-norbert-aus-lana
 title: 'Neues Mitglied im DRC: Norbert aus Lana'
 wordpress_id: 13651
-categories:
+tags:
 - Neue Mitglieder
 ---
 

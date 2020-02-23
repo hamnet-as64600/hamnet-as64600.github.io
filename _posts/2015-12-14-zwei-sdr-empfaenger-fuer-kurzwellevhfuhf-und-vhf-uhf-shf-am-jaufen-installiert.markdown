@@ -7,7 +7,7 @@ link: https://drc.bz/zwei-sdr-empfaenger-fuer-kurzwellevhfuhf-und-vhf-uhf-shf-am
 slug: zwei-sdr-empfaenger-fuer-kurzwellevhfuhf-und-vhf-uhf-shf-am-jaufen-installiert
 title: Zwei SDR-Empfänger für Kurzwelle/VHF/UHF und VHF-UHF-SHF am Jaufen installiert
 wordpress_id: 11295
-categories:
+tags:
 - SDR
 - Umsetzer Jaufen
 ---

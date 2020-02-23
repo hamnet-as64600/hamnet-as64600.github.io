@@ -8,7 +8,7 @@ slug: rittnerhorn-umzug-funkamateuranlagen-auf-neuen-zivilschutzmasten-wer-moech
 title: Rittnerhorn - Umzug Funkamateuranlagen auf neuen Zivilschutzmasten - Wer möchte
   helfen?
 wordpress_id: 8562
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

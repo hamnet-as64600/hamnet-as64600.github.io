@@ -7,7 +7,7 @@ link: https://drc.bz/tipp-fur-arpsler/
 slug: tipp-fur-arpsler
 title: Tipp für ARPS'ler.
 wordpress_id: 5452
-categories:
+tags:
 - APRS
 ---
 

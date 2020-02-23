@@ -8,7 +8,7 @@ slug: einfuehrung-in-die-moderne-signalerzeugung-von-analog-zu-digital-vor-und-n
 title: 'Einführung in die moderne Signalerzeugung – von analog zu digital: Vor- und
   Nachteile sowie Lösungen'
 wordpress_id: 16093
-categories:
+tags:
 - Allgemein
 - Kurse
 ---

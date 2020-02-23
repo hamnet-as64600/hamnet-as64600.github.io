@@ -7,7 +7,7 @@ link: https://drc.bz/so-habe-ich-die-weihnachtsfeier-2019-erlebt/
 slug: so-habe-ich-die-weihnachtsfeier-2019-erlebt
 title: So habe ich die Weihnachtsfeier 2019 erlebt.
 wordpress_id: 18971
-categories:
+tags:
 - Allgemein
 ---
 

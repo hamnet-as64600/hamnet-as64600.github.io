@@ -7,7 +7,7 @@ link: https://drc.bz/sammelbestellung-bafeng-uv-3r/
 slug: sammelbestellung-bafeng-uv-3r
 title: Sammelbestellung BAOFENG UV-3R
 wordpress_id: 5541
-categories:
+tags:
 - Allgemein
 ---
 

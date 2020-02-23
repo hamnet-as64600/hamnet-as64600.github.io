@@ -7,7 +7,7 @@ link: https://drc.bz/notfunkverkehr-nach-dem-erdbeben-auf-taiwan/
 slug: notfunkverkehr-nach-dem-erdbeben-auf-taiwan
 title: Notfunkverkehr nach dem Erdbeben auf Taiwan
 wordpress_id: 11554
-categories:
+tags:
 - Notfunk
 ---
 

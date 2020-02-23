@@ -8,7 +8,7 @@ slug: workshop-mit-freier-software-ausbilden-lernen-arbeiten-und-innovation-vora
 title: 'Workshop: "Mit freier Software ausbilden, lernen, arbeiten und Innovation
   vorantreiben"'
 wordpress_id: 11881
-categories:
+tags:
 - Kurse
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-jahreshauptversammlung-des-drc-am-freitag-den
 slug: einladung-zur-jahreshauptversammlung-des-drc-am-freitag-den-31-jaenner-2020
 title: Einladung zur Jahreshauptversammlung des DRC am Freitag, den 31. Jänner 2020.
 wordpress_id: 19068
-categories:
+tags:
 - Allgemein
 ---
 

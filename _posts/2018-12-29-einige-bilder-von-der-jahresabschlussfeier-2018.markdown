@@ -7,7 +7,7 @@ link: https://drc.bz/einige-bilder-von-der-jahresabschlussfeier-2018/
 slug: einige-bilder-von-der-jahresabschlussfeier-2018
 title: Einige Bilder von der Jahresabschlussfeier 2018.
 wordpress_id: 17805
-categories:
+tags:
 - Clublokal
 - Feiern und Unterhaltung
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/gipfeltreffen-hamnet-in-lienz/
 slug: gipfeltreffen-hamnet-in-lienz
 title: Gipfeltreffen HAMNET in Lienz
 wordpress_id: 5855
-categories:
+tags:
 - HamNet
 - Kurse
 ---

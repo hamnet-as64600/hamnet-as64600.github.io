@@ -7,7 +7,7 @@ link: https://drc.bz/wichtige-mitteilung-an-alle-helfer-des-3-zinnen-laufes-2019
 slug: wichtige-mitteilung-an-alle-helfer-des-3-zinnen-laufes-2019
 title: Wichtige Mitteilung an alle Helfer des 3 Zinnen Laufes 2019.
 wordpress_id: 18825
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

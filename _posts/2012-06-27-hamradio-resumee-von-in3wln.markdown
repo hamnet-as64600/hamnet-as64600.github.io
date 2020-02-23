@@ -7,7 +7,7 @@ link: https://drc.bz/hamradio-resumee-von-in3wln/
 slug: hamradio-resumee-von-in3wln
 title: 'HAMRADIO: Resümee von IN3WLN'
 wordpress_id: 4850
-categories:
+tags:
 - Allgemein
 - Funkamateure stellen sich vor
 ---

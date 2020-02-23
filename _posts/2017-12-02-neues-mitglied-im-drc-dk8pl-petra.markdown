@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dk8pl-petra/
 slug: neues-mitglied-im-drc-dk8pl-petra
 title: 'Neues Mitglied im DRC: DK8PL, Petra'
 wordpress_id: 15024
-categories:
+tags:
 - Neue Mitglieder
 ---
 

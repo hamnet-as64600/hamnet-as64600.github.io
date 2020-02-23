@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-dstar-repeater-installation-samstag-16-mai-2015/
 slug: gantkofel-dstar-repeater-installation-samstag-16-mai-2015
 title: Gantkofel - DStar Repeater Installation Samstag, 16. Mai 2015
 wordpress_id: 10443
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

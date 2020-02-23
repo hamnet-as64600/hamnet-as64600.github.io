@@ -7,7 +7,7 @@ link: https://drc.bz/mitteilung-eines-kursteilnehmers-am-afu-kurs-2011/
 slug: mitteilung-eines-kursteilnehmers-am-afu-kurs-2011
 title: Mitteilung eines Kursteilnehmers am AFU-Kurs 2011.
 wordpress_id: 4012
-categories:
+tags:
 - Kurse
 ---
 

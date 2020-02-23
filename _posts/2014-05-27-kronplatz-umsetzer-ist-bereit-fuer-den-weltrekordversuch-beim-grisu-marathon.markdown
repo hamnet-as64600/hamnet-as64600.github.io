@@ -7,7 +7,7 @@ link: https://drc.bz/kronplatz-umsetzer-ist-bereit-fuer-den-weltrekordversuch-be
 slug: kronplatz-umsetzer-ist-bereit-fuer-den-weltrekordversuch-beim-grisu-marathon
 title: Kronplatz Umsetzer ist bereit für den Weltrekordversuch beim GRISU MARATHON
 wordpress_id: 8417
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

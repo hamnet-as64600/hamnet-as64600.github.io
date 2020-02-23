@@ -7,7 +7,7 @@ link: https://drc.bz/afu-satellit-d-star-one-start-gescheitert-projekt-wird-fort
 slug: afu-satellit-d-star-one-start-gescheitert-projekt-wird-fortgefuehrt
 title: 'AFu-Satellit "D-Star One": Start gescheitert - Projekt wird fortgeführt'
 wordpress_id: 15239
-categories:
+tags:
 - D-STAR
 ---
 

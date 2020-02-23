@@ -7,7 +7,7 @@ link: https://drc.bz/ir3dv-kronplatz-umbauarbeiten-am-feitag-8-12-2017/
 slug: ir3dv-kronplatz-umbauarbeiten-am-feitag-8-12-2017
 title: IR3DV Kronplatz - Umbauarbeiten am Feitag, 8.12.2017
 wordpress_id: 15032
-categories:
+tags:
 - D-STAR
 - HamNet
 - Link Suedtirol

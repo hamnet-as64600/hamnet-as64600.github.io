@@ -154,7 +154,7 @@ Eine Live-Web-Cam, die das aktuelle Panorama des Gantkofels bringt, findet man [
 
 ## Posts zum Umsetzer Gantkofel
 {: .t60 }
-{% include list-posts category='Umsetzer Gantkofel' %}
+{% include list-posts tag='Umsetzer Gantkofel' %}
 
 </div>
 </div>

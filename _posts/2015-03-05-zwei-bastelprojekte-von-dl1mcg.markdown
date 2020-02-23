@@ -7,7 +7,7 @@ link: https://drc.bz/zwei-bastelprojekte-von-dl1mcg/
 slug: zwei-bastelprojekte-von-dl1mcg
 title: Zwei Bastelprojekte von DL1MCG
 wordpress_id: 10187
-categories:
+tags:
 - Bastelecke
 ---
 

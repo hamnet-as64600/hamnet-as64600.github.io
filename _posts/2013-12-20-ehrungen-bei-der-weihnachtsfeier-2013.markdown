@@ -7,7 +7,7 @@ link: https://drc.bz/ehrungen-bei-der-weihnachtsfeier-2013/
 slug: ehrungen-bei-der-weihnachtsfeier-2013
 title: Ehrungen bei der Weihnachtsfeier 2013
 wordpress_id: 7877
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

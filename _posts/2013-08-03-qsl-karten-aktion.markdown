@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-karten-aktion/
 slug: qsl-karten-aktion
 title: QSL-Karten Aktion
 wordpress_id: 6792
-categories:
+tags:
 - ARI
 ---
 

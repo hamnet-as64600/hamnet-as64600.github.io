@@ -7,7 +7,7 @@ link: https://drc.bz/innovative-umsetzerkennung/
 slug: innovative-umsetzerkennung
 title: Innovative Umsetzerkennung!!
 wordpress_id: 3067
-categories:
+tags:
 - Allgemein
 ---
 

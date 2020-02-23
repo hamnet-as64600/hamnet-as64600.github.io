@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzplan-zur-assistenz-beim-drei-zinnen-alpine-run-2017/
 slug: einsatzplan-zur-assistenz-beim-drei-zinnen-alpine-run-2017
 title: Einsatzplan zur Assistenz beim Drei Zinnen Alpine Run 2017
 wordpress_id: 14656
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

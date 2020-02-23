@@ -7,7 +7,7 @@ link: https://drc.bz/reinigungsaktion-am-1-april-2017-in-der-gemeinde-bruneck/
 slug: reinigungsaktion-am-1-april-2017-in-der-gemeinde-bruneck
 title: Reinigungsaktion am 1. April 2017 in der Gemeinde Bruneck
 wordpress_id: 13869
-categories:
+tags:
 - Allgemein
 ---
 

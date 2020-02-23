@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhi-kw-remotestation-nun-auch-via-pc-im-hamnet-bedienbar
 slug: ir3uhi-kw-remotestation-nun-auch-via-pc-im-hamnet-bedienbar
 title: IR3UHI - KW Remotestation nun auch via PC im Hamnet bedienbar
 wordpress_id: 15327
-categories:
+tags:
 - Remotestation
 - Umsetzer Gitschberg
 ---

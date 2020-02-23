@@ -7,7 +7,7 @@ link: https://drc.bz/wichtige-info-an-die-teilnehmer-besuch-planetarium/
 slug: wichtige-info-an-die-teilnehmer-besuch-planetarium
 title: Wichtige Info an die Teilnehmer Besuch Planetarium
 wordpress_id: 10938
-categories:
+tags:
 - Allgemein
 ---
 

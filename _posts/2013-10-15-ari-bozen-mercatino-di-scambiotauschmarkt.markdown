@@ -7,7 +7,7 @@ link: https://drc.bz/ari-bozen-mercatino-di-scambiotauschmarkt/
 slug: ari-bozen-mercatino-di-scambiotauschmarkt
 title: 'ARI Bozen: Mercatino di scambio/Tauschmarkt'
 wordpress_id: 7341
-categories:
+tags:
 - ARI
 ---
 

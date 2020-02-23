@@ -7,7 +7,7 @@ link: https://drc.bz/ein-etwas-kritischer-beitrag-zur-d-star-entwicklung/
 slug: ein-etwas-kritischer-beitrag-zur-d-star-entwicklung
 title: Ein etwas "kritischer" Beitrag zur D-Star Entwicklung.
 wordpress_id: 11212
-categories:
+tags:
 - D-STAR
 ---
 

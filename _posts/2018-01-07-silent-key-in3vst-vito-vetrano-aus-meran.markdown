@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3vst-vito-vetrano-aus-meran/
 slug: silent-key-in3vst-vito-vetrano-aus-meran
 title: 'Silent key: IN3VST - Vito Vetrano aus Meran'
 wordpress_id: 15162
-categories:
+tags:
 - Silent key
 ---
 

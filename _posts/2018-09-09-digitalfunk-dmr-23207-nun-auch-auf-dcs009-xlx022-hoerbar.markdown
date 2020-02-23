@@ -7,7 +7,7 @@ link: https://drc.bz/digitalfunk-dmr-23207-nun-auch-auf-dcs009-xlx022-hoerbar/
 slug: digitalfunk-dmr-23207-nun-auch-auf-dcs009-xlx022-hoerbar
 title: 'Digitalfunk: DMR 23207 nun auch auf DCS009/XLX022 hörbar'
 wordpress_id: 17201
-categories:
+tags:
 - Allgemein
 - C4FM
 - D-STAR

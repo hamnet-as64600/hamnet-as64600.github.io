@@ -7,7 +7,7 @@ link: https://drc.bz/zwei-neue-mitglieder-in3akr-martin-und-in3biy-gino/
 slug: zwei-neue-mitglieder-in3akr-martin-und-in3biy-gino
 title: 'Zwei neue Mitglieder: IN3AKR Martin und IN3BIY Gino'
 wordpress_id: 2394
-categories:
+tags:
 - Neue Mitglieder
 ---
 

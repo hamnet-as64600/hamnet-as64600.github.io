@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-in-st-georgen-am-27-04-2015-digitale-medien-faszina
 slug: vortrag-in-st-georgen-am-27-04-2015-digitale-medien-faszination-mit-nebenwirkungen
 title: 'Vortrag in St. Georgen am 27.04.2015: Digitale Medien - Faszination mit Nebenwirkungen'
 wordpress_id: 10359
-categories:
+tags:
 - Allgemein
 ---
 

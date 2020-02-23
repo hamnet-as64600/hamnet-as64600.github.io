@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-gitschberg-ist-installiert/
 slug: hamnet-gitschberg-ist-installiert
 title: 'Hamnet: Gitschberg ist installiert.'
 wordpress_id: 3782
-categories:
+tags:
 - HamNet
 - Umsetzer Gitschberg
 ---

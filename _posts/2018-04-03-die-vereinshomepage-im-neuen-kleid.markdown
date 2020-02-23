@@ -7,7 +7,7 @@ link: https://drc.bz/die-vereinshomepage-im-neuen-kleid/
 slug: die-vereinshomepage-im-neuen-kleid
 title: Die Vereinshomepage im neuen Kleid.
 wordpress_id: 16149
-categories:
+tags:
 - Allgemein
 ---
 

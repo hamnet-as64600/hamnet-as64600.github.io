@@ -7,7 +7,7 @@ link: https://drc.bz/trompetenklaenge-zu-heilig-abend-2/
 slug: trompetenklaenge-zu-heilig-abend-2
 title: Trompetenklänge zu Heilig Abend.
 wordpress_id: 17720
-categories:
+tags:
 - Allgemein
 ---
 

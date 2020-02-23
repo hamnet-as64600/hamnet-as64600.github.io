@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtliche-klaenge-ueber-link-suedtirol/
 slug: weihnachtliche-klaenge-ueber-link-suedtirol
 title: Weihnachtliche Klänge über "Link Südtirol"
 wordpress_id: 7852
-categories:
+tags:
 - Allgemein
 ---
 

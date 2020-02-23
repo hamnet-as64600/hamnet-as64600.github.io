@@ -7,7 +7,7 @@ link: https://drc.bz/so-war-der-erste-hilfe-kurs-im-clublokal-meran/
 slug: so-war-der-erste-hilfe-kurs-im-clublokal-meran
 title: So war der "Erste Hilfe Kurs" im Clublokal Meran.
 wordpress_id: 14881
-categories:
+tags:
 - Allgemein
 - Clublokal
 - Kurse

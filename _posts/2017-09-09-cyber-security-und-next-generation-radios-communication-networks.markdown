@@ -7,7 +7,7 @@ link: https://drc.bz/cyber-security-und-next-generation-radios-communication-net
 slug: cyber-security-und-next-generation-radios-communication-networks
 title: Cyber Security und Next Generation Radios Communication Networks.
 wordpress_id: 14650
-categories:
+tags:
 - Kurse
 ---
 

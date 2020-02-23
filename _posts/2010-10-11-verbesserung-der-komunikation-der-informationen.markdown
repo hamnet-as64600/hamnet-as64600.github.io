@@ -7,7 +7,7 @@ link: https://drc.bz/verbesserung-der-komunikation-der-informationen/
 slug: verbesserung-der-komunikation-der-informationen
 title: Verbesserung in der Kommunikation der Informationen
 wordpress_id: 1874
-categories:
+tags:
 - Allgemein
 ---
 

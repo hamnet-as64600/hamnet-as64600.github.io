@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-peter-hillebrand-in3abo/
 slug: silent-key-peter-hillebrand-in3abo
 title: 'Silent key: Peter Hillebrand IN3ABO'
 wordpress_id: 10499
-categories:
+tags:
 - Silent key
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/instandhaltungsarbeiten-am-umsetzer-am-rittnerhorn/
 slug: instandhaltungsarbeiten-am-umsetzer-am-rittnerhorn
 title: Instandhaltungsarbeiten am Umsetzer am Rittnerhorn
 wordpress_id: 3430
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-in3efu-gunther/
 slug: neues-mitglied-in3efu-gunther
 title: 'Neues Mitglied: IN3EFU Jürgen'
 wordpress_id: 877
-categories:
+tags:
 - Allgemein
 ---
 

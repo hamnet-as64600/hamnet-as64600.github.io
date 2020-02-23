@@ -7,7 +7,7 @@ link: https://drc.bz/ehrung-von-dr-rohde-dj2lr/
 slug: ehrung-von-dr-rohde-dj2lr
 title: Ehrung von Dr. Rohde, DJ2LR.
 wordpress_id: 18886
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/13-convention-digitale-komunikation-auf-dem-ritten/
 slug: 13-convention-digitale-komunikation-auf-dem-ritten
 title: 13. Convention "Digitale Komunikation" auf dem Ritten
 wordpress_id: 3706
-categories:
+tags:
 - Allgemein
 ---
 

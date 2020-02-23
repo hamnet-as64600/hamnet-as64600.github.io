@@ -7,7 +7,7 @@ link: https://drc.bz/bald-funktioniert-d-star-auf-der-ploser-wieder/
 slug: bald-funktioniert-d-star-auf-der-ploser-wieder
 title: Bald funktioniert D-Star auf der Ploser wieder!
 wordpress_id: 7872
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

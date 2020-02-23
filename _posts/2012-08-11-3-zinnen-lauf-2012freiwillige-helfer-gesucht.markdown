@@ -7,7 +7,7 @@ link: https://drc.bz/3-zinnen-lauf-2012freiwillige-helfer-gesucht/
 slug: 3-zinnen-lauf-2012freiwillige-helfer-gesucht
 title: 3-Zinnen-Lauf 2012:Freiwillige Helfer gesucht!
 wordpress_id: 5283
-categories:
+tags:
 - Funkassistenz
 ---
 

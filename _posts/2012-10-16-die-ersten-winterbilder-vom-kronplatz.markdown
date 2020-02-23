@@ -7,7 +7,7 @@ link: https://drc.bz/die-ersten-winterbilder-vom-kronplatz/
 slug: die-ersten-winterbilder-vom-kronplatz
 title: Die ersten Winterbilder vom Kronplatz
 wordpress_id: 5650
-categories:
+tags:
 - Umsetzer Kronplatz
 - Webcam
 ---

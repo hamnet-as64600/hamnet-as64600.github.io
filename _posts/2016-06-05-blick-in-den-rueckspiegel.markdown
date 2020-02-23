@@ -7,7 +7,7 @@ link: https://drc.bz/blick-in-den-rueckspiegel/
 slug: blick-in-den-rueckspiegel
 title: Blick in den Rückspiegel.
 wordpress_id: 12303
-categories:
+tags:
 - Allgemein
 ---
 

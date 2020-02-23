@@ -7,7 +7,7 @@ link: https://drc.bz/sota-auf-der-grossen-zinne-i-aa-052-brauche-eure-unterstuet
 slug: sota-auf-der-grossen-zinne-i-aa-052-brauche-eure-unterstuetzung
 title: SOTA auf der Großen Zinne I/AA-052 - brauche Eure Unterstützung!!!
 wordpress_id: 18500
-categories:
+tags:
 - SOTA
 ---
 

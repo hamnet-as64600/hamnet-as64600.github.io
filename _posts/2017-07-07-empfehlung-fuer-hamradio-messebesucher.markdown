@@ -7,7 +7,7 @@ link: https://drc.bz/empfehlung-fuer-hamradio-messebesucher/
 slug: empfehlung-fuer-hamradio-messebesucher
 title: Empfehlung für Hamradio Messebesucher.
 wordpress_id: 14476
-categories:
+tags:
 - Allgemein
 ---
 

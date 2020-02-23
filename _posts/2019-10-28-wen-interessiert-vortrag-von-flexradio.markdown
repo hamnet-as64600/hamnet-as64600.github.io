@@ -7,7 +7,7 @@ link: https://drc.bz/wen-interessiert-vortrag-von-flexradio/
 slug: wen-interessiert-vortrag-von-flexradio
 title: Wen interessiert Vortrag von FlexRadio?
 wordpress_id: 18851
-categories:
+tags:
 - Allgemein
 ---
 

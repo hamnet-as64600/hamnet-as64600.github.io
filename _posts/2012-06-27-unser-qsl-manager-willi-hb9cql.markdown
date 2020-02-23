@@ -7,7 +7,7 @@ link: https://drc.bz/unser-qsl-manager-willi-hb9cql/
 slug: unser-qsl-manager-willi-hb9cql
 title: Unser QSL Manager Ruedi, HB9CQL
 wordpress_id: 4859
-categories:
+tags:
 - Allgemein
 ---
 

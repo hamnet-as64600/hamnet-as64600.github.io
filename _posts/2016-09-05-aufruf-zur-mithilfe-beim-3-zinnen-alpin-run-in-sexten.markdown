@@ -7,7 +7,7 @@ link: https://drc.bz/aufruf-zur-mithilfe-beim-3-zinnen-alpin-run-in-sexten/
 slug: aufruf-zur-mithilfe-beim-3-zinnen-alpin-run-in-sexten
 title: Aufruf zur Mithilfe beim "3 Zinnen Alpin Run" in Sexten.
 wordpress_id: 12887
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

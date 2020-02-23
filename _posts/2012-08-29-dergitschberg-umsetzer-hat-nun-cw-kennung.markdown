@@ -7,7 +7,7 @@ link: https://drc.bz/dergitschberg-umsetzer-hat-nun-cw-kennung/
 slug: dergitschberg-umsetzer-hat-nun-cw-kennung
 title: Der Gitschbergumsetzer hat nun CW Kennung.
 wordpress_id: 5428
-categories:
+tags:
 - Umsetzer Gitschberg
 ---
 

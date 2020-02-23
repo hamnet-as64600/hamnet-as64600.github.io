@@ -7,7 +7,7 @@ link: https://drc.bz/kurs-im-clublokal-der-spektrumanalyser/
 slug: kurs-im-clublokal-der-spektrumanalyser
 title: 'Kurs im Clublokal: Der Spektrumanalyser!'
 wordpress_id: 1217
-categories:
+tags:
 - Allgemein
 ---
 

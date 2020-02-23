@@ -7,7 +7,7 @@ link: https://drc.bz/wer-nimmt-am-ausflug-auf-die-zugspitze-teil/
 slug: wer-nimmt-am-ausflug-auf-die-zugspitze-teil
 title: Wer nimmt am Ausflug auf die Zugspitze teil?
 wordpress_id: 6215
-categories:
+tags:
 - Ausflüge
 ---
 

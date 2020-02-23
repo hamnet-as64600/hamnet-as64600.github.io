@@ -7,7 +7,7 @@ link: https://drc.bz/echolink-am-gitschberg-ist-wieder-repariert/
 slug: echolink-am-gitschberg-ist-wieder-repariert
 title: Echolink am Gitschberg ist wieder repariert.
 wordpress_id: 8480
-categories:
+tags:
 - Echolink
 - Umsetzer Gitschberg
 ---

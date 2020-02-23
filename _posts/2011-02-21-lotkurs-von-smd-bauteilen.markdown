@@ -7,7 +7,7 @@ link: https://drc.bz/lotkurs-von-smd-bauteilen/
 slug: lotkurs-von-smd-bauteilen
 title: Lötkurs von SMD Bauteilen
 wordpress_id: 2547
-categories:
+tags:
 - Kurse
 ---
 

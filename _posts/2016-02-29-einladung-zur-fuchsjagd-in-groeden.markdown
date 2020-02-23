@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-fuchsjagd-in-groeden/
 slug: einladung-zur-fuchsjagd-in-groeden
 title: Einladung zur Fuchsjagd in Gröden.
 wordpress_id: 11627
-categories:
+tags:
 - ARCL
 ---
 

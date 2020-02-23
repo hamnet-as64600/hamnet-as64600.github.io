@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-workshop-am-hohenpeissenberg-am-26-april-2015/
 slug: d-star-workshop-am-hohenpeissenberg-am-26-april-2015
 title: D-STAR Workshop am Hohenpeissenberg am 26. April 2015
 wordpress_id: 10343
-categories:
+tags:
 - D-STAR
 - DRC Aussenstelle Nord
 ---

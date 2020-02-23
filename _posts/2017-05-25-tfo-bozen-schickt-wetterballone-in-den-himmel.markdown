@@ -7,7 +7,7 @@ link: https://drc.bz/tfo-bozen-schickt-wetterballone-in-den-himmel/
 slug: tfo-bozen-schickt-wetterballone-in-den-himmel
 title: TFO Bozen schickt Wetterballone in den Himmel
 wordpress_id: 14277
-categories:
+tags:
 - APRS
 ---
 

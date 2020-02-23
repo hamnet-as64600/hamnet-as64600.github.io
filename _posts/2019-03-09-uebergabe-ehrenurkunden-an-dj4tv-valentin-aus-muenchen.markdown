@@ -7,7 +7,7 @@ link: https://drc.bz/uebergabe-ehrenurkunden-an-dj4tv-valentin-aus-muenchen/
 slug: uebergabe-ehrenurkunden-an-dj4tv-valentin-aus-muenchen
 title: Übergabe Ehrenurkunden an DJ4TV Valentin aus München.
 wordpress_id: 18114
-categories:
+tags:
 - Allgemein
 ---
 

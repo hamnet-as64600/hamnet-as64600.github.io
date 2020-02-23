@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-im-do-puschtra/
 slug: der-drc-im-do-puschtra
 title: Der DRC im "DO PUSCHTRA"
 wordpress_id: 3172
-categories:
+tags:
 - Allgemein
 ---
 

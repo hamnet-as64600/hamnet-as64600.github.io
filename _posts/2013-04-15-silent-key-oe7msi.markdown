@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-oe7msi/
 slug: silent-key-oe7msi
 title: Silent key OE7MSI
 wordpress_id: 6243
-categories:
+tags:
 - Silent key
 ---
 

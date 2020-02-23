@@ -7,7 +7,7 @@ link: https://drc.bz/drei-neue-mitglieder/
 slug: drei-neue-mitglieder
 title: 'Drei neue Mitglieder: IN3EGK, IN3ECS, IN3EFV'
 wordpress_id: 1013
-categories:
+tags:
 - Allgemein
 ---
 

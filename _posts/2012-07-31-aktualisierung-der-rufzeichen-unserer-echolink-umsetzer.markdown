@@ -7,7 +7,7 @@ link: https://drc.bz/aktualisierung-der-rufzeichen-unserer-echolink-umsetzer/
 slug: aktualisierung-der-rufzeichen-unserer-echolink-umsetzer
 title: Aktualisierung der Rufzeichen unserer Echolink Umsetzer
 wordpress_id: 5197
-categories:
+tags:
 - Echolink
 - Umsetzer Gitschberg
 - Umsetzer Rittner Horn

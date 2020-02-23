@@ -7,7 +7,7 @@ link: https://drc.bz/probleme-mit-der-echolink-anbindung-des-gitschberg-umsetzer
 slug: probleme-mit-der-echolink-anbindung-des-gitschberg-umsetzers
 title: Probleme mit der Echolink Anbindung des Gitschberg-Umsetzers.
 wordpress_id: 950
-categories:
+tags:
 - Allgemein
 ---
 

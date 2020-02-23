@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-artikel-von-christian-dg6rch/
 slug: d-star-artikel-von-christian-dg6rch
 title: D Star Artikel von Christian DG6RCH
 wordpress_id: 6554
-categories:
+tags:
 - D-STAR
 ---
 

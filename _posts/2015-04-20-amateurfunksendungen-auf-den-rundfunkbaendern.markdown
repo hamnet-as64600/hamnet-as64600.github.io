@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunksendungen-auf-den-rundfunkbaendern/
 slug: amateurfunksendungen-auf-den-rundfunkbaendern
 title: Amateurfunksendungen auf den Rundfunkbändern
 wordpress_id: 10331
-categories:
+tags:
 - Allgemein
 ---
 

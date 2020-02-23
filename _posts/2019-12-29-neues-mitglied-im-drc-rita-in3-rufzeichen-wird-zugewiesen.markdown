@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-rita-in3-rufzeichen-wird-zugewiesen/
 slug: neues-mitglied-im-drc-rita-in3-rufzeichen-wird-zugewiesen
 title: 'Neues Mitglied im DRC: Rita, IN3??? (Rufzeichen wird zugewiesen)'
 wordpress_id: 18967
-categories:
+tags:
 - Neue Mitglieder
 ---
 

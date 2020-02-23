@@ -7,7 +7,7 @@ link: https://drc.bz/der-lotkurs-ist-beendet/
 slug: der-lotkurs-ist-beendet
 title: Der Lötkurs ist beendet....
 wordpress_id: 2991
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/einfuhrungskurs-hamoffice/
 slug: einfuhrungskurs-hamoffice
 title: Einführungskurs HAMOFFICE
 wordpress_id: 3723
-categories:
+tags:
 - Kurse
 ---
 

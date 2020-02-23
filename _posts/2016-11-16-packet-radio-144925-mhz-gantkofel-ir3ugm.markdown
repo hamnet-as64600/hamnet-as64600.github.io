@@ -7,7 +7,7 @@ link: https://drc.bz/packet-radio-144925-mhz-gantkofel-ir3ugm/
 slug: packet-radio-144925-mhz-gantkofel-ir3ugm
 title: Packet Radio 144,925 MHz - Gantkofel IR3UGM
 wordpress_id: 13277
-categories:
+tags:
 - HamNet
 - Umsetzer Gantkofel
 ---

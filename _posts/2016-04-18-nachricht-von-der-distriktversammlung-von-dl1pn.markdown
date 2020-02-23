@@ -7,7 +7,7 @@ link: https://drc.bz/nachricht-von-der-distriktversammlung-von-dl1pn/
 slug: nachricht-von-der-distriktversammlung-von-dl1pn
 title: Nachricht von der Distriktversammlung von DL1PN
 wordpress_id: 11977
-categories:
+tags:
 - Murnau
 ---
 

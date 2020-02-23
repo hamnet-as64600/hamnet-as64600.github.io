@@ -7,7 +7,7 @@ link: https://drc.bz/umfrage-zur-monatlichen-funkuebung-mit-in3erw/
 slug: umfrage-zur-monatlichen-funkuebung-mit-in3erw
 title: Umfrage zur monatlichen Funkübung mit IN3ERW
 wordpress_id: 13730
-categories:
+tags:
 - Südtiroler Funkübung
 ---
 

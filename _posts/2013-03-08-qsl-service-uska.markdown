@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-service-uska/
 slug: qsl-service-uska
 title: QSL Service USKA
 wordpress_id: 6109
-categories:
+tags:
 - QSL
 ---
 

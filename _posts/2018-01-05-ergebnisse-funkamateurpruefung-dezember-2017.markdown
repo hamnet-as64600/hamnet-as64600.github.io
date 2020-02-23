@@ -7,7 +7,7 @@ link: https://drc.bz/ergebnisse-funkamateurpruefung-dezember-2017/
 slug: ergebnisse-funkamateurpruefung-dezember-2017
 title: Ergebnisse Funkamateurprüfung Dezember 2017
 wordpress_id: 15157
-categories:
+tags:
 - Kurse
 ---
 

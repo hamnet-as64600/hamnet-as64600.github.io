@@ -7,7 +7,7 @@ link: https://drc.bz/ausfall-des-gitschbergrelais-ir3uhi/
 slug: ausfall-des-gitschbergrelais-ir3uhi
 title: Ausfall des Gitschbergrelais IR3UHI
 wordpress_id: 4815
-categories:
+tags:
 - Umsetzer Gitschberg
 ---
 

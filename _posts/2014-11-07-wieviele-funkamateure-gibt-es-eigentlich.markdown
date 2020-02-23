@@ -7,7 +7,7 @@ link: https://drc.bz/wieviele-funkamateure-gibt-es-eigentlich/
 slug: wieviele-funkamateure-gibt-es-eigentlich
 title: Wieviele Funkamateure gibt es eigentlich?
 wordpress_id: 9670
-categories:
+tags:
 - Allgemein
 ---
 

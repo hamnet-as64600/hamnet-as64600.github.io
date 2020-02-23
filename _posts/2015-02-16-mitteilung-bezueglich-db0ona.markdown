@@ -7,7 +7,7 @@ link: https://drc.bz/mitteilung-bezueglich-db0ona/
 slug: mitteilung-bezueglich-db0ona
 title: Mitteilung bezüglich DB0ONA
 wordpress_id: 10107
-categories:
+tags:
 - Murnau
 ---
 

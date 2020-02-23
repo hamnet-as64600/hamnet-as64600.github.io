@@ -7,7 +7,7 @@ link: https://drc.bz/unterlagen-hamnetkurs-sind-online/
 slug: unterlagen-hamnetkurs-sind-online
 title: Unterlagen Hamnetkurs sind Online
 wordpress_id: 4446
-categories:
+tags:
 - HamNet
 ---
 

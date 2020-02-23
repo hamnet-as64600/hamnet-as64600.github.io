@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-ekkehard-in3-rufzeichen-wird-zugewies
 slug: neues-mitglied-im-drc-ekkehard-in3-rufzeichen-wird-zugewiesen
 title: 'Neues Mitglied im DRC: Ekkehard, IN3??? (Rufzeichen wird zugewiesen)'
 wordpress_id: 18963
-categories:
+tags:
 - Neue Mitglieder
 ---
 

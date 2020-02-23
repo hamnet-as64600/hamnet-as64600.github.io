@@ -7,7 +7,7 @@ link: https://drc.bz/schoene-erinnerungen-unser-verein-im-radio-und-im-fernseh/
 slug: schoene-erinnerungen-unser-verein-im-radio-und-im-fernseh
 title: 'Schöne Erinnerungen: Unser Verein im Radio und Fernseh'
 wordpress_id: 13574
-categories:
+tags:
 - Allgemein
 ---
 

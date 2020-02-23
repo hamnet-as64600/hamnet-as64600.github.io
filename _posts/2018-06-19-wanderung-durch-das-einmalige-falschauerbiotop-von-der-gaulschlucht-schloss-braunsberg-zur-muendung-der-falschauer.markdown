@@ -8,7 +8,7 @@ slug: wanderung-durch-das-einmalige-falschauerbiotop-von-der-gaulschlucht-schlos
 title: Wanderung durch das einmalige Falschauerbiotop - Von der Gaulschlucht / Schloß
   Braunsberg zur Mündung der Falschauer
 wordpress_id: 16624
-categories:
+tags:
 - Ausflüge
 ---
 

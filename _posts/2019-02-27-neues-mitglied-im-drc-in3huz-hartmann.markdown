@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3huz-hartmann/
 slug: neues-mitglied-im-drc-in3huz-hartmann
 title: 'Neues Mitglied im DRC: IN3HUZ Hartmann aus Mühlwald.'
 wordpress_id: 18059
-categories:
+tags:
 - Neue Mitglieder
 ---
 

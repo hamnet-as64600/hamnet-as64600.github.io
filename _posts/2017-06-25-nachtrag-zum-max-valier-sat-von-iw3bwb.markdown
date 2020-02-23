@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-max-valier-sat-von-iw3bwb/
 slug: nachtrag-zum-max-valier-sat-von-iw3bwb
 title: Nachtrag zum "Max Valier Sat" von IW3BWB.
 wordpress_id: 14424
-categories:
+tags:
 - Allgemein
 ---
 

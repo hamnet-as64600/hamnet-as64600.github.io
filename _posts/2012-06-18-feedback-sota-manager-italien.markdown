@@ -7,7 +7,7 @@ link: https://drc.bz/feedback-sota-manager-italien/
 slug: feedback-sota-manager-italien
 title: Mitteilung vom SOTA MANAGER ITALIEN
 wordpress_id: 4818
-categories:
+tags:
 - SOTA
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neue-rubrik-bastelecke-unter-menuepunkt-interessantes/
 slug: neue-rubrik-bastelecke-unter-menuepunkt-interessantes
 title: Neue Rubrik "Bastelecke" unter Menüpunkt "Interessantes"
 wordpress_id: 9524
-categories:
+tags:
 - Allgemein
 ---
 

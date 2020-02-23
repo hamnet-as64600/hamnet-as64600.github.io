@@ -7,7 +7,7 @@ link: https://drc.bz/grillfeier-bei-bruno-in3pbo-am-24-08-2019/
 slug: grillfeier-bei-bruno-in3pbo-am-24-08-2019
 title: Grillfeier bei Bruno IN3PBO am 24.08.2019
 wordpress_id: 18582
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

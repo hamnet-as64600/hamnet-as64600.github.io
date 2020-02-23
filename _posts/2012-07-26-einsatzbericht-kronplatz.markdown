@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzbericht-kronplatz/
 slug: einsatzbericht-kronplatz
 title: Einsatzbericht Umsetzer Kronplatz
 wordpress_id: 5159
-categories:
+tags:
 - HamNet
 - Umsetzer Kronplatz
 - Webcam

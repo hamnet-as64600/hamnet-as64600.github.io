@@ -7,7 +7,7 @@ link: https://drc.bz/weltamateurfunktag-am-18-04-2017/
 slug: weltamateurfunktag-am-18-04-2017
 title: Weltamateurfunktag am 18.04.2017
 wordpress_id: 14001
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/erster-ov-abend-im-clublokal-in-meran-ein-voller-erfolg/
 slug: erster-ov-abend-im-clublokal-in-meran-ein-voller-erfolg
 title: Erster OV-Abend im Clublokal in Meran ein voller Erfolg!
 wordpress_id: 7640
-categories:
+tags:
 - Cisar Suedtirol
 - Clublokal
 ---

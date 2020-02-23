@@ -7,7 +7,7 @@ link: https://drc.bz/dm0ww-hoernle-d-star-an-suedtirol-reflector-angeschlossen/
 slug: dm0ww-hoernle-d-star-an-suedtirol-reflector-angeschlossen
 title: DM0WW Hörnle D-Star an Südtirol Reflector angeschlossen
 wordpress_id: 13474
-categories:
+tags:
 - D-STAR
 - DRC Aussenstelle Nord
 - Murnau

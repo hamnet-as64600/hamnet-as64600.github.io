@@ -7,7 +7,7 @@ link: https://drc.bz/erneuter-ausfall-des-umsetzers-am-kronplatz/
 slug: erneuter-ausfall-des-umsetzers-am-kronplatz
 title: Erneuter Ausfall des Umsetzers am Kronplatz
 wordpress_id: 8399
-categories:
+tags:
 - Allgemein
 - Umsetzer Kronplatz
 ---

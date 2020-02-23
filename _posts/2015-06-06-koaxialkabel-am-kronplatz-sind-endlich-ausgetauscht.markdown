@@ -7,7 +7,7 @@ link: https://drc.bz/koaxialkabel-am-kronplatz-sind-endlich-ausgetauscht/
 slug: koaxialkabel-am-kronplatz-sind-endlich-ausgetauscht
 title: Koaxialkabel am Kronplatz sind (endlich) ausgetauscht.
 wordpress_id: 10567
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

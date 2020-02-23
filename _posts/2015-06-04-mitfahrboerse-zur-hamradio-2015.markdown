@@ -7,7 +7,7 @@ link: https://drc.bz/mitfahrboerse-zur-hamradio-2015/
 slug: mitfahrboerse-zur-hamradio-2015
 title: Mitfahrbörse zur HAMRADIO 2015
 wordpress_id: 10552
-categories:
+tags:
 - Allgemein
 ---
 

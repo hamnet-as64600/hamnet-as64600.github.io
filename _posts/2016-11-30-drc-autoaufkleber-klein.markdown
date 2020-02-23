@@ -7,7 +7,7 @@ link: https://drc.bz/drc-autoaufkleber-klein/
 slug: drc-autoaufkleber-klein
 title: DRC - Autoaufkleber klein
 wordpress_id: 13332
-categories:
+tags:
 - Allgemein
 ---
 

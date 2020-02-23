@@ -7,7 +7,7 @@ link: https://drc.bz/ir3ugd-jaufen-wieder-aktiv/
 slug: ir3ugd-jaufen-wieder-aktiv
 title: IR3UGD - Jaufen wieder aktiv!
 wordpress_id: 12252
-categories:
+tags:
 - Umsetzer Jaufen
 ---
 

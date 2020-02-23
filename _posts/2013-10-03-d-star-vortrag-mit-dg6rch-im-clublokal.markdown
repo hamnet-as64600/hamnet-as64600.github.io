@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-vortrag-mit-dg6rch-im-clublokal/
 slug: d-star-vortrag-mit-dg6rch-im-clublokal
 title: 'D-STAR: Vortrag mit DG6RCH im Clublokal'
 wordpress_id: 7272
-categories:
+tags:
 - D-STAR
 - Kurse
 ---

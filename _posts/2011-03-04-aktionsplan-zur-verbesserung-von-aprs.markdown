@@ -7,7 +7,7 @@ link: https://drc.bz/aktionsplan-zur-verbesserung-von-aprs/
 slug: aktionsplan-zur-verbesserung-von-aprs
 title: Aktionsplan zur Verbesserung von APRS.
 wordpress_id: 2647
-categories:
+tags:
 - APRS
 ---
 

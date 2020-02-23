@@ -7,7 +7,7 @@ link: https://drc.bz/elektronik-und-amateurfunkmesse-in-montichiari-brescia-am-1
 slug: elektronik-und-amateurfunkmesse-in-montichiari-brescia-am-1213-03-2016
 title: Elektronik- und Amateurfunkmesse in Montichiari (Brescia) am 12/13.03.2016
 wordpress_id: 11639
-categories:
+tags:
 - Allgemein
 ---
 

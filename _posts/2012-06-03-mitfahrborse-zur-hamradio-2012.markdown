@@ -7,7 +7,7 @@ link: https://drc.bz/mitfahrborse-zur-hamradio-2012/
 slug: mitfahrborse-zur-hamradio-2012
 title: Mitfahrbörse zur HAMRADIO 2012
 wordpress_id: 4741
-categories:
+tags:
 - Allgemein
 ---
 

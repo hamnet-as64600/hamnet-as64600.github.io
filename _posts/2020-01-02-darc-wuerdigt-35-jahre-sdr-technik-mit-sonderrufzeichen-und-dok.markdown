@@ -7,7 +7,7 @@ link: https://drc.bz/darc-wuerdigt-35-jahre-sdr-technik-mit-sonderrufzeichen-und
 slug: darc-wuerdigt-35-jahre-sdr-technik-mit-sonderrufzeichen-und-dok
 title: DARC würdigt 35 Jahre SDR-Technik mit Sonderrufzeichen und DOK.
 wordpress_id: 19003
-categories:
+tags:
 - Allgemein
 ---
 

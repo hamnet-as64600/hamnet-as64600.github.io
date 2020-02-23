@@ -7,7 +7,7 @@ link: https://drc.bz/uska-qsl-buero-update/
 slug: uska-qsl-buero-update
 title: USKA QSL Büro Update
 wordpress_id: 9810
-categories:
+tags:
 - QSL
 ---
 

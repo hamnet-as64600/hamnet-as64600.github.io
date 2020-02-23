@@ -7,7 +7,7 @@ link: https://drc.bz/bandplan-iaru-region-1-hf/
 slug: bandplan-iaru-region-1-hf
 title: Bandplan IARU Region 1- HF
 wordpress_id: 12309
-categories:
+tags:
 - Allgemein
 ---
 

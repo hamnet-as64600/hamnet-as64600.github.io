@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-simplexeinstieg-provisorisch-in-mals-aktivie
 slug: link-suedtirol-simplexeinstieg-provisorisch-in-mals-aktiviert
 title: Link Südtirol - Simplexeinstieg provisorisch in Mals aktiviert
 wordpress_id: 18344
-categories:
+tags:
 - Echolink
 - Link Suedtirol
 ---

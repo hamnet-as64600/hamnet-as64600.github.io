@@ -7,7 +7,7 @@ link: https://drc.bz/ir3ugm-gantkofel-hat-neuen-mmdvm/
 slug: ir3ugm-gantkofel-hat-neuen-mmdvm
 title: IR3UGM Gantkofel hat neuen MMDVM
 wordpress_id: 17662
-categories:
+tags:
 - C4FM
 - D-STAR
 - DMR

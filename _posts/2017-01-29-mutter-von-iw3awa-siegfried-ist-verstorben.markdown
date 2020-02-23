@@ -7,7 +7,7 @@ link: https://drc.bz/mutter-von-iw3awa-siegfried-ist-verstorben/
 slug: mutter-von-iw3awa-siegfried-ist-verstorben
 title: Mutter von IW3AWA Siegfried ist verstorben.
 wordpress_id: 13687
-categories:
+tags:
 - Allgemein
 ---
 

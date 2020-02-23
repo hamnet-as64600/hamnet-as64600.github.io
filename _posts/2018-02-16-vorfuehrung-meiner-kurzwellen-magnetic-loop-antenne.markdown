@@ -7,7 +7,7 @@ link: https://drc.bz/vorfuehrung-meiner-kurzwellen-magnetic-loop-antenne/
 slug: vorfuehrung-meiner-kurzwellen-magnetic-loop-antenne
 title: Vorführung (m)einer Kurzwellen MAGNETIC LOOP Antenne
 wordpress_id: 15353
-categories:
+tags:
 - Allgemein
 ---
 

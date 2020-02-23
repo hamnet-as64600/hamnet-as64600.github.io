@@ -7,7 +7,7 @@ link: https://drc.bz/kurs-uber-hamnet-und-ip-kommunikation-mit-fahrplan/
 slug: kurs-uber-hamnet-und-ip-kommunikation-mit-fahrplan
 title: Kurs über HamNet und Ip-Kommunikation // MIT FAHRPLAN
 wordpress_id: 4241
-categories:
+tags:
 - Kurse
 ---
 

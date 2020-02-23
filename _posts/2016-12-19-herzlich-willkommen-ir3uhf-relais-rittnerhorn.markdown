@@ -7,7 +7,7 @@ link: https://drc.bz/herzlich-willkommen-ir3uhf-relais-rittnerhorn/
 slug: herzlich-willkommen-ir3uhf-relais-rittnerhorn
 title: Herzlich Willkommen IR3UHF Relais Rittnerhorn
 wordpress_id: 13445
-categories:
+tags:
 - DMR
 ---
 

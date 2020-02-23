@@ -7,7 +7,7 @@ link: https://drc.bz/beirate-und-rechnungsprufer-ernannt/
 slug: beirate-und-rechnungsprufer-ernannt
 title: Beiräte und Rechnungsprüfer ernannt.
 wordpress_id: 892
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/unser-funkdienst-beim-brixen-dolomiten-marathon-wird-heuer-
 slug: unser-funkdienst-beim-brixen-dolomiten-marathon-wird-heuer-nicht-mehr-benoetigt
 title: Unser Funkdienst beim Brixen Dolomiten Marathon wird heuer nicht mehr benötigt.
 wordpress_id: 18413
-categories:
+tags:
 - Funkassistenz
 ---
 

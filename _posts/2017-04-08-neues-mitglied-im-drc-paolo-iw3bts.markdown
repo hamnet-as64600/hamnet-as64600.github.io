@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-paolo-iw3bts/
 slug: neues-mitglied-im-drc-paolo-iw3bts
 title: 'Neues Mitglied im DRC: Paolo, IW3BTS'
 wordpress_id: 13964
-categories:
+tags:
 - Neue Mitglieder
 ---
 

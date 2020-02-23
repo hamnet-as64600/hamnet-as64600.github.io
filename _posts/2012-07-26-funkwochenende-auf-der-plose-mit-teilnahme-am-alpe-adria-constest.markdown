@@ -7,7 +7,7 @@ link: https://drc.bz/funkwochenende-auf-der-plose-mit-teilnahme-am-alpe-adria-co
 slug: funkwochenende-auf-der-plose-mit-teilnahme-am-alpe-adria-constest
 title: Funkwochenende auf der Plose mit Teilnahme am Alpe Adria Constest
 wordpress_id: 3405
-categories:
+tags:
 - Ausflüge
 ---
 

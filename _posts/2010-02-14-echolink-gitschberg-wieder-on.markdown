@@ -7,7 +7,7 @@ link: https://drc.bz/echolink-gitschberg-wieder-on/
 slug: echolink-gitschberg-wieder-on
 title: Echolink Gitschberg wieder ON.
 wordpress_id: 801
-categories:
+tags:
 - Allgemein
 ---
 

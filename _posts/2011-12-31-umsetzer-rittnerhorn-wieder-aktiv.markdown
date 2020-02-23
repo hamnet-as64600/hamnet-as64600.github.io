@@ -7,7 +7,7 @@ link: https://drc.bz/umsetzer-rittnerhorn-wieder-aktiv/
 slug: umsetzer-rittnerhorn-wieder-aktiv
 title: Umsetzer Rittnerhorn wieder aktiv.
 wordpress_id: 4098
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

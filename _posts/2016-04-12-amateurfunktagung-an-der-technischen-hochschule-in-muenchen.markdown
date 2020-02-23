@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunktagung-an-der-technischen-hochschule-in-muenchen
 slug: amateurfunktagung-an-der-technischen-hochschule-in-muenchen
 title: Amateurfunktagung an der Technischen Hochschule in München
 wordpress_id: 11921
-categories:
+tags:
 - Ausflüge
 ---
 

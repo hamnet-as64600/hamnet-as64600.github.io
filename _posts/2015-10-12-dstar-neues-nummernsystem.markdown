@@ -7,7 +7,7 @@ link: https://drc.bz/dstar-neues-nummernsystem/
 slug: dstar-neues-nummernsystem
 title: 'DSTAR: Neues Nummernsystem'
 wordpress_id: 10984
-categories:
+tags:
 - D-STAR
 ---
 

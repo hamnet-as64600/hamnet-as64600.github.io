@@ -7,7 +7,7 @@ link: https://drc.bz/sota-erstaktivierung-der-grossen-zinne-2-999m-i-aa-052/
 slug: sota-erstaktivierung-der-grossen-zinne-2-999m-i-aa-052
 title: SOTA - Erstaktivierung der Großen Zinne (2.999m) I/AA-052
 wordpress_id: 18526
-categories:
+tags:
 - Allgemein
 - SOTA
 ---

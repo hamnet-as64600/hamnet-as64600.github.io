@@ -7,7 +7,7 @@ link: https://drc.bz/seceda-hamnet-wieder-online/
 slug: seceda-hamnet-wieder-online
 title: 'Seceda: HamNet wieder online'
 wordpress_id: 9284
-categories:
+tags:
 - HamNet
 - Link Suedtirol
 - Umsetzer Seceda

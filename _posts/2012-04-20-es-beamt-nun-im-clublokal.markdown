@@ -7,7 +7,7 @@ link: https://drc.bz/es-beamt-nun-im-clublokal/
 slug: es-beamt-nun-im-clublokal
 title: Es "beamt" nun im Clublokal
 wordpress_id: 4530
-categories:
+tags:
 - Clublokal
 ---
 

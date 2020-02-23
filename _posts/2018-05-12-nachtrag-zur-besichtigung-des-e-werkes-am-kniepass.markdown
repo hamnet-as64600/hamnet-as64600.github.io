@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zur-besichtigung-des-e-werkes-am-kniepass/
 slug: nachtrag-zur-besichtigung-des-e-werkes-am-kniepass
 title: Nachtrag zur Besichtigung des E-Werkes am Kniepass
 wordpress_id: 16506
-categories:
+tags:
 - Ausflüge
 ---
 

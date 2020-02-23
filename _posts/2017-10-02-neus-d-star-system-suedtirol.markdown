@@ -7,7 +7,7 @@ link: https://drc.bz/neus-d-star-system-suedtirol/
 slug: neus-d-star-system-suedtirol
 title: Neues D-STAR System in Südtirol geht in Betrieb
 wordpress_id: 14759
-categories:
+tags:
 - Allgemein
 - D-STAR
 - DMR

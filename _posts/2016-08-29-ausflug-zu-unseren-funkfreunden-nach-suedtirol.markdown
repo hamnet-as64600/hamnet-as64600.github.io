@@ -7,7 +7,7 @@ link: https://drc.bz/ausflug-zu-unseren-funkfreunden-nach-suedtirol/
 slug: ausflug-zu-unseren-funkfreunden-nach-suedtirol
 title: Ausflug zu unseren Funkfreunden nach Südtirol
 wordpress_id: 12815
-categories:
+tags:
 - DRC Aussenstelle Nord
 ---
 

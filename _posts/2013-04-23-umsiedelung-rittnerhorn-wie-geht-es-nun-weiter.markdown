@@ -7,7 +7,7 @@ link: https://drc.bz/umsiedelung-rittnerhorn-wie-geht-es-nun-weiter/
 slug: umsiedelung-rittnerhorn-wie-geht-es-nun-weiter
 title: Umsiedelung Rittnerhorn, wie geht es nun weiter?
 wordpress_id: 6265
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

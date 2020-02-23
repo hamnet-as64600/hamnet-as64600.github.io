@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-kurs-mit-tfo-schueler-in-bruneck/
 slug: nachtrag-zum-kurs-mit-tfo-schueler-in-bruneck
 title: Nachtrag zum Kurs mit TFO Schüler in Bruneck.
 wordpress_id: 11454
-categories:
+tags:
 - Allgemein
 ---
 

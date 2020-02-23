@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-ulrich-in3hju/
 slug: neues-mitglied-im-drc-ulrich-in3hju
 title: 'Neues Mitglied im DRC: Ulrich, IN3HJU'
 wordpress_id: 15432
-categories:
+tags:
 - Neue Mitglieder
 ---
 

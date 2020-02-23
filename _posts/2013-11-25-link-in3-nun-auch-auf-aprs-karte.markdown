@@ -7,7 +7,7 @@ link: https://drc.bz/link-in3-nun-auch-auf-aprs-karte/
 slug: link-in3-nun-auch-auf-aprs-karte
 title: '"Link IN3" nun auch auf APRS Karte'
 wordpress_id: 7776
-categories:
+tags:
 - APRS
 - Link Suedtirol
 ---

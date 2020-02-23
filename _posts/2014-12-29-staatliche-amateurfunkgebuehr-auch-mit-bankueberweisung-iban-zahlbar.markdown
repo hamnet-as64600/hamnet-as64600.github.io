@@ -7,7 +7,7 @@ link: https://drc.bz/staatliche-amateurfunkgebuehr-auch-mit-bankueberweisung-iba
 slug: staatliche-amateurfunkgebuehr-auch-mit-bankueberweisung-iban-zahlbar
 title: Staatliche Amateurfunkgebühr auch mit Banküberweisung (IBAN) zahlbar
 wordpress_id: 9923
-categories:
+tags:
 - Allgemein
 ---
 

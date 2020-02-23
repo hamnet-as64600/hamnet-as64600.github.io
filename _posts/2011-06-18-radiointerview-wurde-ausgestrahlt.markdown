@@ -7,7 +7,7 @@ link: https://drc.bz/radiointerview-wurde-ausgestrahlt/
 slug: radiointerview-wurde-ausgestrahlt
 title: Radiointerview wurde ausgestrahlt.
 wordpress_id: 3296
-categories:
+tags:
 - Allgemein
 ---
 

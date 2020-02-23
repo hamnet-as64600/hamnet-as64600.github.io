@@ -7,7 +7,7 @@ link: https://drc.bz/besucht-die-fundgrube-des-drc-2/
 slug: besucht-die-fundgrube-des-drc-2
 title: Besucht die Fundgrube des DRC!
 wordpress_id: 15213
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateure-stellen-sich-vor-zu-besuch-bei-bayerischen-ama
 slug: funkamateure-stellen-sich-vor-zu-besuch-bei-bayerischen-amateurfunkern
 title: 'Funkamateure stellen sich vor: Zu Besuch bei bayerischen Amateurfunkern.'
 wordpress_id: 17178
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

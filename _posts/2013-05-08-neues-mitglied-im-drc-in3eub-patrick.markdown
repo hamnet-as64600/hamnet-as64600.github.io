@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3eub-patrick/
 slug: neues-mitglied-im-drc-in3eub-patrick
 title: 'Neues Mitglied im DRC: IN3EUB Patrick'
 wordpress_id: 6370
-categories:
+tags:
 - Neue Mitglieder
 ---
 

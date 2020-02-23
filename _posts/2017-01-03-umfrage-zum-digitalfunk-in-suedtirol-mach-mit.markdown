@@ -7,7 +7,7 @@ link: https://drc.bz/umfrage-zum-digitalfunk-in-suedtirol-mach-mit/
 slug: umfrage-zum-digitalfunk-in-suedtirol-mach-mit
 title: Umfrage zum Digitalfunk in Südtirol - Mach mit!
 wordpress_id: 13506
-categories:
+tags:
 - D-STAR
 - DMR
 - Umsetzer allgemein

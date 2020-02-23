@@ -7,7 +7,7 @@ link: https://drc.bz/tagesordnungspunkte-fur-ov-abend/
 slug: tagesordnungspunkte-fur-ov-abend
 title: . Tagesordnungspunkte für Vereinsabend.
 wordpress_id: 1962
-categories:
+tags:
 - Tagesordnungspunkte
 ---
 

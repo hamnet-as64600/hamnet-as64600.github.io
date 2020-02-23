@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-plose-431375-mhz-aktiv/
 slug: link-suedtirol-plose-431375-mhz-aktiv
 title: Link Südtirol - Plose 431,375 MHz aktiv!
 wordpress_id: 9056
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Plose
 ---

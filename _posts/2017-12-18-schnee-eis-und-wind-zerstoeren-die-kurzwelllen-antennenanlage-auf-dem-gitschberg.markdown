@@ -7,7 +7,7 @@ link: https://drc.bz/schnee-eis-und-wind-zerstoeren-die-kurzwelllen-antennenanla
 slug: schnee-eis-und-wind-zerstoeren-die-kurzwelllen-antennenanlage-auf-dem-gitschberg
 title: Schnee, Eis und Wind zerstören die Kurzwellen-Antennenanlage auf dem Gitschberg
 wordpress_id: 15108
-categories:
+tags:
 - Allgemein
 - Remotestation
 - Umsetzer Gitschberg

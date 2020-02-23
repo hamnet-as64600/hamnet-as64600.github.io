@@ -7,7 +7,7 @@ link: https://drc.bz/homemade-by-christian-dl1mcg/
 slug: homemade-by-christian-dl1mcg
 title: Homemade by Christian DL1MCG
 wordpress_id: 9695
-categories:
+tags:
 - Bastelecke
 - DRC Aussenstelle Nord
 ---

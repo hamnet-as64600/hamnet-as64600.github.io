@@ -7,7 +7,7 @@ link: https://drc.bz/achtung-die-suedtiroler-runde-auf-80m-auf-neuer-frequenz/
 slug: achtung-die-suedtiroler-runde-auf-80m-auf-neuer-frequenz
 title: 'Achtung: Die "Südtiroler Runde" auf 80m auf neuer Frequenz!'
 wordpress_id: 13303
-categories:
+tags:
 - Allgemein
 ---
 

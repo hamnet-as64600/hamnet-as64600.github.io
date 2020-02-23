@@ -7,7 +7,7 @@ link: https://drc.bz/aenderung-des-vorstandes-ewald-in3eid-ist-neuer-veranstaltu
 slug: aenderung-des-vorstandes-ewald-in3eid-ist-neuer-veranstaltungsorganisator
 title: 'Änderung des Vorstandes: Ewald IN3EID ist neuer Veranstaltungsorganisator'
 wordpress_id: 10556
-categories:
+tags:
 - Allgemein
 ---
 

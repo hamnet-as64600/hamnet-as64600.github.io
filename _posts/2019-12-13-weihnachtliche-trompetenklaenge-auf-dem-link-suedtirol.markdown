@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtliche-trompetenklaenge-auf-dem-link-suedtirol/
 slug: weihnachtliche-trompetenklaenge-auf-dem-link-suedtirol
 title: Weihnachtliche Trompetenklänge auf dem Link Südtirol!
 wordpress_id: 18930
-categories:
+tags:
 - Allgemein
 ---
 

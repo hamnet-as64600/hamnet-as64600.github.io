@@ -7,7 +7,7 @@ link: https://drc.bz/start-des-satelliten-d-star-one-gescheitert/
 slug: start-des-satelliten-d-star-one-gescheitert
 title: Start des Satelliten "D-Star one" gescheitert.
 wordpress_id: 14648
-categories:
+tags:
 - Allgemein
 - D-STAR
 ---

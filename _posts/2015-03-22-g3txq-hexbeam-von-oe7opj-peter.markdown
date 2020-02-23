@@ -7,7 +7,7 @@ link: https://drc.bz/g3txq-hexbeam-von-oe7opj-peter/
 slug: g3txq-hexbeam-von-oe7opj-peter
 title: G3TXQ Hexbeam von OE7OPJ Peter
 wordpress_id: 10284
-categories:
+tags:
 - Allgemein
 ---
 

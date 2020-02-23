@@ -7,7 +7,7 @@ link: https://drc.bz/das-qsl-system-des-rsgb-in-england/
 slug: das-qsl-system-des-rsgb-in-england
 title: Das QSL-System des RSGB in England
 wordpress_id: 5088
-categories:
+tags:
 - QSL
 ---
 

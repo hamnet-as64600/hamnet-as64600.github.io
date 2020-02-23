@@ -7,7 +7,7 @@ link: https://drc.bz/mitglied-werden-im-drc-nun-auch-online-moeglich/
 slug: mitglied-werden-im-drc-nun-auch-online-moeglich
 title: Mitglied werden im DRC nun auch Online möglich.
 wordpress_id: 11841
-categories:
+tags:
 - Allgemein
 ---
 

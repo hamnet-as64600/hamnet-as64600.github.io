@@ -7,7 +7,7 @@ link: https://drc.bz/ergebnis-der-umfrage-zur-weiterfuehrung-der-funkuebung-mit-
 slug: ergebnis-der-umfrage-zur-weiterfuehrung-der-funkuebung-mit-in3erw
 title: Ergebnis der Umfrage zur Weiterführung der Funkübung mit IN3ERW
 wordpress_id: 13781
-categories:
+tags:
 - Funkübung
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/news-vom-umsetzer-marmolada-und-vom-rittnerhorn/
 slug: news-vom-umsetzer-marmolada-und-vom-rittnerhorn
 title: News vom Umsetzer Marmolada und vom Rittnerhorn
 wordpress_id: 6194
-categories:
+tags:
 - Umsetzer Marmolada
 - Umsetzer Rittner Horn
 ---

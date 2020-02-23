@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-jahreshauptversammlung-2015-des-drc-und-der-a
 slug: einladung-zur-jahreshauptversammlung-2015-des-drc-und-der-ari-sektion-bruneck
 title: Einladung zur Jahreshauptversammlung 2015 des DRC und der ARI Sektion Bruneck
 wordpress_id: 9960
-categories:
+tags:
 - Allgemein
 ---
 

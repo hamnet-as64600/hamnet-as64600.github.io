@@ -7,7 +7,7 @@ link: https://drc.bz/marlinger-berg-hamnet-modernisiert/
 slug: marlinger-berg-hamnet-modernisiert
 title: Marlinger Berg IR3UHE - Hamnet modernisiert
 wordpress_id: 16280
-categories:
+tags:
 - HamNet
 - Umsetzer Marlinger Berg
 ---

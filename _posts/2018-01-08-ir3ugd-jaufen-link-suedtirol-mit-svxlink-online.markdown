@@ -7,7 +7,7 @@ link: https://drc.bz/ir3ugd-jaufen-link-suedtirol-mit-svxlink-online/
 slug: ir3ugd-jaufen-link-suedtirol-mit-svxlink-online
 title: IR3UGD - Jaufen Link Südtirol mit Svxlink online!
 wordpress_id: 15188
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Jaufen
 ---

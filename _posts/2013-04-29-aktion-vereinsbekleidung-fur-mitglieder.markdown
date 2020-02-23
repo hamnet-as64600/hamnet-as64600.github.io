@@ -7,7 +7,7 @@ link: https://drc.bz/aktion-vereinsbekleidung-fur-mitglieder/
 slug: aktion-vereinsbekleidung-fur-mitglieder
 title: Aktion Vereinsbekleidung für Mitglieder
 wordpress_id: 6304
-categories:
+tags:
 - Vereinsbekleidung
 ---
 

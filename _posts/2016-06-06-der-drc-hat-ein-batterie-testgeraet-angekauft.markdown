@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-hat-ein-batterie-testgeraet-angekauft/
 slug: der-drc-hat-ein-batterie-testgeraet-angekauft
 title: Der DRC hat ein Batterie Testgerät angekauft.
 wordpress_id: 12313
-categories:
+tags:
 - Clublokal
 ---
 

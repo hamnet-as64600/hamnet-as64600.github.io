@@ -7,7 +7,7 @@ link: https://drc.bz/umfrage-gestartet-kennung-der-relais/
 slug: umfrage-gestartet-kennung-der-relais
 title: 'Umfrage gestartet: Kennung der Relais.'
 wordpress_id: 2087
-categories:
+tags:
 - Allgemein
 ---
 

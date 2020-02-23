@@ -7,7 +7,7 @@ link: https://drc.bz/blitz-verursacht-ausfall-des-standorts-seceda/
 slug: blitz-verursacht-ausfall-des-standorts-seceda
 title: Blitz verursacht Ausfall des Standorts Seceda
 wordpress_id: 14486
-categories:
+tags:
 - Allgemein
 ---
 

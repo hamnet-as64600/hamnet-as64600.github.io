@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-do9jbl-sepp-aus-grainau-dl/
 slug: neues-mitglied-im-drc-do9jbl-sepp-aus-grainau-dl
 title: 'Neues Mitglied im DRC: DO9JBL, Sepp aus Grainau (DL)'
 wordpress_id: 13241
-categories:
+tags:
 - Neue Mitglieder
 ---
 

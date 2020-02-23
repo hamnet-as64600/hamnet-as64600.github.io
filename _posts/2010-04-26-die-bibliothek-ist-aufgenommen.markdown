@@ -7,7 +7,7 @@ link: https://drc.bz/die-bibliothek-ist-aufgenommen/
 slug: die-bibliothek-ist-aufgenommen
 title: Die Bibliothek ist aufgenommen!
 wordpress_id: 1200
-categories:
+tags:
 - Allgemein
 ---
 

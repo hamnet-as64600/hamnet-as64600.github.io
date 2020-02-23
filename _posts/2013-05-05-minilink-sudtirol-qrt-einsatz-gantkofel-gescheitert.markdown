@@ -7,7 +7,7 @@ link: https://drc.bz/minilink-sudtirol-qrt-einsatz-gantkofel-gescheitert/
 slug: minilink-sudtirol-qrt-einsatz-gantkofel-gescheitert
 title: Minilink Südtirol QRT - Einsatz Gantkofel gescheitert!
 wordpress_id: 6331
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Gantkofel
 ---

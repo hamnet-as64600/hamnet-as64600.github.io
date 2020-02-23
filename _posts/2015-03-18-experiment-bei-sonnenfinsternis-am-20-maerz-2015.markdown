@@ -7,7 +7,7 @@ link: https://drc.bz/experiment-bei-sonnenfinsternis-am-20-maerz-2015/
 slug: experiment-bei-sonnenfinsternis-am-20-maerz-2015
 title: Experiment bei Sonnenfinsternis am 20. März 2015
 wordpress_id: 10230
-categories:
+tags:
 - Allgemein
 ---
 

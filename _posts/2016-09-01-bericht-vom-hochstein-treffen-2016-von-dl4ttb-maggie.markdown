@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-vom-hochstein-treffen-2016-von-dl4ttb-maggie/
 slug: bericht-vom-hochstein-treffen-2016-von-dl4ttb-maggie
 title: Bericht vom Hochstein Treffen 2016 von DL4TTB, Maggie
 wordpress_id: 12826
-categories:
+tags:
 - Ausflüge
 ---
 

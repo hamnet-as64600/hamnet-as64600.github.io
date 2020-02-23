@@ -7,7 +7,7 @@ link: https://drc.bz/contest-cq-bande-basse-italia/
 slug: contest-cq-bande-basse-italia
 title: Contest CQ Bande Basse Italia
 wordpress_id: 5863
-categories:
+tags:
 - Allgemein
 ---
 

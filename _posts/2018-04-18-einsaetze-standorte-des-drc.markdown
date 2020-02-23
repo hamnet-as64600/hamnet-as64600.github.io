@@ -7,7 +7,7 @@ link: https://drc.bz/einsaetze-standorte-des-drc/
 slug: einsaetze-standorte-des-drc
 title: Einsätze Standorte des DRC - Wer kommt mit?
 wordpress_id: 16266
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/staatliche-amateurfunkgebuehr-fuer-2015/
 slug: staatliche-amateurfunkgebuehr-fuer-2015
 title: Staatliche Amateurfunkgebühr für 2015.
 wordpress_id: 9912
-categories:
+tags:
 - Allgemein
 ---
 

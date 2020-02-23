@@ -7,7 +7,7 @@ link: https://drc.bz/so-war-der-fieldday-2017-am-tschaufen/
 slug: so-war-der-fieldday-2017-am-tschaufen
 title: So war der Fieldday 2017 am Tschaufen.
 wordpress_id: 14527
-categories:
+tags:
 - Allgemein
 ---
 

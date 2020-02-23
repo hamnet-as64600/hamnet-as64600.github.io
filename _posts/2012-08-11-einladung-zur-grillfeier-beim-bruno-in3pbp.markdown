@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-grillfeier-beim-bruno-in3pbp/
 slug: einladung-zur-grillfeier-beim-bruno-in3pbp
 title: Grillen und Funken bei Bruno, IN3PBO
 wordpress_id: 5247
-categories:
+tags:
 - Allgemein
 ---
 

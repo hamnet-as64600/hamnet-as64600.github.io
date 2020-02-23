@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunknews-aus-japan/
 slug: amateurfunknews-aus-japan
 title: Amateurfunknews aus Japan
 wordpress_id: 2947
-categories:
+tags:
 - Notfunk
 ---
 

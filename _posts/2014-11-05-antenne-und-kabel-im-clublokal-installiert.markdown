@@ -7,7 +7,7 @@ link: https://drc.bz/antenne-und-kabel-im-clublokal-installiert/
 slug: antenne-und-kabel-im-clublokal-installiert
 title: Antenne und Kabel im Clublokal installiert.
 wordpress_id: 9657
-categories:
+tags:
 - Clublokal
 ---
 

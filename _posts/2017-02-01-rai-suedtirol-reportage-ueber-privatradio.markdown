@@ -7,7 +7,7 @@ link: https://drc.bz/rai-suedtirol-reportage-ueber-privatradio/
 slug: rai-suedtirol-reportage-ueber-privatradio
 title: RAI Südtirol Reportage über Privatradio
 wordpress_id: 13738
-categories:
+tags:
 - Allgemein
 ---
 

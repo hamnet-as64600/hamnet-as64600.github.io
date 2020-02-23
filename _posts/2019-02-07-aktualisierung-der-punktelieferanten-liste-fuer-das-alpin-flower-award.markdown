@@ -7,7 +7,7 @@ link: https://drc.bz/aktualisierung-der-punktelieferanten-liste-fuer-das-alpin-f
 slug: aktualisierung-der-punktelieferanten-liste-fuer-das-alpin-flower-award
 title: Aktualisierung der Punktelieferanten Liste für das ALPIN FLOWER AWARD
 wordpress_id: 17958
-categories:
+tags:
 - Alpin Flower Award
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-vermittlung-fuer-italienische-amateurfunk-clubs/
 slug: qsl-vermittlung-fuer-italienische-amateurfunk-clubs
 title: QSL-Vermittlung für italienische Amateurfunk-Clubs
 wordpress_id: 7860
-categories:
+tags:
 - QSL
 ---
 

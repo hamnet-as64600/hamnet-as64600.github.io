@@ -7,7 +7,7 @@ link: https://drc.bz/5462/
 slug: '5462'
 title: Bericht zum Folgeeinsatz Marmolada IR3AO
 wordpress_id: 5462
-categories:
+tags:
 - HamNet
 ---
 

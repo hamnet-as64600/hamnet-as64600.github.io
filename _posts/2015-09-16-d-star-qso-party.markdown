@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-qso-party/
 slug: d-star-qso-party
 title: D-STAR-QSO-Party
 wordpress_id: 10848
-categories:
+tags:
 - D-STAR
 ---
 

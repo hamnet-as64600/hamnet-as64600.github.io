@@ -7,7 +7,7 @@ link: https://drc.bz/certificate-of-participation-beim-grisu-marathon-2015/
 slug: certificate-of-participation-beim-grisu-marathon-2015
 title: Certificate of participation beim "Grisu Marathon 2014"
 wordpress_id: 10030
-categories:
+tags:
 - Funkassistenz
 - Notfunk
 ---

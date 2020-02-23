@@ -7,7 +7,7 @@ link: https://drc.bz/der-gemeine-funkamateur-homo-erectus-hamradiensis-eine-typi
 slug: der-gemeine-funkamateur-homo-erectus-hamradiensis-eine-typisierung
 title: Der gemeine Funkamateur (Homo erectus hamradiensis) – eine Typisierung
 wordpress_id: 13569
-categories:
+tags:
 - Allgemein
 ---
 

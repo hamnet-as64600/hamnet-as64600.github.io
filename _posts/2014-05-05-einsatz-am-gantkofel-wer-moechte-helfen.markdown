@@ -7,7 +7,7 @@ link: https://drc.bz/einsatz-am-gantkofel-wer-moechte-helfen/
 slug: einsatz-am-gantkofel-wer-moechte-helfen
 title: 'Einsatz am Gantkofel: Wer möchte helfen?'
 wordpress_id: 8341
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

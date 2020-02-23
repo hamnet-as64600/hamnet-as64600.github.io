@@ -7,7 +7,7 @@ link: https://drc.bz/mobel-furs-neue-clublokal-sind-angeschafft/
 slug: mobel-furs-neue-clublokal-sind-angeschafft
 title: Möbel fürs neue Clublokal sind angeschafft
 wordpress_id: 6046
-categories:
+tags:
 - Clublokal
 ---
 

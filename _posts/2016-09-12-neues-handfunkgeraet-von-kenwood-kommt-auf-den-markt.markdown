@@ -7,7 +7,7 @@ link: https://drc.bz/neues-handfunkgeraet-von-kenwood-kommt-auf-den-markt/
 slug: neues-handfunkgeraet-von-kenwood-kommt-auf-den-markt
 title: Neues Handfunkgerät von Kenwood kommt auf den Markt
 wordpress_id: 12917
-categories:
+tags:
 - Allgemein
 ---
 

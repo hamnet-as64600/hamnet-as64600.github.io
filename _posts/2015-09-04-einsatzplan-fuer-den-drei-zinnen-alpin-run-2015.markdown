@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzplan-fuer-den-drei-zinnen-alpin-run-2015/
 slug: einsatzplan-fuer-den-drei-zinnen-alpin-run-2015
 title: Einsatzplan für den "Drei Zinnen Alpin Run 2015"
 wordpress_id: 10788
-categories:
+tags:
 - 3 Zinnen Run
 - Bastelecke
 ---

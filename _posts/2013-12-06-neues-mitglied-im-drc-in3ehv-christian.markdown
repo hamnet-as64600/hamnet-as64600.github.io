@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3ehv-christian/
 slug: neues-mitglied-im-drc-in3ehv-christian
 title: 'Neues Mitglied im DRC: IN3EHV Christian'
 wordpress_id: 7829
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/beitrag-zum-rittnerhorn-von-iw3bbi-robert/
 slug: beitrag-zum-rittnerhorn-von-iw3bbi-robert
 title: Beitrag zum Rittnerhorn von IW3BBI Robert
 wordpress_id: 3454
-categories:
+tags:
 - Allgemein
 ---
 

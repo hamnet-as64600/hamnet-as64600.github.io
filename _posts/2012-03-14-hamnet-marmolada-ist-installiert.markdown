@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-marmolada-ist-installiert/
 slug: hamnet-marmolada-ist-installiert
 title: Hamnet Marmolada ist neu installiert worden.
 wordpress_id: 4342
-categories:
+tags:
 - HamNet
 ---
 

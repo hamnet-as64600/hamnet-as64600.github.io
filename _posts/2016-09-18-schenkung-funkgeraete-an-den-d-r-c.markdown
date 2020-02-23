@@ -7,7 +7,7 @@ link: https://drc.bz/schenkung-funkgeraete-an-den-d-r-c/
 slug: schenkung-funkgeraete-an-den-d-r-c
 title: Schenkung Funkgeräte an den D.R.C.
 wordpress_id: 12979
-categories:
+tags:
 - Allgemein
 ---
 

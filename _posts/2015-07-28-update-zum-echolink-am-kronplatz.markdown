@@ -7,7 +7,7 @@ link: https://drc.bz/update-zum-echolink-am-kronplatz/
 slug: update-zum-echolink-am-kronplatz
 title: Update zum Echolink am Kronplatz.
 wordpress_id: 10693
-categories:
+tags:
 - Echolink
 - HamNet
 - Umsetzer Kronplatz

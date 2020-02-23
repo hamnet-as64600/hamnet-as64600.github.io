@@ -7,7 +7,7 @@ link: https://drc.bz/datum-fieldday-steht-nun-fest/
 slug: datum-fieldday-steht-nun-fest
 title: Datum Fieldday steht nun fest.
 wordpress_id: 10633
-categories:
+tags:
 - Ausflüge
 ---
 

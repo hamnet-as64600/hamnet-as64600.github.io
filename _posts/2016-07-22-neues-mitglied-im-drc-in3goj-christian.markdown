@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3goj-christian/
 slug: neues-mitglied-im-drc-in3goj-christian
 title: 'Neues Mitglied im DRC: IN3GOJ, Christian'
 wordpress_id: 12550
-categories:
+tags:
 - Neue Mitglieder
 ---
 

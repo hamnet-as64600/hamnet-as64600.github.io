@@ -7,7 +7,7 @@ link: https://drc.bz/iw3btw-georg-wird-aus-namibia-qrv-sein/
 slug: iw3btw-georg-wird-aus-namibia-qrv-sein
 title: IW3BTW Georg wird aus Namibia QRV sein
 wordpress_id: 1773
-categories:
+tags:
 - Allgemein
 ---
 

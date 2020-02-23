@@ -7,7 +7,7 @@ link: https://drc.bz/parkordnung-vor-dem-clublokal/
 slug: parkordnung-vor-dem-clublokal
 title: Parkordnung vor dem Clublokal
 wordpress_id: 1608
-categories:
+tags:
 - Allgemein
 ---
 

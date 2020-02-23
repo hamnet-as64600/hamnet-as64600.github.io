@@ -7,7 +7,7 @@ link: https://drc.bz/18-april-2012-weltamateurfunktag/
 slug: 18-april-2012-weltamateurfunktag
 title: '18. April 2012: Weltamateurfunktag'
 wordpress_id: 4467
-categories:
+tags:
 - Allgemein
 ---
 

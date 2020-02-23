@@ -7,7 +7,7 @@ link: https://drc.bz/kurs-hamoffice-logbuchprogramm/
 slug: kurs-hamoffice-logbuchprogramm
 title: Kurs Hamoffice Logbuchprogramm
 wordpress_id: 4651
-categories:
+tags:
 - Kurse
 ---
 

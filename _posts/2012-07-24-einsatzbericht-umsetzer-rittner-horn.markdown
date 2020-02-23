@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzbericht-umsetzer-rittner-horn/
 slug: einsatzbericht-umsetzer-rittner-horn
 title: Einsatzbericht Umsetzer Rittner Horn
 wordpress_id: 5128
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/sota-treffen-auf-der-hamradio-geplant/
 slug: sota-treffen-auf-der-hamradio-geplant
 title: SOTA Treffen auf der HAMRADIO geplant
 wordpress_id: 12392
-categories:
+tags:
 - Allgemein
 - SOTA
 ---

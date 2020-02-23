@@ -7,7 +7,7 @@ link: https://drc.bz/so-war-der-besuch-im-radiomuseum-und-im-e-werk/
 slug: so-war-der-besuch-im-radiomuseum-und-im-e-werk
 title: So war der Besuch im Radiomuseum und im E-Werk.
 wordpress_id: 19353
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/radio-darc-im-49m-rundfunkband/
 slug: radio-darc-im-49m-rundfunkband
 title: Radio DARC im 49m Rundfunkband
 wordpress_id: 10145
-categories:
+tags:
 - Allgemein
 ---
 

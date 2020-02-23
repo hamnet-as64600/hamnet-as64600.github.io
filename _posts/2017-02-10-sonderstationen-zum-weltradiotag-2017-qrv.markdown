@@ -7,7 +7,7 @@ link: https://drc.bz/sonderstationen-zum-weltradiotag-2017-qrv/
 slug: sonderstationen-zum-weltradiotag-2017-qrv
 title: Sonderstationen zum Weltradiotag 2017 QRV
 wordpress_id: 13779
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/echolink-gitschberg-wieder-aktiv/
 slug: echolink-gitschberg-wieder-aktiv
 title: Echolink Gitschberg wieder aktiv
 wordpress_id: 8037
-categories:
+tags:
 - Echolink
 - Umsetzer Gitschberg
 ---

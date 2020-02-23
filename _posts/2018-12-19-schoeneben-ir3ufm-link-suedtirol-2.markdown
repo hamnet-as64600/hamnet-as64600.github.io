@@ -7,7 +7,7 @@ link: https://drc.bz/schoeneben-ir3ufm-link-suedtirol-2/
 slug: schoeneben-ir3ufm-link-suedtirol-2
 title: Schöneben IR3UFM - Link Südtirol
 wordpress_id: 17781
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Schöneben
 ---

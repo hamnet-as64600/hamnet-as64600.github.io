@@ -7,7 +7,7 @@ link: https://drc.bz/umzug-plose-helfer-gesucht-fuer-samstag-30-september-und-so
 slug: umzug-plose-helfer-gesucht-fuer-samstag-30-september-und-sonntag-1-oktober
 title: Umzug Plose - Helfer gesucht für Samstag 30. September und Sonntag 1. Oktober
 wordpress_id: 14711
-categories:
+tags:
 - Umsetzer Plose
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-luca-in3ezx/
 slug: neues-mitglied-im-drc-luca-in3ezx
 title: 'Neues Mitglied im DRC: Luca, IN3EZX'
 wordpress_id: 13998
-categories:
+tags:
 - Neue Mitglieder
 ---
 

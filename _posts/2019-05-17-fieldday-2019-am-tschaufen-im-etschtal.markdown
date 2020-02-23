@@ -8,7 +8,7 @@ slug: fieldday-2019-am-tschaufen-im-etschtal
 title: Fieldday 2019 am Tschaufen im Etschtal mit Treffen der Teilnehmer der "Südtiroler
   Kurzwellen Runde".
 wordpress_id: 18299
-categories:
+tags:
 - Fieldday
 ---
 

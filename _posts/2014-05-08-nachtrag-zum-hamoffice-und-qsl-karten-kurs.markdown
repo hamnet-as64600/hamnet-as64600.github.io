@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-hamoffice-und-qsl-karten-kurs/
 slug: nachtrag-zum-hamoffice-und-qsl-karten-kurs
 title: Nachtrag zum Hamoffice und QSL-Karten Kurs
 wordpress_id: 8350
-categories:
+tags:
 - Kurse
 ---
 

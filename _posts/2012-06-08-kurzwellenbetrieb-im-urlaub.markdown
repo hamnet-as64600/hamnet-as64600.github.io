@@ -7,7 +7,7 @@ link: https://drc.bz/kurzwellenbetrieb-im-urlaub/
 slug: kurzwellenbetrieb-im-urlaub
 title: Kurzwellenbetrieb im Urlaub
 wordpress_id: 4774
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

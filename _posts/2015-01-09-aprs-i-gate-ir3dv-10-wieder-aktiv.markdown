@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-i-gate-ir3dv-10-wieder-aktiv/
 slug: aprs-i-gate-ir3dv-10-wieder-aktiv
 title: APRS I-Gate IR3DV-10 wieder aktiv
 wordpress_id: 9980
-categories:
+tags:
 - APRS
 - Clublokal
 ---

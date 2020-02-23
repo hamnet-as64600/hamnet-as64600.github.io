@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-gitschberg-ist-erneuert/
 slug: aprs-gitschberg-ist-erneuert
 title: APRS Gitschberg IR3UHI ist erneuert
 wordpress_id: 4873
-categories:
+tags:
 - APRS
 - Umsetzer Gitschberg
 ---

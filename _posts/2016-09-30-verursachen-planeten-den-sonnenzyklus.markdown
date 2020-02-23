@@ -7,7 +7,7 @@ link: https://drc.bz/verursachen-planeten-den-sonnenzyklus/
 slug: verursachen-planeten-den-sonnenzyklus
 title: Verursachen Planeten den Sonnenzyklus?
 wordpress_id: 13046
-categories:
+tags:
 - Allgemein
 ---
 

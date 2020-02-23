@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunkkurs-findet-statt/
 slug: amateurfunkkurs-findet-statt
 title: Amateurfunkkurs hat begonnen.
 wordpress_id: 5554
-categories:
+tags:
 - Kurse
 ---
 

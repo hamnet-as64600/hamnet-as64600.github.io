@@ -7,7 +7,7 @@ link: https://drc.bz/aprs/
 slug: aprs
 title: APRS
 wordpress_id: 18409
-categories:
+tags:
 - APRS
 - Kurse
 - Packet Radio

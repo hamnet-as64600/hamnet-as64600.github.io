@@ -7,7 +7,7 @@ link: https://drc.bz/global-%e2%80%9csimulated-emergency-test%e2%80%9d/
 slug: global-%e2%80%9csimulated-emergency-test%e2%80%9d
 title: Global “Simulated Emergency Test”
 wordpress_id: 3883
-categories:
+tags:
 - Notfunk
 ---
 

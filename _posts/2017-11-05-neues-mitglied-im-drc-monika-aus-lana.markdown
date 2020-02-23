@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-monika-aus-lana/
 slug: neues-mitglied-im-drc-monika-aus-lana
 title: 'Neues Mitglied im DRC: Monika aus Lana'
 wordpress_id: 14930
-categories:
+tags:
 - Neue Mitglieder
 ---
 

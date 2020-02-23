@@ -7,7 +7,7 @@ link: https://drc.bz/interessante-link-sammlung/
 slug: interessante-link-sammlung
 title: Interessante Link Sammlung
 wordpress_id: 5995
-categories:
+tags:
 - Allgemein
 ---
 

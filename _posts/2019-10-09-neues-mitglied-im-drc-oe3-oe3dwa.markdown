@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-oe3-oe3dwa/
 slug: neues-mitglied-im-drc-oe3-oe3dwa
 title: 'Neues Mitglied im DRC:  Walter, OE3DWA'
 wordpress_id: 18833
-categories:
+tags:
 - Neue Mitglieder
 ---
 

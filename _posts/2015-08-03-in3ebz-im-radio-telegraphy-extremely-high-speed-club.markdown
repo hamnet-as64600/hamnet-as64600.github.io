@@ -7,7 +7,7 @@ link: https://drc.bz/in3ebz-im-radio-telegraphy-extremely-high-speed-club/
 slug: in3ebz-im-radio-telegraphy-extremely-high-speed-club
 title: IN3EBZ im "Radio Telegraphy Extremely High Speed Club"
 wordpress_id: 10734
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/jahreshauptversammlung-2013-des-dolomites-radio-club/
 slug: jahreshauptversammlung-2013-des-dolomites-radio-club
 title: Jahreshauptversammlung 2013 des DOLOMITES RADIO CLUB
 wordpress_id: 5933
-categories:
+tags:
 - Allgemein
 ---
 

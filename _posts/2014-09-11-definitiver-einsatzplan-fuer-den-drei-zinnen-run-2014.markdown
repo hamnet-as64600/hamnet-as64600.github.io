@@ -7,7 +7,7 @@ link: https://drc.bz/definitiver-einsatzplan-fuer-den-drei-zinnen-run-2014/
 slug: definitiver-einsatzplan-fuer-den-drei-zinnen-run-2014
 title: Definitiver Einsatzplan fuer den Drei Zinnen Run 2014
 wordpress_id: 9230
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

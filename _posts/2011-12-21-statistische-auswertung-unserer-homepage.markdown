@@ -7,7 +7,7 @@ link: https://drc.bz/statistische-auswertung-unserer-homepage/
 slug: statistische-auswertung-unserer-homepage
 title: Statistische Auswertung unserer Homepage
 wordpress_id: 4050
-categories:
+tags:
 - Allgemein
 ---
 

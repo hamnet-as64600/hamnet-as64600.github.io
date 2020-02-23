@@ -7,7 +7,7 @@ link: https://drc.bz/suche-gfk-bundeswehr-steckstangen/
 slug: suche-gfk-bundeswehr-steckstangen
 title: Suche GFK Bundeswehr Steckstangen.
 wordpress_id: 13543
-categories:
+tags:
 - Allgemein
 ---
 

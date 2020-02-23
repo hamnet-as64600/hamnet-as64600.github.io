@@ -7,7 +7,7 @@ link: https://drc.bz/linkanbindung-plose-gefrorene-wand/
 slug: linkanbindung-plose-gefrorene-wand
 title: Linkanbindung Plose - Gefrorene Wand
 wordpress_id: 3744
-categories:
+tags:
 - Allgemein
 - Umsetzer Plose
 ---

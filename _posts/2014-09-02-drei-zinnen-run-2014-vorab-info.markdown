@@ -7,7 +7,7 @@ link: https://drc.bz/drei-zinnen-run-2014-vorab-info/
 slug: drei-zinnen-run-2014-vorab-info
 title: 'Drei Zinnen Run 2014: Vorab Info!'
 wordpress_id: 9108
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

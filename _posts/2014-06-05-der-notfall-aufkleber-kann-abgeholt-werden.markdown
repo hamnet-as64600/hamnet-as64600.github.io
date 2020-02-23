@@ -7,7 +7,7 @@ link: https://drc.bz/der-notfall-aufkleber-kann-abgeholt-werden/
 slug: der-notfall-aufkleber-kann-abgeholt-werden
 title: Der NOTFALL Aufkleber kann abgeholt werden!
 wordpress_id: 8452
-categories:
+tags:
 - Notfunk
 ---
 

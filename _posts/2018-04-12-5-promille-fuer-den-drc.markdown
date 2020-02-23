@@ -7,7 +7,7 @@ link: https://drc.bz/5-promille-fuer-den-drc/
 slug: 5-promille-fuer-den-drc
 title: 5 Promille für den DRC
 wordpress_id: 16222
-categories:
+tags:
 - Allgemein
 ---
 

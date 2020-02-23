@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-dl6may-hans-sondermeier-aus-krailing-bei-muenche
 slug: silent-key-dl6may-hans-sondermeier-aus-krailing-bei-muenchen
 title: 'Silent key: DL6MAY Hans Sondermeier aus Krailing bei München'
 wordpress_id: 8500
-categories:
+tags:
 - Silent key
 ---
 

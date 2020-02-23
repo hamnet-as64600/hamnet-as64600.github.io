@@ -7,7 +7,7 @@ link: https://drc.bz/suchen-helfer-fuer-grabungsarbeiten-auf-dem-gitschberg/
 slug: suchen-helfer-fuer-grabungsarbeiten-auf-dem-gitschberg
 title: Suchen Helfer für Grabungsarbeiten auf dem Gitschberg!
 wordpress_id: 16558
-categories:
+tags:
 - Umsetzer Gitschberg
 ---
 

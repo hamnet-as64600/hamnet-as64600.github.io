@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-jahreshauptversammlung-des-drc-am-27-jaenner-
 slug: einladung-zur-jahreshauptversammlung-des-drc-am-27-jaenner-2017
 title: Einladung zur Jahreshauptversammlung des DRC am 27. Jänner 2017
 wordpress_id: 13563
-categories:
+tags:
 - Allgemein
 ---
 

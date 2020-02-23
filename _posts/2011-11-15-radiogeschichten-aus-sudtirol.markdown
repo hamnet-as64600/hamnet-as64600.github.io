@@ -7,7 +7,7 @@ link: https://drc.bz/radiogeschichten-aus-sudtirol/
 slug: radiogeschichten-aus-sudtirol
 title: Radiogeschichten aus Südtirol
 wordpress_id: 3891
-categories:
+tags:
 - Allgemein
 ---
 

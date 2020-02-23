@@ -7,7 +7,7 @@ link: https://drc.bz/schildmuetze-nun-auch-verfuegbar/
 slug: schildmuetze-nun-auch-verfuegbar
 title: Schildmütze nun auch verfügbar.
 wordpress_id: 9112
-categories:
+tags:
 - Vereinsbekleidung
 ---
 

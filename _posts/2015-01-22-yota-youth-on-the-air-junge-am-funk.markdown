@@ -7,7 +7,7 @@ link: https://drc.bz/yota-youth-on-the-air-junge-am-funk/
 slug: yota-youth-on-the-air-junge-am-funk
 title: YOTA – Youth on the Air - Junge am Funk
 wordpress_id: 10004
-categories:
+tags:
 - OEVSV
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/cisar-sudtriol-bietet-nun-probeweise-den-qsl-dienst-an/
 slug: cisar-sudtriol-bietet-nun-probeweise-den-qsl-dienst-an
 title: CISAR Südtriol bietet nun probeweise den QSL Dienst an.
 wordpress_id: 1832
-categories:
+tags:
 - Allgemein
 ---
 

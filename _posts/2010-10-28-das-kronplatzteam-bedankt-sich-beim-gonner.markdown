@@ -7,7 +7,7 @@ link: https://drc.bz/das-kronplatzteam-bedankt-sich-beim-gonner/
 slug: das-kronplatzteam-bedankt-sich-beim-gonner
 title: Das Kronplatzteam bedankt sich für die Einladung
 wordpress_id: 1997
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

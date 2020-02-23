@@ -7,7 +7,7 @@ link: https://drc.bz/doppel-einsatz-auf-plose-und-gitschberg/
 slug: doppel-einsatz-auf-plose-und-gitschberg
 title: Doppel-Einsatz auf Plose und Gitschberg
 wordpress_id: 16537
-categories:
+tags:
 - Allgemein
 - Umsetzer Plose
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/jahreshauptversammlung-2011/
 slug: jahreshauptversammlung-2011
 title: Jahreshauptversammlung 2011 des DRC
 wordpress_id: 2283
-categories:
+tags:
 - Allgemein
 ---
 

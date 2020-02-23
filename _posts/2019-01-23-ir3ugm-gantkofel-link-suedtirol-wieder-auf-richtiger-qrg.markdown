@@ -7,7 +7,7 @@ link: https://drc.bz/ir3ugm-gantkofel-link-suedtirol-wieder-auf-richtiger-qrg/
 slug: ir3ugm-gantkofel-link-suedtirol-wieder-auf-richtiger-qrg
 title: IR3UGM - Gantkofel Link Südtirol wieder auf richtiger QRG
 wordpress_id: 17907
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Gantkofel
 ---

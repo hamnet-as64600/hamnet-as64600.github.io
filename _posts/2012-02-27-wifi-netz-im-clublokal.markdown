@@ -7,7 +7,7 @@ link: https://drc.bz/wifi-netz-im-clublokal/
 slug: wifi-netz-im-clublokal
 title: WIFI-Netz  im Clublokal
 wordpress_id: 4284
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/in-memoria-di-in3pwe-egon/
 slug: in-memoria-di-in3pwe-egon
 title: In memoria di IN3PWE Egon
 wordpress_id: 8412
-categories:
+tags:
 - Silent key
 ---
 

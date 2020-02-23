@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-brigitte-iw3bam-aus-issing/
 slug: neues-mitglied-im-drc-brigitte-iw3bam-aus-issing
 title: 'Neues Mitglied im DRC: Brigitte IW3BAM aus Issing'
 wordpress_id: 9853
-categories:
+tags:
 - Neue Mitglieder
 ---
 

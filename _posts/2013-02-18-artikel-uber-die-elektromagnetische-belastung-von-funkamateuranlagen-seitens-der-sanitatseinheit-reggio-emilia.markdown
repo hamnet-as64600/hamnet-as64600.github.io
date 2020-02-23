@@ -8,7 +8,7 @@ slug: artikel-uber-die-elektromagnetische-belastung-von-funkamateuranlagen-seite
 title: Artikel über die elektromagnetische Belastung von Funkamateuranlagen seitens
   der Sanitätseinheit Reggio Emilia
 wordpress_id: 6080
-categories:
+tags:
 - Allgemein
 ---
 

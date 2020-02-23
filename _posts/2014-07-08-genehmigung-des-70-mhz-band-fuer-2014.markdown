@@ -7,7 +7,7 @@ link: https://drc.bz/genehmigung-des-70-mhz-band-fuer-2014/
 slug: genehmigung-des-70-mhz-band-fuer-2014
 title: Genehmigung des 70 MHz Bandes für 2014
 wordpress_id: 8529
-categories:
+tags:
 - Allgemein
 ---
 

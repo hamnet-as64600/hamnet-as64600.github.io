@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunktagung-muenchen-29-2-1-3-2020/
 slug: amateurfunktagung-muenchen-29-2-1-3-2020
 title: Amateurfunktagung München,  29.2. - 1.3.2020
 wordpress_id: 18976
-categories:
+tags:
 - Allgemein
 ---
 

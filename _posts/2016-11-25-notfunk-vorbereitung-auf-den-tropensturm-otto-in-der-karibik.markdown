@@ -7,7 +7,7 @@ link: https://drc.bz/notfunk-vorbereitung-auf-den-tropensturm-otto-in-der-karibi
 slug: notfunk-vorbereitung-auf-den-tropensturm-otto-in-der-karibik
 title: 'Notfunk: Vorbereitung auf den Tropensturm "Otto" in der Karibik'
 wordpress_id: 13311
-categories:
+tags:
 - Notfunk
 ---
 

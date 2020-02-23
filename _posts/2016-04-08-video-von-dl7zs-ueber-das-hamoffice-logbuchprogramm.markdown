@@ -7,7 +7,7 @@ link: https://drc.bz/video-von-dl7zs-ueber-das-hamoffice-logbuchprogramm/
 slug: video-von-dl7zs-ueber-das-hamoffice-logbuchprogramm
 title: Video von DL7ZS über das Hamoffice Logbuchprogramm
 wordpress_id: 11916
-categories:
+tags:
 - Allgemein
 ---
 

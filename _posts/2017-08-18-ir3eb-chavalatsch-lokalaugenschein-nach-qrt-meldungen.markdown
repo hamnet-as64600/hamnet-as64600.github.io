@@ -7,7 +7,7 @@ link: https://drc.bz/ir3eb-chavalatsch-lokalaugenschein-nach-qrt-meldungen/
 slug: ir3eb-chavalatsch-lokalaugenschein-nach-qrt-meldungen
 title: IR3EB - Chavalatsch, Lokalaugenschein nach QRT Meldungen
 wordpress_id: 14613
-categories:
+tags:
 - HamNet
 - Umsetzer Chavalatsch
 - Webcam

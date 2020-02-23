@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-auf-mobelsuche/
 slug: der-drc-auf-mobelsuche
 title: Der DRC auf Möbelsuche.
 wordpress_id: 5808
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-von-hamradio-von-in3wln/
 slug: bericht-von-hamradio-von-in3wln
 title: Bericht von HAMRADIO von IN3WLN
 wordpress_id: 6573
-categories:
+tags:
 - Ausflüge
 ---
 

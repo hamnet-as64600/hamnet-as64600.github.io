@@ -7,7 +7,7 @@ link: https://drc.bz/antennenaustausch-am-umsetzer-auf-dem-wurmkogel/
 slug: antennenaustausch-am-umsetzer-auf-dem-wurmkogel
 title: Antennenaustausch am Umsetzer auf dem Wurmkogel
 wordpress_id: 7967
-categories:
+tags:
 - Allgemein
 ---
 

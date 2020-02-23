@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-d-star-umsetzer-auf-plose-ir3uap/
 slug: neuer-d-star-umsetzer-auf-plose-ir3uap
 title: Neuer D-STAR Umsetzer auf Plose IR3UAP
 wordpress_id: 7072
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

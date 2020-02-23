@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-bekommt-zuwachs/
 slug: der-drc-bekommt-zuwachs
 title: Der DRC bekommt Zuwachs
 wordpress_id: 2022
-categories:
+tags:
 - Neue Mitglieder
 ---
 

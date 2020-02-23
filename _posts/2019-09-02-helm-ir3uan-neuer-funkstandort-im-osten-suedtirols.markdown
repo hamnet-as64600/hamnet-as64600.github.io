@@ -7,7 +7,7 @@ link: https://drc.bz/helm-ir3uan-neuer-funkstandort-im-osten-suedtirols/
 slug: helm-ir3uan-neuer-funkstandort-im-osten-suedtirols
 title: Helm IR3UAN - Neuer Funkstandort im Osten Südtirols
 wordpress_id: 18729
-categories:
+tags:
 - HamNet
 - Link Suedtirol
 - Umsetzer Helm

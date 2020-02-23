@@ -7,7 +7,7 @@ link: https://drc.bz/wegbeschreibung-zum-sitzungssaal-jahreshauptversammlung-und
 slug: wegbeschreibung-zum-sitzungssaal-jahreshauptversammlung-und-ausdruck-wahlzettel
 title: Wegbeschreibung zum Sitzungssaal (Jahreshauptversammlung) und Ausdruck Wahlzettel.
 wordpress_id: 17902
-categories:
+tags:
 - Jahreshauptversammlung
 ---
 

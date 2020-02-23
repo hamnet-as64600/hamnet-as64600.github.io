@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateure-versuchen-kontakt-nach-korea/
 slug: funkamateure-versuchen-kontakt-nach-korea
 title: Funkamateure versuchen Kontakt nach Korea!!
 wordpress_id: 15340
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/pr-auf-stol-alles-bereit-fuer-drei-zinnen-lauf/
 slug: pr-auf-stol-alles-bereit-fuer-drei-zinnen-lauf
 title: 'PR auf Stol: Alles bereit für Drei Zinnen Lauf'
 wordpress_id: 10816
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/meraner-stadtanzeiger-funkamateure-im-aufwind/
 slug: meraner-stadtanzeiger-funkamateure-im-aufwind
 title: 'Meraner Stadtanzeiger: Funkamateure im Aufwind'
 wordpress_id: 6322
-categories:
+tags:
 - Allgemein
 ---
 

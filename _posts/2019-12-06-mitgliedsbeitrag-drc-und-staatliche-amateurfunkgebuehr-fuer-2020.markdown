@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer
 slug: mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer-2020
 title: Mitgliedsbeitrag DRC  und staatliche Amateurfunkgebühr für 2020.
 wordpress_id: 18882
-categories:
+tags:
 - Allgemein
 ---
 

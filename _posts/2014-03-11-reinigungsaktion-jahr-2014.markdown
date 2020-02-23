@@ -7,7 +7,7 @@ link: https://drc.bz/reinigungsaktion-jahr-2014/
 slug: reinigungsaktion-jahr-2014
 title: Reinigungsaktion Jahr 2014
 wordpress_id: 8175
-categories:
+tags:
 - Allgemein
 ---
 

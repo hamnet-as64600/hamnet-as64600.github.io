@@ -7,7 +7,7 @@ link: https://drc.bz/einfuehrungskurs-fuer-alle-neulizensierten-funkamateure-und
 slug: einfuehrungskurs-fuer-alle-neulizensierten-funkamateure-und-interessierte
 title: Einführungskurs für alle neulizensierten Funkamateure und Interessierte.
 wordpress_id: 18092
-categories:
+tags:
 - Allgemein
 - Clublokal
 - Kurse

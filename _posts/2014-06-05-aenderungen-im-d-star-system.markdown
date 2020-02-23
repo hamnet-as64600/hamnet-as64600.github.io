@@ -7,7 +7,7 @@ link: https://drc.bz/aenderungen-im-d-star-system/
 slug: aenderungen-im-d-star-system
 title: Änderungen im D-STAR-System!
 wordpress_id: 8448
-categories:
+tags:
 - D-STAR
 ---
 

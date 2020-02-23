@@ -7,7 +7,7 @@ link: https://drc.bz/neue-kurzwellenantenne-im-clublokal/
 slug: neue-kurzwellenantenne-im-clublokal
 title: Neue Kurzwellenantenne im Clublokal
 wordpress_id: 3680
-categories:
+tags:
 - Allgemein
 ---
 

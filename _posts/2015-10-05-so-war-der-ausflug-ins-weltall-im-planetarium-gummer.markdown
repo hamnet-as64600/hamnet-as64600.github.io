@@ -7,7 +7,7 @@ link: https://drc.bz/so-war-der-ausflug-ins-weltall-im-planetarium-gummer/
 slug: so-war-der-ausflug-ins-weltall-im-planetarium-gummer
 title: So war der Ausflug ins Weltall im Planetarium Gummer.
 wordpress_id: 10964
-categories:
+tags:
 - Ausflüge
 ---
 

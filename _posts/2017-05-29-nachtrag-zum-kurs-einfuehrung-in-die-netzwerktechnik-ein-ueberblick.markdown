@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-kurs-einfuehrung-in-die-netzwerktechnik-ein-ue
 slug: nachtrag-zum-kurs-einfuehrung-in-die-netzwerktechnik-ein-ueberblick
 title: Nachtrag zum Kurs "Einführung in die Netzwerktechnik" - Ein Überblick
 wordpress_id: 14301
-categories:
+tags:
 - Kurse
 ---
 

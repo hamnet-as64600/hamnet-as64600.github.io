@@ -7,7 +7,7 @@ link: https://drc.bz/notfunk-bei-erdbeben-in-nepal-und-indien/
 slug: notfunk-bei-erdbeben-in-nepal-und-indien
 title: Notfunk bei Erdbeben in Nepal und Indien
 wordpress_id: 10381
-categories:
+tags:
 - Notfunk
 ---
 

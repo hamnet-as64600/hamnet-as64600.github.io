@@ -7,7 +7,7 @@ link: https://drc.bz/dl1mcg-dx-spedition-nach-i3/
 slug: dl1mcg-dx-spedition-nach-i3
 title: DL1MCG DX Spedition nach I3.
 wordpress_id: 14018
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

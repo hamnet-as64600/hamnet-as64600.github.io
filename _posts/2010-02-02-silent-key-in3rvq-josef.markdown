@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3rvq-josef/
 slug: silent-key-in3rvq-josef
 title: 'Silent key: IN3RVQ Josef'
 wordpress_id: 719
-categories:
+tags:
 - Silent key
 ---
 

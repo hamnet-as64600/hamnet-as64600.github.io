@@ -8,7 +8,7 @@ slug: mitteilung-zu-den-monatlichen-funkuebungen-auf-den-umsetzern-des-drc-mit-r
 title: Mitteilung zu den monatlichen Funkübungen auf den Umsetzern des DRC mit Reinhart
   IN3ERW
 wordpress_id: 12820
-categories:
+tags:
 - Notfunk
 ---
 

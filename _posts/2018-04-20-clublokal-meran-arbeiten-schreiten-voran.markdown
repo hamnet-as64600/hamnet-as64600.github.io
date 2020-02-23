@@ -7,7 +7,7 @@ link: https://drc.bz/clublokal-meran-arbeiten-schreiten-voran/
 slug: clublokal-meran-arbeiten-schreiten-voran
 title: Clublokal Meran - Arbeiten schreiten voran
 wordpress_id: 16294
-categories:
+tags:
 - Clublokal
 ---
 

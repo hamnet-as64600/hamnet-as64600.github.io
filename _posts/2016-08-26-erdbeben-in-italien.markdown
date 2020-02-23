@@ -7,7 +7,7 @@ link: https://drc.bz/erdbeben-in-italien/
 slug: erdbeben-in-italien
 title: Erdbeben in Italien
 wordpress_id: 12812
-categories:
+tags:
 - Notfunk
 ---
 

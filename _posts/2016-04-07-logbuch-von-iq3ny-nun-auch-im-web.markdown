@@ -7,7 +7,7 @@ link: https://drc.bz/logbuch-von-iq3ny-nun-auch-im-web/
 slug: logbuch-von-iq3ny-nun-auch-im-web
 title: Logbuch von IQ3NY nun auch im Web.
 wordpress_id: 11902
-categories:
+tags:
 - IQ3NY
 ---
 

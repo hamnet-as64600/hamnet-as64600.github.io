@@ -7,7 +7,7 @@ link: https://drc.bz/news-betreffend-digitale-kommunikation/
 slug: news-betreffend-digitale-kommunikation
 title: News betreffend "digitale Kommunikation"
 wordpress_id: 5886
-categories:
+tags:
 - D-STAR
 ---
 

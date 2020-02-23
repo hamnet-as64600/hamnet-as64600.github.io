@@ -7,7 +7,7 @@ link: https://drc.bz/wurmkogel-r7a-wieder-aktiv/
 slug: wurmkogel-r7a-wieder-aktiv
 title: Wurmkogel R7a wieder aktiv
 wordpress_id: 6580
-categories:
+tags:
 - Allgemein
 ---
 

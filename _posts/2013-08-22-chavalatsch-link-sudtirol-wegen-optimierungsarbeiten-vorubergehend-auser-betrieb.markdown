@@ -8,7 +8,7 @@ slug: chavalatsch-link-sudtirol-wegen-optimierungsarbeiten-vorubergehend-auser-b
 title: Chavalatsch - Link Südtirol wegen Optimierungsarbeiten vorübergehend außer
   Betrieb!
 wordpress_id: 6979
-categories:
+tags:
 - Link Suedtirol
 ---
 

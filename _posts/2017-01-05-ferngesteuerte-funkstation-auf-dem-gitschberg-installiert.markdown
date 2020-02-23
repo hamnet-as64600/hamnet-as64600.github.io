@@ -7,7 +7,7 @@ link: https://drc.bz/ferngesteuerte-funkstation-auf-dem-gitschberg-installiert/
 slug: ferngesteuerte-funkstation-auf-dem-gitschberg-installiert
 title: Ferngesteuerte Funkstation auf dem Gitschberg installiert
 wordpress_id: 13523
-categories:
+tags:
 - Allgemein
 - Umsetzer Gitschberg
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/kandidaten-fuer-die-kommenden-vorstandswahlen-gesucht/
 slug: kandidaten-fuer-die-kommenden-vorstandswahlen-gesucht
 title: Kandidaten für die kommenden Vorstandswahlen gesucht.
 wordpress_id: 17722
-categories:
+tags:
 - Jahreshauptversammlung
 ---
 

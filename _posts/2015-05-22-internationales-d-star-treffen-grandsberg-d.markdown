@@ -7,7 +7,7 @@ link: https://drc.bz/internationales-d-star-treffen-grandsberg-d/
 slug: internationales-d-star-treffen-grandsberg-d
 title: Internationales D-Star Treffen Grandsberg (D)
 wordpress_id: 10474
-categories:
+tags:
 - D-STAR
 - DRC Aussenstelle Nord
 - HamNet

@@ -7,7 +7,7 @@ link: https://drc.bz/5-promille-der-einkommenssteuer-fuer-den-dolomites-radio-cl
 slug: 5-promille-der-einkommenssteuer-fuer-den-dolomites-radio-club
 title: 5 Promille der Einkommenssteuer für den Dolomites Radio Club
 wordpress_id: 8198
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/aktuelle-cept-regelung-fur-auslandische-funkamateure-in-ita
 slug: aktuelle-cept-regelung-fur-auslandische-funkamateure-in-italien
 title: Aktuelle CEPT Regelung für ausländische Funkamateure in Italien.
 wordpress_id: 6151
-categories:
+tags:
 - Allgemein
 ---
 

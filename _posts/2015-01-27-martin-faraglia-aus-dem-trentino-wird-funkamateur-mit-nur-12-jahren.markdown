@@ -7,7 +7,7 @@ link: https://drc.bz/martin-faraglia-aus-dem-trentino-wird-funkamateur-mit-nur-1
 slug: martin-faraglia-aus-dem-trentino-wird-funkamateur-mit-nur-12-jahren
 title: Martin Faraglia aus dem Trentino wird Funkamateur mit nur 12 Jahren
 wordpress_id: 10017
-categories:
+tags:
 - Allgemein
 ---
 

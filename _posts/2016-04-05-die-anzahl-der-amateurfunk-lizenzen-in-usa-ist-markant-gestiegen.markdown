@@ -7,7 +7,7 @@ link: https://drc.bz/die-anzahl-der-amateurfunk-lizenzen-in-usa-ist-markant-gest
 slug: die-anzahl-der-amateurfunk-lizenzen-in-usa-ist-markant-gestiegen
 title: Die Anzahl der Amateurfunk Lizenzen in USA ist markant gestiegen.
 wordpress_id: 11886
-categories:
+tags:
 - Allgemein
 ---
 

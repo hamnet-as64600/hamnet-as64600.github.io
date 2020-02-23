@@ -7,7 +7,7 @@ link: https://drc.bz/ii3bia-sonderrufzeichen-fuer-biathlon-wm-antholz/
 slug: ii3bia-sonderrufzeichen-fuer-biathlon-wm-antholz
 title: II3BIA - Sonderrufzeichen für Biathlon WM Antholz
 wordpress_id: 18924
-categories:
+tags:
 - Allgemein
 ---
 

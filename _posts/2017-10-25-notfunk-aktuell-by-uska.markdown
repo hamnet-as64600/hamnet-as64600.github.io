@@ -7,7 +7,7 @@ link: https://drc.bz/notfunk-aktuell-by-uska/
 slug: notfunk-aktuell-by-uska
 title: Notfunk aktuell by USKA
 wordpress_id: 14893
-categories:
+tags:
 - Notfunk
 ---
 

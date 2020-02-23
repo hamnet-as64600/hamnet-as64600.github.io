@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-seceda-ist-installiert/
 slug: hamnet-seceda-ist-installiert
 title: HAMNET Seceda ist installiert
 wordpress_id: 3982
-categories:
+tags:
 - HamNet
 - Umsetzer Seceda
 ---

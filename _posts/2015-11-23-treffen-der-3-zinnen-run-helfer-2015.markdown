@@ -7,7 +7,7 @@ link: https://drc.bz/treffen-der-3-zinnen-run-helfer-2015/
 slug: treffen-der-3-zinnen-run-helfer-2015
 title: Treffen der "3 ZINNEN RUN" Helfer 2015.
 wordpress_id: 11181
-categories:
+tags:
 - 3 Zinnen Run
 - Feiern und Unterhaltung
 ---

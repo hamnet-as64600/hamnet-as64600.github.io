@@ -7,7 +7,7 @@ link: https://drc.bz/whatsapp-gruppe-digimodes/
 slug: whatsapp-gruppe-digimodes
 title: Whatsapp - Gruppe "Digimodes"
 wordpress_id: 13219
-categories:
+tags:
 - Allgemein
 ---
 

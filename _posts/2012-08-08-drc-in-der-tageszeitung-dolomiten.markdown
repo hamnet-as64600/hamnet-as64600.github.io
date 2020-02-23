@@ -7,7 +7,7 @@ link: https://drc.bz/drc-in-der-tageszeitung-dolomiten/
 slug: drc-in-der-tageszeitung-dolomiten
 title: DRC in der Tageszeitung DOLOMITEN
 wordpress_id: 5266
-categories:
+tags:
 - Allgemein
 ---
 

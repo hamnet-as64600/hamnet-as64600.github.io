@@ -7,7 +7,7 @@ link: https://drc.bz/der-letzte-alexanderson-alternator-sendet-wieder-auf-172-kh
 slug: der-letzte-alexanderson-alternator-sendet-wieder-auf-172-khz
 title: Der letzte „Alexanderson Alternator“ sendet wieder auf 17,2 kHz
 wordpress_id: 7917
-categories:
+tags:
 - Allgemein
 ---
 

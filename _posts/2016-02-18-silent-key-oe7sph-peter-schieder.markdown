@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-oe7sph-peter-schieder/
 slug: silent-key-oe7sph-peter-schieder
 title: 'Silent key: OE7SPH Peter Schieder'
 wordpress_id: 11592
-categories:
+tags:
 - Silent key
 ---
 

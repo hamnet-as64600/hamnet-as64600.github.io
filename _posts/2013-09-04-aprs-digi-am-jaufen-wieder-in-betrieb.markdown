@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-digi-am-jaufen-wieder-in-betrieb/
 slug: aprs-digi-am-jaufen-wieder-in-betrieb
 title: APRS Digi am Jaufen wieder in Betrieb
 wordpress_id: 7064
-categories:
+tags:
 - APRS
 - Umsetzer Jaufen
 ---

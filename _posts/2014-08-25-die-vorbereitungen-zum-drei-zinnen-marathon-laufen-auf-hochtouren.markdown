@@ -7,7 +7,7 @@ link: https://drc.bz/die-vorbereitungen-zum-drei-zinnen-marathon-laufen-auf-hoch
 slug: die-vorbereitungen-zum-drei-zinnen-marathon-laufen-auf-hochtouren
 title: Die Vorbereitungen zum Drei Zinnen Marathon laufen auf Hochtouren.
 wordpress_id: 8959
-categories:
+tags:
 - Funkassistenz
 ---
 

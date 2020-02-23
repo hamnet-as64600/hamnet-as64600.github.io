@@ -7,7 +7,7 @@ link: https://drc.bz/helm-ir3uan-link-suedtirol-und-mmdvm/
 slug: helm-ir3uan-link-suedtirol-und-mmdvm
 title: Helm IR3UAN - Link Südtirol und MMDVM
 wordpress_id: 19303
-categories:
+tags:
 - C4FM
 - D-STAR
 - DMR

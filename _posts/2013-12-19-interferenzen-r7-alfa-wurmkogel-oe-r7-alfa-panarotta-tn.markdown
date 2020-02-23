@@ -7,7 +7,7 @@ link: https://drc.bz/interferenzen-r7-alfa-wurmkogel-oe-r7-alfa-panarotta-tn/
 slug: interferenzen-r7-alfa-wurmkogel-oe-r7-alfa-panarotta-tn
 title: Interferenzen R7 alfa Wurmkogel (OE) - R7 alfa Panarotta (TN)
 wordpress_id: 7870
-categories:
+tags:
 - Umsetzer allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3tgn-gregor/
 slug: neues-mitglied-im-drc-in3tgn-gregor
 title: 'Neues Mitglied im DRC: IN3TGN, Gregor'
 wordpress_id: 12610
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/rittnerhorn-letzte-aufraeumarbeiten-und-abbau-alter-masten/
 slug: rittnerhorn-letzte-aufraeumarbeiten-und-abbau-alter-masten
 title: 'Rittnerhorn: letzte Aufräumarbeiten und  Abbau alter Masten'
 wordpress_id: 9273
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

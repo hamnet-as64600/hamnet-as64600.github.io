@@ -7,7 +7,7 @@ link: https://drc.bz/clublokal-meran-elektro-aufraeum-und-putzarbeiten/
 slug: clublokal-meran-elektro-aufraeum-und-putzarbeiten
 title: Clublokal Meran - Elektro-, Aufräum- und Putzarbeiten
 wordpress_id: 16302
-categories:
+tags:
 - Allgemein
 - Clublokal
 ---

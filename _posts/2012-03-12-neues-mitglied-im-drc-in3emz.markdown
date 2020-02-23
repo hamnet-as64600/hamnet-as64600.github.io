@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3emz/
 slug: neues-mitglied-im-drc-in3emz
 title: 'Neues Mitglied im DRC: IN3EMZ'
 wordpress_id: 4325
-categories:
+tags:
 - Neue Mitglieder
 ---
 

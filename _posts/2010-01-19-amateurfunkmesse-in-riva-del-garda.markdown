@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunkmesse-in-riva-del-garda/
 slug: amateurfunkmesse-in-riva-del-garda
 title: Amateurfunkmesse in Riva del Garda
 wordpress_id: 671
-categories:
+tags:
 - Allgemein
 ---
 

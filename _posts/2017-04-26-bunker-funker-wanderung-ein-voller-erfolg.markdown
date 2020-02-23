@@ -7,7 +7,7 @@ link: https://drc.bz/bunker-funker-wanderung-ein-voller-erfolg/
 slug: bunker-funker-wanderung-ein-voller-erfolg
 title: 'Bunker-Funker-Wanderung: ein voller Erfolg!'
 wordpress_id: 14025
-categories:
+tags:
 - Ausflüge
 ---
 

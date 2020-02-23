@@ -7,7 +7,7 @@ link: https://drc.bz/heuer-findet-in-bruneck-kein-amateurfunkkurs-statt/
 slug: heuer-findet-in-bruneck-kein-amateurfunkkurs-statt
 title: Heuer findet in Bruneck kein Amateurfunkkurs statt.
 wordpress_id: 8901
-categories:
+tags:
 - Kurse
 ---
 

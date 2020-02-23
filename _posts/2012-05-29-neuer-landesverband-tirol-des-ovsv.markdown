@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-landesverband-tirol-des-ovsv/
 slug: neuer-landesverband-tirol-des-ovsv
 title: Neuer Landesverband Tirol des ÖVSV
 wordpress_id: 4699
-categories:
+tags:
 - Allgemein
 ---
 

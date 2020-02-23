@@ -7,7 +7,7 @@ link: https://drc.bz/winterimpressionen-vom-umsetzer-rittnerhorn/
 slug: winterimpressionen-vom-umsetzer-rittnerhorn
 title: Winterimpressionen vom Umsetzer Rittnerhorn
 wordpress_id: 2118
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

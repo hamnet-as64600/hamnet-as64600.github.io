@@ -7,7 +7,7 @@ link: https://drc.bz/flohmarkt-ecke-im-clublokal/
 slug: flohmarkt-ecke-im-clublokal
 title: '"Flohmarkt Ecke" im Clublokal'
 wordpress_id: 7705
-categories:
+tags:
 - Clublokal
 ---
 

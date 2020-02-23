@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-karten-abgabe-im-clublokal/
 slug: qsl-karten-abgabe-im-clublokal
 title: QSL Karten Abgabe im Clublokal
 wordpress_id: 7616
-categories:
+tags:
 - QSL
 ---
 

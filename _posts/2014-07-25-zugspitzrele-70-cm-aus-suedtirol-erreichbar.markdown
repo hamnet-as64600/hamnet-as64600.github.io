@@ -7,7 +7,7 @@ link: https://drc.bz/zugspitzrele-70-cm-aus-suedtirol-erreichbar/
 slug: zugspitzrele-70-cm-aus-suedtirol-erreichbar
 title: Zugspitzrelè 70 cm DB0ZU aus Südtirol erreichbar
 wordpress_id: 8620
-categories:
+tags:
 - Umsetzer Gantkofel
 - Umsetzer Seceda
 ---

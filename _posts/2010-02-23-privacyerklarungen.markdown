@@ -7,7 +7,7 @@ link: https://drc.bz/privacyerklarungen/
 slug: privacyerklarungen
 title: Privacyerklärungen
 wordpress_id: 853
-categories:
+tags:
 - Allgemein
 ---
 

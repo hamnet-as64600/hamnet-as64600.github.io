@@ -7,7 +7,7 @@ link: https://drc.bz/hochstein-treffen-am-28-08-2016/
 slug: hochstein-treffen-am-28-08-2016
 title: Hochstein Treffen am 28.08.2016
 wordpress_id: 12616
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

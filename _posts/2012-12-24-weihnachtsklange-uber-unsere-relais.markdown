@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtsklange-uber-unsere-relais/
 slug: weihnachtsklange-uber-unsere-relais
 title: Weihnachtsklänge aus unseren Umsetzern
 wordpress_id: 2245
-categories:
+tags:
 - Allgemein
 ---
 

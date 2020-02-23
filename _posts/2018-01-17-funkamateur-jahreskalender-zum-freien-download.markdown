@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateur-jahreskalender-zum-freien-download/
 slug: funkamateur-jahreskalender-zum-freien-download
 title: '"Funkamateur"-Jahreskalender zum freien Download'
 wordpress_id: 15223
-categories:
+tags:
 - Allgemein
 ---
 

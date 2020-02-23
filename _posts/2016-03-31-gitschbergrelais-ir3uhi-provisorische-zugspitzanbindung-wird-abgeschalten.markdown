@@ -7,7 +7,7 @@ link: https://drc.bz/gitschbergrelais-ir3uhi-provisorische-zugspitzanbindung-wir
 slug: gitschbergrelais-ir3uhi-provisorische-zugspitzanbindung-wird-abgeschalten
 title: Gitschbergrelais IR3UHI - Provisorische Zugspitzanbindung wird abgeschalten
 wordpress_id: 11860
-categories:
+tags:
 - Umsetzer Gitschberg
 ---
 

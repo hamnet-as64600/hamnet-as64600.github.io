@@ -7,7 +7,7 @@ link: https://drc.bz/17-digital-radio-communication-in-castelfedermontan/
 slug: 17-digital-radio-communication-in-castelfedermontan
 title: 17. Digital & Radio Communication in Castelfeder/Montan
 wordpress_id: 10920
-categories:
+tags:
 - ARI
 ---
 

@@ -8,7 +8,7 @@ slug: spontane-einladung-zur-freundschaftswanderung-mit-bergmesse-zum-ellener-kr
 title: Spontane Einladung  zur  Freundschaftswanderung  mit Bergmesse zum "Ellener
   Kreuz" .
 wordpress_id: 10614
-categories:
+tags:
 - Ausflüge
 ---
 

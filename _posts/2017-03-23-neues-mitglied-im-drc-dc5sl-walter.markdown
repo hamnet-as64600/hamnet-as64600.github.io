@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dc5sl-walter/
 slug: neues-mitglied-im-drc-dc5sl-walter
 title: 'Neues Mitglied im DRC: DC5SL Walter'
 wordpress_id: 13892
-categories:
+tags:
 - Neue Mitglieder
 ---
 

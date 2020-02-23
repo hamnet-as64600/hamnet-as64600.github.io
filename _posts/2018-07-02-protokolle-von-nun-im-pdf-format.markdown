@@ -7,7 +7,7 @@ link: https://drc.bz/protokolle-von-nun-im-pdf-format/
 slug: protokolle-von-nun-im-pdf-format
 title: Protokolle von nun im PDF Format
 wordpress_id: 16798
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-dienst-bald-uber-den-drc-moglich/
 slug: qsl-dienst-bald-uber-den-drc-moglich
 title: QSL Dienst bald über den DRC möglich?
 wordpress_id: 1384
-categories:
+tags:
 - Allgemein
 ---
 

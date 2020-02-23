@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-des-radio-club-ladinia/
 slug: einladung-des-radio-club-ladinia
 title: Einladung des Radio Club Ladinia
 wordpress_id: 5591
-categories:
+tags:
 - Allgemein
 ---
 

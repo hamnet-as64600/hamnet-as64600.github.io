@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-torggelen/
 slug: nachtrag-zum-torggelen
 title: Nachtrag zum Törggelen
 wordpress_id: 5800
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

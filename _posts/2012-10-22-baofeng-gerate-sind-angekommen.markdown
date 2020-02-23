@@ -7,7 +7,7 @@ link: https://drc.bz/baofeng-gerate-sind-angekommen/
 slug: baofeng-gerate-sind-angekommen
 title: BAOFENG Geräte sind angekommen
 wordpress_id: 5674
-categories:
+tags:
 - Allgemein
 ---
 

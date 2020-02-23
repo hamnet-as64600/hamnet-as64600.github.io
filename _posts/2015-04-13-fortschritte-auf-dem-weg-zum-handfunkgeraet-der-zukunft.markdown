@@ -7,7 +7,7 @@ link: https://drc.bz/fortschritte-auf-dem-weg-zum-handfunkgeraet-der-zukunft/
 slug: fortschritte-auf-dem-weg-zum-handfunkgeraet-der-zukunft
 title: Fortschritte auf dem Weg zum Handfunkgerät der Zukunft
 wordpress_id: 10294
-categories:
+tags:
 - Allgemein
 - D-STAR
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/link-sudtirol-aktuelle-abdeckung/
 slug: link-sudtirol-aktuelle-abdeckung
 title: Link Südtirol - Aktuelle Abdeckung
 wordpress_id: 7292
-categories:
+tags:
 - Link Suedtirol
 ---
 

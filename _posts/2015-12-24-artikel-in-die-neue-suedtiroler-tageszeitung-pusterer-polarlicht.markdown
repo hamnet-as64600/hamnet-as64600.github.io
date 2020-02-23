@@ -7,7 +7,7 @@ link: https://drc.bz/artikel-in-die-neue-suedtiroler-tageszeitung-pusterer-polar
 slug: artikel-in-die-neue-suedtiroler-tageszeitung-pusterer-polarlicht
 title: 'Artikel in "Die neue Südtiroler Tageszeitung": Pusterer Polarlicht'
 wordpress_id: 11367
-categories:
+tags:
 - Pubblic Relation
 ---
 

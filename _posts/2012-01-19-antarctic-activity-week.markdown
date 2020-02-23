@@ -7,7 +7,7 @@ link: https://drc.bz/antarctic-activity-week/
 slug: antarctic-activity-week
 title: Antarctic Activity Week
 wordpress_id: 4164
-categories:
+tags:
 - Allgemein
 ---
 

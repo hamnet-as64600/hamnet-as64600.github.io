@@ -7,7 +7,7 @@ link: https://drc.bz/gemeinsamer-ov-abend-der-cisar-sektion-suedtirol-und-des-dr
 slug: gemeinsamer-ov-abend-der-cisar-sektion-suedtirol-und-des-drc
 title: Gemeinsamer OV-Abend der CISAR Sektion Südtirol und des DRC
 wordpress_id: 7782
-categories:
+tags:
 - Cisar Suedtirol
 - Tagesordnungspunkte
 ---

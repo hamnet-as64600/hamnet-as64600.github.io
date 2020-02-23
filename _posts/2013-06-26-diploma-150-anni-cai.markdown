@@ -7,7 +7,7 @@ link: https://drc.bz/diploma-150-anni-cai/
 slug: diploma-150-anni-cai
 title: Diploma 150 anni CAI
 wordpress_id: 6564
-categories:
+tags:
 - SOTA
 ---
 

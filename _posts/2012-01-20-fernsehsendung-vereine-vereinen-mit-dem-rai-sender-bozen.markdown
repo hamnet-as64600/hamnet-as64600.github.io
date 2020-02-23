@@ -7,7 +7,7 @@ link: https://drc.bz/fernsehsendung-vereine-vereinen-mit-dem-rai-sender-bozen/
 slug: fernsehsendung-vereine-vereinen-mit-dem-rai-sender-bozen
 title: Fernsehsendung "Vereine vereinen" mit dem RAI-SENDER BOZEN
 wordpress_id: 4169
-categories:
+tags:
 - Allgemein
 ---
 

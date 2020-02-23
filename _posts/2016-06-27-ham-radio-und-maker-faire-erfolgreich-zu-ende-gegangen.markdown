@@ -7,7 +7,7 @@ link: https://drc.bz/ham-radio-und-maker-faire-erfolgreich-zu-ende-gegangen/
 slug: ham-radio-und-maker-faire-erfolgreich-zu-ende-gegangen
 title: Ham Radio und Maker Faire erfolgreich zu Ende gegangen
 wordpress_id: 12415
-categories:
+tags:
 - Allgemein
 ---
 

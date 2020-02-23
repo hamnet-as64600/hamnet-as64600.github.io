@@ -8,7 +8,7 @@ slug: einfuerung-zur-benutzung-der-ferngesteuerten-funkstation-icom-ic-7100-im-c
 title: Einführung zur Benutzung der ferngesteuerten Funkstation (ICOM IC 7100) im
   Clublokal Bruneck
 wordpress_id: 12216
-categories:
+tags:
 - Clublokal
 ---
 

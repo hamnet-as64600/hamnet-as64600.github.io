@@ -7,7 +7,7 @@ link: https://drc.bz/update-der-keplerdaten-des-max-valier-satelliten/
 slug: update-der-keplerdaten-des-max-valier-satelliten
 title: Update der Keplerdaten des Max Valier Satelliten.
 wordpress_id: 14443
-categories:
+tags:
 - Allgemein
 ---
 

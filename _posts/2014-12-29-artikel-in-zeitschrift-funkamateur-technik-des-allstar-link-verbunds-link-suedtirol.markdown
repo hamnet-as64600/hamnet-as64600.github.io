@@ -8,7 +8,7 @@ slug: artikel-in-zeitschrift-funkamateur-technik-des-allstar-link-verbunds-link-
 title: 'Artikel in Zeitschrift FUNKAMATEUR: Technik des Allstar-Link-Verbunds „Link
   Südtirol“'
 wordpress_id: 9928
-categories:
+tags:
 - HamNet
 - Link Suedtirol
 - Pubblic Relation

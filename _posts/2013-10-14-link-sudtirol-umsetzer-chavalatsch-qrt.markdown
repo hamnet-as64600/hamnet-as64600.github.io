@@ -7,7 +7,7 @@ link: https://drc.bz/link-sudtirol-umsetzer-chavalatsch-qrt/
 slug: link-sudtirol-umsetzer-chavalatsch-qrt
 title: Link Südtirol - Umsetzer Chavalatsch QRT
 wordpress_id: 7325
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Chavalatsch
 ---

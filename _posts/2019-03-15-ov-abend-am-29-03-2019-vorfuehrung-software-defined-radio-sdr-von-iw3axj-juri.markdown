@@ -8,7 +8,7 @@ slug: ov-abend-am-29-03-2019-vorfuehrung-software-defined-radio-sdr-von-iw3axj-j
 title: 'OV-Abend am 29.03.2019: Vorführung Software Defined Radio (SDR) von IW3AXJ
   Juri'
 wordpress_id: 18123
-categories:
+tags:
 - Clublokal
 ---
 

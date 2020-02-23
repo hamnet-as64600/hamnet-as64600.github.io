@@ -7,7 +7,7 @@ link: https://drc.bz/so-wars-beim-betriebstechnikkurs/
 slug: so-wars-beim-betriebstechnikkurs
 title: So war's beim Betriebstechnikkurs
 wordpress_id: 2759
-categories:
+tags:
 - Allgemein
 ---
 

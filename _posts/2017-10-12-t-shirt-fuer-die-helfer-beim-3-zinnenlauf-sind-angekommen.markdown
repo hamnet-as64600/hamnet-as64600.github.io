@@ -7,7 +7,7 @@ link: https://drc.bz/t-shirt-fuer-die-helfer-beim-3-zinnenlauf-sind-angekommen/
 slug: t-shirt-fuer-die-helfer-beim-3-zinnenlauf-sind-angekommen
 title: T-Shirt für die Helfer beim 3 Zinnenlauf sind angekommen.
 wordpress_id: 14834
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/filmbeitrag-im-orf-bei-sudtirol-heute/
 slug: filmbeitrag-im-orf-bei-sudtirol-heute
 title: Filmbeitrag im ORF bei "Südtirol Heute"
 wordpress_id: 2683
-categories:
+tags:
 - Allgemein
 ---
 

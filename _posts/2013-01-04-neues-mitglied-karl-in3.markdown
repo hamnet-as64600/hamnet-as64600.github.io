@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-karl-in3/
 slug: neues-mitglied-karl-in3
 title: 'Neues Mitglied: Karl IN3???'
 wordpress_id: 5942
-categories:
+tags:
 - Neue Mitglieder
 ---
 

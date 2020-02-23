@@ -7,7 +7,7 @@ link: https://drc.bz/vorbereitungen-zum-fieldday-sind-getroffen/
 slug: vorbereitungen-zum-fieldday-sind-getroffen
 title: Vorbereitungen zum Fieldday sind getroffen
 wordpress_id: 10629
-categories:
+tags:
 - Ausflüge
 ---
 

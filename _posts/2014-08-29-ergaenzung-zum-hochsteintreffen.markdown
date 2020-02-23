@@ -7,7 +7,7 @@ link: https://drc.bz/ergaenzung-zum-hochsteintreffen/
 slug: ergaenzung-zum-hochsteintreffen
 title: Ergänzung zum Hochsteintreffen
 wordpress_id: 9044
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

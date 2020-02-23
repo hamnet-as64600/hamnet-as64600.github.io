@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-vom-pfitscherjochtreffen-2016-von-dl1pn/
 slug: bericht-vom-pfitscherjochtreffen-2016-von-dl1pn
 title: Bericht vom Pfitscherjochtreffen 2016 von DL1PN
 wordpress_id: 12818
-categories:
+tags:
 - Fieldday
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3hjn-luca/
 slug: neues-mitglied-im-drc-in3hjn-luca
 title: 'Neues Mitglied im DRC: IN3HJN Luca'
 wordpress_id: 17108
-categories:
+tags:
 - Neue Mitglieder
 ---
 

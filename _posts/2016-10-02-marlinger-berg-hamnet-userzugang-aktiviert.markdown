@@ -7,7 +7,7 @@ link: https://drc.bz/marlinger-berg-hamnet-userzugang-aktiviert/
 slug: marlinger-berg-hamnet-userzugang-aktiviert
 title: Marlinger Berg - Hamnet Userzugang aktiviert!
 wordpress_id: 13056
-categories:
+tags:
 - HamNet
 - Umsetzer Marlinger Berg
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/lauter-luefter-beim-icom-ic-5100/
 slug: lauter-luefter-beim-icom-ic-5100
 title: Lauter Lüfter beim  ICOM IC-5100
 wordpress_id: 13315
-categories:
+tags:
 - Allgemein
 - Bastelecke
 ---

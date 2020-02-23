@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-clublokalwart-gesucht/
 slug: neuer-clublokalwart-gesucht
 title: Neuer Wart fürs Clublokal gesucht!!
 wordpress_id: 9816
-categories:
+tags:
 - Clublokal
 ---
 

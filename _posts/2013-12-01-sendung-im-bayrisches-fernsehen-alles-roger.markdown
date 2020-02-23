@@ -7,7 +7,7 @@ link: https://drc.bz/sendung-im-bayrisches-fernsehen-alles-roger/
 slug: sendung-im-bayrisches-fernsehen-alles-roger
 title: 'Sendung im "Bayrisches Fernsehen": Alles Roger?'
 wordpress_id: 7804
-categories:
+tags:
 - Allgemein
 ---
 

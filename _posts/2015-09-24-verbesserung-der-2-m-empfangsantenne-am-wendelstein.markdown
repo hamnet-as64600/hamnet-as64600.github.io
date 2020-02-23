@@ -7,7 +7,7 @@ link: https://drc.bz/verbesserung-der-2-m-empfangsantenne-am-wendelstein/
 slug: verbesserung-der-2-m-empfangsantenne-am-wendelstein
 title: Verbesserung der 2 m Empfangsantenne am Wendelstein
 wordpress_id: 10869
-categories:
+tags:
 - Murnau
 ---
 

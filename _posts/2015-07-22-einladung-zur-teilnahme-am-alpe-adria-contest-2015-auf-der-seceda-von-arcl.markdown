@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-teilnahme-am-alpe-adria-contest-2015-auf-der-
 slug: einladung-zur-teilnahme-am-alpe-adria-contest-2015-auf-der-seceda-von-arcl
 title: Einladung zur Teilnahme am Alpe Adria Contest 2015 auf der Seceda von ARCL
 wordpress_id: 10669
-categories:
+tags:
 - ARCL
 - Fieldday
 ---

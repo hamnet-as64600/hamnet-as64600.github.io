@@ -7,7 +7,7 @@ link: https://drc.bz/v5iw3btw-ist-wieder-zu-hause/
 slug: v5iw3btw-ist-wieder-zu-hause
 title: V5/IW3BTW ist wieder zu Hause
 wordpress_id: 1989
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-update-2/
 slug: aprs-update-2
 title: APRS Update 2
 wordpress_id: 5880
-categories:
+tags:
 - APRS
 ---
 

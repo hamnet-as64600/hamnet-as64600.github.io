@@ -7,7 +7,7 @@ link: https://drc.bz/webcam-auf-homepage-der-gemeinde-bruneck/
 slug: webcam-auf-homepage-der-gemeinde-bruneck
 title: WEBCAM auf Homepage der Gemeinde Bruneck
 wordpress_id: 5233
-categories:
+tags:
 - Allgemein
 ---
 

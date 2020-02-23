@@ -8,7 +8,7 @@ slug: aufbau-antennenanlage-fuer-remotestation-am-gitschberg-wegen-fehlender-hel
 title: Aufbau Antennenanlage für Remotestation am Gitschberg wegen fehlender Helfer
   aufgeschoben.
 wordpress_id: 16659
-categories:
+tags:
 - Allgemein
 - Umsetzer Gitschberg
 ---

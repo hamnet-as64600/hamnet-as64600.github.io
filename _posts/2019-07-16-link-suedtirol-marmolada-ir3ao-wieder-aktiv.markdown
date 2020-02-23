@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-marmolada-ir3ao-wieder-aktiv/
 slug: link-suedtirol-marmolada-ir3ao-wieder-aktiv
 title: Link Südtirol Marmolada IR3AO wieder aktiv
 wordpress_id: 18519
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Marmolada
 ---

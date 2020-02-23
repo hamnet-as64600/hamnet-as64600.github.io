@@ -7,7 +7,7 @@ link: https://drc.bz/nicht-vergessen-amateurfunkgebuhr-fur-2013/
 slug: nicht-vergessen-amateurfunkgebuhr-fur-2013
 title: 'Nicht vergessen: Amateurfunkgebühr für 2013'
 wordpress_id: 5925
-categories:
+tags:
 - Allgemein
 ---
 

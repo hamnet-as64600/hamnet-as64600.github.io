@@ -7,7 +7,7 @@ link: https://drc.bz/hochsteintreffen-2013/
 slug: hochsteintreffen-2013
 title: Hochsteintreffen 2013
 wordpress_id: 6618
-categories:
+tags:
 - Allgemein
 ---
 

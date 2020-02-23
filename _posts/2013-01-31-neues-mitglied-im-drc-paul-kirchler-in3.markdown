@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-paul-kirchler-in3/
 slug: neues-mitglied-im-drc-paul-kirchler-in3
 title: 'Neues Mitglied im DRC: Paul Kirchler, IN3??'
 wordpress_id: 6004
-categories:
+tags:
 - Neue Mitglieder
 ---
 

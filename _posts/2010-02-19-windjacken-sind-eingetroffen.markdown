@@ -7,7 +7,7 @@ link: https://drc.bz/windjacken-sind-eingetroffen/
 slug: windjacken-sind-eingetroffen
 title: Windjacken sind eingetroffen
 wordpress_id: 833
-categories:
+tags:
 - Allgemein
 ---
 

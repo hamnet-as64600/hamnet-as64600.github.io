@@ -7,7 +7,7 @@ link: https://drc.bz/so-wars-bei-der-grillfeier-2016-in-olang/
 slug: so-wars-bei-der-grillfeier-2016-in-olang
 title: So war's bei der Grillfeier 2016 in Olang
 wordpress_id: 12824
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

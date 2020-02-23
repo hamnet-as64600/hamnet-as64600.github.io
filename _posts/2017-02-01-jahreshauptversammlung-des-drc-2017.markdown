@@ -7,7 +7,7 @@ link: https://drc.bz/jahreshauptversammlung-des-drc-2017/
 slug: jahreshauptversammlung-des-drc-2017
 title: So war die Jahreshauptversammlung des DRC 2017
 wordpress_id: 13721
-categories:
+tags:
 - Allgemein
 ---
 

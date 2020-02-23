@@ -7,7 +7,7 @@ link: https://drc.bz/rittnerhorn-ir3uhf-link-suedtirol-bekommt-2-neue-dipole/
 slug: rittnerhorn-ir3uhf-link-suedtirol-bekommt-2-neue-dipole
 title: Rittnerhorn IR3UHF - Link Südtirol bekommt 2 neue Dipole
 wordpress_id: 17043
-categories:
+tags:
 - Allgemein
 - Link Suedtirol
 - Umsetzer Rittner Horn

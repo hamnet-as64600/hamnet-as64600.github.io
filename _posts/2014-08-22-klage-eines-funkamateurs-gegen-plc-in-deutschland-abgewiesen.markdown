@@ -7,7 +7,7 @@ link: https://drc.bz/klage-eines-funkamateurs-gegen-plc-in-deutschland-abgewiese
 slug: klage-eines-funkamateurs-gegen-plc-in-deutschland-abgewiesen
 title: Klage eines Funkamateurs gegen PLC in Deutschland abgewiesen!
 wordpress_id: 8938
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/erste-voll-duplex-verbindung-auf-simplex-frequenz-mit-dmr/
 slug: erste-voll-duplex-verbindung-auf-simplex-frequenz-mit-dmr
 title: Erste Voll-Duplex-Verbindung auf Simplex-Frequenz mit DMR.
 wordpress_id: 12388
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/spendenaktion-fuer-egon-in3pwe/
 slug: spendenaktion-fuer-egon-in3pwe
 title: Spendenaktion für Egon, IN3PWE
 wordpress_id: 8003
-categories:
+tags:
 - Allgemein
 ---
 

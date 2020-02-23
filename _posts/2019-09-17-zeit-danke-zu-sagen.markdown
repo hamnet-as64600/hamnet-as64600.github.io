@@ -7,7 +7,7 @@ link: https://drc.bz/zeit-danke-zu-sagen/
 slug: zeit-danke-zu-sagen
 title: Zeit "DANKE" zu sagen
 wordpress_id: 18805
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

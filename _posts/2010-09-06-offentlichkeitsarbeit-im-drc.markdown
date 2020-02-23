@@ -7,7 +7,7 @@ link: https://drc.bz/offentlichkeitsarbeit-im-drc/
 slug: offentlichkeitsarbeit-im-drc
 title: Öffentlichkeitsarbeit im DRC
 wordpress_id: 1717
-categories:
+tags:
 - Allgemein
 ---
 

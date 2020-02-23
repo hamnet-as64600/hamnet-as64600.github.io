@@ -7,7 +7,7 @@ link: https://drc.bz/achtung-link-suedtirol-am-gantkofel-sendet-auf-anderer-freq
 slug: achtung-link-suedtirol-am-gantkofel-sendet-auf-anderer-frequenz
 title: 'Achtung: Link Südtirol am Gantkofel sendet auf anderer Frequenz.'
 wordpress_id: 17883
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

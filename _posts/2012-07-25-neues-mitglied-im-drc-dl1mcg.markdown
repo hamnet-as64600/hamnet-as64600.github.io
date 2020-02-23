@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dl1mcg/
 slug: neues-mitglied-im-drc-dl1mcg
 title: 'Neues Mitglied im DRC: DL1MCG Christian'
 wordpress_id: 5144
-categories:
+tags:
 - Neue Mitglieder
 ---
 

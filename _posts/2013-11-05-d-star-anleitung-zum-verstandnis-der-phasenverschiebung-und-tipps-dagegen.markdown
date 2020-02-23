@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-anleitung-zum-verstandnis-der-phasenverschiebung-und
 slug: d-star-anleitung-zum-verstandnis-der-phasenverschiebung-und-tipps-dagegen
 title: 'D-Star: Anleitung zum Verständnis der Phasenverschiebung und Tipps dagegen!'
 wordpress_id: 7635
-categories:
+tags:
 - D-STAR
 ---
 

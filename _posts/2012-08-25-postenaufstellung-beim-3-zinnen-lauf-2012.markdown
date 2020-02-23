@@ -7,7 +7,7 @@ link: https://drc.bz/postenaufstellung-beim-3-zinnen-lauf-2012/
 slug: postenaufstellung-beim-3-zinnen-lauf-2012
 title: Postenaufstellung beim 3-Zinnen-Lauf 2012
 wordpress_id: 5356
-categories:
+tags:
 - Funkassistenz
 ---
 

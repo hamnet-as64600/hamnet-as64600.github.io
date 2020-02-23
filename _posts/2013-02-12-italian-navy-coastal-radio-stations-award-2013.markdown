@@ -7,7 +7,7 @@ link: https://drc.bz/italian-navy-coastal-radio-stations-award-2013/
 slug: italian-navy-coastal-radio-stations-award-2013
 title: ITALIAN NAVY COASTAL RADIO STATIONS AWARD 2013
 wordpress_id: 6059
-categories:
+tags:
 - ARI
 ---
 

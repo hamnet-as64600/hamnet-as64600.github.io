@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunk-flohmarkt-am-samstag-3-10-in-eggenfelden-nieder
 slug: amateurfunk-flohmarkt-am-samstag-3-10-in-eggenfelden-niederbayern
 title: Amateurfunk-Flohmarkt am Samstag, 3.10. in Eggenfelden / Niederbayern
 wordpress_id: 10795
-categories:
+tags:
 - Allgemein
 ---
 

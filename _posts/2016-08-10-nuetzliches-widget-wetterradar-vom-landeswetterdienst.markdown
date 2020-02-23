@@ -7,7 +7,7 @@ link: https://drc.bz/nuetzliches-widget-wetterradar-vom-landeswetterdienst/
 slug: nuetzliches-widget-wetterradar-vom-landeswetterdienst
 title: 'Nützliches Widget: Wetterradar vom Landeswetterdienst'
 wordpress_id: 12758
-categories:
+tags:
 - Allgemein
 ---
 

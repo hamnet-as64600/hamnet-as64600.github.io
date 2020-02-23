@@ -7,7 +7,7 @@ link: https://drc.bz/deutsches-handbuch-baofeng-uv3r/
 slug: deutsches-handbuch-baofeng-uv3r
 title: Deutsches Handbuch BAOFENG UV3R
 wordpress_id: 5794
-categories:
+tags:
 - Allgemein
 ---
 

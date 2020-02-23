@@ -7,7 +7,7 @@ link: https://drc.bz/die-sudtiroler-runde/
 slug: die-sudtiroler-runde
 title: Die Südtiroler Runde!
 wordpress_id: 1443
-categories:
+tags:
 - Allgemein
 ---
 

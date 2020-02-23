@@ -7,7 +7,7 @@ link: https://drc.bz/drdish-television-cq-amateurfunk/
 slug: drdish-television-cq-amateurfunk
 title: 'DrDish Television: CQ Amateurfunk'
 wordpress_id: 7761
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-plose-ir3uap/
 slug: link-suedtirol-plose-ir3uap
 title: Link Südtirol Plose IR3UAP
 wordpress_id: 19271
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Plose
 ---

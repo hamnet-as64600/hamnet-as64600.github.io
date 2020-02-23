@@ -7,7 +7,7 @@ link: https://drc.bz/besprechung-zur-verbesserung-von-aprs/
 slug: besprechung-zur-verbesserung-von-aprs
 title: Besprechung zur Verbesserung von APRS.
 wordpress_id: 2475
-categories:
+tags:
 - APRS
 ---
 

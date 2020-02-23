@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3eye-didi/
 slug: neues-mitglied-im-drc-in3eye-didi
 title: 'Neues Mitglied im DRC: IN3EYE Didi'
 wordpress_id: 8274
-categories:
+tags:
 - Neue Mitglieder
 ---
 

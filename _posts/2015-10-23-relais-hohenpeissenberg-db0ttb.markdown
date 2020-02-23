@@ -7,7 +7,7 @@ link: https://drc.bz/relais-hohenpeissenberg-db0ttb/
 slug: relais-hohenpeissenberg-db0ttb
 title: Relais Hohenpeissenberg DB0TTB
 wordpress_id: 11020
-categories:
+tags:
 - Murnau
 ---
 

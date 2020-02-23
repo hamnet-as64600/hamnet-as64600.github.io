@@ -7,7 +7,7 @@ link: https://drc.bz/pressemitteilungii3nke/
 slug: pressemitteilungii3nke
 title: Pressemitteilung:II3NKE
 wordpress_id: 3156
-categories:
+tags:
 - Allgemein
 ---
 

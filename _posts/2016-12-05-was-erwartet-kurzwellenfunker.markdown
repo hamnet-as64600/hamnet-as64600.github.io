@@ -7,7 +7,7 @@ link: https://drc.bz/was-erwartet-kurzwellenfunker/
 slug: was-erwartet-kurzwellenfunker
 title: Was erwartet Kurzwellenfunker?
 wordpress_id: 13343
-categories:
+tags:
 - Allgemein
 ---
 

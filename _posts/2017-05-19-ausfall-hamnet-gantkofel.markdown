@@ -7,7 +7,7 @@ link: https://drc.bz/ausfall-hamnet-gantkofel/
 slug: ausfall-hamnet-gantkofel
 title: Aufrüstung Hamnet und D-STAR am Gantkofel
 wordpress_id: 14245
-categories:
+tags:
 - D-STAR
 - HamNet
 - Link Suedtirol

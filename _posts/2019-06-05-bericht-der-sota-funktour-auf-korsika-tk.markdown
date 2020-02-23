@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-der-sota-funktour-auf-korsika-tk/
 slug: bericht-der-sota-funktour-auf-korsika-tk
 title: Bericht der SOTA Funktour auf Korsika (TK).
 wordpress_id: 18372
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/interview-vom-jubilaeumsfieldday-am-tschaufen-bei-radio-hol
 slug: interview-vom-jubilaeumsfieldday-am-tschaufen-bei-radio-holiday
 title: Interview vom Jubiläumsfieldday am Tschaufen bei Radio Holiday
 wordpress_id: 12509
-categories:
+tags:
 - 50 Jahre DRC
 - Allgemein
 - Feiern und Unterhaltung

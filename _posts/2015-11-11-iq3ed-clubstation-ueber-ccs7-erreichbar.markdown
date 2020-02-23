@@ -7,7 +7,7 @@ link: https://drc.bz/iq3ed-clubstation-ueber-ccs7-erreichbar/
 slug: iq3ed-clubstation-ueber-ccs7-erreichbar
 title: IQ3ED, Clubstation über CCS7 erreichbar.
 wordpress_id: 11120
-categories:
+tags:
 - Clublokal
 - D-STAR
 ---

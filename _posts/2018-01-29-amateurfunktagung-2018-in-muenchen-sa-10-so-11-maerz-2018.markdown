@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunktagung-2018-in-muenchen-sa-10-so-11-maerz-2018/
 slug: amateurfunktagung-2018-in-muenchen-sa-10-so-11-maerz-2018
 title: Amateurfunktagung 2018 in München - Sa 10. - So 11. März 2018
 wordpress_id: 15255
-categories:
+tags:
 - Kurse
 ---
 

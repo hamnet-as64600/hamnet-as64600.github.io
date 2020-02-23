@@ -7,7 +7,7 @@ link: https://drc.bz/gewaltiger-blitz-von-webcam-festgehalten/
 slug: gewaltiger-blitz-von-webcam-festgehalten
 title: Gewaltiger Blitz von Webcam festgehalten
 wordpress_id: 6740
-categories:
+tags:
 - Webcam
 ---
 

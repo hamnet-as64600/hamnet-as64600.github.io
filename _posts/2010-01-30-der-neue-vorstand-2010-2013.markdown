@@ -7,7 +7,7 @@ link: https://drc.bz/der-neue-vorstand-2010-2013/
 slug: der-neue-vorstand-2010-2013
 title: Der neue Vorstand des DRC
 wordpress_id: 700
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uap-umsetzer-d-star-plose-und-der-weihnachtsmann/
 slug: ir3uap-umsetzer-d-star-plose-und-der-weihnachtsmann
 title: IR3UAP, Umsetzer D-Star Plose, und der Weihnachtsmann....
 wordpress_id: 7892
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

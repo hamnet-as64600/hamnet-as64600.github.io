@@ -7,7 +7,7 @@ link: https://drc.bz/allstarlink-nun-auch-am-gitschberg/
 slug: allstarlink-nun-auch-am-gitschberg
 title: Allstarlink nun auch am Gitschberg
 wordpress_id: 10265
-categories:
+tags:
 - Umsetzer Gitschberg
 ---
 

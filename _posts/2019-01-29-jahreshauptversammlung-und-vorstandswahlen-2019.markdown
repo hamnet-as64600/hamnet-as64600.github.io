@@ -7,7 +7,7 @@ link: https://drc.bz/jahreshauptversammlung-und-vorstandswahlen-2019/
 slug: jahreshauptversammlung-und-vorstandswahlen-2019
 title: Jahreshauptversammlung und Vorstandswahlen 2019
 wordpress_id: 17917
-categories:
+tags:
 - Allgemein
 - Jahreshauptversammlung
 ---

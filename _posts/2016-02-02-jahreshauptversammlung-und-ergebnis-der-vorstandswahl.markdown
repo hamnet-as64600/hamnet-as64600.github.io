@@ -7,7 +7,7 @@ link: https://drc.bz/jahreshauptversammlung-und-ergebnis-der-vorstandswahl/
 slug: jahreshauptversammlung-und-ergebnis-der-vorstandswahl
 title: Jahreshauptversammlung und Ergebnis der Vorstandswahl
 wordpress_id: 11484
-categories:
+tags:
 - Allgemein
 ---
 

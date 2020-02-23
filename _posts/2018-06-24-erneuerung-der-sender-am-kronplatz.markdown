@@ -7,7 +7,7 @@ link: https://drc.bz/erneuerung-der-sender-am-kronplatz/
 slug: erneuerung-der-sender-am-kronplatz
 title: Erneuerung der Sender am Kronplatz
 wordpress_id: 16734
-categories:
+tags:
 - Allgemein
 - D-STAR
 - DMR

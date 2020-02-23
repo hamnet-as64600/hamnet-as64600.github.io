@@ -7,7 +7,7 @@ link: https://drc.bz/fieldday-am-tschaufen-im-etschtal/
 slug: fieldday-am-tschaufen-im-etschtal
 title: 50 Jahre DRC - Fieldday am Tschaufen im Etschtal
 wordpress_id: 12359
-categories:
+tags:
 - 50 Jahre DRC
 - Fieldday
 ---

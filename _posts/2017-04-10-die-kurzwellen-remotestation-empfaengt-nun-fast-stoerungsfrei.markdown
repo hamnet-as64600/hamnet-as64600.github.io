@@ -7,7 +7,7 @@ link: https://drc.bz/die-kurzwellen-remotestation-empfaengt-nun-fast-stoerungsfr
 slug: die-kurzwellen-remotestation-empfaengt-nun-fast-stoerungsfrei
 title: Die Kurzwellen Remotestation empfängt nun (fast) störungsfrei!
 wordpress_id: 13980
-categories:
+tags:
 - Ferngesteuerte Funkstation
 ---
 

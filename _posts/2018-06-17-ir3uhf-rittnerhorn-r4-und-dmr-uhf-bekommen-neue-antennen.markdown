@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhf-rittnerhorn-r4-und-dmr-uhf-bekommen-neue-antennen/
 slug: ir3uhf-rittnerhorn-r4-und-dmr-uhf-bekommen-neue-antennen
 title: IR3UHF - Rittnerhorn, R4  und DMR Uhf bekommen neue Antennen
 wordpress_id: 16668
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/ari-sektion-bruneck-200-jahre-giuseppe-verdi/
 slug: ari-sektion-bruneck-200-jahre-giuseppe-verdi
 title: 'ARI Sektion Bruneck: 200 Jahre Giuseppe Verdi'
 wordpress_id: 7532
-categories:
+tags:
 - ARI
 ---
 

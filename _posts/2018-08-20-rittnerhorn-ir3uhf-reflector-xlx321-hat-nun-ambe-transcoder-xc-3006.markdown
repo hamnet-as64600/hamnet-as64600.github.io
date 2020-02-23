@@ -7,7 +7,7 @@ link: https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder
 slug: rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006
 title: Rittnerhorn IR3UHF - Reflector XLX321 hat nun AMBE Transcoder XC-3006
 wordpress_id: 17049
-categories:
+tags:
 - C4FM
 - D-STAR
 - DMR

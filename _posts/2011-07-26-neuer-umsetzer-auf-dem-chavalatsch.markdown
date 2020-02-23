@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-umsetzer-auf-dem-chavalatsch/
 slug: neuer-umsetzer-auf-dem-chavalatsch
 title: Neuer Umsetzer auf dem Chavalatsch
 wordpress_id: 3445
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

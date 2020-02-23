@@ -7,7 +7,7 @@ link: https://drc.bz/aktualisierung-eurer-e-mail-adresse/
 slug: aktualisierung-eurer-e-mail-adresse
 title: Aktualisierung eurer E-Mail Adresse!
 wordpress_id: 17947
-categories:
+tags:
 - Allgemein
 ---
 

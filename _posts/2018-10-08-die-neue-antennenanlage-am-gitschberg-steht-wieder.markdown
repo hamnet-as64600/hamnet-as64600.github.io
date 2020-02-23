@@ -7,7 +7,7 @@ link: https://drc.bz/die-neue-antennenanlage-am-gitschberg-steht-wieder/
 slug: die-neue-antennenanlage-am-gitschberg-steht-wieder
 title: Die neue Antennenanlage am Gitschberg steht wieder.
 wordpress_id: 17398
-categories:
+tags:
 - Ferngesteuerte Funkstation
 - Remotestation
 - Umsetzer Gitschberg

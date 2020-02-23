@@ -7,7 +7,7 @@ link: https://drc.bz/neue-mitglieder-im-drc-ivan-in3faa-und-amelia-in3fac/
 slug: neue-mitglieder-im-drc-ivan-in3faa-und-amelia-in3fac
 title: 'Neue Mitglieder im DRC: Ivan IN3FAA und Amelia IN3FAC'
 wordpress_id: 9053
-categories:
+tags:
 - Neue Mitglieder
 ---
 

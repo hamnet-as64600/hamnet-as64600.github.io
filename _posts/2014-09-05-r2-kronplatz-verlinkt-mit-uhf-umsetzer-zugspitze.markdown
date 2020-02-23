@@ -7,7 +7,7 @@ link: https://drc.bz/r2-kronplatz-verlinkt-mit-uhf-umsetzer-zugspitze/
 slug: r2-kronplatz-verlinkt-mit-uhf-umsetzer-zugspitze
 title: R2 Kronplatz verlinkt mit UHF Umsetzer Zugspitze
 wordpress_id: 9135
-categories:
+tags:
 - HamNet
 - Umsetzer Kronplatz
 ---

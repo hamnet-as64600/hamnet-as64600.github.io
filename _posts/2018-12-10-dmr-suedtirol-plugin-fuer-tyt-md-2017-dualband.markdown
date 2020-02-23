@@ -7,7 +7,7 @@ link: https://drc.bz/dmr-suedtirol-plugin-fuer-tyt-md-2017-dualband/
 slug: dmr-suedtirol-plugin-fuer-tyt-md-2017-dualband
 title: DMR Südtirol - Codeplug für TYT MD-2017 Dualband
 wordpress_id: 17745
-categories:
+tags:
 - DMR
 ---
 

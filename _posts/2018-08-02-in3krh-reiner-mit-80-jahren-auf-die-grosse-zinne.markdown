@@ -7,7 +7,7 @@ link: https://drc.bz/in3krh-reiner-mit-80-jahren-auf-die-grosse-zinne/
 slug: in3krh-reiner-mit-80-jahren-auf-die-grosse-zinne
 title: IN3KRH, Reiner, mit 80 Jahren auf die Grosse Zinne.
 wordpress_id: 16945
-categories:
+tags:
 - Allgemein
 ---
 

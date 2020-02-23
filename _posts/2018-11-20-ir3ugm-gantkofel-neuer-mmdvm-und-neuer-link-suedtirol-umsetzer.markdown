@@ -7,7 +7,7 @@ link: https://drc.bz/ir3ugm-gantkofel-neuer-mmdvm-und-neuer-link-suedtirol-umset
 slug: ir3ugm-gantkofel-neuer-mmdvm-und-neuer-link-suedtirol-umsetzer
 title: IR3UGM Gantkofel - Neuer MMDVM und neuer Link Südtirol Umsetzer
 wordpress_id: 17606
-categories:
+tags:
 - C4FM
 - D-STAR
 - DMR

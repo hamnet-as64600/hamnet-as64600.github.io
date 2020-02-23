@@ -7,7 +7,7 @@ link: https://drc.bz/initiative-new-radio-amateurfunkgeraete-fuer-die-zukunft/
 slug: initiative-new-radio-amateurfunkgeraete-fuer-die-zukunft
 title: 'Initiative NEW RADIO: Amateurfunkgeräte für die Zukunft'
 wordpress_id: 11646
-categories:
+tags:
 - Allgemein
 ---
 

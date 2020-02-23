@@ -7,7 +7,7 @@ link: https://drc.bz/danke-allen-spendern/
 slug: danke-allen-spendern
 title: Danke allen Spendern!!!
 wordpress_id: 5259
-categories:
+tags:
 - HamNet
 ---
 

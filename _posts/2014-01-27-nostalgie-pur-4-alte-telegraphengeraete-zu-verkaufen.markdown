@@ -7,7 +7,7 @@ link: https://drc.bz/nostalgie-pur-4-alte-telegraphengeraete-zu-verkaufen/
 slug: nostalgie-pur-4-alte-telegraphengeraete-zu-verkaufen
 title: 'Nostalgie pur: 4 alte Telegraphengeräte zu verkaufen!'
 wordpress_id: 8070
-categories:
+tags:
 - Allgemein
 ---
 

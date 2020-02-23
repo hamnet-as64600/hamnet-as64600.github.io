@@ -7,7 +7,7 @@ link: https://drc.bz/sstv-uebertragungen-von-der-ariss/
 slug: sstv-uebertragungen-von-der-ariss
 title: SSTV-Übertragungen von der ARISS
 wordpress_id: 9876
-categories:
+tags:
 - ISS
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/ruckblick-auf-den-vorbereitungskurs-fur-die-amateurfunkpruf
 slug: ruckblick-auf-den-vorbereitungskurs-fur-die-amateurfunkprufung-2012
 title: Rückblick auf den Vorbereitungskurs für die Amateurfunkprüfung 2012
 wordpress_id: 5904
-categories:
+tags:
 - Kurse
 ---
 

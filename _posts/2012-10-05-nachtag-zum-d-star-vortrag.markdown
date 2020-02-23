@@ -7,7 +7,7 @@ link: https://drc.bz/nachtag-zum-d-star-vortrag/
 slug: nachtag-zum-d-star-vortrag
 title: Nachtag zum D-STAR Vortrag
 wordpress_id: 5571
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3axg-gottfried-mumelter/
 slug: silent-key-in3axg-gottfried-mumelter
 title: 'Silent key: IN3AXG Gottfried Mumelter'
 wordpress_id: 8297
-categories:
+tags:
 - Silent key
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/poster-in-schaufenster/
 slug: poster-in-schaufenster
 title: Poster in Schaufenster
 wordpress_id: 3487
-categories:
+tags:
 - Allgemein
 ---
 

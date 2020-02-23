@@ -7,7 +7,7 @@ link: https://drc.bz/ir3dv-kronplatz-d-star-sendet-auf-falscher-qrg/
 slug: ir3dv-kronplatz-d-star-sendet-auf-falscher-qrg
 title: IR3DV - Kronplatz, D-Star sendet auf falscher QRG
 wordpress_id: 12801
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

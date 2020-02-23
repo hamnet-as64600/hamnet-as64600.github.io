@@ -7,7 +7,7 @@ link: https://drc.bz/echolink-am-kronplatz-umsetzer-ir3dv-aktiv/
 slug: echolink-am-kronplatz-umsetzer-ir3dv-aktiv
 title: Echolink am Kronplatz Umsetzer IR3DV aktiv!
 wordpress_id: 10675
-categories:
+tags:
 - Echolink
 - Umsetzer Kronplatz
 ---

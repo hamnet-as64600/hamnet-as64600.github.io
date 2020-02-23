@@ -7,7 +7,7 @@ link: https://drc.bz/teilnahme-an-camp-david-expedition-von-in3esq-jiri/
 slug: teilnahme-an-camp-david-expedition-von-in3esq-jiri
 title: Teilnahme an Camp David Expedition von IN3ESQ - Jiri
 wordpress_id: 8093
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

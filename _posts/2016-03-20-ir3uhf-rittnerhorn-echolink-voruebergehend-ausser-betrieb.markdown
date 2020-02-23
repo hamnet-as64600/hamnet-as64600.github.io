@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhf-rittnerhorn-echolink-voruebergehend-ausser-betrieb/
 slug: ir3uhf-rittnerhorn-echolink-voruebergehend-ausser-betrieb
 title: 'IR3UHF Rittnerhorn: Echolink vorübergehend außer Betrieb'
 wordpress_id: 11787
-categories:
+tags:
 - Echolink
 - Umsetzer Rittner Horn
 ---

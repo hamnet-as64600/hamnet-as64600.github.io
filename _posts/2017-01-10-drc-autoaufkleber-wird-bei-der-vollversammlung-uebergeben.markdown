@@ -7,7 +7,7 @@ link: https://drc.bz/drc-autoaufkleber-wird-bei-der-vollversammlung-uebergeben/
 slug: drc-autoaufkleber-wird-bei-der-vollversammlung-uebergeben
 title: DRC Autoaufkleber wird bei der Vollversammlung übergeben
 wordpress_id: 13560
-categories:
+tags:
 - Allgemein
 ---
 

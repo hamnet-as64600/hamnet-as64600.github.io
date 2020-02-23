@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-oe7aai-manfred/
 slug: neues-mitglied-im-drc-oe7aai-manfred
 title: 'Neues Mitglied im DRC: OE7AAI Manfred'
 wordpress_id: 5883
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -24,6 +24,8 @@
     url: "/relaisstandorte/ir3ugm/"
   - title: "Helm IR3UAN"
     url: "/relaisstandorte/ir3uan/"
+  - title: "Plose IR3UAP"
+    url: "/relaisstandorte/ir3uap/"
   - title: "IN3EXL Bozen"
     url: "/relaisstandorte/in3exl/"
 

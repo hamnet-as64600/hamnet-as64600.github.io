@@ -7,7 +7,7 @@ link: https://drc.bz/gelungener-ausflug-nach-verona/
 slug: gelungener-ausflug-nach-verona
 title: Gelungener Ausflug nach Verona.
 wordpress_id: 3140
-categories:
+tags:
 - Allgemein
 - Ausflüge
 ---

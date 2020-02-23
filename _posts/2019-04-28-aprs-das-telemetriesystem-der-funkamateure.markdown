@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-das-telemetriesystem-der-funkamateure/
 slug: aprs-das-telemetriesystem-der-funkamateure
 title: Vortrag über APRS – Das Telemetriesystem der Funkamateure
 wordpress_id: 18207
-categories:
+tags:
 - APRS
 - Kurse
 ---

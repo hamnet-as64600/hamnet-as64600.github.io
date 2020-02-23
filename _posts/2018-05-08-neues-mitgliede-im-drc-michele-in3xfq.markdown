@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitgliede-im-drc-michele-in3xfq/
 slug: neues-mitgliede-im-drc-michele-in3xfq
 title: Neues Mitglied im DRC - Michele, IN3XFQ
 wordpress_id: 16487
-categories:
+tags:
 - Neue Mitglieder
 ---
 

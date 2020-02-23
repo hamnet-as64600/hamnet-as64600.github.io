@@ -7,7 +7,7 @@ link: https://drc.bz/artikel-uber-plose-aktivitat-in-cqdl/
 slug: artikel-uber-plose-aktivitat-in-cqdl
 title: Artikel über Plose Aktivität in CQDL
 wordpress_id: 3960
-categories:
+tags:
 - Allgemein
 - Ausflüge
 ---

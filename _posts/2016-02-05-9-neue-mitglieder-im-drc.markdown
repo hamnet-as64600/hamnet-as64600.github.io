@@ -7,7 +7,7 @@ link: https://drc.bz/9-neue-mitglieder-im-drc/
 slug: 9-neue-mitglieder-im-drc
 title: 9 neue Mitglieder im DRC
 wordpress_id: 11474
-categories:
+tags:
 - Neue Mitglieder
 ---
 

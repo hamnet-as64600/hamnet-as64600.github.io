@@ -7,7 +7,7 @@ link: https://drc.bz/hf-rechner-fuer-technisch-interessierte-bastler/
 slug: hf-rechner-fuer-technisch-interessierte-bastler
 title: HF Rechner für technisch Interessierte (Bastler)
 wordpress_id: 10914
-categories:
+tags:
 - Allgemein
 ---
 

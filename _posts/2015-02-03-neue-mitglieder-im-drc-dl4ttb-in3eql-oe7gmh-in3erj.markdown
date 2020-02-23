@@ -7,7 +7,7 @@ link: https://drc.bz/neue-mitglieder-im-drc-dl4ttb-in3eql-oe7gmh-in3erj/
 slug: neue-mitglieder-im-drc-dl4ttb-in3eql-oe7gmh-in3erj
 title: 'Neue Mitglieder im DRC: DL4TTB, IN3EQL, OE7GMH, IN3ERJ'
 wordpress_id: 10050
-categories:
+tags:
 - Neue Mitglieder
 ---
 

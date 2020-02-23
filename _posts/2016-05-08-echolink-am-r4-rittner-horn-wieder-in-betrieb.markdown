@@ -7,7 +7,7 @@ link: https://drc.bz/echolink-am-r4-rittner-horn-wieder-in-betrieb/
 slug: echolink-am-r4-rittner-horn-wieder-in-betrieb
 title: Echolink am R4 Rittner Horn wieder in Betrieb
 wordpress_id: 12174
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

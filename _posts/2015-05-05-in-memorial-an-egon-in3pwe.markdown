@@ -7,7 +7,7 @@ link: https://drc.bz/in-memorial-an-egon-in3pwe/
 slug: in-memorial-an-egon-in3pwe
 title: In Memorial an Egon IN3PWE
 wordpress_id: 10422
-categories:
+tags:
 - Silent key
 ---
 

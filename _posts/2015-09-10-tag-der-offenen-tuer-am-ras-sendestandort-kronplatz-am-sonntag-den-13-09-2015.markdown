@@ -7,7 +7,7 @@ link: https://drc.bz/tag-der-offenen-tuer-am-ras-sendestandort-kronplatz-am-sonn
 slug: tag-der-offenen-tuer-am-ras-sendestandort-kronplatz-am-sonntag-den-13-09-2015
 title: Tag der offenen Tür am RAS-Sendestandort Kronplatz am Sonntag, den 13.09.2015
 wordpress_id: 10823
-categories:
+tags:
 - Allgemein
 - Ausflüge
 ---

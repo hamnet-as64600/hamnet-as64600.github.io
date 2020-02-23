@@ -7,7 +7,7 @@ link: https://drc.bz/osterprojekt-von-dl1pn-peter/
 slug: osterprojekt-von-dl1pn-peter
 title: Osterprojekt von DL1PN, Peter
 wordpress_id: 10309
-categories:
+tags:
 - Bastelecke
 - D-STAR
 - Murnau

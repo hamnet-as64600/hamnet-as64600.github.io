@@ -7,7 +7,7 @@ link: https://drc.bz/password-zum-lesen-der-tagesordnungspunkte-fuer-die-ov-aben
 slug: password-zum-lesen-der-tagesordnungspunkte-fuer-die-ov-abende-entfernt
 title: Password zum Lesen der Tagesordnungspunkte für die OV Abende entfernt.
 wordpress_id: 10708
-categories:
+tags:
 - Allgemein
 - Clublokal
 ---

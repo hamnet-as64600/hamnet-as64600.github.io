@@ -7,7 +7,7 @@ link: https://drc.bz/treffen-auf-seceda-bezuglich-hamnet/
 slug: treffen-auf-seceda-bezuglich-hamnet
 title: Treffen auf SECEDA bezüglich HAMNET
 wordpress_id: 2438
-categories:
+tags:
 - HamNet
 - Umsetzer Seceda
 ---

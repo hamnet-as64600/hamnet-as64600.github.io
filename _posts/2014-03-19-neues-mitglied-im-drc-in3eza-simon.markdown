@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3eza-simon/
 slug: neues-mitglied-im-drc-in3eza-simon
 title: 'Neues Mitglied im DRC: IN3EZA Simon'
 wordpress_id: 8204
-categories:
+tags:
 - Neue Mitglieder
 ---
 

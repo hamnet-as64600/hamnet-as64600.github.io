@@ -7,7 +7,7 @@ link: https://drc.bz/neues-2-m-relais-am-wendelstein/
 slug: neues-2-m-relais-am-wendelstein
 title: Neues 2 m Relais am Wendelstein
 wordpress_id: 10130
-categories:
+tags:
 - DRC Aussenstelle Nord
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3dos-rod-erhard/
 slug: silent-key-in3dos-rod-erhard
 title: 'Silent key: IN3DOS Röd Erhard'
 wordpress_id: 6604
-categories:
+tags:
 - Silent key
 ---
 

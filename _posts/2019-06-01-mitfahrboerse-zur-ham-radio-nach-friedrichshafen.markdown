@@ -7,7 +7,7 @@ link: https://drc.bz/mitfahrboerse-zur-ham-radio-nach-friedrichshafen/
 slug: mitfahrboerse-zur-ham-radio-nach-friedrichshafen
 title: Mitfahrbörse zur HAM RADIO nach Friedrichshafen.
 wordpress_id: 18364
-categories:
+tags:
 - Allgemein
 ---
 

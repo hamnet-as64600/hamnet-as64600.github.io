@@ -7,7 +7,7 @@ link: https://drc.bz/hochsteintreffen-am-25-08-2019/
 slug: hochsteintreffen-am-25-08-2019
 title: Hochsteintreffen am 25.08.2019
 wordpress_id: 18479
-categories:
+tags:
 - Fieldday
 ---
 

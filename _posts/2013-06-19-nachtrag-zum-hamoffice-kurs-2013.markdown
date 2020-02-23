@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-hamoffice-kurs-2013/
 slug: nachtrag-zum-hamoffice-kurs-2013
 title: Nachtrag zum Hamoffice Kurs 2013
 wordpress_id: 6548
-categories:
+tags:
 - Kurse
 ---
 

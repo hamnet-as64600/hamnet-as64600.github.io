@@ -7,7 +7,7 @@ link: https://drc.bz/freedv-digital-voice-fuer-kurzwelle/
 slug: freedv-digital-voice-fuer-kurzwelle
 title: 'FreeDV: Digital Voice für Kurzwelle!'
 wordpress_id: 9448
-categories:
+tags:
 - Cisar Suedtirol
 - Kurse
 ---

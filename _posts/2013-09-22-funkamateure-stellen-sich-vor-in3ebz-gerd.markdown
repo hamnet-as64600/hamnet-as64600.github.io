@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateure-stellen-sich-vor-in3ebz-gerd/
 slug: funkamateure-stellen-sich-vor-in3ebz-gerd
 title: 'Funkamateure stellen sich vor: IN3EBZ Gerd'
 wordpress_id: 7180
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/ham-radio-und-maker-world-erfolgreich/
 slug: ham-radio-und-maker-world-erfolgreich
 title: Ham Radio und Maker World erfolgreich
 wordpress_id: 10621
-categories:
+tags:
 - Allgemein
 ---
 

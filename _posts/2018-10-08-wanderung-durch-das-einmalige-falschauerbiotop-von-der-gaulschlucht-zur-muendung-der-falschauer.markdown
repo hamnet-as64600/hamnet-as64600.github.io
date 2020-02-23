@@ -8,7 +8,7 @@ slug: wanderung-durch-das-einmalige-falschauerbiotop-von-der-gaulschlucht-zur-mu
 title: Wanderung durch das einmalige Falschauerbiotop - Von der Gaulschlucht zur Mündung
   der Falschauer
 wordpress_id: 17424
-categories:
+tags:
 - Ausflüge
 ---
 

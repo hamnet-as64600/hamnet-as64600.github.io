@@ -7,7 +7,7 @@ link: https://drc.bz/iq3ny-hat-nun-auch-eine-qsl-karte/
 slug: iq3ny-hat-nun-auch-eine-qsl-karte
 title: IQ3NY hat nun auch eine QSL Karte.
 wordpress_id: 12449
-categories:
+tags:
 - IQ3NY
 ---
 

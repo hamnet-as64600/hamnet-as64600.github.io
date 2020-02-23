@@ -7,7 +7,7 @@ link: https://drc.bz/einsatz-am-dm0gap/
 slug: einsatz-am-dm0gap
 title: Einsatz am DM0GAP
 wordpress_id: 11585
-categories:
+tags:
 - D-STAR
 - DRC Aussenstelle Nord
 ---

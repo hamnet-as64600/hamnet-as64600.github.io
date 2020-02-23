@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dg4zy-dirk/
 slug: neues-mitglied-im-drc-dg4zy-dirk
 title: 'Neues Mitglied im DRC: DG4ZY Dirk'
 wordpress_id: 8293
-categories:
+tags:
 - Neue Mitglieder
 ---
 

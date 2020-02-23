@@ -7,7 +7,7 @@ link: https://drc.bz/aufruf-zum-clubtorggelen/
 slug: aufruf-zum-clubtorggelen
 title: Aufruf zum Clubtörggelen
 wordpress_id: 5729
-categories:
+tags:
 - Allgemein
 ---
 

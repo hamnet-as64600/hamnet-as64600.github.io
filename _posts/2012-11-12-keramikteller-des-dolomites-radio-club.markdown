@@ -7,7 +7,7 @@ link: https://drc.bz/keramikteller-des-dolomites-radio-club/
 slug: keramikteller-des-dolomites-radio-club
 title: Keramikteller des DOLOMITES RADIO CLUB
 wordpress_id: 5745
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/chavalatsch-r6-und-ogn-nun-funktionstuechtig/
 slug: chavalatsch-r6-und-ogn-nun-funktionstuechtig
 title: Chavalatsch - R6 und OGN nun funktionstüchtig!
 wordpress_id: 13066
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

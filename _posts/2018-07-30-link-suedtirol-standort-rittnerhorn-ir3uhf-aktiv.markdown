@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-standort-rittnerhorn-ir3uhf-aktiv/
 slug: link-suedtirol-standort-rittnerhorn-ir3uhf-aktiv
 title: Link Südtirol - Standort Rittnerhorn IR3UHF aktiv!
 wordpress_id: 16912
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Rittner Horn
 ---

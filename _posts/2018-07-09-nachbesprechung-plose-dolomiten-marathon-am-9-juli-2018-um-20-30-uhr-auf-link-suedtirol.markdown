@@ -8,7 +8,7 @@ slug: nachbesprechung-plose-dolomiten-marathon-am-9-juli-2018-um-20-30-uhr-auf-l
 title: Nachbesprechung Plose Dolomiten Marathon am 9. Juli 2018 um 20.30 Uhr auf Link
   Südtirol
 wordpress_id: 16825
-categories:
+tags:
 - Plose Dolomiten Marathon
 ---
 

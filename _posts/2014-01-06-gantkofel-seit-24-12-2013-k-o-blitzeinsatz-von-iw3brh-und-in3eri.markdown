@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-seit-24-12-2013-k-o-blitzeinsatz-von-iw3brh-und-i
 slug: gantkofel-seit-24-12-2013-k-o-blitzeinsatz-von-iw3brh-und-in3eri
 title: Gantkofel seit 24.12.2013 K.O. - Blitzeinsatz von IW3BRH und IN3ERI
 wordpress_id: 7931
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

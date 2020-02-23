@@ -7,7 +7,7 @@ link: https://drc.bz/umsetzer-kronplatz-lauft-wieder/
 slug: umsetzer-kronplatz-lauft-wieder
 title: Umsetzer Kronplatz läuft wieder.
 wordpress_id: 4079
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

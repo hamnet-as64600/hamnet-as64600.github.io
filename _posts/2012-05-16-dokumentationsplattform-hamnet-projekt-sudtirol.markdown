@@ -7,7 +7,7 @@ link: https://drc.bz/dokumentationsplattform-hamnet-projekt-sudtirol/
 slug: dokumentationsplattform-hamnet-projekt-sudtirol
 title: Dokumentationsplattform "Hamnet-Projekt Südtirol"
 wordpress_id: 4688
-categories:
+tags:
 - HamNet
 ---
 

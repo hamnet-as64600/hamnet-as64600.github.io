@@ -7,7 +7,7 @@ link: https://drc.bz/ein-tipp-fuer-selberbauer-kurzwellenfunkgeraete-%c2%b5bitx/
 slug: ein-tipp-fuer-selberbauer-kurzwellenfunkgeraete-%c2%b5bitx
 title: 'Ein Tipp für Selberbauer: Kurzwellenfunkgeräte µBITX'
 wordpress_id: 15201
-categories:
+tags:
 - Bastelecke
 ---
 

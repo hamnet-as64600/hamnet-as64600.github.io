@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-von-der-oetzi-aktion-am-similaun/
 slug: bericht-von-der-oetzi-aktion-am-similaun
 title: Bericht von der Oetzi Aktion am Similaun
 wordpress_id: 3608
-categories:
+tags:
 - Allgemein
 - Ausflüge
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-manuel-in3elz/
 slug: neues-mitglied-im-drc-manuel-in3elz
 title: 'Neues Mitglied im DRC: Manuel, IN3ELZ'
 wordpress_id: 13971
-categories:
+tags:
 - Neue Mitglieder
 ---
 

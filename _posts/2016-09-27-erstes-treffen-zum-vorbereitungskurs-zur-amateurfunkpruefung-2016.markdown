@@ -7,7 +7,7 @@ link: https://drc.bz/erstes-treffen-zum-vorbereitungskurs-zur-amateurfunkpruefun
 slug: erstes-treffen-zum-vorbereitungskurs-zur-amateurfunkpruefung-2016
 title: Erstes Treffen zum Vorbereitungskurs zur Amateurfunkprüfung 2016
 wordpress_id: 13015
-categories:
+tags:
 - Allgemein
 ---
 

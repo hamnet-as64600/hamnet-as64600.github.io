@@ -7,7 +7,7 @@ link: https://drc.bz/ausbau-hamnet-ins-pustertal/
 slug: ausbau-hamnet-ins-pustertal
 title: 'Es geht los: Hamnet ins Pustertal'
 wordpress_id: 3755
-categories:
+tags:
 - HamNet
 - Umsetzer Kronplatz
 ---

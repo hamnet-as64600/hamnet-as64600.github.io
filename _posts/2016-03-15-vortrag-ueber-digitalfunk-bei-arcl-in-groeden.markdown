@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-ueber-digitalfunk-bei-arcl-in-groeden/
 slug: vortrag-ueber-digitalfunk-bei-arcl-in-groeden
 title: Vortrag über Digitalfunk bei ARCL in Gröden
 wordpress_id: 11763
-categories:
+tags:
 - ARCL
 ---
 

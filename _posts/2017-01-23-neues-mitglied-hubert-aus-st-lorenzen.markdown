@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-hubert-aus-st-lorenzen/
 slug: neues-mitglied-hubert-aus-st-lorenzen
 title: 'Neues Mitglied im DRC: Hubert aus St.Lorenzen'
 wordpress_id: 13606
-categories:
+tags:
 - Neue Mitglieder
 ---
 

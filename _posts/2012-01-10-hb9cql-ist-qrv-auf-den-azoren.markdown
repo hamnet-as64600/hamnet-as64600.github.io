@@ -7,7 +7,7 @@ link: https://drc.bz/hb9cql-ist-qrv-auf-den-azoren/
 slug: hb9cql-ist-qrv-auf-den-azoren
 title: HB9CQL ist QRV von den Azoren
 wordpress_id: 4127
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/ir3dv-kronplatz-modernisierungsarbeiten-fast-beendet/
 slug: ir3dv-kronplatz-modernisierungsarbeiten-fast-beendet
 title: IR3DV Kronplatz - Modernisierungsarbeiten (fast) beendet!
 wordpress_id: 15043
-categories:
+tags:
 - D-STAR
 - HamNet
 - Link Suedtirol

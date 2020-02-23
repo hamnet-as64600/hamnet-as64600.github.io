@@ -8,7 +8,7 @@ slug: blinden-und-sehbehindertenverband-sucht-freiwillige-fuer-begleitdienst-in-
 title: Blinden- und Sehbehindertenverband sucht Freiwillige für Begleitdienst in Meran
   und Bruneck
 wordpress_id: 14239
-categories:
+tags:
 - Allgemein
 ---
 

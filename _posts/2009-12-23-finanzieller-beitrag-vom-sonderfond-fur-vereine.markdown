@@ -7,7 +7,7 @@ link: https://drc.bz/finanzieller-beitrag-vom-sonderfond-fur-vereine/
 slug: finanzieller-beitrag-vom-sonderfond-fur-vereine
 title: Finanzieller Beitrag vom Sonderfond für Vereine
 wordpress_id: 485
-categories:
+tags:
 - Allgemein
 ---
 

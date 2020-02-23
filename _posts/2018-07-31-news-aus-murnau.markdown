@@ -7,7 +7,7 @@ link: https://drc.bz/news-aus-murnau/
 slug: news-aus-murnau
 title: News aus Murnau.....
 wordpress_id: 16923
-categories:
+tags:
 - DRC Aussenstelle Nord
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/schaufenster-erneuert/
 slug: schaufenster-erneuert
 title: Schaufenster erneuert
 wordpress_id: 4178
-categories:
+tags:
 - Allgemein
 ---
 

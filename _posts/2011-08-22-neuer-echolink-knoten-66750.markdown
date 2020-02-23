@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-echolink-knoten-66750/
 slug: neuer-echolink-knoten-66750
 title: Neuer Echolink-Knoten 66750
 wordpress_id: 3552
-categories:
+tags:
 - Echolink
 - Umsetzer Chavalatsch
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/es-geht-los-vorbereitungskurs-zur-amateurfunkpruefung-2016-
 slug: es-geht-los-vorbereitungskurs-zur-amateurfunkpruefung-2016-in-bruneck
 title: 'Es geht los: Vorbereitungskurs zur Amateurfunkprüfung 2016 in Bruneck!'
 wordpress_id: 13031
-categories:
+tags:
 - Kurse
 ---
 

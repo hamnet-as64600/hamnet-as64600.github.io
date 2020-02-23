@@ -7,7 +7,7 @@ link: https://drc.bz/drc-vorstand-und-beiraete-unterzeichnen-akt-beim-notar/
 slug: drc-vorstand-und-beiraete-unterzeichnen-akt-beim-notar
 title: DRC Vorstand und Beiräte unterzeichnen Akt beim Notar.
 wordpress_id: 12184
-categories:
+tags:
 - Allgemein
 ---
 

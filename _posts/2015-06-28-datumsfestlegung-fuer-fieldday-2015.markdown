@@ -7,7 +7,7 @@ link: https://drc.bz/datumsfestlegung-fuer-fieldday-2015/
 slug: datumsfestlegung-fuer-fieldday-2015
 title: Datumsfestlegung für Fieldday 2015
 wordpress_id: 10603
-categories:
+tags:
 - Ausflüge
 - Cisar Suedtirol
 ---

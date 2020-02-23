@@ -7,7 +7,7 @@ link: https://drc.bz/iq3ny-hat-nun-auch-eine-ccs7-id-nummer-222-3240/
 slug: iq3ny-hat-nun-auch-eine-ccs7-id-nummer-222-3240
 title: 'IQ3NY hat nun auch eine CCS7-ID Nummer: (222) 3240'
 wordpress_id: 11784
-categories:
+tags:
 - Clublokal
 - D-STAR
 - IQ3NY

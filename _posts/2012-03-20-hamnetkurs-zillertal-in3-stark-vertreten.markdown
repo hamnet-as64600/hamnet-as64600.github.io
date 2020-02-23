@@ -7,7 +7,7 @@ link: https://drc.bz/hamnetkurs-zillertal-in3-stark-vertreten/
 slug: hamnetkurs-zillertal-in3-stark-vertreten
 title: Hamnetkurs Zillertal - IN3 stark vertreten!
 wordpress_id: 4425
-categories:
+tags:
 - Kurse
 ---
 

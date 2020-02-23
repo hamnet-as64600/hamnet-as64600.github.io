@@ -7,7 +7,7 @@ link: https://drc.bz/kompendium-zu-lithium-ionen-akkumulatoren/
 slug: kompendium-zu-lithium-ionen-akkumulatoren
 title: Kompendium zu Lithium-Ionen-Akkumulatoren
 wordpress_id: 10798
-categories:
+tags:
 - Allgemein
 ---
 

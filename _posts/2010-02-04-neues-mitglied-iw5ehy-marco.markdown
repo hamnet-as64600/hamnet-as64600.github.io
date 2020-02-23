@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-iw5ehy-marco/
 slug: neues-mitglied-iw5ehy-marco
 title: 'Neues Mitglied: IW5EHY Marco'
 wordpress_id: 746
-categories:
+tags:
 - Allgemein
 ---
 

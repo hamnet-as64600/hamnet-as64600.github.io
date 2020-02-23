@@ -7,7 +7,7 @@ link: https://drc.bz/liste-der-lander-mit-cept-vereinbarung/
 slug: liste-der-lander-mit-cept-vereinbarung
 title: Liste der Länder mit CEPT Vereinbarung.
 wordpress_id: 6143
-categories:
+tags:
 - Allgemein
 ---
 

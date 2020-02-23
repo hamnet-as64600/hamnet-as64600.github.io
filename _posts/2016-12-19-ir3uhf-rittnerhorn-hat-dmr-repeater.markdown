@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhf-rittnerhorn-hat-dmr-repeater/
 slug: ir3uhf-rittnerhorn-hat-dmr-repeater
 title: IR3UHF - Rittnerhorn hat DMR Repeater!
 wordpress_id: 13453
-categories:
+tags:
 - DMR
 - Umsetzer Rittner Horn
 ---

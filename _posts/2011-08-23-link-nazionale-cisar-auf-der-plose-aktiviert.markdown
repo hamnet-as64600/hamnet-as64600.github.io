@@ -7,7 +7,7 @@ link: https://drc.bz/link-nazionale-cisar-auf-der-plose-aktiviert/
 slug: link-nazionale-cisar-auf-der-plose-aktiviert
 title: Link Nazionale Cisar auf dem Rittnerhorn aktiviert
 wordpress_id: 3563
-categories:
+tags:
 - Cisar Suedtirol
 - Umsetzer Rittner Horn
 ---

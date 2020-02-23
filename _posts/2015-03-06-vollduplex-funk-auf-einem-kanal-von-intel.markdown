@@ -7,7 +7,7 @@ link: https://drc.bz/vollduplex-funk-auf-einem-kanal-von-intel/
 slug: vollduplex-funk-auf-einem-kanal-von-intel
 title: Vollduplex-Funk auf einem Kanal von Intel
 wordpress_id: 10194
-categories:
+tags:
 - Bastelecke
 ---
 

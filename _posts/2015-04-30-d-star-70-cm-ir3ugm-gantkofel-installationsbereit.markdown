@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-70-cm-ir3ugm-gantkofel-installationsbereit/
 slug: d-star-70-cm-ir3ugm-gantkofel-installationsbereit
 title: D-Star 70 cm IR3UGM Gantkofel installationsbereit!
 wordpress_id: 10383
-categories:
+tags:
 - D-STAR
 - Umsetzer Gantkofel
 ---

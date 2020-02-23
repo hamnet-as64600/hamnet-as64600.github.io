@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zur-clubbekleidung/
 slug: nachtrag-zur-clubbekleidung
 title: Nachtrag zur Clubbekleidung
 wordpress_id: 1509
-categories:
+tags:
 - Allgemein
 ---
 

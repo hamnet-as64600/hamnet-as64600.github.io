@@ -7,7 +7,7 @@ link: https://drc.bz/erneute-bestellungsmoeglichkeit-fuer-anytone-d-868uv-mit-31
 slug: erneute-bestellungsmoeglichkeit-fuer-anytone-d-868uv-mit-31-ah-akku
 title: Erneute Bestellungsmöglichkeit für ANYTONE D-868UV mit 3,1 Ah Akku.
 wordpress_id: 17647
-categories:
+tags:
 - DMR
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/zwei-neue-mitglieder-im-drc-2/
 slug: zwei-neue-mitglieder-im-drc-2
 title: Zwei neue Mitglieder im DRC.
 wordpress_id: 11595
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/chavalatsch-ir3eb-r6-und-link-suedtirol-neu-installiert/
 slug: chavalatsch-ir3eb-r6-und-link-suedtirol-neu-installiert
 title: Chavalatsch IR3EB - R6 und Link Südtirol neu installiert
 wordpress_id: 16997
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

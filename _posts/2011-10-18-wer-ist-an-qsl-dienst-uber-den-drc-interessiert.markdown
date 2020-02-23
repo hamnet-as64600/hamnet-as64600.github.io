@@ -7,7 +7,7 @@ link: https://drc.bz/wer-ist-an-qsl-dienst-uber-den-drc-interessiert/
 slug: wer-ist-an-qsl-dienst-uber-den-drc-interessiert
 title: Wer ist an QSL Dienst über den DRC interessiert?
 wordpress_id: 3814
-categories:
+tags:
 - Allgemein
 ---
 

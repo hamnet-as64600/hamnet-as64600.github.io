@@ -8,7 +8,7 @@ slug: sammelbestellung-fuer-sdr-empfaenger-mit-dvbt-dab-usb-stick-konverter-oder
 title: Sammelbestellung für SDR-Empfänger mit DVBT-DAB Usb Stick / Konverter oder
   FunCube
 wordpress_id: 8135
-categories:
+tags:
 - SDR
 ---
 

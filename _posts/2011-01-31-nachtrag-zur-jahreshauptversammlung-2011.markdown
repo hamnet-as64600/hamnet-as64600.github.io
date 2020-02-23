@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zur-jahreshauptversammlung-2011/
 slug: nachtrag-zur-jahreshauptversammlung-2011
 title: Nachtrag zur Jahreshauptversammlung 2011
 wordpress_id: 2405
-categories:
+tags:
 - Allgemein
 ---
 

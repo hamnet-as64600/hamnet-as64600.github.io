@@ -7,7 +7,7 @@ link: https://drc.bz/vorschlag-von-oe7phi/
 slug: vorschlag-von-oe7phi
 title: Vorschlag von OE7PHI-Textbaustein ist fertig.
 wordpress_id: 3252
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/eine-unglaubliche-geschichte-aus-der-schweiz/
 slug: eine-unglaubliche-geschichte-aus-der-schweiz
 title: Eine unglaubliche Geschichte aus der Schweiz.
 wordpress_id: 5734
-categories:
+tags:
 - Allgemein
 ---
 

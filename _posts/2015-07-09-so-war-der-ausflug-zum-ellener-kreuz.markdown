@@ -7,7 +7,7 @@ link: https://drc.bz/so-war-der-ausflug-zum-ellener-kreuz/
 slug: so-war-der-ausflug-zum-ellener-kreuz
 title: So war der Ausflug zum Ellener Kreuz.
 wordpress_id: 10635
-categories:
+tags:
 - Ausflüge
 ---
 

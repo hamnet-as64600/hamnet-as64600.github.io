@@ -7,7 +7,7 @@ link: https://drc.bz/clublokal-termingerecht-geraumt/
 slug: clublokal-termingerecht-geraumt
 title: Clublokal termingerecht geräumt.
 wordpress_id: 5440
-categories:
+tags:
 - Clublokal
 ---
 

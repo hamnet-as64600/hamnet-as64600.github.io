@@ -7,7 +7,7 @@ link: https://drc.bz/einweihung-der-clubstation-dfobh-in-saulgrub-aura-hotel/
 slug: einweihung-der-clubstation-dfobh-in-saulgrub-aura-hotel
 title: Einweihung der Clubstation DFØBH in Saulgrub-AURA-HOTEL
 wordpress_id: 10996
-categories:
+tags:
 - Murnau
 ---
 

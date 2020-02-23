@@ -7,7 +7,7 @@ link: https://drc.bz/neue-suedtirol-qrg-karte-erstellt/
 slug: neue-suedtirol-qrg-karte-erstellt
 title: Neue Südtirol-QRG Karte erstellt
 wordpress_id: 9213
-categories:
+tags:
 - Umsetzer allgemein
 ---
 

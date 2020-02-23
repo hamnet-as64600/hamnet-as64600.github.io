@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3erb-arnold/
 slug: neues-mitglied-im-drc-in3erb-arnold
 title: 'Neues Mitglied im DRC: IN3ERB Arnold'
 wordpress_id: 7995
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateur-wird-burgermeister/
 slug: funkamateur-wird-burgermeister
 title: Funkamateur wird Bürgermeister
 wordpress_id: 1336
-categories:
+tags:
 - Allgemein
 ---
 

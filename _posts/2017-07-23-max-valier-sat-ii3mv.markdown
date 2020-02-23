@@ -7,7 +7,7 @@ link: https://drc.bz/max-valier-sat-ii3mv/
 slug: max-valier-sat-ii3mv
 title: Max Valier Sat II3MV
 wordpress_id: 14501
-categories:
+tags:
 - Allgemein
 ---
 

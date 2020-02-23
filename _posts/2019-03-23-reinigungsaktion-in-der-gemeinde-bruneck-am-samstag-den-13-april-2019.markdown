@@ -7,7 +7,7 @@ link: https://drc.bz/reinigungsaktion-in-der-gemeinde-bruneck-am-samstag-den-13-
 slug: reinigungsaktion-in-der-gemeinde-bruneck-am-samstag-den-13-april-2019
 title: Reinigungsaktion in der Gemeinde Bruneck am Samstag, den 13. April 2019
 wordpress_id: 18138
-categories:
+tags:
 - Allgemein
 ---
 

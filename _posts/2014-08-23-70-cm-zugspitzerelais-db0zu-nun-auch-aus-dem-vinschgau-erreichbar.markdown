@@ -7,7 +7,7 @@ link: https://drc.bz/70-cm-zugspitzerelais-db0zu-nun-auch-aus-dem-vinschgau-erre
 slug: 70-cm-zugspitzerelais-db0zu-nun-auch-aus-dem-vinschgau-erreichbar
 title: 70 cm Zugspitzerelais DB0ZU nun auch aus dem Vinschgau erreichbar!
 wordpress_id: 8949
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

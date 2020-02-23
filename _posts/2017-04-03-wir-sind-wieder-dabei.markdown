@@ -7,7 +7,7 @@ link: https://drc.bz/wir-sind-wieder-dabei/
 slug: wir-sind-wieder-dabei
 title: Wir sind wieder dabei!!!!
 wordpress_id: 13934
-categories:
+tags:
 - Funkassistenz
 ---
 

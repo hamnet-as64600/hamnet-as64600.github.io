@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateure-helfen-bei-flutkatastrophe-in-indien/
 slug: funkamateure-helfen-bei-flutkatastrophe-in-indien
 title: Funkamateure helfen bei Flutkatastrophe in Indien.
 wordpress_id: 17138
-categories:
+tags:
 - Notfunk
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/reisebericht-bretagne-von-in3dov/
 slug: reisebericht-bretagne-von-in3dov
 title: Reisebericht Bretagne von F/IN3DOV
 wordpress_id: 1663
-categories:
+tags:
 - Allgemein
 ---
 

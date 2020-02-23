@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-plose-wieder-online/
 slug: d-star-plose-wieder-online
 title: D-Star Plose wieder online!
 wordpress_id: 13095
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

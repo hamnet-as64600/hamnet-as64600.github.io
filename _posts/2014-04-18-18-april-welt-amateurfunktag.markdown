@@ -7,7 +7,7 @@ link: https://drc.bz/18-april-welt-amateurfunktag/
 slug: 18-april-welt-amateurfunktag
 title: '18. April: Welt Amateurfunktag'
 wordpress_id: 8306
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/ciaspolonga-2014/
 slug: ciaspolonga-2014
 title: Ciaspolonga 2014
 wordpress_id: 7841
-categories:
+tags:
 - Funkassistenz
 ---
 

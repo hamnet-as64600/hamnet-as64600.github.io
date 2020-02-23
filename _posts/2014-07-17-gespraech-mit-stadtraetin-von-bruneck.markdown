@@ -7,7 +7,7 @@ link: https://drc.bz/gespraech-mit-stadtraetin-von-bruneck/
 slug: gespraech-mit-stadtraetin-von-bruneck
 title: Gespräch mit Stadträtin von Bruneck
 wordpress_id: 8572
-categories:
+tags:
 - Allgemein
 ---
 

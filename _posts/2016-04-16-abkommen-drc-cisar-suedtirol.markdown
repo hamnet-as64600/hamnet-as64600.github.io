@@ -7,7 +7,7 @@ link: https://drc.bz/abkommen-drc-cisar-suedtirol/
 slug: abkommen-drc-cisar-suedtirol
 title: Abkommen DRC - Cisar Südtirol
 wordpress_id: 11946
-categories:
+tags:
 - Allgemein
 ---
 

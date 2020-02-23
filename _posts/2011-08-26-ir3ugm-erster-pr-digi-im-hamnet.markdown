@@ -7,7 +7,7 @@ link: https://drc.bz/ir3ugm-erster-pr-digi-im-hamnet/
 slug: ir3ugm-erster-pr-digi-im-hamnet
 title: 'IR3UGM: Erster PR-Digi im HAMNET !'
 wordpress_id: 3584
-categories:
+tags:
 - HamNet
 - Packet Radio
 ---

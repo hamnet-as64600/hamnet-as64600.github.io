@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3jrz-fabio-aus-meran/
 slug: neues-mitglied-im-drc-in3jrz-fabio-aus-meran
 title: 'Neues Mitglied im DRC: IN3JRZ Fabio aus Meran'
 wordpress_id: 11375
-categories:
+tags:
 - Neue Mitglieder
 ---
 

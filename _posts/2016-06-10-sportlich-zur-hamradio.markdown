@@ -7,7 +7,7 @@ link: https://drc.bz/sportlich-zur-hamradio/
 slug: sportlich-zur-hamradio
 title: Sportlich zur Hamradio.
 wordpress_id: 12323
-categories:
+tags:
 - Allgemein
 ---
 

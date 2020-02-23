@@ -7,7 +7,7 @@ link: https://drc.bz/hochsteintreffen-am-31-8-2014/
 slug: hochsteintreffen-am-31-8-2014
 title: Hochsteintreffen am 31.8.2014
 wordpress_id: 8929
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

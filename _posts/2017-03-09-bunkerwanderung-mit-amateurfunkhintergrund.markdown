@@ -7,7 +7,7 @@ link: https://drc.bz/bunkerwanderung-mit-amateurfunkhintergrund/
 slug: bunkerwanderung-mit-amateurfunkhintergrund
 title: Bunkerwanderung mit Amateurfunkhintergrund
 wordpress_id: 13836
-categories:
+tags:
 - Ausflüge
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/funken-im-urlaub/
 slug: funken-im-urlaub
 title: Funken im Urlaub!
 wordpress_id: 3477
-categories:
+tags:
 - Allgemein
 ---
 

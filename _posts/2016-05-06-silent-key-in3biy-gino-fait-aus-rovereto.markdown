@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3biy-gino-fait-aus-rovereto/
 slug: silent-key-in3biy-gino-fait-aus-rovereto
 title: 'Silent key: IN3BIY, Gino Fait, aus Rovereto.'
 wordpress_id: 12125
-categories:
+tags:
 - Silent key
 ---
 

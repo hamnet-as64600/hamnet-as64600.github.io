@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhf-rittnerhorn-hat-nun-auch-eine-fernsteuerung/
 slug: ir3uhf-rittnerhorn-hat-nun-auch-eine-fernsteuerung
 title: IR3UHF - Rittnerhorn hat nun auch eine Fernsteuerung
 wordpress_id: 11167
-categories:
+tags:
 - Allgemein
 ---
 

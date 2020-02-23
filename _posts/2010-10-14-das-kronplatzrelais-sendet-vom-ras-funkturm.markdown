@@ -7,7 +7,7 @@ link: https://drc.bz/das-kronplatzrelais-sendet-vom-ras-funkturm/
 slug: das-kronplatzrelais-sendet-vom-ras-funkturm
 title: Das Kronplatzrelais sendet jetzt vom RAS Funkturm.
 wordpress_id: 1885
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

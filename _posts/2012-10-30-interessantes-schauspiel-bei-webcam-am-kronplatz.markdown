@@ -7,7 +7,7 @@ link: https://drc.bz/interessantes-schauspiel-bei-webcam-am-kronplatz/
 slug: interessantes-schauspiel-bei-webcam-am-kronplatz
 title: Interessantes Schauspiel bei Webcam am Kronplatz
 wordpress_id: 5718
-categories:
+tags:
 - Umsetzer Kronplatz
 - Webcam
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/suedtirolweite-funkuebung-am-freitag-den-22-april-2016-von-
 slug: suedtirolweite-funkuebung-am-freitag-den-22-april-2016-von-20-30-21-00-uhr
 title: Südtirolweite Funkübung
 wordpress_id: 11855
-categories:
+tags:
 - Notfunk
 ---
 

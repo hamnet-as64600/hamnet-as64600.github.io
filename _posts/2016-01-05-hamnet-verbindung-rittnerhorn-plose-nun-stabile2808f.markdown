@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-verbindung-rittnerhorn-plose-nun-stabil%e2%80%8f/
 slug: hamnet-verbindung-rittnerhorn-plose-nun-stabil%e2%80%8f
 title: HAMNET-Verbindung Rittnerhorn-Plose nun stabil‏
 wordpress_id: 11391
-categories:
+tags:
 - HamNet
 - Umsetzer Plose
 - Umsetzer Rittner Horn

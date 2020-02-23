@@ -7,7 +7,7 @@ link: https://drc.bz/formveraendernde-antennen-aus-fluessigem-metall/
 slug: formveraendernde-antennen-aus-fluessigem-metall
 title: Formverändernde Antennen aus flüssigem Metall *
 wordpress_id: 10861
-categories:
+tags:
 - Allgemein
 ---
 

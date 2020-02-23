@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-oe7opj-peter-aus-lienz/
 slug: neues-mitglied-im-drc-oe7opj-peter-aus-lienz
 title: 'Neues Mitglied im DRC: OE7OPJ, Peter aus Lienz'
 wordpress_id: 12734
-categories:
+tags:
 - Neue Mitglieder
 ---
 

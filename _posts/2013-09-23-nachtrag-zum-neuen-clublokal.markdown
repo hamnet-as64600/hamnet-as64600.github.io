@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zum-neuen-clublokal/
 slug: nachtrag-zum-neuen-clublokal
 title: Nachtrag zum neuen Clublokal!
 wordpress_id: 7213
-categories:
+tags:
 - Clublokal
 ---
 

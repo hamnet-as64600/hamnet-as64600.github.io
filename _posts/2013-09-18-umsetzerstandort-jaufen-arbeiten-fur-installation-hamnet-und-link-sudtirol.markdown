@@ -7,7 +7,7 @@ link: https://drc.bz/umsetzerstandort-jaufen-arbeiten-fur-installation-hamnet-un
 slug: umsetzerstandort-jaufen-arbeiten-fur-installation-hamnet-und-link-sudtirol
 title: Umsetzerstandort Jaufen - Arbeiten für Installation HamNet und Link Südtirol
 wordpress_id: 7158
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Jaufen
 ---

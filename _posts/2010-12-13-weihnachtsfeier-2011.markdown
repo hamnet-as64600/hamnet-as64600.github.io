@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtsfeier-2011/
 slug: weihnachtsfeier-2011
 title: So war die Weihnachtsfeier 2010
 wordpress_id: 2182
-categories:
+tags:
 - Allgemein
 ---
 

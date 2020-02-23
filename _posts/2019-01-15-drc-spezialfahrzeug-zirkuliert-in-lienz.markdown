@@ -7,7 +7,7 @@ link: https://drc.bz/drc-spezialfahrzeug-zirkuliert-in-lienz/
 slug: drc-spezialfahrzeug-zirkuliert-in-lienz
 title: DRC-Spezialfahrzeug zirkuliert in Lienz!
 wordpress_id: 17866
-categories:
+tags:
 - Allgemein
 - Spendenaufruf
 ---

@@ -8,7 +8,7 @@ slug: 22-suedtirol-drei-zinnen-alpine-run-samstag-14-09-2019-helfer-bitte-melden
 title: 22. Südtirol Drei Zinnen Alpine Run Samstag  14.09.2019  Helfer bitte Melden
   !!!!
 wordpress_id: 18588
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtliche-klaenge-aus-unseren-umsetzern/
 slug: weihnachtliche-klaenge-aus-unseren-umsetzern
 title: Weihnachtliche Klänge aus unseren Umsetzern.
 wordpress_id: 13383
-categories:
+tags:
 - Allgemein
 ---
 

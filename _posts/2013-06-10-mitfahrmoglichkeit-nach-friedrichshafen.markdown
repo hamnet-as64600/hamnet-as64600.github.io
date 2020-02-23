@@ -7,7 +7,7 @@ link: https://drc.bz/mitfahrmoglichkeit-nach-friedrichshafen/
 slug: mitfahrmoglichkeit-nach-friedrichshafen
 title: Mitfahrmöglichkeit nach Friedrichshafen
 wordpress_id: 6535
-categories:
+tags:
 - Allgemein
 ---
 

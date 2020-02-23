@@ -7,7 +7,7 @@ link: https://drc.bz/der-suedtirolreflektor-zieht-auf-dcs009f-um/
 slug: der-suedtirolreflektor-zieht-auf-dcs009f-um
 title: Der Südtirolreflektor zieht auf DCS009F um.
 wordpress_id: 13381
-categories:
+tags:
 - D-STAR
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/unglaublich-der-drc-verlost-10-000e/
 slug: unglaublich-der-drc-verlost-10-000e
 title: '** Unglaublich, der DRC verlost 10.000 € **'
 wordpress_id: 15249
-categories:
+tags:
 - Allgemein
 ---
 

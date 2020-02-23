@@ -7,7 +7,7 @@ link: https://drc.bz/aktueller-stand-der-hamnet-infrastruktur/
 slug: aktueller-stand-der-hamnet-infrastruktur
 title: 'Starke Verbindungen: Aktueller Stand der HAMNET-Infrastruktur'
 wordpress_id: 3542
-categories:
+tags:
 - HamNet
 ---
 

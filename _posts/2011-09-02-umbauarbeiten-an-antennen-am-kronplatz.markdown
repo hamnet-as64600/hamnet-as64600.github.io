@@ -7,7 +7,7 @@ link: https://drc.bz/umbauarbeiten-an-antennen-am-kronplatz/
 slug: umbauarbeiten-an-antennen-am-kronplatz
 title: Umbauarbeiten an Antennen am Kronplatz
 wordpress_id: 3632
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/echolink-gitschberg-qrt/
 slug: echolink-gitschberg-qrt
 title: Echolink Gitschberg vorübergehend QRT
 wordpress_id: 7969
-categories:
+tags:
 - Echolink
 - Umsetzer Gitschberg
 ---

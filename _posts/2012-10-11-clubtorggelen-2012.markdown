@@ -7,7 +7,7 @@ link: https://drc.bz/clubtorggelen-2012/
 slug: clubtorggelen-2012
 title: Clubtörggelen im "Villscheider Hof" in Brixen
 wordpress_id: 5605
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/cq-alpe-adria-contest-von-iq3ed-p/
 slug: cq-alpe-adria-contest-von-iq3ed-p
 title: CQ Alpe Adria Contest von IQ3ED-p
 wordpress_id: 3501
-categories:
+tags:
 - Ausflüge
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/bergunfall-notruf-aus-den-dolomiten/
 slug: bergunfall-notruf-aus-den-dolomiten
 title: 'Bergunfall: Notruf aus den Dolomiten.'
 wordpress_id: 14489
-categories:
+tags:
 - Allgemein
 ---
 

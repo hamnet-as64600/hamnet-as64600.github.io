@@ -7,7 +7,7 @@ link: https://drc.bz/beitrag-ueber-amateurfunk-im-suedtiroler-onlinemagazin-barf
 slug: beitrag-ueber-amateurfunk-im-suedtiroler-onlinemagazin-barfuss
 title: Beitrag über Amateurfunk im Südtiroler Onlinemagazin BARFUSS
 wordpress_id: 7793
-categories:
+tags:
 - Allgemein
 ---
 

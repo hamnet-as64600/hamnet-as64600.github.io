@@ -7,7 +7,7 @@ link: https://drc.bz/6-neue-mitglieder-dem-drc-beigetreten/
 slug: 6-neue-mitglieder-dem-drc-beigetreten
 title: 6 neue Mitglieder dem DRC beigetreten.
 wordpress_id: 6112
-categories:
+tags:
 - Neue Mitglieder
 ---
 

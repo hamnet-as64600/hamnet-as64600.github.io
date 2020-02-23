@@ -7,7 +7,7 @@ link: https://drc.bz/erfolgreicher-einsatz-am-gitschberg/
 slug: erfolgreicher-einsatz-am-gitschberg
 title: Erfolgreicher Einsatz am Gitschberg
 wordpress_id: 6567
-categories:
+tags:
 - HamNet
 - Umsetzer Gitschberg
 ---

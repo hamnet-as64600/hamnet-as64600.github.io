@@ -7,7 +7,7 @@ link: https://drc.bz/ulrich-l-rohde-wissenschaftler-unternehmer-funkamateur/
 slug: ulrich-l-rohde-wissenschaftler-unternehmer-funkamateur
 title: 'Ulrich L. Rohde: Wissenschaftler, Unternehmer, Funkamateur'
 wordpress_id: 10660
-categories:
+tags:
 - Allgemein
 ---
 

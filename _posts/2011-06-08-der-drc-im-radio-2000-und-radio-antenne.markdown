@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-im-radio-2000-und-radio-antenne/
 slug: der-drc-im-radio-2000-und-radio-antenne
 title: Der DRC im "Radio 2000" und Radio "Die Antenne"
 wordpress_id: 3223
-categories:
+tags:
 - Allgemein
 ---
 

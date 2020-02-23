@@ -7,7 +7,7 @@ link: https://drc.bz/anmeldung-zum-heurigen-amateurfunkkurs/
 slug: anmeldung-zum-heurigen-amateurfunkkurs
 title: Anmeldung zum heurigen Amateurfunkkurs
 wordpress_id: 6798
-categories:
+tags:
 - Kurse
 ---
 

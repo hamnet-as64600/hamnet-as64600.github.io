@@ -7,7 +7,7 @@ link: https://drc.bz/r4-ir3uhf-rittnerhorn-echolink-wieder-aktiv/
 slug: r4-ir3uhf-rittnerhorn-echolink-wieder-aktiv
 title: 'R4 - IR3UHF, Rittnerhorn: Echolink wieder aktiv'
 wordpress_id: 11203
-categories:
+tags:
 - Echolink
 - Umsetzer Rittner Horn
 ---

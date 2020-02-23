@@ -7,7 +7,7 @@ link: https://drc.bz/mini-link-sudtirol-ab-heute-wieder-aktiv/
 slug: mini-link-sudtirol-ab-heute-wieder-aktiv
 title: Mini-Link Südtirol ab heute wieder aktiv!
 wordpress_id: 5298
-categories:
+tags:
 - Allgemein
 ---
 

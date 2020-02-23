@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zur-jahreshauptversammlung-2014-des-drc-und-der-a
 slug: einladung-zur-jahreshauptversammlung-2014-des-drc-und-der-ari-sektion-bruneck
 title: Einladung zur Jahreshauptversammlung 2014 des DRC und der ARI Sektion Bruneck
 wordpress_id: 7945
-categories:
+tags:
 - Allgemein
 - ARI
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhf-rittnerhorn-neuer-server/
 slug: ir3uhf-rittnerhorn-neuer-server
 title: IR3UHF - Rittnerhorn, neuer Server
 wordpress_id: 19011
-categories:
+tags:
 - C4FM
 - D-STAR
 - DMR

@@ -7,7 +7,7 @@ link: https://drc.bz/wahnsinn-remotestation-am-gitschberg/
 slug: wahnsinn-remotestation-am-gitschberg
 title: 'Wahnsinn: Remotestation am Gitschberg!!!'
 wordpress_id: 14286
-categories:
+tags:
 - Clublokal
 - Remotestation
 ---

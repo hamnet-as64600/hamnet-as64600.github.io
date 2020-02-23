@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3pgd-gerald/
 slug: neues-mitglied-im-drc-in3pgd-gerald
 title: 'Neues Mitglied im DRC: IN3PGD Gerald'
 wordpress_id: 10717
-categories:
+tags:
 - Neue Mitglieder
 ---
 

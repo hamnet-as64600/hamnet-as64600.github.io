@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzplan-brixen-dolomiten-marathon/
 slug: einsatzplan-brixen-dolomiten-marathon
 title: Einsatzplan "Brixen Dolomiten Marathon"
 wordpress_id: 12419
-categories:
+tags:
 - Allgemein
 ---
 

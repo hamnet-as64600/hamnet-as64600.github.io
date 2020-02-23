@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-ueber-rms-beim-letzten-ov-abend/
 slug: vortrag-ueber-rms-beim-letzten-ov-abend
 title: Vortrag über RMS beim letzten OV-Abend.
 wordpress_id: 13084
-categories:
+tags:
 - Allgemein
 ---
 

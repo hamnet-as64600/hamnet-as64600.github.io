@@ -7,7 +7,7 @@ link: https://drc.bz/funkuebung-mit-in3erw-reinhart/
 slug: funkuebung-mit-in3erw-reinhart
 title: Funkübung mit IN3ERW - Reinhart
 wordpress_id: 13588
-categories:
+tags:
 - Südtiroler Funkübung
 ---
 

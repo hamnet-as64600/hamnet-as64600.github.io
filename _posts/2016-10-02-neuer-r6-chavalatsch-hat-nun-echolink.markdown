@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-r6-chavalatsch-hat-nun-echolink/
 slug: neuer-r6-chavalatsch-hat-nun-echolink
 title: 'Neuer R6 Chavalatsch: Echolink aktiv!'
 wordpress_id: 13076
-categories:
+tags:
 - Echolink
 - Umsetzer Chavalatsch
 ---

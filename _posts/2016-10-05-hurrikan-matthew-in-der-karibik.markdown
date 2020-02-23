@@ -7,7 +7,7 @@ link: https://drc.bz/hurrikan-matthew-in-der-karibik/
 slug: hurrikan-matthew-in-der-karibik
 title: Hurrikan Matthew in der Karibik
 wordpress_id: 13096
-categories:
+tags:
 - Notfunk
 ---
 

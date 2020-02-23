@@ -7,7 +7,7 @@ link: https://drc.bz/vortrag-d-star-fur-anfanger-d-star-repeater-von-dg6rch-chri
 slug: vortrag-d-star-fur-anfanger-d-star-repeater-von-dg6rch-christian
 title: 'Vortrag: D-Star für Anfänger, D-Star Repeater von DG6RCH, Christian'
 wordpress_id: 5326
-categories:
+tags:
 - D-STAR
 - Kurse
 ---

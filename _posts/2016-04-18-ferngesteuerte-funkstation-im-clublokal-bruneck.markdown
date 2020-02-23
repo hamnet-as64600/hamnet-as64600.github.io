@@ -7,7 +7,7 @@ link: https://drc.bz/ferngesteuerte-funkstation-im-clublokal-bruneck/
 slug: ferngesteuerte-funkstation-im-clublokal-bruneck
 title: Ferngesteuerte Funkstation im Clublokal Bruneck.
 wordpress_id: 11973
-categories:
+tags:
 - Clublokal
 - IQ3NY
 ---

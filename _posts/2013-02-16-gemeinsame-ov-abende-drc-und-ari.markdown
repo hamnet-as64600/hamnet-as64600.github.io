@@ -7,7 +7,7 @@ link: https://drc.bz/gemeinsame-ov-abende-drc-und-ari/
 slug: gemeinsame-ov-abende-drc-und-ari
 title: Gemeinsame OV Abende DRC und ARI
 wordpress_id: 6073
-categories:
+tags:
 - ARI
 ---
 

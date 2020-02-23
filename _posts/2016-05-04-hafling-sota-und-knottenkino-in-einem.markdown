@@ -7,7 +7,7 @@ link: https://drc.bz/hafling-sota-und-knottenkino-in-einem/
 slug: hafling-sota-und-knottenkino-in-einem
 title: 'Hafling: SOTA und Knottenkino in einem!'
 wordpress_id: 12117
-categories:
+tags:
 - Ausflüge
 ---
 

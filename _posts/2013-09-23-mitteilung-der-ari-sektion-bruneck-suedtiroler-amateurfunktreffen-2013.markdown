@@ -7,7 +7,7 @@ link: https://drc.bz/mitteilung-der-ari-sektion-bruneck-suedtiroler-amateurfunkt
 slug: mitteilung-der-ari-sektion-bruneck-suedtiroler-amateurfunktreffen-2013
 title: 'Mitteilung der ARI Sektion Bruneck: Suedtiroler Amateurfunktreffen 2013'
 wordpress_id: 7202
-categories:
+tags:
 - ARI
 ---
 

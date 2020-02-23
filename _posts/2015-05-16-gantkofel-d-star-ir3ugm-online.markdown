@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-d-star-ir3ugm-online/
 slug: gantkofel-d-star-ir3ugm-online
 title: Gantkofel - D-Star IR3UGM online!
 wordpress_id: 10457
-categories:
+tags:
 - D-STAR
 - Umsetzer Gantkofel
 ---

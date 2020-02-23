@@ -7,7 +7,7 @@ link: https://drc.bz/so-wars-beim-toergellen/
 slug: so-wars-beim-toergellen
 title: So wars beim Törggelen.....
 wordpress_id: 9609
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dl1zg-gerhard/
 slug: neues-mitglied-im-drc-dl1zg-gerhard
 title: 'Neues Mitglied im DRC: DL1ZG Gerhard'
 wordpress_id: 18512
-categories:
+tags:
 - Neue Mitglieder
 ---
 

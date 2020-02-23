@@ -7,7 +7,7 @@ link: https://drc.bz/danke/
 slug: danke
 title: Danke!!
 wordpress_id: 18757
-categories:
+tags:
 - Allgemein
 - Silent key
 ---

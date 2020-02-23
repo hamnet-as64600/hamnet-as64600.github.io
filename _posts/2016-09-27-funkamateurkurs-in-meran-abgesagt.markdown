@@ -7,7 +7,7 @@ link: https://drc.bz/funkamateurkurs-in-meran-abgesagt/
 slug: funkamateurkurs-in-meran-abgesagt
 title: Funkamateurkurs in Meran abgesagt :-(
 wordpress_id: 13022
-categories:
+tags:
 - Kurse
 ---
 

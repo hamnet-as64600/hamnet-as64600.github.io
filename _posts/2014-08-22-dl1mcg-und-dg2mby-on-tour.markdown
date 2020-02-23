@@ -7,7 +7,7 @@ link: https://drc.bz/dl1mcg-und-dg2mby-on-tour/
 slug: dl1mcg-und-dg2mby-on-tour
 title: DL1MCG und DG2MBY on tour.
 wordpress_id: 8935
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

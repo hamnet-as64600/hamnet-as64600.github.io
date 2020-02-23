@@ -7,7 +7,7 @@ link: https://drc.bz/vereinsbekleidung-fur-mitglieder/
 slug: vereinsbekleidung-fur-mitglieder
 title: Vereinsbekleidung für Mitglieder
 wordpress_id: 1007
-categories:
+tags:
 - Allgemein
 ---
 

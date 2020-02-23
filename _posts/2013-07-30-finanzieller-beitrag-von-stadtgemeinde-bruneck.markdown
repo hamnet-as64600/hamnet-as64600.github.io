@@ -7,7 +7,7 @@ link: https://drc.bz/finanzieller-beitrag-von-stadtgemeinde-bruneck/
 slug: finanzieller-beitrag-von-stadtgemeinde-bruneck
 title: Finanzieller Beitrag von Stadtgemeinde Bruneck
 wordpress_id: 6759
-categories:
+tags:
 - Clublokal
 ---
 

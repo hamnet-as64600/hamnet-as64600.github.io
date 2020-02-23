@@ -7,7 +7,7 @@ link: https://drc.bz/erste-bilder-von-der-iss/
 slug: erste-bilder-von-der-iss
 title: Erste Bilder von der ISS!
 wordpress_id: 9879
-categories:
+tags:
 - ISS
 ---
 

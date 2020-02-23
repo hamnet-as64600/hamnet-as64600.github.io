@@ -7,7 +7,7 @@ link: https://drc.bz/die-vorbereitungen-fuer-den-drei-zinnen-run-laufen-helfer-b
 slug: die-vorbereitungen-fuer-den-drei-zinnen-run-laufen-helfer-bitte-melden
 title: 'Die Vorbereitungen für den Drei Zinnen Run laufen: Helfer bitte melden!!'
 wordpress_id: 10587
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

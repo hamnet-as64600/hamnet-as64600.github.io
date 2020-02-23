@@ -7,7 +7,7 @@ link: https://drc.bz/mobilfunk-in-oesterreich/
 slug: mobilfunk-in-oesterreich
 title: Mobilfunk in Österreich
 wordpress_id: 12033
-categories:
+tags:
 - Allgemein
 ---
 

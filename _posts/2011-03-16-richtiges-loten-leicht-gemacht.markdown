@@ -7,7 +7,7 @@ link: https://drc.bz/richtiges-loten-leicht-gemacht/
 slug: richtiges-loten-leicht-gemacht
 title: Richtiges Löten leicht gemacht
 wordpress_id: 2798
-categories:
+tags:
 - Kurse
 ---
 

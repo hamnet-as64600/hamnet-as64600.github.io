@@ -7,7 +7,7 @@ link: https://drc.bz/elmsfeuer-am-sonnblick/
 slug: elmsfeuer-am-sonnblick
 title: Elmsfeuer am Sonnblick
 wordpress_id: 5823
-categories:
+tags:
 - Allgemein
 ---
 

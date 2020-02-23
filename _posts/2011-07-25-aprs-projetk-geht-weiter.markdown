@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-projetk-geht-weiter/
 slug: aprs-projetk-geht-weiter
 title: APRS Projetk geht weiter
 wordpress_id: 3434
-categories:
+tags:
 - APRS
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3wfc-franz-weissensteiner/
 slug: silent-key-in3wfc-franz-weissensteiner
 title: 'Silent key: IN3WFC Franz Weissensteiner'
 wordpress_id: 10605
-categories:
+tags:
 - Silent key
 ---
 

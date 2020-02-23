@@ -8,7 +8,7 @@ slug: wer-kann-beim-oldtimer-rennen-in-nals-am-25-mai-2019-mithelfen
 title: Wer kann beim 19. Südtiroler Bergpreis Motorräder Oldtimer Rennen am 25. Mai
   2019 mithelfen??
 wordpress_id: 18029
-categories:
+tags:
 - Funkassistenz
 ---
 

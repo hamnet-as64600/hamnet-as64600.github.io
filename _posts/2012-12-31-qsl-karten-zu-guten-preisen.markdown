@@ -7,7 +7,7 @@ link: https://drc.bz/qsl-karten-zu-guten-preisen/
 slug: qsl-karten-zu-guten-preisen
 title: QSL-Karten zu guten Preisen
 wordpress_id: 5912
-categories:
+tags:
 - Allgemein
 ---
 

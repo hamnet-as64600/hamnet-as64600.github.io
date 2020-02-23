@@ -7,7 +7,7 @@ link: https://drc.bz/schulsatellit-max-valier-sat-im-orbit/
 slug: schulsatellit-max-valier-sat-im-orbit
 title: Schulsatellit "Max Valier Sat" im Orbit
 wordpress_id: 14416
-categories:
+tags:
 - Allgemein
 ---
 

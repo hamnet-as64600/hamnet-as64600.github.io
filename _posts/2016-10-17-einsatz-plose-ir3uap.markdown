@@ -7,7 +7,7 @@ link: https://drc.bz/einsatz-plose-ir3uap/
 slug: einsatz-plose-ir3uap
 title: Einsatz Plose IR3UAP
 wordpress_id: 13111
-categories:
+tags:
 - Umsetzer Plose
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/vereinsformaenderung-des-drc-abgeschlossen/
 slug: vereinsformaenderung-des-drc-abgeschlossen
 title: Vereinsformänderung des DRC abgeschlossen.
 wordpress_id: 13305
-categories:
+tags:
 - Allgemein
 ---
 

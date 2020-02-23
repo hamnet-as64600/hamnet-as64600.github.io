@@ -7,7 +7,7 @@ link: https://drc.bz/blitzschutz-beim-funken/
 slug: blitzschutz-beim-funken
 title: Blitzschutz beim Funken.
 wordpress_id: 10749
-categories:
+tags:
 - Allgemein
 ---
 

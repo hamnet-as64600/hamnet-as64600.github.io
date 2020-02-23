@@ -7,7 +7,7 @@ link: https://drc.bz/drc-diskussionsforum-ist-online/
 slug: drc-diskussionsforum-ist-online
 title: DRC Diskussionsforum ist online!
 wordpress_id: 13696
-categories:
+tags:
 - Allgemein
 ---
 

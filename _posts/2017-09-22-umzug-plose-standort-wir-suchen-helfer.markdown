@@ -7,7 +7,7 @@ link: https://drc.bz/umzug-plose-standort-wir-suchen-helfer/
 slug: umzug-plose-standort-wir-suchen-helfer
 title: Umzug Plose Standort - Wir suchen Helfer!
 wordpress_id: 14675
-categories:
+tags:
 - Umsetzer Plose
 ---
 

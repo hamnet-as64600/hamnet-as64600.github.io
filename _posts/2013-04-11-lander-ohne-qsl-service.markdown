@@ -7,7 +7,7 @@ link: https://drc.bz/lander-ohne-qsl-service/
 slug: lander-ohne-qsl-service
 title: Länder ohne QSL Service.
 wordpress_id: 6235
-categories:
+tags:
 - QSL
 ---
 

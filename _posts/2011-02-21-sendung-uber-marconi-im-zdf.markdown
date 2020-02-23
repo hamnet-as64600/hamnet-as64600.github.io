@@ -7,7 +7,7 @@ link: https://drc.bz/sendung-uber-marconi-im-zdf/
 slug: sendung-uber-marconi-im-zdf
 title: Sendung über Marconi im ZDF
 wordpress_id: 2570
-categories:
+tags:
 - Allgemein
 ---
 

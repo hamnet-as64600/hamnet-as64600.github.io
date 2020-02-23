@@ -7,7 +7,7 @@ link: https://drc.bz/cq-contest-de-in3genp/
 slug: cq-contest-de-in3genp
 title: 'Aktualisierung: CQ Contest de IN3GEN/p'
 wordpress_id: 5946
-categories:
+tags:
 - Funkamateure stellen sich vor
 ---
 

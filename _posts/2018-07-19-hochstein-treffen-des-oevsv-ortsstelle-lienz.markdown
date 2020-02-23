@@ -7,7 +7,7 @@ link: https://drc.bz/hochstein-treffen-des-oevsv-ortsstelle-lienz/
 slug: hochstein-treffen-des-oevsv-ortsstelle-lienz
 title: Hochstein Treffen der ÖVSV Ortsstelle Lienz
 wordpress_id: 16847
-categories:
+tags:
 - OEVSV
 ---
 

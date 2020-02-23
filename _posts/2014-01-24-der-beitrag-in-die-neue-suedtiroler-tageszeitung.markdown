@@ -7,7 +7,7 @@ link: https://drc.bz/der-beitrag-in-die-neue-suedtiroler-tageszeitung/
 slug: der-beitrag-in-die-neue-suedtiroler-tageszeitung
 title: Der Beitrag in "Die neue Südtiroler Tageszeitung"
 wordpress_id: 8057
-categories:
+tags:
 - Pubblic Relation
 ---
 

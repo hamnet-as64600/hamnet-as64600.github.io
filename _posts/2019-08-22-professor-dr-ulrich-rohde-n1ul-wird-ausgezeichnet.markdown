@@ -7,7 +7,7 @@ link: https://drc.bz/professor-dr-ulrich-rohde-n1ul-wird-ausgezeichnet/
 slug: professor-dr-ulrich-rohde-n1ul-wird-ausgezeichnet
 title: Professor Dr.Ulrich Rohde, N1UL, wird ausgezeichnet.
 wordpress_id: 18688
-categories:
+tags:
 - Allgemein
 ---
 

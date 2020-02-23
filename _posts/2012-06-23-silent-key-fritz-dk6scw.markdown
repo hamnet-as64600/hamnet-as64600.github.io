@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-fritz-dk6scw/
 slug: silent-key-fritz-dk6scw
 title: 'Silent key: DK6SCW, Fritz'
 wordpress_id: 4823
-categories:
+tags:
 - Silent key
 - Umsetzer Hühnerspiel
 ---

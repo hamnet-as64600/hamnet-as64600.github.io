@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtliche-liveuebertragung-auf-unseren-umsetzern/
 slug: weihnachtliche-liveuebertragung-auf-unseren-umsetzern
 title: Weihnachtliche Liveübertragung auf unseren Umsetzern.
 wordpress_id: 11239
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/bitx40-bastelspass-aus-indien/
 slug: bitx40-bastelspass-aus-indien
 title: BITX40 - Bastelspaß aus Indien
 wordpress_id: 14903
-categories:
+tags:
 - Bastelecke
 ---
 

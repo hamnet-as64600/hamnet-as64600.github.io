@@ -7,7 +7,7 @@ link: https://drc.bz/kurzwellen-sdr-mit-offentlichen-zugriff-im-probebetrieb/
 slug: kurzwellen-sdr-mit-offentlichen-zugriff-im-probebetrieb
 title: Kurzwellen-SDR mit öffentlichen Zugriff im Probebetrieb
 wordpress_id: 6986
-categories:
+tags:
 - Clublokal
 - SDR
 ---

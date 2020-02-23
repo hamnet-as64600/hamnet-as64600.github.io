@@ -7,7 +7,7 @@ link: https://drc.bz/ir3eb-chavalatsch-standort-mit-neuer-lto-batterie/
 slug: ir3eb-chavalatsch-standort-mit-neuer-lto-batterie
 title: IR3EB Chavalatsch - Standort mit neuer LTO Batterie
 wordpress_id: 18620
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

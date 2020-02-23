@@ -7,7 +7,7 @@ link: https://drc.bz/der-1000ste-besucher-auf-der-homepage/
 slug: der-1000ste-besucher-auf-der-homepage
 title: Der 1000ste Besucher auf der Homepage!
 wordpress_id: 689
-categories:
+tags:
 - Allgemein
 ---
 

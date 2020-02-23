@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-zweiter-feldtest/
 slug: hamnet-zweiter-feldtest
 title: HamNet - zweiter Feldtest
 wordpress_id: 3366
-categories:
+tags:
 - Allgemein
 ---
 

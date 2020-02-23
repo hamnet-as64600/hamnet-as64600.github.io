@@ -7,7 +7,7 @@ link: https://drc.bz/rittnerhorn-umzug-auf-zivilschutzmast-erfolgreich/
 slug: rittnerhorn-umzug-auf-zivilschutzmast-erfolgreich
 title: Rittnerhorn - Umzug auf Zivilschutzmast erfolgreich!
 wordpress_id: 8848
-categories:
+tags:
 - HamNet
 - Umsetzer Rittner Horn
 ---

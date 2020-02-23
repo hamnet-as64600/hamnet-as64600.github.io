@@ -7,7 +7,7 @@ link: https://drc.bz/was-wird-das-wohl-sein/
 slug: was-wird-das-wohl-sein
 title: Was wird das wohl sein?
 wordpress_id: 16772
-categories:
+tags:
 - Allgemein
 ---
 

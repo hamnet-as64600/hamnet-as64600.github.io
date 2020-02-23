@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-ubersiedelt-in-einen-neuen-raum/
 slug: der-drc-ubersiedelt-in-einen-neuen-raum
 title: Der DRC übersiedelt in einen neuen Raum!!
 wordpress_id: 5221
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/aufruf-zur-mithilfe-beim-drei-zinnen-lauf/
 slug: aufruf-zur-mithilfe-beim-drei-zinnen-lauf
 title: Aufruf zur Mithilfe beim "Drei Zinnen Lauf"
 wordpress_id: 14646
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

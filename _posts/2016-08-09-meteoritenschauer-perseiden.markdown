@@ -7,7 +7,7 @@ link: https://drc.bz/meteoritenschauer-perseiden/
 slug: meteoritenschauer-perseiden
 title: Meteoritenschauer Perseiden
 wordpress_id: 12738
-categories:
+tags:
 - Allgemein
 ---
 

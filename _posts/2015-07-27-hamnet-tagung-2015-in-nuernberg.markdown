@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-tagung-2015-in-nuernberg/
 slug: hamnet-tagung-2015-in-nuernberg
 title: HAMNET Tagung 2015 in Nürnberg
 wordpress_id: 10689
-categories:
+tags:
 - HamNet
 ---
 

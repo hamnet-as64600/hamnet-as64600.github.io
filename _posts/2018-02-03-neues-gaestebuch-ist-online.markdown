@@ -7,7 +7,7 @@ link: https://drc.bz/neues-gaestebuch-ist-online/
 slug: neues-gaestebuch-ist-online
 title: Neues Gästebuch ist online
 wordpress_id: 15320
-categories:
+tags:
 - Allgemein
 ---
 

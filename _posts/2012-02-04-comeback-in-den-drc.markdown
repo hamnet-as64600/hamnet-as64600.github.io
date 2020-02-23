@@ -7,7 +7,7 @@ link: https://drc.bz/comeback-in-den-drc/
 slug: comeback-in-den-drc
 title: Comeback in den DRC
 wordpress_id: 4190
-categories:
+tags:
 - Neue Mitglieder
 ---
 

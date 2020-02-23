@@ -7,7 +7,7 @@ link: https://drc.bz/liste-der-prominenten-funkamateure/
 slug: liste-der-prominenten-funkamateure
 title: Liste der prominenten Funkamateure
 wordpress_id: 14516
-categories:
+tags:
 - Allgemein
 ---
 

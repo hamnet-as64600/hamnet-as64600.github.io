@@ -7,7 +7,7 @@ link: https://drc.bz/unser-gastebuch/
 slug: unser-gastebuch
 title: Unser Gästebuch!
 wordpress_id: 5868
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/aprs-auf-dem-jaufen-aktiviert/
 slug: aprs-auf-dem-jaufen-aktiviert
 title: APRS auf dem Jaufen aktiviert.
 wordpress_id: 3904
-categories:
+tags:
 - APRS
 - Umsetzer Jaufen
 ---

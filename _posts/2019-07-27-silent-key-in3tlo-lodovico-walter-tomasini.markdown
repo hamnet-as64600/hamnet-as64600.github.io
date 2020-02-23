@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3tlo-lodovico-walter-tomasini/
 slug: silent-key-in3tlo-lodovico-walter-tomasini
 title: 'Silent key: IN3TLO Lodovico Walter Tomasini'
 wordpress_id: 18635
-categories:
+tags:
 - Silent key
 ---
 

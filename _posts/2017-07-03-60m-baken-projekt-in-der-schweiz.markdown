@@ -7,7 +7,7 @@ link: https://drc.bz/60m-baken-projekt-in-der-schweiz/
 slug: 60m-baken-projekt-in-der-schweiz
 title: 60m Baken - Projekt in der Schweiz.
 wordpress_id: 14471
-categories:
+tags:
 - 60 m
 ---
 

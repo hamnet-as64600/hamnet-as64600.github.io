@@ -7,7 +7,7 @@ link: https://drc.bz/das-fernsehwetter-fuer-funkamateure/
 slug: das-fernsehwetter-fuer-funkamateure
 title: Das "Fernsehwetter" für Funkamateure
 wordpress_id: 13752
-categories:
+tags:
 - Allgemein
 ---
 

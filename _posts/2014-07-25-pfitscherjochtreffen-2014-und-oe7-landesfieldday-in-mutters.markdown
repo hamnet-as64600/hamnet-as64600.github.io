@@ -7,7 +7,7 @@ link: https://drc.bz/pfitscherjochtreffen-2014-und-oe7-landesfieldday-in-mutters
 slug: pfitscherjochtreffen-2014-und-oe7-landesfieldday-in-mutters
 title: Pfitscherjochtreffen 2014 und OE7 Landesfieldday in Mutters
 wordpress_id: 8614
-categories:
+tags:
 - Feiern und Unterhaltung
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzplan-fuer-den-3-zinnen-lauf-2019/
 slug: einsatzplan-fuer-den-3-zinnen-lauf-2019
 title: Vorläufiger Einsatzplan für den 3 Zinnen Lauf 2019
 wordpress_id: 18753
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

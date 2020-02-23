@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliederversammlung-blinder-und-sehbehinderter-funkamateu
 slug: mitgliederversammlung-blinder-und-sehbehinderter-funkamateure
 title: Mitgliederversammlung blinder und sehbehinderter Funkamateure
 wordpress_id: 13975
-categories:
+tags:
 - Murnau
 ---
 

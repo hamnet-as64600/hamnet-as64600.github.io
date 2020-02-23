@@ -7,7 +7,7 @@ link: https://drc.bz/offenes-schreiben-von-iw3brc-zum-thema-hamnet/
 slug: offenes-schreiben-von-iw3brc-zum-thema-hamnet
 title: Offenes Schreiben von IW3BRC zum Thema Hamnet
 wordpress_id: 3945
-categories:
+tags:
 - HamNet
 ---
 

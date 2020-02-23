@@ -7,7 +7,7 @@ link: https://drc.bz/notfunk-die-atlantische-hurrikansaison-2017-hat-begonnen/
 slug: notfunk-die-atlantische-hurrikansaison-2017-hat-begonnen
 title: 'Notfunk: Die Atlantische Hurrikansaison 2017 hat begonnen'
 wordpress_id: 14400
-categories:
+tags:
 - Notfunk
 ---
 

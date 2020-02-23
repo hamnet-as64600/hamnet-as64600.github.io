@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-ir3ugm-gantkofel-qrt/
 slug: link-suedtirol-ir3ugm-gantkofel-qrt
 title: Link Südtirol IR3UGM Gantkofel QRT
 wordpress_id: 19106
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Gantkofel
 ---

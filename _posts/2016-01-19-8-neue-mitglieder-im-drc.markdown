@@ -7,7 +7,7 @@ link: https://drc.bz/8-neue-mitglieder-im-drc/
 slug: 8-neue-mitglieder-im-drc
 title: 8 neue Mitglieder im DRC
 wordpress_id: 11440
-categories:
+tags:
 - Cisar Suedtirol
 - Neue Mitglieder
 ---

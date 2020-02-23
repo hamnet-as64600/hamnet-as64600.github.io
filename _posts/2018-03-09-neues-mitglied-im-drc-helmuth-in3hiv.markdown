@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-helmuth-in3hiv/
 slug: neues-mitglied-im-drc-helmuth-in3hiv
 title: 'Neues Mitglied im DRC: Helmuth, IN3HIV'
 wordpress_id: 15428
-categories:
+tags:
 - Neue Mitglieder
 ---
 

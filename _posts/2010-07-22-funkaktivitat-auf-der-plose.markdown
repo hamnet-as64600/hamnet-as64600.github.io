@@ -7,7 +7,7 @@ link: https://drc.bz/funkaktivitat-auf-der-plose/
 slug: funkaktivitat-auf-der-plose
 title: Funkwochenende auf der Plose!
 wordpress_id: 1577
-categories:
+tags:
 - Allgemein
 ---
 

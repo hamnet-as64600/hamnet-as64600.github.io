@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-tobias-in3hrr/
 slug: neues-mitglied-im-drc-tobias-in3hrr
 title: 'Neues Mitglied im DRC: Tobias, IN3HRR'
 wordpress_id: 17989
-categories:
+tags:
 - Neue Mitglieder
 ---
 

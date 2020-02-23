@@ -7,7 +7,7 @@ link: https://drc.bz/dv4-mobile-mobilfunkgeraet-fuer-fm-d-star-dmr-und-c4fm/
 slug: dv4-mobile-mobilfunkgeraet-fuer-fm-d-star-dmr-und-c4fm
 title: 'DV4-mobile: Mobilfunkgerät für FM, D-Star, DMR und C4FM'
 wordpress_id: 12399
-categories:
+tags:
 - Allgemein
 - D-STAR
 ---

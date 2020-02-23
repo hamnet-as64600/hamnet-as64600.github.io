@@ -7,7 +7,7 @@ link: https://drc.bz/vereinsbekleidung-ist-geliefert-worden/
 slug: vereinsbekleidung-ist-geliefert-worden
 title: Vereinsbekleidung ist geliefert worden.
 wordpress_id: 12417
-categories:
+tags:
 - Vereinsbekleidung
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/nachtrag-zur-uebertragung-des-weihnachtsliedes/
 slug: nachtrag-zur-uebertragung-des-weihnachtsliedes
 title: Nachtrag zur Übertragung des Weihnachtsliedes
 wordpress_id: 7885
-categories:
+tags:
 - Allgemein
 ---
 

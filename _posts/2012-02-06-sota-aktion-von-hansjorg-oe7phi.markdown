@@ -7,7 +7,7 @@ link: https://drc.bz/sota-aktion-von-hansjorg-oe7phi/
 slug: sota-aktion-von-hansjorg-oe7phi
 title: SOTA Aktion von Hansjörg OE7PHI
 wordpress_id: 4195
-categories:
+tags:
 - Allgemein
 ---
 

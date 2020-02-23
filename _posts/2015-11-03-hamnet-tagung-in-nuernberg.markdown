@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-tagung-in-nuernberg/
 slug: hamnet-tagung-in-nuernberg
 title: Hamnet Tagung in Nürnberg
 wordpress_id: 11073
-categories:
+tags:
 - HamNet
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/arcl-infoabend-mit-ik0yyy-luca-ferrara-eshail-2-p4-a/
 slug: arcl-infoabend-mit-ik0yyy-luca-ferrara-eshail-2-p4-a
 title: ARCL Infoabend mit IK0YYY Luca Ferrara Es’hail-2 (P4-A)
 wordpress_id: 18056
-categories:
+tags:
 - Satelliten
 ---
 

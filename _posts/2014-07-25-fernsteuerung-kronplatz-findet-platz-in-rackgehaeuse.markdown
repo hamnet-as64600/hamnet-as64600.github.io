@@ -7,7 +7,7 @@ link: https://drc.bz/fernsteuerung-kronplatz-findet-platz-in-rackgehaeuse/
 slug: fernsteuerung-kronplatz-findet-platz-in-rackgehaeuse
 title: Fernsteuerung Kronplatz findet Platz in Rackgehäuse
 wordpress_id: 8616
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

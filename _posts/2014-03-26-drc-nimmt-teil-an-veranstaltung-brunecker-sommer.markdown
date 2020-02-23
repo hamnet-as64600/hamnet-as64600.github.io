@@ -7,7 +7,7 @@ link: https://drc.bz/drc-nimmt-teil-an-veranstaltung-brunecker-sommer/
 slug: drc-nimmt-teil-an-veranstaltung-brunecker-sommer
 title: DRC nimmt teil an Veranstaltung "Brunecker Sommer"
 wordpress_id: 8260
-categories:
+tags:
 - Clublokal
 - Kurse
 ---

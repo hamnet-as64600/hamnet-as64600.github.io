@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-2014
 slug: mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-2014
 title: Mitgliedsbeitrag DRC und staatliche Amateurfunkgebühr 2014
 wordpress_id: 7908
-categories:
+tags:
 - Allgemein
 ---
 

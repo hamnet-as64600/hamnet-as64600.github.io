@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-hans-gufler-in3euc/
 slug: neues-mitglied-im-drc-hans-gufler-in3euc
 title: 'Neues Mitglied im DRC: Hans Gufler IN3EUC'
 wordpress_id: 6248
-categories:
+tags:
 - Neue Mitglieder
 ---
 

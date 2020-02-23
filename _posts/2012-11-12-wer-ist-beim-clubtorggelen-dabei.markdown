@@ -7,7 +7,7 @@ link: https://drc.bz/wer-ist-beim-clubtorggelen-dabei/
 slug: wer-ist-beim-clubtorggelen-dabei
 title: Wer ist beim Clubtörggelen dabei?
 wordpress_id: 5774
-categories:
+tags:
 - Allgemein
 ---
 

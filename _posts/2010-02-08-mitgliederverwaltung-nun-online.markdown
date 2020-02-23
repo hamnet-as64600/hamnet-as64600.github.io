@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliederverwaltung-nun-online/
 slug: mitgliederverwaltung-nun-online
 title: Mitgliederverwaltung nun Online.
 wordpress_id: 773
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/betriebstechnikkurs-fur-neulizensierte-funkamateure-3/
 slug: betriebstechnikkurs-fur-neulizensierte-funkamateure-3
 title: Betriebstechnikkurs für neulizensierte Funkamateure
 wordpress_id: 4269
-categories:
+tags:
 - Allgemein
 ---
 

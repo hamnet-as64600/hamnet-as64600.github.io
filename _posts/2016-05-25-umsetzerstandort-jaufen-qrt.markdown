@@ -7,7 +7,7 @@ link: https://drc.bz/umsetzerstandort-jaufen-qrt/
 slug: umsetzerstandort-jaufen-qrt
 title: Umsetzerstandort Jaufen  QRT
 wordpress_id: 12234
-categories:
+tags:
 - Umsetzer Jaufen
 ---
 

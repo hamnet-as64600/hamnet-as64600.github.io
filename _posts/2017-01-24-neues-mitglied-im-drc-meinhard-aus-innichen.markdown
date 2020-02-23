@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-meinhard-aus-innichen/
 slug: neues-mitglied-im-drc-meinhard-aus-innichen
 title: 'Neues Mitglied im DRC: Meinhard aus Innichen'
 wordpress_id: 13621
-categories:
+tags:
 - Allgemein
 - Neue Mitglieder
 ---

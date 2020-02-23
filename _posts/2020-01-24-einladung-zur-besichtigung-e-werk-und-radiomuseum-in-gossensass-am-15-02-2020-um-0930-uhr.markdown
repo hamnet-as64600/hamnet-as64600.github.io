@@ -8,7 +8,7 @@ slug: einladung-zur-besichtigung-e-werk-und-radiomuseum-in-gossensass-am-15-02-2
 title: Einladung zur Besichtigung E-Werk und Radiomuseum in Gossensaß am 15.02.2020
   um 09:30 Uhr
 wordpress_id: 19128
-categories:
+tags:
 - Ausflüge
 ---
 

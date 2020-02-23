@@ -7,7 +7,7 @@ link: https://drc.bz/astronautin-cristoforetti-samantha-iz0udf/
 slug: astronautin-cristoforetti-samantha-iz0udf
 title: Astronautin Cristoforetti Samantha, IZ0UDF
 wordpress_id: 9862
-categories:
+tags:
 - Allgemein
 ---
 

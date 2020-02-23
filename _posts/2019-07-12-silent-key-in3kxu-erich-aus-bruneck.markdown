@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3kxu-erich-aus-bruneck/
 slug: silent-key-in3kxu-erich-aus-bruneck
 title: 'Silent key: IN3KXU Erich aus Bruneck'
 wordpress_id: 18503
-categories:
+tags:
 - Silent key
 ---
 

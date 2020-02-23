@@ -7,7 +7,7 @@ link: https://drc.bz/betriebstechnikkurs-in-den-clublokalen-in-bruneck-und-meran
 slug: betriebstechnikkurs-in-den-clublokalen-in-bruneck-und-meran
 title: Betriebstechnikkurs in den Clublokalen in Bruneck und Meran
 wordpress_id: 11952
-categories:
+tags:
 - Clublokal
 - Kurse
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/update-zur-ferngesteuerten-funkstation-am-gitschberg/
 slug: update-zur-ferngesteuerten-funkstation-am-gitschberg
 title: Update zur ferngesteuerten Funkstation am Gitschberg
 wordpress_id: 13766
-categories:
+tags:
 - Ferngesteuerte Funkstation
 - Umsetzer Gitschberg
 ---

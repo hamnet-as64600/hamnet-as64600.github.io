@@ -7,7 +7,7 @@ link: https://drc.bz/vorfuehrung-notfunkkommunikation-im-clublokal-in-bruneck/
 slug: vorfuehrung-notfunkkommunikation-im-clublokal-in-bruneck
 title: Vorführung Notfunkkommunikation im Clublokal in Bruneck
 wordpress_id: 11104
-categories:
+tags:
 - Kurse
 - Notfunk
 ---

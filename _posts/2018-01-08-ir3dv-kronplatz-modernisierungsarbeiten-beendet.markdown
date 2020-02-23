@@ -7,7 +7,7 @@ link: https://drc.bz/ir3dv-kronplatz-modernisierungsarbeiten-beendet/
 slug: ir3dv-kronplatz-modernisierungsarbeiten-beendet
 title: IR3DV Kronplatz – Modernisierungsarbeiten beendet!
 wordpress_id: 15179
-categories:
+tags:
 - HamNet
 - Umsetzer Kronplatz
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachts-und-neujahrswuensche-ein-bisschen-anders/
 slug: weihnachts-und-neujahrswuensche-ein-bisschen-anders
 title: Weihnachts- und Neujahrswünsche - ein bißchen anders
 wordpress_id: 7899
-categories:
+tags:
 - Allgemein
 ---
 

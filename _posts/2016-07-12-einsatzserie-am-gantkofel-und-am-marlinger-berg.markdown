@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzserie-am-gantkofel-und-am-marlinger-berg/
 slug: einsatzserie-am-gantkofel-und-am-marlinger-berg
 title: Einsatzserie am Gantkofel und am Marlinger Berg
 wordpress_id: 12481
-categories:
+tags:
 - Umsetzer Gantkofel
 - Umsetzer Marlinger Berg
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/einladung-zum-fieldday-2017-des-ortsverbandes-c-03-des-darc
 slug: einladung-zum-fieldday-2017-des-ortsverbandes-c-03-des-darc-garmisch-patenkirchen
 title: Einladung zum Fieldday 2017 des Ortsverbandes C-03 des DARC Garmisch Patenkirchen
 wordpress_id: 14393
-categories:
+tags:
 - DRC Aussenstelle Nord
 - Murnau
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/blog-von-in3ray/
 slug: blog-von-in3ray
 title: Blog von IN3RAY
 wordpress_id: 8250
-categories:
+tags:
 - Allgemein
 ---
 

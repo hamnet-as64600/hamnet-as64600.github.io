@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-ir3ugm-standort-qrt/
 slug: gantkofel-ir3ugm-standort-qrt
 title: Gantkofel IR3UGM - Standort QRT
 wordpress_id: 17994
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

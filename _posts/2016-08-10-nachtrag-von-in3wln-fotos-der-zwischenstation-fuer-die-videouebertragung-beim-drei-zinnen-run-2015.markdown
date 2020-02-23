@@ -8,7 +8,7 @@ slug: nachtrag-von-in3wln-fotos-der-zwischenstation-fuer-die-videouebertragung-b
 title: 'Nachtrag von IN3WLN: Fotos der Zwischenstation für die Videoübertragung beim
   "Drei Zinnen Run 2015"'
 wordpress_id: 12763
-categories:
+tags:
 - 3 Zinnen Run
 ---
 

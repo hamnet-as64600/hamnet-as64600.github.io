@@ -7,7 +7,7 @@ link: https://drc.bz/kraftiger-zuwachs-im-verein/
 slug: kraftiger-zuwachs-im-verein
 title: Kräftiger Zuwachs im Verein
 wordpress_id: 5981
-categories:
+tags:
 - Neue Mitglieder
 ---
 

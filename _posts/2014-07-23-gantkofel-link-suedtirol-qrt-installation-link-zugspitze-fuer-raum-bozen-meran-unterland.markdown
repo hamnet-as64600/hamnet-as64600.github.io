@@ -8,7 +8,7 @@ slug: gantkofel-link-suedtirol-qrt-installation-link-zugspitze-fuer-raum-bozen-m
 title: Gantkofel Link Südtirol QRT - Installation Link Zugspitze für Raum Bozen, Meran,
   Unterland!
 wordpress_id: 8606
-categories:
+tags:
 - Umsetzer Gantkofel
 - Umsetzer Seceda
 ---

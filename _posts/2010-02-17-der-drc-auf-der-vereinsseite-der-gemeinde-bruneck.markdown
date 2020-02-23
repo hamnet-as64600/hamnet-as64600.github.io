@@ -7,7 +7,7 @@ link: https://drc.bz/der-drc-auf-der-vereinsseite-der-gemeinde-bruneck/
 slug: der-drc-auf-der-vereinsseite-der-gemeinde-bruneck
 title: Der DRC auf der Vereinsseite der Gemeinde Bruneck
 wordpress_id: 828
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/hochgenaues-globales-hoehenmodell-fertiggestellt/
 slug: hochgenaues-globales-hoehenmodell-fertiggestellt
 title: Hochgenaues globales Höhenmodell fertiggestellt
 wordpress_id: 13107
-categories:
+tags:
 - Allgemein
 ---
 

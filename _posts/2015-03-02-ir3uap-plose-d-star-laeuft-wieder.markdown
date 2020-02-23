@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uap-plose-d-star-laeuft-wieder/
 slug: ir3uap-plose-d-star-laeuft-wieder
 title: IR3UAP Plose D-Star läuft wieder.
 wordpress_id: 10155
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/interview-mit-prof-ulrich-rohde-n1ul/
 slug: interview-mit-prof-ulrich-rohde-n1ul
 title: Interview mit Prof. Ulrich Rohde - N1UL, DJ2LR, HB9AWE, V25UL
 wordpress_id: 16935
-categories:
+tags:
 - Allgemein
 - DRC Aussenstelle Nord
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/ir3uhf-rittnerhorn-bekommt-neuen-zentralen-server-im-hamnet
 slug: ir3uhf-rittnerhorn-bekommt-neuen-zentralen-server-im-hamnet
 title: IR3UHF - Rittnerhorn bekommt neuen zentralen Server im Hamnet
 wordpress_id: 13326
-categories:
+tags:
 - D-STAR
 - HamNet
 - Link Suedtirol

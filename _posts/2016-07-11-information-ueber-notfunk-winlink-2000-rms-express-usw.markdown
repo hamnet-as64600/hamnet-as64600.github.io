@@ -7,7 +7,7 @@ link: https://drc.bz/information-ueber-notfunk-winlink-2000-rms-express-usw/
 slug: information-ueber-notfunk-winlink-2000-rms-express-usw
 title: Information über Notfunk, Winlink 2000, RMS Express, usw.
 wordpress_id: 12452
-categories:
+tags:
 - Allgemein
 ---
 

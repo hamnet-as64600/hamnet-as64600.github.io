@@ -7,7 +7,7 @@ link: https://drc.bz/erster-teil-des-betriebstechnikkurses-beendet/
 slug: erster-teil-des-betriebstechnikkurses-beendet
 title: Erster Teil des Betriebstechnikkurses beendet
 wordpress_id: 1169
-categories:
+tags:
 - Allgemein
 ---
 

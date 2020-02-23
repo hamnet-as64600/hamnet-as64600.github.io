@@ -7,7 +7,7 @@ link: https://drc.bz/eindruck-zur-jahrshauptversammlung-von-dl4ttb-maggie/
 slug: eindruck-zur-jahrshauptversammlung-von-dl4ttb-maggie
 title: Eindruck zur Jahershauptversammlung von DL4TTB, Maggie.
 wordpress_id: 10044
-categories:
+tags:
 - Allgemein
 ---
 

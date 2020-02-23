@@ -7,7 +7,7 @@ link: https://drc.bz/marlinger-berg-ir3uhe-einsatz-hamnet/
 slug: marlinger-berg-ir3uhe-einsatz-hamnet
 title: Marlinger Berg IR3UHE - Einsatz Hamnet
 wordpress_id: 16424
-categories:
+tags:
 - Umsetzer Marlinger Berg
 ---
 

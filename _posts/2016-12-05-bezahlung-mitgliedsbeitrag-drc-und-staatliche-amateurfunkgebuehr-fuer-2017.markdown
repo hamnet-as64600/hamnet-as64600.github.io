@@ -7,7 +7,7 @@ link: https://drc.bz/bezahlung-mitgliedsbeitrag-drc-und-staatliche-amateurfunkge
 slug: bezahlung-mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer-2017
 title: Bezahlung Mitgliedsbeitrag DRC und staatliche Amateurfunkgebühr für 2017.
 wordpress_id: 13346
-categories:
+tags:
 - Allgemein
 ---
 

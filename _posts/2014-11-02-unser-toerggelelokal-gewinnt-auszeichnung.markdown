@@ -7,7 +7,7 @@ link: https://drc.bz/unser-toerggelelokal-gewinnt-auszeichnung/
 slug: unser-toerggelelokal-gewinnt-auszeichnung
 title: Unser Törggelelokal gewinnt Auszeichnung
 wordpress_id: 9632
-categories:
+tags:
 - Allgemein
 ---
 

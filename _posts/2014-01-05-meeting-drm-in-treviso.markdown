@@ -7,7 +7,7 @@ link: https://drc.bz/meeting-drm-in-treviso/
 slug: meeting-drm-in-treviso
 title: Meeting DRM in Treviso
 wordpress_id: 7921
-categories:
+tags:
 - Allgemein
 ---
 

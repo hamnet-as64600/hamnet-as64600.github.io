@@ -7,7 +7,7 @@ link: https://drc.bz/suchen-funkamateur-fuer-vorfuehrung-von-funkverbindungen-ue
 slug: suchen-funkamateur-fuer-vorfuehrung-von-funkverbindungen-ueber-satelliten
 title: Suchen Funkamateur für Vorführung von Funkverbindungen über Satelliten.
 wordpress_id: 12188
-categories:
+tags:
 - Allgemein
 ---
 

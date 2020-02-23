@@ -7,7 +7,7 @@ link: https://drc.bz/neun-chinesische-amateurfunk-satelliten-gestartet-und-qrv/
 slug: neun-chinesische-amateurfunk-satelliten-gestartet-und-qrv
 title: Neun chinesische Amateurfunk-Satelliten gestartet und QRV
 wordpress_id: 10843
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/r4-ir3uhf-rittnerhorn-defekt-und-wieder-repariert/
 slug: r4-ir3uhf-rittnerhorn-defekt-und-wieder-repariert
 title: R4 IR3UHF Rittnerhorn defekt und wieder repariert
 wordpress_id: 14345
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

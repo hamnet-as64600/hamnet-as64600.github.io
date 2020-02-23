@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtsessen/
 slug: weihnachtsessen
 title: Weihnachtsfeier 2012
 wordpress_id: 5710
-categories:
+tags:
 - Allgemein
 ---
 

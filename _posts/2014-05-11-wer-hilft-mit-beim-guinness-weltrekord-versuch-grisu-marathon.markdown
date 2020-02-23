@@ -7,7 +7,7 @@ link: https://drc.bz/wer-hilft-mit-beim-guinness-weltrekord-versuch-grisu-marath
 slug: wer-hilft-mit-beim-guinness-weltrekord-versuch-grisu-marathon
 title: Wer hilft mit beim Guinness-Weltrekord-Versuch "GRISU MARATHON"?
 wordpress_id: 8376
-categories:
+tags:
 - Allgemein
 - Feiern und Unterhaltung
 ---

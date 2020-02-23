@@ -7,7 +7,7 @@ link: https://drc.bz/die-aufgaben-im-neuen-vorstand-sind-verteilt/
 slug: die-aufgaben-im-neuen-vorstand-sind-verteilt
 title: Die Aufgaben im neuen Vorstand sind verteilt.
 wordpress_id: 727
-categories:
+tags:
 - Allgemein
 ---
 

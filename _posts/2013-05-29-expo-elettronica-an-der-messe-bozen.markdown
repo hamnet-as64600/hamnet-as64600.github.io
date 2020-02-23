@@ -7,7 +7,7 @@ link: https://drc.bz/expo-elettronica-an-der-messe-bozen/
 slug: expo-elettronica-an-der-messe-bozen
 title: Expo Elettronica an der Messe Bozen
 wordpress_id: 6435
-categories:
+tags:
 - Allgemein
 ---
 

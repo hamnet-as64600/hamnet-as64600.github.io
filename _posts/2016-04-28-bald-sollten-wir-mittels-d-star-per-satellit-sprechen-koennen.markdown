@@ -7,7 +7,7 @@ link: https://drc.bz/bald-sollten-wir-mittels-d-star-per-satellit-sprechen-koenn
 slug: bald-sollten-wir-mittels-d-star-per-satellit-sprechen-koennen
 title: Bald sollten wir mittels D-Star per Satellit sprechen können
 wordpress_id: 12058
-categories:
+tags:
 - D-STAR
 ---
 

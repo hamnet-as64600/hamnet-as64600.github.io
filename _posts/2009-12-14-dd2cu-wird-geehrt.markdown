@@ -7,7 +7,7 @@ link: https://drc.bz/dd2cu-wird-geehrt/
 slug: dd2cu-wird-geehrt
 title: DD2CU erhält Ehrenurkunde.
 wordpress_id: 171
-categories:
+tags:
 - Allgemein
 ---
 

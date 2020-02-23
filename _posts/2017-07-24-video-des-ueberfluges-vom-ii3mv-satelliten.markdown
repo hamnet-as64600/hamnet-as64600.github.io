@@ -7,7 +7,7 @@ link: https://drc.bz/video-des-ueberfluges-vom-ii3mv-satelliten/
 slug: video-des-ueberfluges-vom-ii3mv-satelliten
 title: Video des Ueberfluges vom II3MV Satelliten
 wordpress_id: 14505
-categories:
+tags:
 - Allgemein
 ---
 

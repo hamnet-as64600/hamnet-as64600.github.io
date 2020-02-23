@@ -7,7 +7,7 @@ link: https://drc.bz/besichtigung-wasserkraftwerk-kniepass-in-st-lorenzen/
 slug: besichtigung-wasserkraftwerk-kniepass-in-st-lorenzen
 title: Besichtigung Wasserkraftwerk "Kniepaß" in St. Lorenzen.
 wordpress_id: 16328
-categories:
+tags:
 - Ausflüge
 ---
 

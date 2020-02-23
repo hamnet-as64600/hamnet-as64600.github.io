@@ -7,7 +7,7 @@ link: https://drc.bz/artikel-in-pustertaler-zeitung-die-funkenden-helfer/
 slug: artikel-in-pustertaler-zeitung-die-funkenden-helfer
 title: 'Artikel in Pustertaler Zeitung: Die funkenden Helfer.'
 wordpress_id: 11134
-categories:
+tags:
 - 3 Zinnen Run
 - Pubblic Relation
 ---

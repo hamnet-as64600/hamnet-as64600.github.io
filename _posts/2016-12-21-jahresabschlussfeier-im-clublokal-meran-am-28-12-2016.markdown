@@ -7,7 +7,7 @@ link: https://drc.bz/jahresabschlussfeier-im-clublokal-meran-am-28-12-2016/
 slug: jahresabschlussfeier-im-clublokal-meran-am-28-12-2016
 title: Jahresabschlussfeier im Clublokal Meran am 28.12.2016.
 wordpress_id: 13462
-categories:
+tags:
 - Allgemein
 - Clublokal
 ---

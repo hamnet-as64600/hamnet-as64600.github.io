@@ -7,7 +7,7 @@ link: https://drc.bz/hamnet-anbindung-clublokal-bruneck-richtung-kronplatz-verbe
 slug: hamnet-anbindung-clublokal-bruneck-richtung-kronplatz-verbessert
 title: HAMNET- Anbindung Clublokal Bruneck Richtung Kronplatz verbessert.
 wordpress_id: 11867
-categories:
+tags:
 - Clublokal
 - HamNet
 ---

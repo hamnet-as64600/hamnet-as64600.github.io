@@ -7,7 +7,7 @@ link: https://drc.bz/xix-convention-digital-radio-communications-kastelfeder-aue
 slug: xix-convention-digital-radio-communications-kastelfeder-auer
 title: XIX Convention digital & radio communications - Kastelfeder, Auer
 wordpress_id: 17454
-categories:
+tags:
 - Bastelecke
 - Hochfrequenz
 - Kurse

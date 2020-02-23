@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-chavalatsch-wieder-aktiv-qrg-und-ctcss-aende
 slug: link-suedtirol-chavalatsch-wieder-aktiv-qrg-und-ctcss-aenderung
 title: Link Südtirol - Chavalatsch wieder aktiv, QRG und Ctcss Änderung!
 wordpress_id: 8947
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Chavalatsch
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/wichtige-mitteilung-vom-uska-qsl-buero/
 slug: wichtige-mitteilung-vom-uska-qsl-buero
 title: Wichtige Mitteilung vom USKA QSL Büro.
 wordpress_id: 10191
-categories:
+tags:
 - QSL
 ---
 

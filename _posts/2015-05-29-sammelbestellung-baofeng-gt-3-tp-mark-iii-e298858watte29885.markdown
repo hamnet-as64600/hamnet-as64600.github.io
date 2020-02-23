@@ -7,7 +7,7 @@ link: https://drc.bz/sammelbestellung-baofeng-gt-3-tp-mark-iii-%e2%98%858watt%e2
 slug: sammelbestellung-baofeng-gt-3-tp-mark-iii-%e2%98%858watt%e2%98%85
 title: Sammelbestellung Baofeng GT-3 TP Mark III ★8Watt★
 wordpress_id: 10518
-categories:
+tags:
 - Allgemein
 ---
 

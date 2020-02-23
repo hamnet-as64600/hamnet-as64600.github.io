@@ -7,7 +7,7 @@ link: https://drc.bz/dl1mcg-wieder-on-tour/
 slug: dl1mcg-wieder-on-tour
 title: DL1MCG wieder on tour
 wordpress_id: 8382
-categories:
+tags:
 - Allgemein
 - Funkamateure stellen sich vor
 ---

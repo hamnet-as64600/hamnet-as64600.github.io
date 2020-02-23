@@ -7,7 +7,7 @@ link: https://drc.bz/ein-bild-sagt-mehr-als-tausend-worte/
 slug: ein-bild-sagt-mehr-als-tausend-worte
 title: '"Ein Bild sagt mehr als tausend Worte"'
 wordpress_id: 14640
-categories:
+tags:
 - Allgemein
 ---
 

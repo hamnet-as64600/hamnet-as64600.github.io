@@ -7,7 +7,7 @@ link: https://drc.bz/silent-key-in3aft-hermann-oberprantacher/
 slug: silent-key-in3aft-hermann-oberprantacher
 title: 'Silent key: IN3AFT Hermann Oberprantacher'
 wordpress_id: 6583
-categories:
+tags:
 - Silent key
 ---
 

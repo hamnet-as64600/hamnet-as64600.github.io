@@ -7,7 +7,7 @@ link: https://drc.bz/mitteilung-von-ari-bruneck-einladung-in-bozen/
 slug: mitteilung-von-ari-bruneck-einladung-in-bozen
 title: 'Mitteilung von ARI Bruneck: Einladung in Bozen'
 wordpress_id: 9826
-categories:
+tags:
 - ARI
 ---
 

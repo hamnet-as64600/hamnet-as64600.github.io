@@ -7,7 +7,7 @@ link: https://drc.bz/fernsehsendung-ueber-giulielmo-marconi/
 slug: fernsehsendung-ueber-giulielmo-marconi
 title: Fernsehsendung über Giuglielmo Marconi
 wordpress_id: 8041
-categories:
+tags:
 - Allgemein
 ---
 

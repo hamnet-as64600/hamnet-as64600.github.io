@@ -7,7 +7,7 @@ link: https://drc.bz/rittnerhorn-antenneninstallation-missgluckt/
 slug: rittnerhorn-antenneninstallation-missgluckt
 title: Rittnerhorn - Antenneninstallation missglückt!
 wordpress_id: 3986
-categories:
+tags:
 - Umsetzer Rittner Horn
 ---
 

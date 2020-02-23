@@ -7,7 +7,7 @@ link: https://drc.bz/beitrag-von-stiftung-sudtiroler-sparkasse/
 slug: beitrag-von-stiftung-sudtiroler-sparkasse
 title: Beitrag von Stiftung Südtiroler Sparkasse
 wordpress_id: 1240
-categories:
+tags:
 - Umsetzer Kronplatz
 ---
 

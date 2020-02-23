@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunkmessen-2012/
 slug: amateurfunkmessen-2012
 title: Amateurfunkmessen 2012
 wordpress_id: 4123
-categories:
+tags:
 - Allgemein
 ---
 

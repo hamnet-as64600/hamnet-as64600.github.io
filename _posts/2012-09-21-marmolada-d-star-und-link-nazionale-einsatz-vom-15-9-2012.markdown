@@ -8,7 +8,7 @@ slug: marmolada-d-star-und-link-nazionale-einsatz-vom-15-9-2012
 title: Marmolada -  2 m Repeater, Link Nazionale, D-Star LND (Link Nazionale Digitale)
   und Transponder
 wordpress_id: 5476
-categories:
+tags:
 - Umsetzer Marmolada
 ---
 

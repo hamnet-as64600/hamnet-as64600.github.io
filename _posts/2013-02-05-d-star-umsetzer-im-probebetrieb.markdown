@@ -7,7 +7,7 @@ link: https://drc.bz/d-star-umsetzer-im-probebetrieb/
 slug: d-star-umsetzer-im-probebetrieb
 title: D-Star Umsetzer im Probebetrieb
 wordpress_id: 6018
-categories:
+tags:
 - D-STAR
 ---
 

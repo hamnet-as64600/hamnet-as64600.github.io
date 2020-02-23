@@ -7,7 +7,7 @@ link: https://drc.bz/wandkalender-fuer-funkamateure/
 slug: wandkalender-fuer-funkamateure
 title: Wandkalender für Funkamateure
 wordpress_id: 13539
-categories:
+tags:
 - Allgemein
 ---
 

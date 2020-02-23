@@ -7,7 +7,7 @@ link: https://drc.bz/besuch-bei-hb9cql-ruedi-unserem-qsl-manager/
 slug: besuch-bei-hb9cql-ruedi-unserem-qsl-manager
 title: Besuch bei HB9CQL, Ruedi, unserem QSL Manager
 wordpress_id: 8507
-categories:
+tags:
 - QSL
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/kurs-hamoffice-logprogramm-und-richtiges-ausfuellen-einer-q
 slug: kurs-hamoffice-logprogramm-und-richtiges-ausfuellen-einer-qsl-karte
 title: Kurs Hamoffice Logprogramm und richtiges Ausfüllen einer QSL Karte
 wordpress_id: 8329
-categories:
+tags:
 - Kurse
 ---
 

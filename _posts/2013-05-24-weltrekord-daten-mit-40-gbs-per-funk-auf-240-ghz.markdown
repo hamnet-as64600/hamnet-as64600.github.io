@@ -7,7 +7,7 @@ link: https://drc.bz/weltrekord-daten-mit-40-gbs-per-funk-auf-240-ghz/
 slug: weltrekord-daten-mit-40-gbs-per-funk-auf-240-ghz
 title: 'Weltrekord: Daten mit 40 Gb/s per Funk auf 240 GHz'
 wordpress_id: 6418
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/notfunk-nach-erdbeben-in-ecuador/
 slug: notfunk-nach-erdbeben-in-ecuador
 title: Notfunk nach Erdbeben in Ecuador
 wordpress_id: 11988
-categories:
+tags:
 - Notfunk
 ---
 

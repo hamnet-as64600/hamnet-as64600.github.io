@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-marmolada-porec-kroatien/
 slug: link-suedtirol-marmolada-porec-kroatien
 title: Link Südtirol - Marmolada IR3AO - Porec (Kroatien)
 wordpress_id: 17148
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Marmolada
 ---

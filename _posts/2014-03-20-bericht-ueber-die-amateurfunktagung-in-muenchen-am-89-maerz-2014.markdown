@@ -7,7 +7,7 @@ link: https://drc.bz/bericht-ueber-die-amateurfunktagung-in-muenchen-am-89-maerz
 slug: bericht-ueber-die-amateurfunktagung-in-muenchen-am-89-maerz-2014
 title: Bericht über die Amateurfunktagung in München am 8/9 März 2014
 wordpress_id: 8206
-categories:
+tags:
 - Kurse
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/installation-link-suedtirol-am-jaufen/
 slug: installation-link-suedtirol-am-jaufen
 title: Installation LINK SUEDTIROL am Jaufen
 wordpress_id: 7231
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Jaufen
 ---

@@ -8,7 +8,7 @@ slug: aura-hotel-in-saulgrub-einweihung-der-clubstation-df0bh-eroeffnung-von-uni
 title: Aura Hotel in Saulgrub - Einweihung der Clubstation DF0BH + Eröffnung von "United
   Buddy Bears"
 wordpress_id: 10393
-categories:
+tags:
 - Murnau
 ---
 

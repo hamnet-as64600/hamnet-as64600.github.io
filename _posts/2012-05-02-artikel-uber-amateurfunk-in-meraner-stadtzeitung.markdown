@@ -7,7 +7,7 @@ link: https://drc.bz/artikel-uber-amateurfunk-in-meraner-stadtzeitung/
 slug: artikel-uber-amateurfunk-in-meraner-stadtzeitung
 title: Artikel über Amateurfunk in Meraner Stadtzeitung
 wordpress_id: 4629
-categories:
+tags:
 - Allgemein
 ---
 

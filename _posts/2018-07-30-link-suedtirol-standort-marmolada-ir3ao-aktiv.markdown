@@ -7,7 +7,7 @@ link: https://drc.bz/link-suedtirol-standort-marmolada-ir3ao-aktiv/
 slug: link-suedtirol-standort-marmolada-ir3ao-aktiv
 title: Link Südtirol - Standort Marmolada IR3AO aktiv!
 wordpress_id: 16905
-categories:
+tags:
 - Link Suedtirol
 - Umsetzer Marmolada
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/betriebstechnikkurs-in-irenberg/
 slug: betriebstechnikkurs-in-irenberg
 title: Betriebstechnikkurs in Irenberg.
 wordpress_id: 1363
-categories:
+tags:
 - Allgemein
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/aktion-huhnerspiel-abgeschlossen/
 slug: aktion-huhnerspiel-abgeschlossen
 title: Aktion Hühnerspiel abgeschlossen!
 wordpress_id: 3408
-categories:
+tags:
 - Umsetzer Hühnerspiel
 ---
 

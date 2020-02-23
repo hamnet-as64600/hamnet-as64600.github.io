@@ -7,7 +7,7 @@ link: https://drc.bz/amateurfunktagung-in-muenchen-am-89-maerz-2014/
 slug: amateurfunktagung-in-muenchen-am-89-maerz-2014
 title: Amateurfunktagung in München am 8/9 März 2014
 wordpress_id: 8127
-categories:
+tags:
 - Kurse
 ---
 

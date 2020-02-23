@@ -7,7 +7,7 @@ link: https://drc.bz/clublokal-meran-in-neuem-glanz/
 slug: clublokal-meran-in-neuem-glanz
 title: Clublokal Meran in neuem Glanz!
 wordpress_id: 15196
-categories:
+tags:
 - Clublokal
 ---
 

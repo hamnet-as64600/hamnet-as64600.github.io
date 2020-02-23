@@ -7,7 +7,7 @@ link: https://drc.bz/gantkofel-ir3ugm-einsatz-hamnet/
 slug: gantkofel-ir3ugm-einsatz-hamnet
 title: Gantkofel IR3UGM - Einsatz Hamnet
 wordpress_id: 16421
-categories:
+tags:
 - Umsetzer Gantkofel
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/funkabdeckungen-einiger-umsetzer-in-sudtirol/
 slug: funkabdeckungen-einiger-umsetzer-in-sudtirol
 title: Funkabdeckungen einiger Umsetzer in Südtirol
 wordpress_id: 4327
-categories:
+tags:
 - Allgemein
 ---
 

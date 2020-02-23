@@ -7,7 +7,7 @@ link: https://drc.bz/aenderung-der-sendezeit-der-suedtiroler-notfunkrunde-auf-ku
 slug: aenderung-der-sendezeit-der-suedtiroler-notfunkrunde-auf-kurzwelle
 title: Änderung der Sendezeit der "Südtiroler Notfunkrunde" auf Kurzwelle.
 wordpress_id: 13215
-categories:
+tags:
 - Notfunk
 ---
 

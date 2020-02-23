@@ -7,7 +7,7 @@ link: https://drc.bz/standort-chavalatsch-ir3eb-sommereinsatz/
 slug: standort-chavalatsch-ir3eb-sommereinsatz
 title: Standort Chavalatsch - IR3EB, Sommereinsatz
 wordpress_id: 12724
-categories:
+tags:
 - Umsetzer Chavalatsch
 ---
 

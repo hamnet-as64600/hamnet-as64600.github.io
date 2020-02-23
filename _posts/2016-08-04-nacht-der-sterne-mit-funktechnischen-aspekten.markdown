@@ -7,7 +7,7 @@ link: https://drc.bz/nacht-der-sterne-mit-funktechnischen-aspekten/
 slug: nacht-der-sterne-mit-funktechnischen-aspekten
 title: '"Nacht der Sterne" mit funktechnischen Aspekten'
 wordpress_id: 12702
-categories:
+tags:
 - Allgemein
 ---
 

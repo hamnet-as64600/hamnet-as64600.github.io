@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3usf-josef-pernthaler/
 slug: neues-mitglied-im-drc-in3usf-josef-pernthaler
 title: 'Neues Mitglied im DRC: IN3USF Josef Pernthaler'
 wordpress_id: 10782
-categories:
+tags:
 - Neue Mitglieder
 ---
 

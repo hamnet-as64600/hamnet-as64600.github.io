@@ -7,7 +7,7 @@ link: https://drc.bz/weihnachtliche-klaenge/
 slug: weihnachtliche-klaenge
 title: Weihnachtliche Klänge hallen aus unseren Umsetzern.
 wordpress_id: 15067
-categories:
+tags:
 - Allgemein
 ---
 

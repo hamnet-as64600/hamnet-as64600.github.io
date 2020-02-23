@@ -7,7 +7,7 @@ link: https://drc.bz/mitgliedbeitragserhohung-auf-25e-ab-2013/
 slug: mitgliedbeitragserhohung-auf-25e-ab-2013
 title: Mitgliedbeitragserhöhung auf 25€ ab 2013
 wordpress_id: 5530
-categories:
+tags:
 - Allgemein
 ---
 

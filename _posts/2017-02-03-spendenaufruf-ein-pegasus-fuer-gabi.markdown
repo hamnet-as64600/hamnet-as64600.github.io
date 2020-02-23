@@ -7,7 +7,7 @@ link: https://drc.bz/spendenaufruf-ein-pegasus-fuer-gabi/
 slug: spendenaufruf-ein-pegasus-fuer-gabi
 title: 'Spendenaufruf: Ein Pegasus für Gabi'
 wordpress_id: 13740
-categories:
+tags:
 - Spendenaufruf
 ---
 

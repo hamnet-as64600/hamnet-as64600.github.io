@@ -7,7 +7,7 @@ link: https://drc.bz/inventarliste-fertiggestellt/
 slug: inventarliste-fertiggestellt
 title: Inventarliste fertiggestellt
 wordpress_id: 948
-categories:
+tags:
 - Allgemein
 ---
 

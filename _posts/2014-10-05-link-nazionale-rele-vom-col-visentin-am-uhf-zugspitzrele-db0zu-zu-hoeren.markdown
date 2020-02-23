@@ -7,7 +7,7 @@ link: https://drc.bz/link-nazionale-rele-vom-col-visentin-am-uhf-zugspitzrele-db
 slug: link-nazionale-rele-vom-col-visentin-am-uhf-zugspitzrele-db0zu-zu-hoeren
 title: '"Link Nazionale" Relè vom Col Visentin am UHF - Zugspitzrelè DB0ZU zu hören'
 wordpress_id: 9287
-categories:
+tags:
 - Allgemein
 - Umsetzer allgemein
 ---

@@ -7,7 +7,7 @@ link: https://drc.bz/avemus-neues-clublokal/
 slug: avemus-neues-clublokal
 title: Habemus neues Clublokal
 wordpress_id: 6165
-categories:
+tags:
 - Clublokal
 ---
 

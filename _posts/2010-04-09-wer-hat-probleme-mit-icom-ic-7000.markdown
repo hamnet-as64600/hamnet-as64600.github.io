@@ -7,7 +7,7 @@ link: https://drc.bz/wer-hat-probleme-mit-icom-ic-7000/
 slug: wer-hat-probleme-mit-icom-ic-7000
 title: Wer hat Probleme mit ICOM IC-7000?
 wordpress_id: 1104
-categories:
+tags:
 - Allgemein
 ---
 

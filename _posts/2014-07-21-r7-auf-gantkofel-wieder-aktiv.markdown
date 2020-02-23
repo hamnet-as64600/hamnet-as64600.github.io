@@ -7,7 +7,7 @@ link: https://drc.bz/r7-auf-gantkofel-wieder-aktiv/
 slug: r7-auf-gantkofel-wieder-aktiv
 title: R7 auf Gantkofel wieder aktiv
 wordpress_id: 8586
-categories:
+tags:
 - ARI
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neuer-erste-hilfe-koffer-im-clublokal/
 slug: neuer-erste-hilfe-koffer-im-clublokal
 title: Neuer "Erste Hilfe Koffer" im Clublokal
 wordpress_id: 13081
-categories:
+tags:
 - Clublokal
 ---
 

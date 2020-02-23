@@ -7,7 +7,7 @@ link: https://drc.bz/yl-roswitha-von-iw3awa-siegfried-verstorben/
 slug: yl-roswitha-von-iw3awa-siegfried-verstorben
 title: XYL Roswitha von IW3AWA Siegfried verstorben!
 wordpress_id: 1192
-categories:
+tags:
 - Allgemein
 ---
 

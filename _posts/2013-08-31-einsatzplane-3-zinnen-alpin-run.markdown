@@ -7,7 +7,7 @@ link: https://drc.bz/einsatzplane-3-zinnen-alpin-run/
 slug: einsatzplane-3-zinnen-alpin-run
 title: Einsatzpläne "3 Zinnen Alpin Run"
 wordpress_id: 7043
-categories:
+tags:
 - Funkassistenz
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/dx-info-oe9pti-aus-8p9-qrv/
 slug: dx-info-oe9pti-aus-8p9-qrv
 title: 'DX-Info: OE9PTI aus 8P9 QRV.'
 wordpress_id: 11601
-categories:
+tags:
 - Allgemein
 ---
 

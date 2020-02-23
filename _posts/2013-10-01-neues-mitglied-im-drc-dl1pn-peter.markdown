@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dl1pn-peter/
 slug: neues-mitglied-im-drc-dl1pn-peter
 title: 'Neues Mitglied im DRC: DL1PN Peter'
 wordpress_id: 7263
-categories:
+tags:
 - Neue Mitglieder
 ---
 

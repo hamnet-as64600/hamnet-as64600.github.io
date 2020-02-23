@@ -7,7 +7,7 @@ link: https://drc.bz/r-1alfa-ir3uap-plose-d-star-wieder-aktiv/
 slug: r-1alfa-ir3uap-plose-d-star-wieder-aktiv
 title: R-1alfa, IR3UAP - Plose D-Star wieder aktiv!
 wordpress_id: 11159
-categories:
+tags:
 - D-STAR
 - Umsetzer Plose
 ---

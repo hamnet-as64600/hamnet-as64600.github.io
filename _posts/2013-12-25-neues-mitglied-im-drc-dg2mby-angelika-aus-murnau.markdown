@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dg2mby-angelika-aus-murnau/
 slug: neues-mitglied-im-drc-dg2mby-angelika-aus-murnau
 title: 'Neues Mitglied im DRC: DG2MBY Angelika aus Murnau'
 wordpress_id: 7848
-categories:
+tags:
 - Neue Mitglieder
 - Umsetzer Hühnerspiel
 ---

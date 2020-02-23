@@ -7,7 +7,7 @@ link: https://drc.bz/video-digitale-sprachbetriebsarten-fuer-einsteiger/
 slug: video-digitale-sprachbetriebsarten-fuer-einsteiger
 title: 'Video: Digitale Sprachbetriebsarten für Einsteiger'
 wordpress_id: 17352
-categories:
+tags:
 - C4FM
 - D-STAR
 - DMR

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-dl9ncy-robert/
 slug: neues-mitglied-im-drc-dl9ncy-robert
 title: 'Neues Mitglied im DRC: DL9NCY, Robert'
 wordpress_id: 9938
-categories:
+tags:
 - Neue Mitglieder
 ---
 

@@ -7,7 +7,7 @@ link: https://drc.bz/neues-mitglied-im-drc-in3idn-walter-loesch/
 slug: neues-mitglied-im-drc-in3idn-walter-loesch
 title: 'Neues Mitglied im DRC: IN3IDN, Walter Lösch'
 wordpress_id: 10821
-categories:
+tags:
 - Neue Mitglieder
 ---
 
