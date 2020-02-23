@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-03-09 06:38:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/uebergabe-ehrenurkunden-an-dj4tv-valentin-aus-muenchen/
 slug: uebergabe-ehrenurkunden-an-dj4tv-valentin-aus-muenchen
 title: Übergabe Ehrenurkunden an DJ4TV Valentin aus München.

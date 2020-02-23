@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-07 13:14:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/danke-allen-spendern/
 slug: danke-allen-spendern
 title: Danke allen Spendern!!!

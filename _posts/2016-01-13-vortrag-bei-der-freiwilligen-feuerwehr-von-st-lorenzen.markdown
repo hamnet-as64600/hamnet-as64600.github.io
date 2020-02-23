@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-01-13 13:52:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-bei-der-freiwilligen-feuerwehr-von-st-lorenzen/
 slug: vortrag-bei-der-freiwilligen-feuerwehr-von-st-lorenzen
 title: Vortrag bei der Freiwilligen Feuerwehr von St. Lorenzen.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-18 07:49:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/ferngesteuerte-funkstation-im-clublokal-bruneck/
 slug: ferngesteuerte-funkstation-im-clublokal-bruneck
 title: Ferngesteuerte Funkstation im Clublokal Bruneck.

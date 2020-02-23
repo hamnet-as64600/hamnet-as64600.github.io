@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-05-08 12:50:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-david-in3hkb/
 slug: neues-mitglied-im-drc-david-in3hkb
 title: 'Neues Mitglied im DRC: David, IN3HKB'

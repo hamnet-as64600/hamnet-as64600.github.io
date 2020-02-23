@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-10 16:25:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-gitschberg-qrt/
 slug: echolink-gitschberg-qrt
 title: Echolink Gitschberg vorübergehend QRT

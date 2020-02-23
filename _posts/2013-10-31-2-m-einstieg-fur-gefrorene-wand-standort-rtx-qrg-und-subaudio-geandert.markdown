@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-10-31 10:21:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/2-m-einstieg-fur-gefrorene-wand-standort-rtx-qrg-und-subaudio-geandert/
 slug: 2-m-einstieg-fur-gefrorene-wand-standort-rtx-qrg-und-subaudio-geandert
 title: 2 m Einstieg für Gefrorene Wand - Standort, RTX QRG und Subaudio geändert

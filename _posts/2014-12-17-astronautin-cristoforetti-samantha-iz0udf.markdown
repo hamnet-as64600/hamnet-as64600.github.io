@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-17 20:45:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/astronautin-cristoforetti-samantha-iz0udf/
 slug: astronautin-cristoforetti-samantha-iz0udf
 title: Astronautin Cristoforetti Samantha, IZ0UDF

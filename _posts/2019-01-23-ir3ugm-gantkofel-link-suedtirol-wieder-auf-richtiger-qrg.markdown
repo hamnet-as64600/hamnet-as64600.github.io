@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-01-23 13:55:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3ugm-gantkofel-link-suedtirol-wieder-auf-richtiger-qrg/
 slug: ir3ugm-gantkofel-link-suedtirol-wieder-auf-richtiger-qrg
 title: IR3UGM - Gantkofel Link Südtirol wieder auf richtiger QRG

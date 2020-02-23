@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-10-03 14:54:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-erste-hilfe-koffer-im-clublokal/
 slug: neuer-erste-hilfe-koffer-im-clublokal
 title: Neuer "Erste Hilfe Koffer" im Clublokal

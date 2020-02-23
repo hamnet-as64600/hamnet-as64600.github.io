@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-04-01 08:49:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/softshell-jacke-und-polo-fur-mitglieder/
 slug: softshell-jacke-und-polo-fur-mitglieder
 title: Softshell Jacke und Polo für Mitglieder

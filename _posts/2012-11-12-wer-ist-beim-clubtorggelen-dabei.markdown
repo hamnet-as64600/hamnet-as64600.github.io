@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-12 19:19:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-ist-beim-clubtorggelen-dabei/
 slug: wer-ist-beim-clubtorggelen-dabei
 title: Wer ist beim Clubtörggelen dabei?

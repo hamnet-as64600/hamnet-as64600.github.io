@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-05-30 13:42:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-simplexeinstieg-provisorisch-in-mals-aktiviert/
 slug: link-suedtirol-simplexeinstieg-provisorisch-in-mals-aktiviert
 title: Link Südtirol - Simplexeinstieg provisorisch in Mals aktiviert

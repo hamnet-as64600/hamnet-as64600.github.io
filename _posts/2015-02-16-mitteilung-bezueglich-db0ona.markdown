@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-02-16 14:18:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitteilung-bezueglich-db0ona/
 slug: mitteilung-bezueglich-db0ona
 title: Mitteilung bezüglich DB0ONA

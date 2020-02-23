@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-11 12:52:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-grillfeier-beim-bruno-in3pbp/
 slug: einladung-zur-grillfeier-beim-bruno-in3pbp
 title: Grillen und Funken bei Bruno, IN3PBO

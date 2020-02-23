@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-21 10:44:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/drdish-television-cq-amateurfunk/
 slug: drdish-television-cq-amateurfunk
 title: 'DrDish Television: CQ Amateurfunk'

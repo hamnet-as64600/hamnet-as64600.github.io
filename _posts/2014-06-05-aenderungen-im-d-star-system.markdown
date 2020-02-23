@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-05 12:19:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/aenderungen-im-d-star-system/
 slug: aenderungen-im-d-star-system
 title: Änderungen im D-STAR-System!

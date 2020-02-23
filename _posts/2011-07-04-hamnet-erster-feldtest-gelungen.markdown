@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-04 17:06:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-erster-feldtest-gelungen/
 slug: hamnet-erster-feldtest-gelungen
 title: Hamnet - Erster Feldtest gelungen

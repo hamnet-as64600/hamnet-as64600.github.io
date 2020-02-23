@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-09-10 12:13:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-anja-vom-ritten/
 slug: neues-mitglied-im-drc-anja-vom-ritten
 title: 'Neues Mitglied im DRC: Anja vom Ritten'

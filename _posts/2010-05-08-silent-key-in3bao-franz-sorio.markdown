@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-05-08 06:37:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3bao-franz-sorio/
 slug: silent-key-in3bao-franz-sorio
 title: 'Silent key: IN3BAO Franz Sorio'

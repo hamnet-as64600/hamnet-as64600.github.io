@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-04-26 09:38:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/bunker-funker-wanderung-ein-voller-erfolg/
 slug: bunker-funker-wanderung-ein-voller-erfolg
 title: 'Bunker-Funker-Wanderung: ein voller Erfolg!'

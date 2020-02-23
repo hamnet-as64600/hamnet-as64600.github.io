@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-07-23 20:56:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-link-suedtirol-qrt-installation-link-zugspitze-fuer-raum-bozen-meran-unterland/
 slug: gantkofel-link-suedtirol-qrt-installation-link-zugspitze-fuer-raum-bozen-meran-unterland
 title: Gantkofel Link Südtirol QRT - Installation Link Zugspitze für Raum Bozen, Meran,

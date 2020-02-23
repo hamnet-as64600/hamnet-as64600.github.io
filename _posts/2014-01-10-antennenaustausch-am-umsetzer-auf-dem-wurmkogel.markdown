@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-10 13:54:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/antennenaustausch-am-umsetzer-auf-dem-wurmkogel/
 slug: antennenaustausch-am-umsetzer-auf-dem-wurmkogel
 title: Antennenaustausch am Umsetzer auf dem Wurmkogel

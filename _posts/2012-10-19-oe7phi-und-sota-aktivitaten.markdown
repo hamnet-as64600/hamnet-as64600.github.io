@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-19 12:06:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/oe7phi-und-sota-aktivitaten/
 slug: oe7phi-und-sota-aktivitaten
 title: OE7PHI und Sota Aktivitäten

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-08 13:17:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/kompendium-zu-lithium-ionen-akkumulatoren/
 slug: kompendium-zu-lithium-ionen-akkumulatoren
 title: Kompendium zu Lithium-Ionen-Akkumulatoren

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-07-09 07:06:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachbesprechung-plose-dolomiten-marathon-am-9-juli-2018-um-20-30-uhr-auf-link-suedtirol/
 slug: nachbesprechung-plose-dolomiten-marathon-am-9-juli-2018-um-20-30-uhr-auf-link-suedtirol
 title: Nachbesprechung Plose Dolomiten Marathon am 9. Juli 2018 um 20.30 Uhr auf Link

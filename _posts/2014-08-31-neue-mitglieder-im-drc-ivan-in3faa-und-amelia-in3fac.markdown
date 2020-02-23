@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-31 06:17:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-mitglieder-im-drc-ivan-in3faa-und-amelia-in3fac/
 slug: neue-mitglieder-im-drc-ivan-in3faa-und-amelia-in3fac
 title: 'Neue Mitglieder im DRC: Ivan IN3FAA und Amelia IN3FAC'

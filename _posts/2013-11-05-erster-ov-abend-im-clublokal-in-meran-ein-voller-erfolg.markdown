@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-05 12:25:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/erster-ov-abend-im-clublokal-in-meran-ein-voller-erfolg/
 slug: erster-ov-abend-im-clublokal-in-meran-ein-voller-erfolg
 title: Erster OV-Abend im Clublokal in Meran ein voller Erfolg!

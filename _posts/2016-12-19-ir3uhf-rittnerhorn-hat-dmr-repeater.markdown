@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-12-19 10:53:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhf-rittnerhorn-hat-dmr-repeater/
 slug: ir3uhf-rittnerhorn-hat-dmr-repeater
 title: IR3UHF - Rittnerhorn hat DMR Repeater!

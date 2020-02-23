@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-03-19 18:50:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3eza-simon/
 slug: neues-mitglied-im-drc-in3eza-simon
 title: 'Neues Mitglied im DRC: IN3EZA Simon'

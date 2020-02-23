@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-04 09:18:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzplan-fuer-den-drei-zinnen-alpin-run-2015/
 slug: einsatzplan-fuer-den-drei-zinnen-alpin-run-2015
 title: Einsatzplan für den "Drei Zinnen Alpin Run 2015"

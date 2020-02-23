@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-05-05 00:32:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/minilink-sudtirol-qrt-einsatz-gantkofel-gescheitert/
 slug: minilink-sudtirol-qrt-einsatz-gantkofel-gescheitert
 title: Minilink Südtirol QRT - Einsatz Gantkofel gescheitert!

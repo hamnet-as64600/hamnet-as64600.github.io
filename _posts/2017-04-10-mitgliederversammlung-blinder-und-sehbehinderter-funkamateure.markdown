@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-04-10 08:15:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliederversammlung-blinder-und-sehbehinderter-funkamateure/
 slug: mitgliederversammlung-blinder-und-sehbehinderter-funkamateure
 title: Mitgliederversammlung blinder und sehbehinderter Funkamateure

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-08-16 13:04:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3dv-kronplatz-d-star-sendet-auf-falscher-qrg/
 slug: ir3dv-kronplatz-d-star-sendet-auf-falscher-qrg
 title: IR3DV - Kronplatz, D-Star sendet auf falscher QRG

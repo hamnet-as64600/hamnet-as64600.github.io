@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-07-27 14:37:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/liste-der-prominenten-funkamateure/
 slug: liste-der-prominenten-funkamateure
 title: Liste der prominenten Funkamateure

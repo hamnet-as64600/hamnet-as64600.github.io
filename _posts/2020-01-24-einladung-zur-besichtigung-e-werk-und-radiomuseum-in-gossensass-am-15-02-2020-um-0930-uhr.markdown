@@ -2,7 +2,7 @@
 author: IN3HCD
 comments: true
 date: 2020-01-24 12:30:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-besichtigung-e-werk-und-radiomuseum-in-gossensass-am-15-02-2020-um-0930-uhr/
 slug: einladung-zur-besichtigung-e-werk-und-radiomuseum-in-gossensass-am-15-02-2020-um-0930-uhr
 title: Einladung zur Besichtigung E-Werk und Radiomuseum in Gossensaß am 15.02.2020

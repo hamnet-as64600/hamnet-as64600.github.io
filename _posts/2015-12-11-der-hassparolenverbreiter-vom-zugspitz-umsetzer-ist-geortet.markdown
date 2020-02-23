@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-11 12:48:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-hassparolenverbreiter-vom-zugspitz-umsetzer-ist-geortet/
 slug: der-hassparolenverbreiter-vom-zugspitz-umsetzer-ist-geortet
 title: Der Hassparolenverbreiter vom Zugspitz Umsetzer ist geortet.

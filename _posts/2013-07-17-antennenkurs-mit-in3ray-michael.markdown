@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-17 08:21:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/antennenkurs-mit-in3ray-michael/
 slug: antennenkurs-mit-in3ray-michael
 title: Antennenkurs mit IN3RAY Michael

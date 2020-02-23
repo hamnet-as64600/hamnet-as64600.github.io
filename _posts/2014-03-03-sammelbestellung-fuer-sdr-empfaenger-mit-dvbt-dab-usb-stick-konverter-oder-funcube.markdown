@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-03-03 18:18:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/sammelbestellung-fuer-sdr-empfaenger-mit-dvbt-dab-usb-stick-konverter-oder-funcube/
 slug: sammelbestellung-fuer-sdr-empfaenger-mit-dvbt-dab-usb-stick-konverter-oder-funcube
 title: Sammelbestellung für SDR-Empfänger mit DVBT-DAB Usb Stick / Konverter oder

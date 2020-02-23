@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-08 07:22:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/10m-band-contest-am-1617-juni/
 slug: 10m-band-contest-am-1617-juni
 title: 10m Band Contest am 16/17 Juni

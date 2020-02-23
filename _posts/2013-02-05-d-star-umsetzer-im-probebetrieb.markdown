@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-05 17:00:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-umsetzer-im-probebetrieb/
 slug: d-star-umsetzer-im-probebetrieb
 title: D-Star Umsetzer im Probebetrieb

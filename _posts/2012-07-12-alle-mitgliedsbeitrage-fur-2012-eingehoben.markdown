@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-12 13:53:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/alle-mitgliedsbeitrage-fur-2012-eingehoben/
 slug: alle-mitgliedsbeitrage-fur-2012-eingehoben
 title: Alle Mitgliedsbeiträge für 2012 eingehoben!

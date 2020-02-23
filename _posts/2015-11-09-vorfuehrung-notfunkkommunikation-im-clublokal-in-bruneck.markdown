@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-11-09 09:13:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/vorfuehrung-notfunkkommunikation-im-clublokal-in-bruneck/
 slug: vorfuehrung-notfunkkommunikation-im-clublokal-in-bruneck
 title: Vorführung Notfunkkommunikation im Clublokal in Bruneck

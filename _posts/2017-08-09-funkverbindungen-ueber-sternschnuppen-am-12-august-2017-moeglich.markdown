@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-08-09 12:10:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkverbindungen-ueber-sternschnuppen-am-12-august-2017-moeglich/
 slug: funkverbindungen-ueber-sternschnuppen-am-12-august-2017-moeglich
 title: Funkverbindungen über Sternschnuppen am 12. August 2017 möglich.

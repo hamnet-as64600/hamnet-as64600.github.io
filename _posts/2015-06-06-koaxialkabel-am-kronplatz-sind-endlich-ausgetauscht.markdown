@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-06-06 17:54:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/koaxialkabel-am-kronplatz-sind-endlich-ausgetauscht/
 slug: koaxialkabel-am-kronplatz-sind-endlich-ausgetauscht
 title: Koaxialkabel am Kronplatz sind (endlich) ausgetauscht.

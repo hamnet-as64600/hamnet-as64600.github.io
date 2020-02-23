@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-08-23 16:06:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-chavalatsch-wieder-aktiv-qrg-und-ctcss-aenderung/
 slug: link-suedtirol-chavalatsch-wieder-aktiv-qrg-und-ctcss-aenderung
 title: Link Südtirol - Chavalatsch wieder aktiv, QRG und Ctcss Änderung!

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-18 15:03:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/iq3ny-hat-nun-auch-eine-ccs7-id-nummer-222-3240/
 slug: iq3ny-hat-nun-auch-eine-ccs7-id-nummer-222-3240
 title: 'IQ3NY hat nun auch eine CCS7-ID Nummer: (222) 3240'

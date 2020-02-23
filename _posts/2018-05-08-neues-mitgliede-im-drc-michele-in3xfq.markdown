@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-05-08 12:34:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitgliede-im-drc-michele-in3xfq/
 slug: neues-mitgliede-im-drc-michele-in3xfq
 title: Neues Mitglied im DRC - Michele, IN3XFQ

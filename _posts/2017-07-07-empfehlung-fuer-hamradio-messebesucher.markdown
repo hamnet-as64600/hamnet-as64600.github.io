@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-07-07 14:25:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/empfehlung-fuer-hamradio-messebesucher/
 slug: empfehlung-fuer-hamradio-messebesucher
 title: Empfehlung für Hamradio Messebesucher.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-08 09:55:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurzwellenbetrieb-im-urlaub/
 slug: kurzwellenbetrieb-im-urlaub
 title: Kurzwellenbetrieb im Urlaub

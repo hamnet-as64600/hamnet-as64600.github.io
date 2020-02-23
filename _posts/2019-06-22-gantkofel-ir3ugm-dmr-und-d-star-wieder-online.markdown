@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-06-22 19:18:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-ir3ugm-dmr-und-d-star-wieder-online/
 slug: gantkofel-ir3ugm-dmr-und-d-star-wieder-online
 title: Gantkofel IR3UGM - DMR und D-Star wieder online!

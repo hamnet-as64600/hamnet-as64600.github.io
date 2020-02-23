@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-04-15 12:31:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3axg-gottfried-mumelter/
 slug: silent-key-in3axg-gottfried-mumelter
 title: 'Silent key: IN3AXG Gottfried Mumelter'

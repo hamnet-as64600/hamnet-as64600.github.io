@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-02-02 08:30:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/certificate-of-participation-beim-grisu-marathon-2015/
 slug: certificate-of-participation-beim-grisu-marathon-2015
 title: Certificate of participation beim "Grisu Marathon 2014"

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-06 11:08:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/update-zur-ferngesteuerten-funkstation-am-gitschberg/
 slug: update-zur-ferngesteuerten-funkstation-am-gitschberg
 title: Update zur ferngesteuerten Funkstation am Gitschberg

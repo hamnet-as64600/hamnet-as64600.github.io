@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-01 16:12:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/plc-petition-bitte-mitmachen/
 slug: plc-petition-bitte-mitmachen
 title: 'PLC Petition: bitte mitmachen!'

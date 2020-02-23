@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-30 10:30:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/update-der-keplerdaten-des-max-valier-satelliten/
 slug: update-der-keplerdaten-des-max-valier-satelliten
 title: Update der Keplerdaten des Max Valier Satelliten.

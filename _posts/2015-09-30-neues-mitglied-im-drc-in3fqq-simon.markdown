@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-30 06:52:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3fqq-simon/
 slug: neues-mitglied-im-drc-in3fqq-simon
 title: 'Neues Mitglied im DRC: IN3FQQ, Simon'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-12-08 20:17:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-suedtirolreflektor-zieht-auf-dcs009f-um/
 slug: der-suedtirolreflektor-zieht-auf-dcs009f-um
 title: Der Südtirolreflektor zieht auf DCS009F um.

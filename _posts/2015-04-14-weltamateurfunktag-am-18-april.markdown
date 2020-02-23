@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-14 11:40:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/weltamateurfunktag-am-18-april/
 slug: weltamateurfunktag-am-18-april
 title: Weltamateurfunktag am 18. April

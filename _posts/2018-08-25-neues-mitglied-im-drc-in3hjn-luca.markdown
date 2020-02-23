@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-08-25 14:40:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3hjn-luca/
 slug: neues-mitglied-im-drc-in3hjn-luca
 title: 'Neues Mitglied im DRC: IN3HJN Luca'

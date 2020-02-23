@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-28 07:01:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/vereinsbekleidung-ist-geliefert-worden/
 slug: vereinsbekleidung-ist-geliefert-worden
 title: Vereinsbekleidung ist geliefert worden.

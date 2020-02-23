@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-08 17:23:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-am-r4-rittner-horn-wieder-in-betrieb/
 slug: echolink-am-r4-rittner-horn-wieder-in-betrieb
 title: Echolink am R4 Rittner Horn wieder in Betrieb

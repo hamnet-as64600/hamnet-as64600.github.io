@@ -2,7 +2,7 @@
 author: IN3HCD
 comments: true
 date: 2019-05-05 12:12:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/dolomites-radio-club-einsatzplan-zum-oldtimer-%e2%80%8bmotorradrennen-2019-nals/
 slug: dolomites-radio-club-einsatzplan-zum-oldtimer-%e2%80%8bmotorradrennen-2019-nals
 title: Einsatzplan zum Oldtimer Motorrad Rennen in Nals am Samstag, den 25. Mai 2019

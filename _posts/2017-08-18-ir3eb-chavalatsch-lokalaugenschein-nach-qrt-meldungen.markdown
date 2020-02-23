@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-08-18 09:18:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3eb-chavalatsch-lokalaugenschein-nach-qrt-meldungen/
 slug: ir3eb-chavalatsch-lokalaugenschein-nach-qrt-meldungen
 title: IR3EB - Chavalatsch, Lokalaugenschein nach QRT Meldungen

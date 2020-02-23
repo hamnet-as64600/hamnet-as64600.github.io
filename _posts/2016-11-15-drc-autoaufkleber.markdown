@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-11-15 09:02:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-autoaufkleber/
 slug: drc-autoaufkleber
 title: DRC - Autoaufkleber

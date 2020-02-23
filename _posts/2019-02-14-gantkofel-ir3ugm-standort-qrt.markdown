@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-02-14 13:56:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-ir3ugm-standort-qrt/
 slug: gantkofel-ir3ugm-standort-qrt
 title: Gantkofel IR3UGM - Standort QRT

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-01 06:54:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-dl6may-hans-sondermeier-aus-krailing-bei-muenchen/
 slug: silent-key-dl6may-hans-sondermeier-aus-krailing-bei-muenchen
 title: 'Silent key: DL6MAY Hans Sondermeier aus Krailing bei München'

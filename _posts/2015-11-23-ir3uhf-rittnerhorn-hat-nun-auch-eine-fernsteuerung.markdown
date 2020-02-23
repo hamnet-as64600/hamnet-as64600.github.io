@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-11-23 09:24:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhf-rittnerhorn-hat-nun-auch-eine-fernsteuerung/
 slug: ir3uhf-rittnerhorn-hat-nun-auch-eine-fernsteuerung
 title: IR3UHF - Rittnerhorn hat nun auch eine Fernsteuerung

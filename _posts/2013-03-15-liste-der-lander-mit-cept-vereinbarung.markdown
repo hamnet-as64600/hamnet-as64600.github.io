@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-03-15 07:37:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/liste-der-lander-mit-cept-vereinbarung/
 slug: liste-der-lander-mit-cept-vereinbarung
 title: Liste der Länder mit CEPT Vereinbarung.

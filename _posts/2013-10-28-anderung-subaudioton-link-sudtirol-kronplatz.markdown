@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-28 15:42:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/anderung-subaudioton-link-sudtirol-kronplatz/
 slug: anderung-subaudioton-link-sudtirol-kronplatz
 title: Änderung Subaudioton Link Südtirol – Kronplatz

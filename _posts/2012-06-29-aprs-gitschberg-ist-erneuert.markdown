@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-29 09:13:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-gitschberg-ist-erneuert/
 slug: aprs-gitschberg-ist-erneuert
 title: APRS Gitschberg IR3UHI ist erneuert

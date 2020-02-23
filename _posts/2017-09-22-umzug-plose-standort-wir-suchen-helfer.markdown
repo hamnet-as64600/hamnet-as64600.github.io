@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-09-22 08:50:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/umzug-plose-standort-wir-suchen-helfer/
 slug: umzug-plose-standort-wir-suchen-helfer
 title: Umzug Plose Standort - Wir suchen Helfer!

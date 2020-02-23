@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-03-31 19:01:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/gitschbergrelais-ir3uhi-provisorische-zugspitzanbindung-wird-abgeschalten/
 slug: gitschbergrelais-ir3uhi-provisorische-zugspitzanbindung-wird-abgeschalten
 title: Gitschbergrelais IR3UHI - Provisorische Zugspitzanbindung wird abgeschalten

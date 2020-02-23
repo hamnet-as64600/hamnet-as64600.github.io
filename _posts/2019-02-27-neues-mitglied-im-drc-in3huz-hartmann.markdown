@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-02-27 18:00:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3huz-hartmann/
 slug: neues-mitglied-im-drc-in3huz-hartmann
 title: 'Neues Mitglied im DRC: IN3HUZ Hartmann aus Mühlwald.'

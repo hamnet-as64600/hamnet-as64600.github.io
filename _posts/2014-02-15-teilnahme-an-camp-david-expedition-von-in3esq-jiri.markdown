@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-02-15 18:08:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/teilnahme-an-camp-david-expedition-von-in3esq-jiri/
 slug: teilnahme-an-camp-david-expedition-von-in3esq-jiri
 title: Teilnahme an Camp David Expedition von IN3ESQ - Jiri

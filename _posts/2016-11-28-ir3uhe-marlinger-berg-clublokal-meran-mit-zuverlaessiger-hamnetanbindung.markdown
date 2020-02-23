@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-11-28 10:38:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhe-marlinger-berg-clublokal-meran-mit-zuverlaessiger-hamnetanbindung/
 slug: ir3uhe-marlinger-berg-clublokal-meran-mit-zuverlaessiger-hamnetanbindung
 title: IR3UHE Marlinger Berg - Clublokal Meran mit zuverlässiger Hamnetanbindung

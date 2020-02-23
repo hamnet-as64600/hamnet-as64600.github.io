@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-26 09:29:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/dx-info-oe9pti-aus-8p9-qrv/
 slug: dx-info-oe9pti-aus-8p9-qrv
 title: 'DX-Info: OE9PTI aus 8P9 QRV.'

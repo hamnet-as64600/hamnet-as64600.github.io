@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2019-02-20 18:54:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-kann-beim-oldtimer-rennen-in-nals-am-25-mai-2019-mithelfen/
 slug: wer-kann-beim-oldtimer-rennen-in-nals-am-25-mai-2019-mithelfen
 title: Wer kann beim 19. Südtiroler Bergpreis Motorräder Oldtimer Rennen am 25. Mai

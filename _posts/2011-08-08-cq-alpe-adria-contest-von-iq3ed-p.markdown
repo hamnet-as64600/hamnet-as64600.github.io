@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-08-08 09:47:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/cq-alpe-adria-contest-von-iq3ed-p/
 slug: cq-alpe-adria-contest-von-iq3ed-p
 title: CQ Alpe Adria Contest von IQ3ED-p

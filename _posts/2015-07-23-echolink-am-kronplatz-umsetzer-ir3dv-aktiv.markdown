@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-23 07:40:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-am-kronplatz-umsetzer-ir3dv-aktiv/
 slug: echolink-am-kronplatz-umsetzer-ir3dv-aktiv
 title: Echolink am Kronplatz Umsetzer IR3DV aktiv!

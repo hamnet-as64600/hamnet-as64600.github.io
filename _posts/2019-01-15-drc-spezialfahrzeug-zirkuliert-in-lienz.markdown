@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-01-15 08:36:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-spezialfahrzeug-zirkuliert-in-lienz/
 slug: drc-spezialfahrzeug-zirkuliert-in-lienz
 title: DRC-Spezialfahrzeug zirkuliert in Lienz!

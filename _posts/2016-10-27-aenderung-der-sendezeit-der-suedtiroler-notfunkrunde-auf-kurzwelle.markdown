@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-10-27 07:06:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/aenderung-der-sendezeit-der-suedtiroler-notfunkrunde-auf-kurzwelle/
 slug: aenderung-der-sendezeit-der-suedtiroler-notfunkrunde-auf-kurzwelle
 title: Änderung der Sendezeit der "Südtiroler Notfunkrunde" auf Kurzwelle.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-10-17 10:49:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatz-plose-ir3uap/
 slug: einsatz-plose-ir3uap
 title: Einsatz Plose IR3UAP

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-22 18:13:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/clublokal-meran-elektro-aufraeum-und-putzarbeiten/
 slug: clublokal-meran-elektro-aufraeum-und-putzarbeiten
 title: Clublokal Meran - Elektro-, Aufräum- und Putzarbeiten

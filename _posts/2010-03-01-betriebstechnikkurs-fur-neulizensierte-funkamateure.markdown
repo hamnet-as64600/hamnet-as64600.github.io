@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-03-01 13:12:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/betriebstechnikkurs-fur-neulizensierte-funkamateure/
 slug: betriebstechnikkurs-fur-neulizensierte-funkamateure
 title: Betriebstechnikkurs für neulizensierte Funkamateure

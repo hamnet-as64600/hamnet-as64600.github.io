@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-07-25 09:32:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/zugspitzrele-70-cm-aus-suedtirol-erreichbar/
 slug: zugspitzrele-70-cm-aus-suedtirol-erreichbar
 title: Zugspitzrelè 70 cm DB0ZU aus Südtirol erreichbar

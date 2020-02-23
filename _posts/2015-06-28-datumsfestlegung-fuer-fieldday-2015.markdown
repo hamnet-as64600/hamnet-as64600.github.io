@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-06-28 05:29:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/datumsfestlegung-fuer-fieldday-2015/
 slug: datumsfestlegung-fuer-fieldday-2015
 title: Datumsfestlegung für Fieldday 2015

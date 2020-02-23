@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-01-06 18:10:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-seit-24-12-2013-k-o-blitzeinsatz-von-iw3brh-und-in3eri/
 slug: gantkofel-seit-24-12-2013-k-o-blitzeinsatz-von-iw3brh-und-in3eri
 title: Gantkofel seit 24.12.2013 K.O. - Blitzeinsatz von IW3BRH und IN3ERI

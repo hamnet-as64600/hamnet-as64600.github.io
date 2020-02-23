@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-01 14:39:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/suedtiroler-satellit-tritt-reise-ins-all-an/
 slug: suedtiroler-satellit-tritt-reise-ins-all-an
 title: Südtiroler Satellit tritt Reise ins All an

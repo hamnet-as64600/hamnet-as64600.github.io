@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-11-20 19:18:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/r4-rittnerhorn-ir3uhf-neuer-umsetzer-installiert-svx-link/
 slug: r4-rittnerhorn-ir3uhf-neuer-umsetzer-installiert-svx-link
 title: R4 - Rittnerhorn, IR3UHF. Neuer Umsetzer installiert (SVX-Link)

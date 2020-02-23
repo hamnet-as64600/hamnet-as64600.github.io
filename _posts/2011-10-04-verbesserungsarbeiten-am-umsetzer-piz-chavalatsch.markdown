@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-04 09:16:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/verbesserungsarbeiten-am-umsetzer-piz-chavalatsch/
 slug: verbesserungsarbeiten-am-umsetzer-piz-chavalatsch
 title: Verbesserungsarbeiten am Umsetzer Piz Chavalatsch

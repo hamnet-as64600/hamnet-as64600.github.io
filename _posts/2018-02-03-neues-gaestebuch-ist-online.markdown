@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-02-03 17:07:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-gaestebuch-ist-online/
 slug: neues-gaestebuch-ist-online
 title: Neues Gästebuch ist online

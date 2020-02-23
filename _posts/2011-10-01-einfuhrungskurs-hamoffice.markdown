@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-01 17:44:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/einfuhrungskurs-hamoffice/
 slug: einfuhrungskurs-hamoffice
 title: Einführungskurs HAMOFFICE

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-23 19:25:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/interessante-link-sammlung/
 slug: interessante-link-sammlung
 title: Interessante Link Sammlung

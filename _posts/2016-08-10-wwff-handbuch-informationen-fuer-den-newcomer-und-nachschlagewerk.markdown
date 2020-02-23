@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-10 13:10:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/wwff-handbuch-informationen-fuer-den-newcomer-und-nachschlagewerk/
 slug: wwff-handbuch-informationen-fuer-den-newcomer-und-nachschlagewerk
 title: 'WWFF-Handbuch: Informationen für den Newcomer und Nachschlagewerk'

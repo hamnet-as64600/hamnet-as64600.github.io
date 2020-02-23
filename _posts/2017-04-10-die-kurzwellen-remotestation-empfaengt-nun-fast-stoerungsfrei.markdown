@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-04-10 09:20:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-kurzwellen-remotestation-empfaengt-nun-fast-stoerungsfrei/
 slug: die-kurzwellen-remotestation-empfaengt-nun-fast-stoerungsfrei
 title: Die Kurzwellen Remotestation empfängt nun (fast) störungsfrei!

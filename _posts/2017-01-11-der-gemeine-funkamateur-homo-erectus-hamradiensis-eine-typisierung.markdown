@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-11 11:12:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-gemeine-funkamateur-homo-erectus-hamradiensis-eine-typisierung/
 slug: der-gemeine-funkamateur-homo-erectus-hamradiensis-eine-typisierung
 title: Der gemeine Funkamateur (Homo erectus hamradiensis) – eine Typisierung

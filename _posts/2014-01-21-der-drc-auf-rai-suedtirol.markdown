@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-21 06:53:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-auf-rai-suedtirol/
 slug: der-drc-auf-rai-suedtirol
 title: Der DRC auf RAI Südtirol

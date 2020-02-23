@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-21 19:14:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/ulrich-l-rohde-wissenschaftler-unternehmer-funkamateur/
 slug: ulrich-l-rohde-wissenschaftler-unternehmer-funkamateur
 title: 'Ulrich L. Rohde: Wissenschaftler, Unternehmer, Funkamateur'

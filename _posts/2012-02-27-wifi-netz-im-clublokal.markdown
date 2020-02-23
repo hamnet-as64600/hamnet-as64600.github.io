@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-02-27 08:04:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/wifi-netz-im-clublokal/
 slug: wifi-netz-im-clublokal
 title: WIFI-Netz  im Clublokal

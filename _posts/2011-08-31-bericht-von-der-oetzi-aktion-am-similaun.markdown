@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-08-31 07:57:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-von-der-oetzi-aktion-am-similaun/
 slug: bericht-von-der-oetzi-aktion-am-similaun
 title: Bericht von der Oetzi Aktion am Similaun

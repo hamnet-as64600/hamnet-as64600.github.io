@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-06-30 14:53:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/ham-radio-und-maker-world-erfolgreich/
 slug: ham-radio-und-maker-world-erfolgreich
 title: Ham Radio und Maker World erfolgreich

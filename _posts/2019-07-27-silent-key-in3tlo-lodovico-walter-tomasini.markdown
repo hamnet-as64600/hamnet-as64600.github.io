@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-07-27 19:21:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3tlo-lodovico-walter-tomasini/
 slug: silent-key-in3tlo-lodovico-walter-tomasini
 title: 'Silent key: IN3TLO Lodovico Walter Tomasini'

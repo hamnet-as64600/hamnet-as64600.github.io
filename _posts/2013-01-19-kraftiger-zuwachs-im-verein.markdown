@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-19 07:18:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/kraftiger-zuwachs-im-verein/
 slug: kraftiger-zuwachs-im-verein
 title: Kräftiger Zuwachs im Verein

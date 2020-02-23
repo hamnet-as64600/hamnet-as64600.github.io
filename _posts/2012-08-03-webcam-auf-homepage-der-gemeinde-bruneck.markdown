@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-03 14:23:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/webcam-auf-homepage-der-gemeinde-bruneck/
 slug: webcam-auf-homepage-der-gemeinde-bruneck
 title: WEBCAM auf Homepage der Gemeinde Bruneck

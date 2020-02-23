@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-02 17:52:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/unser-toerggelelokal-gewinnt-auszeichnung/
 slug: unser-toerggelelokal-gewinnt-auszeichnung
 title: Unser Törggelelokal gewinnt Auszeichnung

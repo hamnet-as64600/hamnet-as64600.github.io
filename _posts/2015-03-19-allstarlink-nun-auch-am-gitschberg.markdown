@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-19 11:32:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/allstarlink-nun-auch-am-gitschberg/
 slug: allstarlink-nun-auch-am-gitschberg
 title: Allstarlink nun auch am Gitschberg

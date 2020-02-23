@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2012-08-25 08:58:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/postenaufstellung-beim-3-zinnen-lauf-2012/
 slug: postenaufstellung-beim-3-zinnen-lauf-2012
 title: Postenaufstellung beim 3-Zinnen-Lauf 2012

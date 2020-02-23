@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-04 07:42:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-karl-in3/
 slug: neues-mitglied-karl-in3
 title: 'Neues Mitglied: Karl IN3???'

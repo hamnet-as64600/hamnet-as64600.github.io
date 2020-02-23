@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-09-13 20:42:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/drei-zinnen-alpinlauf-2011-ein-ruckblick/
 slug: drei-zinnen-alpinlauf-2011-ein-ruckblick
 title: Drei Zinnen-Alpinlauf 2011 - ein Rückblick

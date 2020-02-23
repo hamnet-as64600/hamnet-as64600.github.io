@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-01 07:07:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/brixen-dolomiten-marathon-neuer-einsatzplan-version-2/
 slug: brixen-dolomiten-marathon-neuer-einsatzplan-version-2
 title: Brixen Dolomiten Marathon - Neuer Einsatzplan Version 2

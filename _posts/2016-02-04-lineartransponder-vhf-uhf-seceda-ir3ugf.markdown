@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-02-04 11:17:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/lineartransponder-vhf-uhf-seceda-ir3ugf/
 slug: lineartransponder-vhf-uhf-seceda-ir3ugf
 title: Lineartransponder VHF / UHF Seceda IR3UGF

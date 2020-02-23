@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-09-02 12:10:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/helm-ir3uan-neuer-funkstandort-im-osten-suedtirols/
 slug: helm-ir3uan-neuer-funkstandort-im-osten-suedtirols
 title: Helm IR3UAN - Neuer Funkstandort im Osten Südtirols

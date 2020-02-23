@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-03-13 14:00:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/unsere-whatsapp-gruppe-drc-infokanal/
 slug: unsere-whatsapp-gruppe-drc-infokanal
 title: 'Unsere WhatsApp Gruppe: DRC - Infokanal'

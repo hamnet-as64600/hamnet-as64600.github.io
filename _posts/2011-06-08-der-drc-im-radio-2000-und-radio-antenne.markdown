@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2011-06-08 13:32:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-im-radio-2000-und-radio-antenne/
 slug: der-drc-im-radio-2000-und-radio-antenne
 title: Der DRC im "Radio 2000" und Radio "Die Antenne"

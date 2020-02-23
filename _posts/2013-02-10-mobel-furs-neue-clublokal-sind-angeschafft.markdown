@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-10 07:03:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/mobel-furs-neue-clublokal-sind-angeschafft/
 slug: mobel-furs-neue-clublokal-sind-angeschafft
 title: Möbel fürs neue Clublokal sind angeschafft

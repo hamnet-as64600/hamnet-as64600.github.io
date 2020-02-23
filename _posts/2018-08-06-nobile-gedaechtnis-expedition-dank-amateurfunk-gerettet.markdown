@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-08-06 09:16:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/nobile-gedaechtnis-expedition-dank-amateurfunk-gerettet/
 slug: nobile-gedaechtnis-expedition-dank-amateurfunk-gerettet
 title: Nobile-Gedächtnis-Expedition dank Amateurfunk gerettet

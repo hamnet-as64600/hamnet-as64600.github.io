@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-07-22 14:38:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkaktivitat-auf-der-plose/
 slug: funkaktivitat-auf-der-plose
 title: Funkwochenende auf der Plose!

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-28 06:24:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-am-gitschberg-ist-wieder-repariert/
 slug: echolink-am-gitschberg-ist-wieder-repariert
 title: Echolink am Gitschberg ist wieder repariert.

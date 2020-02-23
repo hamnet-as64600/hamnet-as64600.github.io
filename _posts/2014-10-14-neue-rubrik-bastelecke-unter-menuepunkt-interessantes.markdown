@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-14 12:43:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-rubrik-bastelecke-unter-menuepunkt-interessantes/
 slug: neue-rubrik-bastelecke-unter-menuepunkt-interessantes
 title: Neue Rubrik "Bastelecke" unter Menüpunkt "Interessantes"

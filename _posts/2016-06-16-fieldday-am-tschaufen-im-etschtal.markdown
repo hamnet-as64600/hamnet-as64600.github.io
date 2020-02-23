@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-06-16 13:50:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/fieldday-am-tschaufen-im-etschtal/
 slug: fieldday-am-tschaufen-im-etschtal
 title: 50 Jahre DRC - Fieldday am Tschaufen im Etschtal

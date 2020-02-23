@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-07-31 10:10:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/news-aus-murnau/
 slug: news-aus-murnau
 title: News aus Murnau.....

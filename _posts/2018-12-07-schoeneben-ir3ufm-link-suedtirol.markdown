@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-12-07 08:41:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/schoeneben-ir3ufm-link-suedtirol/
 slug: schoeneben-ir3ufm-link-suedtirol
 title: Schöneben IR3UFM - Link Südtirol

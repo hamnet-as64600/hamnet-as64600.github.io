@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-08-24 06:31:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/reisebericht-bretagne-von-in3dov/
 slug: reisebericht-bretagne-von-in3dov
 title: Reisebericht Bretagne von F/IN3DOV

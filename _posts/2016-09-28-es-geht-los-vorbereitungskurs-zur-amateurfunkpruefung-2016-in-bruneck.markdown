@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-09-28 07:15:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/es-geht-los-vorbereitungskurs-zur-amateurfunkpruefung-2016-in-bruneck/
 slug: es-geht-los-vorbereitungskurs-zur-amateurfunkpruefung-2016-in-bruneck
 title: 'Es geht los: Vorbereitungskurs zur Amateurfunkprüfung 2016 in Bruneck!'

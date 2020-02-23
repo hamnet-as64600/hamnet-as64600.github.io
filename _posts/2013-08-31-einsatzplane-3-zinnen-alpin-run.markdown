@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-08-31 17:52:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzplane-3-zinnen-alpin-run/
 slug: einsatzplane-3-zinnen-alpin-run
 title: Einsatzpläne "3 Zinnen Alpin Run"

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-08 13:06:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-hamoffice-und-qsl-karten-kurs/
 slug: nachtrag-zum-hamoffice-und-qsl-karten-kurs
 title: Nachtrag zum Hamoffice und QSL-Karten Kurs

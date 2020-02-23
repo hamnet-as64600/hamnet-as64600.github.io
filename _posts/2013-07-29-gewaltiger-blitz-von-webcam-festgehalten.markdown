@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-29 07:18:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/gewaltiger-blitz-von-webcam-festgehalten/
 slug: gewaltiger-blitz-von-webcam-festgehalten
 title: Gewaltiger Blitz von Webcam festgehalten

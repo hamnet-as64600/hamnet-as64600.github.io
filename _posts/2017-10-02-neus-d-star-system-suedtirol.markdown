@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2017-10-02 20:17:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/neus-d-star-system-suedtirol/
 slug: neus-d-star-system-suedtirol
 title: Neues D-STAR System in Südtirol geht in Betrieb

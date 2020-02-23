@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-07 12:15:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/logbuch-von-iq3ny-nun-auch-im-web/
 slug: logbuch-von-iq3ny-nun-auch-im-web
 title: Logbuch von IQ3NY nun auch im Web.

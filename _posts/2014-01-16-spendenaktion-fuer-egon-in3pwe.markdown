@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-16 15:43:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/spendenaktion-fuer-egon-in3pwe/
 slug: spendenaktion-fuer-egon-in3pwe
 title: Spendenaktion für Egon, IN3PWE

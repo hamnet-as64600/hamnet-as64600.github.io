@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2009-12-18 09:39:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/news-vom-gitschberg-umsetzer/
 slug: news-vom-gitschberg-umsetzer
 title: News vom Gitschberg Umsetzer

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-05 14:05:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/bandplan-iaru-region-1-hf/
 slug: bandplan-iaru-region-1-hf
 title: Bandplan IARU Region 1- HF

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-02-06 19:00:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhi-kw-remotestation-nun-auch-via-pc-im-hamnet-bedienbar/
 slug: ir3uhi-kw-remotestation-nun-auch-via-pc-im-hamnet-bedienbar
 title: IR3UHI - KW Remotestation nun auch via PC im Hamnet bedienbar

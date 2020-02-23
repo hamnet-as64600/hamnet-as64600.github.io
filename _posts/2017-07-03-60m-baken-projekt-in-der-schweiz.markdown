@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-07-03 06:59:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/60m-baken-projekt-in-der-schweiz/
 slug: 60m-baken-projekt-in-der-schweiz
 title: 60m Baken - Projekt in der Schweiz.

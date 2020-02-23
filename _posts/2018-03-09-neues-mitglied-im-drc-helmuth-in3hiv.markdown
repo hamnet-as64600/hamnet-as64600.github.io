@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-03-09 09:44:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-helmuth-in3hiv/
 slug: neues-mitglied-im-drc-helmuth-in3hiv
 title: 'Neues Mitglied im DRC: Helmuth, IN3HIV'

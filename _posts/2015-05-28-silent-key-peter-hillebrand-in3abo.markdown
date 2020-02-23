@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-05-28 19:33:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-peter-hillebrand-in3abo/
 slug: silent-key-peter-hillebrand-in3abo
 title: 'Silent key: Peter Hillebrand IN3ABO'

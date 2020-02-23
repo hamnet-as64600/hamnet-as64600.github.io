@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2017-02-01 11:48:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/rai-suedtirol-reportage-ueber-privatradio/
 slug: rai-suedtirol-reportage-ueber-privatradio
 title: RAI Südtirol Reportage über Privatradio

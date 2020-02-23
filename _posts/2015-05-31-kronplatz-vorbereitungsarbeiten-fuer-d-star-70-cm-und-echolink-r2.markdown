@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-05-31 19:39:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/kronplatz-vorbereitungsarbeiten-fuer-d-star-70-cm-und-echolink-r2/
 slug: kronplatz-vorbereitungsarbeiten-fuer-d-star-70-cm-und-echolink-r2
 title: Kronplatz IR3DV - Vorbereitungsarbeiten für D-Star 70 cm und Echolink R2

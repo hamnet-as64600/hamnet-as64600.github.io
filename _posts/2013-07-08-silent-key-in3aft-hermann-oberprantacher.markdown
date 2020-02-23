@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-08 15:53:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3aft-hermann-oberprantacher/
 slug: silent-key-in3aft-hermann-oberprantacher
 title: 'Silent key: IN3AFT Hermann Oberprantacher'

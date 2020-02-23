@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-08-22 15:57:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/professor-dr-ulrich-rohde-n1ul-wird-ausgezeichnet/
 slug: professor-dr-ulrich-rohde-n1ul-wird-ausgezeichnet
 title: Professor Dr.Ulrich Rohde, N1UL, wird ausgezeichnet.

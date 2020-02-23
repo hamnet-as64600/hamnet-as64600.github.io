@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-09-14 19:12:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/5462/
 slug: '5462'
 title: Bericht zum Folgeeinsatz Marmolada IR3AO

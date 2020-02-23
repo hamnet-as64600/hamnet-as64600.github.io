@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-09-28 22:26:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-letzte-aufraeumarbeiten-und-abbau-alter-masten/
 slug: rittnerhorn-letzte-aufraeumarbeiten-und-abbau-alter-masten
 title: 'Rittnerhorn: letzte Aufräumarbeiten und  Abbau alter Masten'

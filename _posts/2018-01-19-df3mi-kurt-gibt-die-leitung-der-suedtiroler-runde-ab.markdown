@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-19 10:33:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/df3mi-kurt-gibt-die-leitung-der-suedtiroler-runde-ab/
 slug: df3mi-kurt-gibt-die-leitung-der-suedtiroler-runde-ab
 title: DF3MI, Kurt, gibt die Leitung der "Südtiroler Runde" ab.

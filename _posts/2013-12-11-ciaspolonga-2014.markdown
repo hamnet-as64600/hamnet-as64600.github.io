@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-11 07:29:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/ciaspolonga-2014/
 slug: ciaspolonga-2014
 title: Ciaspolonga 2014

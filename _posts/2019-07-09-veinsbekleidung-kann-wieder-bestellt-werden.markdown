@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-07-09 08:36:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/veinsbekleidung-kann-wieder-bestellt-werden/
 slug: veinsbekleidung-kann-wieder-bestellt-werden
 title: Vereinsbekleidung kann wieder bestellt werden.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-12-07 07:43:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/iw3bwb-peter-ich-war-bei-der-weihnachtsfeier-2018-dabei/
 slug: iw3bwb-peter-ich-war-bei-der-weihnachtsfeier-2018-dabei
 title: 'IW3BWB-Peter: Ich war bei der Weihnachtsfeier 2018 dabei......'

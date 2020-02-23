@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-07 16:27:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliedsbeitrag-einzahlungen/
 slug: mitgliedsbeitrag-einzahlungen
 title: Mitgliedsbeitrag Einzahlungen

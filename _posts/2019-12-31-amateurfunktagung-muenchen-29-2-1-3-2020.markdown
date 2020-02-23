@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-12-31 08:11:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunktagung-muenchen-29-2-1-3-2020/
 slug: amateurfunktagung-muenchen-29-2-1-3-2020
 title: Amateurfunktagung München,  29.2. - 1.3.2020

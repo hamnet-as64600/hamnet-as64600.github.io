@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-12 09:59:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunk-die-atlantische-hurrikansaison-2017-hat-begonnen/
 slug: notfunk-die-atlantische-hurrikansaison-2017-hat-begonnen
 title: 'Notfunk: Die Atlantische Hurrikansaison 2017 hat begonnen'

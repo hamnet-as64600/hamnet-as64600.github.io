@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-26 07:13:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/vereinsbekleidung-kann-wieder-bestellt-werden/
 slug: vereinsbekleidung-kann-wieder-bestellt-werden
 title: Vereinsbekleidung kann wieder bestellt werden.

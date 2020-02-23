@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-11-18 08:38:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-auf-dem-jaufen-aktiviert/
 slug: aprs-auf-dem-jaufen-aktiviert
 title: APRS auf dem Jaufen aktiviert.

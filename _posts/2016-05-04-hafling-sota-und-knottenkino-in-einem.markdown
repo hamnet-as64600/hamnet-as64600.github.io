@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-05-04 07:31:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/hafling-sota-und-knottenkino-in-einem/
 slug: hafling-sota-und-knottenkino-in-einem
 title: 'Hafling: SOTA und Knottenkino in einem!'

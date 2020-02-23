@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-13 13:40:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/ergebnis-der-umfrage-zur-weiterfuehrung-der-funkuebung-mit-in3erw/
 slug: ergebnis-der-umfrage-zur-weiterfuehrung-der-funkuebung-mit-in3erw
 title: Ergebnis der Umfrage zur Weiterführung der Funkübung mit IN3ERW

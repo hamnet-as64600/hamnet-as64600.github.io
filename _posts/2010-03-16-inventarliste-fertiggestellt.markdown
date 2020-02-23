@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-03-16 17:03:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/inventarliste-fertiggestellt/
 slug: inventarliste-fertiggestellt
 title: Inventarliste fertiggestellt

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-01 15:07:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/elmsfeuer-am-sonnblick/
 slug: elmsfeuer-am-sonnblick
 title: Elmsfeuer am Sonnblick

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-11-07 13:30:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-do9jbl-sepp-aus-grainau-dl/
 slug: neues-mitglied-im-drc-do9jbl-sepp-aus-grainau-dl
 title: 'Neues Mitglied im DRC: DO9JBL, Sepp aus Grainau (DL)'

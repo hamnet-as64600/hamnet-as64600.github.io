@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-21 06:48:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/finanzieller-beitrag-von-der-raika-bruneck/
 slug: finanzieller-beitrag-von-der-raika-bruneck
 title: Finanzieller Beitrag von der RAIKA Bruneck

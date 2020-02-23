@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-09-02 17:34:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/umbauarbeiten-an-antennen-am-kronplatz/
 slug: umbauarbeiten-an-antennen-am-kronplatz
 title: Umbauarbeiten an Antennen am Kronplatz

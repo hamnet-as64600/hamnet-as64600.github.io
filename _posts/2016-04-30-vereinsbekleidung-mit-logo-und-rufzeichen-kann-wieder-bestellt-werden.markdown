@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-30 07:39:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/vereinsbekleidung-mit-logo-und-rufzeichen-kann-wieder-bestellt-werden/
 slug: vereinsbekleidung-mit-logo-und-rufzeichen-kann-wieder-bestellt-werden
 title: Vereinsbekleidung mit Logo und Rufzeichen kann wieder bestellt werden.

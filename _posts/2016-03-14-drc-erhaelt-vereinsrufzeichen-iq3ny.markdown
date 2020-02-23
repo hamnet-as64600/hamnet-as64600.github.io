@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-14 15:26:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-erhaelt-vereinsrufzeichen-iq3ny/
 slug: drc-erhaelt-vereinsrufzeichen-iq3ny
 title: 'DRC erhält Vereinsrufzeichen: IQ3NY'

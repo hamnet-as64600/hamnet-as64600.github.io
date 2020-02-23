@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-10-24 13:19:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/tagesordnungspunkte-fur-ov-abend/
 slug: tagesordnungspunkte-fur-ov-abend
 title: . Tagesordnungspunkte für Vereinsabend.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-04-28 08:28:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/besichtigung-wasserkraftwerk-kniepass-in-st-lorenzen/
 slug: besichtigung-wasserkraftwerk-kniepass-in-st-lorenzen
 title: Besichtigung Wasserkraftwerk "Kniepaß" in St. Lorenzen.

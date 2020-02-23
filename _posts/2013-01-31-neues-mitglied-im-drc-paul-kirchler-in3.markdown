@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-31 14:03:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-paul-kirchler-in3/
 slug: neues-mitglied-im-drc-paul-kirchler-in3
 title: 'Neues Mitglied im DRC: Paul Kirchler, IN3??'

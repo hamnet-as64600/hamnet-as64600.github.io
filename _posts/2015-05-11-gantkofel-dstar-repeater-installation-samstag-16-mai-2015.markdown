@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-05-11 08:06:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-dstar-repeater-installation-samstag-16-mai-2015/
 slug: gantkofel-dstar-repeater-installation-samstag-16-mai-2015
 title: Gantkofel - DStar Repeater Installation Samstag, 16. Mai 2015

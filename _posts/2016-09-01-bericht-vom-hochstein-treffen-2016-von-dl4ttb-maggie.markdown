@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-09-01 12:16:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-vom-hochstein-treffen-2016-von-dl4ttb-maggie/
 slug: bericht-vom-hochstein-treffen-2016-von-dl4ttb-maggie
 title: Bericht vom Hochstein Treffen 2016 von DL4TTB, Maggie

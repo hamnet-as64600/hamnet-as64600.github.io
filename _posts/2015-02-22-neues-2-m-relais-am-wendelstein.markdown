@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-02-22 07:20:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-2-m-relais-am-wendelstein/
 slug: neues-2-m-relais-am-wendelstein
 title: Neues 2 m Relais am Wendelstein

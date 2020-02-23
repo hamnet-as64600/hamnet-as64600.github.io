@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-21 15:36:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/in-ehrendem-gedenken-an-in3axg-gottfried/
 slug: in-ehrendem-gedenken-an-in3axg-gottfried
 title: In ehrendem Gedenken an IN3AXG Gottfried

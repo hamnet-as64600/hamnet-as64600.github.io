@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-03-02 16:19:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/einfuehrungskurs-fuer-alle-neulizensierten-funkamateure-und-interessierte/
 slug: einfuehrungskurs-fuer-alle-neulizensierten-funkamateure-und-interessierte
 title: Einführungskurs für alle neulizensierten Funkamateure und Interessierte.

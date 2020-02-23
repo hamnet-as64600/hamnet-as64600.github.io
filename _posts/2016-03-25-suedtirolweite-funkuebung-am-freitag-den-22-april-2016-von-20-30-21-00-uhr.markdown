@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-25 13:53:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/suedtirolweite-funkuebung-am-freitag-den-22-april-2016-von-20-30-21-00-uhr/
 slug: suedtirolweite-funkuebung-am-freitag-den-22-april-2016-von-20-30-21-00-uhr
 title: Südtirolweite Funkübung

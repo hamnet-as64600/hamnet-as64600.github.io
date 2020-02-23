@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-11 15:26:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/flohmarkt-ecke-im-clublokal/
 slug: flohmarkt-ecke-im-clublokal
 title: '"Flohmarkt Ecke" im Clublokal'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-06-18 06:08:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/radiointerview-wurde-ausgestrahlt/
 slug: radiointerview-wurde-ausgestrahlt
 title: Radiointerview wurde ausgestrahlt.

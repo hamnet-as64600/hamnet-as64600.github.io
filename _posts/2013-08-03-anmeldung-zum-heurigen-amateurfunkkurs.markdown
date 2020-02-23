@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-08-03 17:44:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/anmeldung-zum-heurigen-amateurfunkkurs/
 slug: anmeldung-zum-heurigen-amateurfunkkurs
 title: Anmeldung zum heurigen Amateurfunkkurs

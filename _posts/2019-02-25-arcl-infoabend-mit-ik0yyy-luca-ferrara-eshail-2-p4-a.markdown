@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-02-25 20:45:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/arcl-infoabend-mit-ik0yyy-luca-ferrara-eshail-2-p4-a/
 slug: arcl-infoabend-mit-ik0yyy-luca-ferrara-eshail-2-p4-a
 title: ARCL Infoabend mit IK0YYY Luca Ferrara Es’hail-2 (P4-A)

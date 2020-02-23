@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-12-19 07:59:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/herzlich-willkommen-ir3uhf-relais-rittnerhorn/
 slug: herzlich-willkommen-ir3uhf-relais-rittnerhorn
 title: Herzlich Willkommen IR3UHF Relais Rittnerhorn

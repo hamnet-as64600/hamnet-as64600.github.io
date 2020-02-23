@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-04-20 17:54:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-einleitung-fuer-beginner/
 slug: d-star-einleitung-fuer-beginner
 title: D-Star Einleitung für Beginner

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2012-08-18 16:42:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/mini-link-sudtirol-ab-heute-wieder-aktiv/
 slug: mini-link-sudtirol-ab-heute-wieder-aktiv
 title: Mini-Link Südtirol ab heute wieder aktiv!

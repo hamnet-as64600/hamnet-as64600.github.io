@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-01-14 08:40:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/besucht-die-fundgrube-des-drc/
 slug: besucht-die-fundgrube-des-drc
 title: Besucht die Fundgrube des DRC!

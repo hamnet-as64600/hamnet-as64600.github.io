@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2012-07-17 13:23:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/blitzeinschlag-zerstort-hamnet-und-cisarnet-auf-marmolada/
 slug: blitzeinschlag-zerstort-hamnet-und-cisarnet-auf-marmolada
 title: Blitzeinschlag zerstört Hamnet und Cisarnet auf Marmolada.

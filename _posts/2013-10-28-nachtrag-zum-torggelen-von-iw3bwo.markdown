@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-28 17:43:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-torggelen-von-iw3bwo/
 slug: nachtrag-zum-torggelen-von-iw3bwo
 title: Nachtrag zum Törggelen von IW3BWO

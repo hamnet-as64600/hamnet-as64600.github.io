@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2011-08-23 21:20:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-nazionale-cisar-auf-der-plose-aktiviert/
 slug: link-nazionale-cisar-auf-der-plose-aktiviert
 title: Link Nazionale Cisar auf dem Rittnerhorn aktiviert

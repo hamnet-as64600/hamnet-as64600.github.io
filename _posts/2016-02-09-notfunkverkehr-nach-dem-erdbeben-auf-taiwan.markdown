@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-09 11:10:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunkverkehr-nach-dem-erdbeben-auf-taiwan/
 slug: notfunkverkehr-nach-dem-erdbeben-auf-taiwan
 title: Notfunkverkehr nach dem Erdbeben auf Taiwan

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-09 11:59:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-ueber-echolink-im-clublokal/
 slug: vortrag-ueber-echolink-im-clublokal
 title: Vortrag über Echolink im Clublokal

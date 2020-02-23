@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-14 08:56:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3usm-simon-aus-meran/
 slug: neues-mitglied-im-drc-in3usm-simon-aus-meran
 title: 'Neues Mitglied im DRC: IN3USM Simon aus Meran'

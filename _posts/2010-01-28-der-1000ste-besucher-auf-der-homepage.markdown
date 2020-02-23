@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-01-28 17:08:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-1000ste-besucher-auf-der-homepage/
 slug: der-1000ste-besucher-auf-der-homepage
 title: Der 1000ste Besucher auf der Homepage!

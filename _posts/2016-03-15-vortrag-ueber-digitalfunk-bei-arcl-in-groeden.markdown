@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-15 06:56:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-ueber-digitalfunk-bei-arcl-in-groeden/
 slug: vortrag-ueber-digitalfunk-bei-arcl-in-groeden
 title: Vortrag über Digitalfunk bei ARCL in Gröden

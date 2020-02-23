@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-08-25 05:09:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurzwellen-sdr-mit-offentlichen-zugriff-im-probebetrieb/
 slug: kurzwellen-sdr-mit-offentlichen-zugriff-im-probebetrieb
 title: Kurzwellen-SDR mit öffentlichen Zugriff im Probebetrieb

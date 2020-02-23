@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-11 07:15:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/information-ueber-notfunk-winlink-2000-rms-express-usw/
 slug: information-ueber-notfunk-winlink-2000-rms-express-usw
 title: Information über Notfunk, Winlink 2000, RMS Express, usw.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-08-03 09:18:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/in3ebz-im-radio-telegraphy-extremely-high-speed-club/
 slug: in3ebz-im-radio-telegraphy-extremely-high-speed-club
 title: IN3EBZ im "Radio Telegraphy Extremely High Speed Club"

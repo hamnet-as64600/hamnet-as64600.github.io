@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-07-13 06:27:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dl1zg-gerhard/
 slug: neues-mitglied-im-drc-dl1zg-gerhard
 title: 'Neues Mitglied im DRC: DL1ZG Gerhard'

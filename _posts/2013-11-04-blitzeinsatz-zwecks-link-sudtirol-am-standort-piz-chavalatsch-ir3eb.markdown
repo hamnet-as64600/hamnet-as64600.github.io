@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-04 13:10:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/blitzeinsatz-zwecks-link-sudtirol-am-standort-piz-chavalatsch-ir3eb/
 slug: blitzeinsatz-zwecks-link-sudtirol-am-standort-piz-chavalatsch-ir3eb
 title: Blitzeinsatz zwecks Link Südtirol am Standort Piz Chavalatsch IR3EB

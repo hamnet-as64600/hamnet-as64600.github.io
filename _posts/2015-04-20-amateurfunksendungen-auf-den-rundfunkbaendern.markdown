@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-20 13:01:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunksendungen-auf-den-rundfunkbaendern/
 slug: amateurfunksendungen-auf-den-rundfunkbaendern
 title: Amateurfunksendungen auf den Rundfunkbändern

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-04 13:57:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/seceda-hamnet-wieder-online/
 slug: seceda-hamnet-wieder-online
 title: 'Seceda: HamNet wieder online'

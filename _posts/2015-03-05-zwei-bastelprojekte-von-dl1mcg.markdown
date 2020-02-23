@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-05 15:44:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/zwei-bastelprojekte-von-dl1mcg/
 slug: zwei-bastelprojekte-von-dl1mcg
 title: Zwei Bastelprojekte von DL1MCG

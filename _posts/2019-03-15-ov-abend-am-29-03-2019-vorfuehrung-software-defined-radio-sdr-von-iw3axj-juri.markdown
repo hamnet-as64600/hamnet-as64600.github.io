@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-03-15 19:45:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/ov-abend-am-29-03-2019-vorfuehrung-software-defined-radio-sdr-von-iw3axj-juri/
 slug: ov-abend-am-29-03-2019-vorfuehrung-software-defined-radio-sdr-von-iw3axj-juri
 title: 'OV-Abend am 29.03.2019: Vorführung Software Defined Radio (SDR) von IW3AXJ

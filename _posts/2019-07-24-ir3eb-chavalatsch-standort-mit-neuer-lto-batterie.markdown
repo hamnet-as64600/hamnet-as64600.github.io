@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-07-24 08:12:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3eb-chavalatsch-standort-mit-neuer-lto-batterie/
 slug: ir3eb-chavalatsch-standort-mit-neuer-lto-batterie
 title: IR3EB Chavalatsch - Standort mit neuer LTO Batterie

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-06-10 19:29:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitfahrmoglichkeit-nach-friedrichshafen/
 slug: mitfahrmoglichkeit-nach-friedrichshafen
 title: Mitfahrmöglichkeit nach Friedrichshafen

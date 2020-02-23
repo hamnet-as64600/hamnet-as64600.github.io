@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-12-13 16:22:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/start-des-satelliten-d-star-one-gescheitert/
 slug: start-des-satelliten-d-star-one-gescheitert
 title: Start des Satelliten "D-Star one" gescheitert.

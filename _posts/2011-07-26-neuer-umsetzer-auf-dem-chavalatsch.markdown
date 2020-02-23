@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-26 14:07:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-umsetzer-auf-dem-chavalatsch/
 slug: neuer-umsetzer-auf-dem-chavalatsch
 title: Neuer Umsetzer auf dem Chavalatsch

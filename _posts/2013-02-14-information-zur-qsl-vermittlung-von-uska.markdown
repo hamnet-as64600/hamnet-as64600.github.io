@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-14 13:22:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/information-zur-qsl-vermittlung-von-uska/
 slug: information-zur-qsl-vermittlung-von-uska
 title: Information zur QSL Vermittlung von USKA

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-06 18:36:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/eine-unglaubliche-geschichte-aus-der-schweiz/
 slug: eine-unglaubliche-geschichte-aus-der-schweiz
 title: Eine unglaubliche Geschichte aus der Schweiz.

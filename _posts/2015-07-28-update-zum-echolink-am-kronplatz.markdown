@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-28 09:46:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/update-zum-echolink-am-kronplatz/
 slug: update-zum-echolink-am-kronplatz
 title: Update zum Echolink am Kronplatz.

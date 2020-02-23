@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-08-04 12:39:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/poster-in-schaufenster/
 slug: poster-in-schaufenster
 title: Poster in Schaufenster

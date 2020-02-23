@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-04-08 08:52:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3eye-didi/
 slug: neues-mitglied-im-drc-in3eye-didi
 title: 'Neues Mitglied im DRC: IN3EYE Didi'

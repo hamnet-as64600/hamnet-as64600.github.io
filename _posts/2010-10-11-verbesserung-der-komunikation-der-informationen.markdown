@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-10-11 13:20:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/verbesserung-der-komunikation-der-informationen/
 slug: verbesserung-der-komunikation-der-informationen
 title: Verbesserung in der Kommunikation der Informationen

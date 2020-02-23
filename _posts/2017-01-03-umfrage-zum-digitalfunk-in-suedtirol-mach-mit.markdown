@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-01-03 15:00:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/umfrage-zum-digitalfunk-in-suedtirol-mach-mit/
 slug: umfrage-zum-digitalfunk-in-suedtirol-mach-mit
 title: Umfrage zum Digitalfunk in Südtirol - Mach mit!

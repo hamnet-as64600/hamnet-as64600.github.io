@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-28 16:28:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/beirate-und-rechnungsprufer-ernannt/
 slug: beirate-und-rechnungsprufer-ernannt
 title: Beiräte und Rechnungsprüfer ernannt.

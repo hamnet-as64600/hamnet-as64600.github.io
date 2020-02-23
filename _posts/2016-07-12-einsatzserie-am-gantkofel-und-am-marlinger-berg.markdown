@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-07-12 06:50:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzserie-am-gantkofel-und-am-marlinger-berg/
 slug: einsatzserie-am-gantkofel-und-am-marlinger-berg
 title: Einsatzserie am Gantkofel und am Marlinger Berg

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-25 15:28:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dl1mcg/
 slug: neues-mitglied-im-drc-dl1mcg
 title: 'Neues Mitglied im DRC: DL1MCG Christian'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-24 12:04:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/einfuerung-zur-benutzung-der-ferngesteuerten-funkstation-icom-ic-7100-im-clublokal-bruneck/
 slug: einfuerung-zur-benutzung-der-ferngesteuerten-funkstation-icom-ic-7100-im-clublokal-bruneck
 title: Einführung zur Benutzung der ferngesteuerten Funkstation (ICOM IC 7100) im

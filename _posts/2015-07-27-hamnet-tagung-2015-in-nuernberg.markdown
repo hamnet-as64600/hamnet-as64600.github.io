@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-27 09:03:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-tagung-2015-in-nuernberg/
 slug: hamnet-tagung-2015-in-nuernberg
 title: HAMNET Tagung 2015 in Nürnberg

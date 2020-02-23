@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2011-08-26 17:56:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3ugm-erster-pr-digi-im-hamnet/
 slug: ir3ugm-erster-pr-digi-im-hamnet
 title: 'IR3UGM: Erster PR-Digi im HAMNET !'

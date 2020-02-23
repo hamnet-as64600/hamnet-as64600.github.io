@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-03-25 07:36:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-antenne-auf-dem-dach-des-clublokals/
 slug: neue-antenne-auf-dem-dach-des-clublokals
 title: Neue Antenne auf dem Dach des Clublokals

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-04 07:22:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/jahreshauptversammlung-2013-des-dolomites-radio-club/
 slug: jahreshauptversammlung-2013-des-dolomites-radio-club
 title: Jahreshauptversammlung 2013 des DOLOMITES RADIO CLUB

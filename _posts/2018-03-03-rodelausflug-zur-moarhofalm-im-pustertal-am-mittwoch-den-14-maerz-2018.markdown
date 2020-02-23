@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2018-03-03 18:02:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/rodelausflug-zur-moarhofalm-im-pustertal-am-mittwoch-den-14-maerz-2018/
 slug: rodelausflug-zur-moarhofalm-im-pustertal-am-mittwoch-den-14-maerz-2018
 title: Rodelausflug zur Moarhofalm im Pustertal am Mittwoch, den 14. März 2018

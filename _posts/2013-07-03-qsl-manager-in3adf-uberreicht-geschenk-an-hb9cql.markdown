@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-03 08:14:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-manager-in3adf-uberreicht-geschenk-an-hb9cql/
 slug: qsl-manager-in3adf-uberreicht-geschenk-an-hb9cql
 title: QSL Manager IN3ADF überreicht Geschenk an HB9CQL

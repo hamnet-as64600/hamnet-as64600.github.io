@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-01 10:44:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/umfrage-zur-monatlichen-funkuebung-mit-in3erw/
 slug: umfrage-zur-monatlichen-funkuebung-mit-in3erw
 title: Umfrage zur monatlichen Funkübung mit IN3ERW

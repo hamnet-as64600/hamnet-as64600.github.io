@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-25 07:55:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-war-das-50-jahre-jubilaeum-des-drc-am-tschaufen/
 slug: so-war-das-50-jahre-jubilaeum-des-drc-am-tschaufen
 title: So war das 50 Jahre Jubiläum des DRC am Tschaufen.

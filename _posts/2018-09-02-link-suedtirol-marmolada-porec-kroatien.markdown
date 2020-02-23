@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-09-02 21:34:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-marmolada-porec-kroatien/
 slug: link-suedtirol-marmolada-porec-kroatien
 title: Link Südtirol - Marmolada IR3AO - Porec (Kroatien)

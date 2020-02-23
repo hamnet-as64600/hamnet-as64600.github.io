@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-30 09:01:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/deutschlands-hochstes-d-star-relais-ist-qrv/
 slug: deutschlands-hochstes-d-star-relais-ist-qrv
 title: Deutschlands höchstes D-Star Relais ist QRV

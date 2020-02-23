@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-09-05 18:50:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/r2-kronplatz-verlinkt-mit-uhf-umsetzer-zugspitze/
 slug: r2-kronplatz-verlinkt-mit-uhf-umsetzer-zugspitze
 title: R2 Kronplatz verlinkt mit UHF Umsetzer Zugspitze

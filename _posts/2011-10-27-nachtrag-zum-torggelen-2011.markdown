@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-27 06:49:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-torggelen-2011/
 slug: nachtrag-zum-torggelen-2011
 title: Nachtrag zum Törggelen 2011

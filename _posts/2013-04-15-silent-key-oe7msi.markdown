@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-15 12:08:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-oe7msi/
 slug: silent-key-oe7msi
 title: Silent key OE7MSI

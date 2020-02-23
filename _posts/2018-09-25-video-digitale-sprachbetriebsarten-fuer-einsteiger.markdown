@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-09-25 09:38:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/video-digitale-sprachbetriebsarten-fuer-einsteiger/
 slug: video-digitale-sprachbetriebsarten-fuer-einsteiger
 title: 'Video: Digitale Sprachbetriebsarten für Einsteiger'

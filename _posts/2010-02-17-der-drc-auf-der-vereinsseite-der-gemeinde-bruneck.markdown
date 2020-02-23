@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-17 19:25:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-auf-der-vereinsseite-der-gemeinde-bruneck/
 slug: der-drc-auf-der-vereinsseite-der-gemeinde-bruneck
 title: Der DRC auf der Vereinsseite der Gemeinde Bruneck

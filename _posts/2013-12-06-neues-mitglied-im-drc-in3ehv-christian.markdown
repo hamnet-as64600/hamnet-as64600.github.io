@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-06 14:20:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3ehv-christian/
 slug: neues-mitglied-im-drc-in3ehv-christian
 title: 'Neues Mitglied im DRC: IN3EHV Christian'

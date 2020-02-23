@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-18 13:55:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsaetze-standorte-des-drc/
 slug: einsaetze-standorte-des-drc
 title: Einsätze Standorte des DRC - Wer kommt mit?

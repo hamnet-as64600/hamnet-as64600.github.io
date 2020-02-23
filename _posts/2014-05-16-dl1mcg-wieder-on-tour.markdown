@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-16 07:55:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/dl1mcg-wieder-on-tour/
 slug: dl1mcg-wieder-on-tour
 title: DL1MCG wieder on tour

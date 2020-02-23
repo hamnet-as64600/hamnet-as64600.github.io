@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-05-16 23:09:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-d-star-ir3ugm-online/
 slug: gantkofel-d-star-ir3ugm-online
 title: Gantkofel - D-Star IR3UGM online!

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-09-12 09:38:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-handfunkgeraet-von-kenwood-kommt-auf-den-markt/
 slug: neues-handfunkgeraet-von-kenwood-kommt-auf-den-markt
 title: Neues Handfunkgerät von Kenwood kommt auf den Markt

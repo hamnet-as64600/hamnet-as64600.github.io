@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-17 12:52:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-brigitte-iw3bam-aus-issing/
 slug: neues-mitglied-im-drc-brigitte-iw3bam-aus-issing
 title: 'Neues Mitglied im DRC: Brigitte IW3BAM aus Issing'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-03-07 12:59:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/zdf-strahlt-krimi-der-alte-mit-amateurfunkbezug-aus/
 slug: zdf-strahlt-krimi-der-alte-mit-amateurfunkbezug-aus
 title: ZDF strahlt Krimi "Der Alte" mit Amateurfunkbezug aus

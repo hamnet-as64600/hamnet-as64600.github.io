@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-05-27 16:32:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/wahnsinn-remotestation-am-gitschberg/
 slug: wahnsinn-remotestation-am-gitschberg
 title: 'Wahnsinn: Remotestation am Gitschberg!!!'

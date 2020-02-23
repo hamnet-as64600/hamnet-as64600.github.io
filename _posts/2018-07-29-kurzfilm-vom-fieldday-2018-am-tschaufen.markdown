@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2018-07-29 13:41:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurzfilm-vom-fieldday-2018-am-tschaufen/
 slug: kurzfilm-vom-fieldday-2018-am-tschaufen
 title: Kurzfilm vom Fieldday 2018 am Tschaufen.

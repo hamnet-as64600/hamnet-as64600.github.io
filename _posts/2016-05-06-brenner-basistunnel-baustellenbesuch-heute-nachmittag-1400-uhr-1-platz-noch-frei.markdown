@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-05-06 07:38:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/brenner-basistunnel-baustellenbesuch-heute-nachmittag-1400-uhr-1-platz-noch-frei/
 slug: brenner-basistunnel-baustellenbesuch-heute-nachmittag-1400-uhr-1-platz-noch-frei
 title: Brenner Basistunnel – Baustellenbesuch heute nachmittag 14:00 Uhr – 1 Platz

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-24 09:38:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-meinhard-aus-innichen/
 slug: neues-mitglied-im-drc-meinhard-aus-innichen
 title: 'Neues Mitglied im DRC: Meinhard aus Innichen'

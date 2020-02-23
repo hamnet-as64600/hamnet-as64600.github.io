@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-05-12 18:26:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zur-besichtigung-des-e-werkes-am-kniepass/
 slug: nachtrag-zur-besichtigung-des-e-werkes-am-kniepass
 title: Nachtrag zur Besichtigung des E-Werkes am Kniepass

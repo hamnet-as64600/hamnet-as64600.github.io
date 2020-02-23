@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-09-18 05:51:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/iw3btw-georg-wird-aus-namibia-qrv-sein/
 slug: iw3btw-georg-wird-aus-namibia-qrv-sein
 title: IW3BTW Georg wird aus Namibia QRV sein

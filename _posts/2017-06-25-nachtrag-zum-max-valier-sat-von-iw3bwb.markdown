@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2017-06-25 18:22:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-max-valier-sat-von-iw3bwb/
 slug: nachtrag-zum-max-valier-sat-von-iw3bwb
 title: Nachtrag zum "Max Valier Sat" von IW3BWB.

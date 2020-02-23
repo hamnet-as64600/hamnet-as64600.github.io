@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-07-17 07:10:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-umzug-funkamateuranlagen-auf-neuen-zivilschutzmasten-wer-moechte-helfen/
 slug: rittnerhorn-umzug-funkamateuranlagen-auf-neuen-zivilschutzmasten-wer-moechte-helfen
 title: Rittnerhorn - Umzug Funkamateuranlagen auf neuen Zivilschutzmasten - Wer möchte

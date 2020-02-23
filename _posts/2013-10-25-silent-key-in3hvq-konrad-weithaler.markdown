@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-25 10:29:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3hvq-konrad-weithaler/
 slug: silent-key-in3hvq-konrad-weithaler
 title: 'Silent key: IN3HVQ Konrad Weithaler'

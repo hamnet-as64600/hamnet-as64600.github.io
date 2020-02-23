@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-12-03 13:18:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3ugm-gantkofel-hat-neuen-mmdvm/
 slug: ir3ugm-gantkofel-hat-neuen-mmdvm
 title: IR3UGM Gantkofel hat neuen MMDVM

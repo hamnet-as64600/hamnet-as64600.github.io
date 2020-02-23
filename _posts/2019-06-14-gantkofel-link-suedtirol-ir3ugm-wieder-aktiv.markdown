@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-06-14 10:19:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-link-suedtirol-ir3ugm-wieder-aktiv/
 slug: gantkofel-link-suedtirol-ir3ugm-wieder-aktiv
 title: Gantkofel Link Südtirol - IR3UGM wieder aktiv

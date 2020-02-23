@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-09-20 18:19:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/formveraendernde-antennen-aus-fluessigem-metall/
 slug: formveraendernde-antennen-aus-fluessigem-metall
 title: Formverändernde Antennen aus flüssigem Metall *

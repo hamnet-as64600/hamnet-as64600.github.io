@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-04-20 07:48:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/es-beamt-nun-im-clublokal/
 slug: es-beamt-nun-im-clublokal
 title: Es "beamt" nun im Clublokal

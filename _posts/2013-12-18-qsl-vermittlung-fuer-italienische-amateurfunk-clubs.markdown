@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-18 09:26:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-vermittlung-fuer-italienische-amateurfunk-clubs/
 slug: qsl-vermittlung-fuer-italienische-amateurfunk-clubs
 title: QSL-Vermittlung für italienische Amateurfunk-Clubs

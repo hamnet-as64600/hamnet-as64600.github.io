@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-08-01 09:07:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/funken-im-urlaub/
 slug: funken-im-urlaub
 title: Funken im Urlaub!

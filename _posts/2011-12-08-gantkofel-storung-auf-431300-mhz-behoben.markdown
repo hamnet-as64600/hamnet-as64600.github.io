@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2011-12-08 15:11:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-storung-auf-431300-mhz-behoben/
 slug: gantkofel-storung-auf-431300-mhz-behoben
 title: Gantkofel - Störung auf 431,300 MHz behoben!

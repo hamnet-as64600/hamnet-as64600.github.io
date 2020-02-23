@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-01-05 19:18:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/jahreshauptversammlung-2011/
 slug: jahreshauptversammlung-2011
 title: Jahreshauptversammlung 2011 des DRC

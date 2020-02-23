@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-07-10 06:23:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/radio-darc-mit-300kw-von-wittenberg-ueber-wien-nach-europa-und-nordamerika/
 slug: radio-darc-mit-300kw-von-wittenberg-ueber-wien-nach-europa-und-nordamerika
 title: Radio DARC - Mit 300kW von Wittenberg über Wien nach Europa und Nordamerika

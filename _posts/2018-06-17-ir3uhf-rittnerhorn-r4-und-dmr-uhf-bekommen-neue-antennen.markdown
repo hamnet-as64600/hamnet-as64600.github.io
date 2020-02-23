@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-06-17 18:31:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhf-rittnerhorn-r4-und-dmr-uhf-bekommen-neue-antennen/
 slug: ir3uhf-rittnerhorn-r4-und-dmr-uhf-bekommen-neue-antennen
 title: IR3UHF - Rittnerhorn, R4  und DMR Uhf bekommen neue Antennen

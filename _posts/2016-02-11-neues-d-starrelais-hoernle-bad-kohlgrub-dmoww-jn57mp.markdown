@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-11 19:15:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-d-starrelais-hoernle-bad-kohlgrub-dmoww-jn57mp/
 slug: neues-d-starrelais-hoernle-bad-kohlgrub-dmoww-jn57mp
 title: Neues D-Star Relais Hörnle / Bad Kohlgrub DMØWW (JN57MP)

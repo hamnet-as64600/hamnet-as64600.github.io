@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-27 15:02:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-clublokalwart-gesucht/
 slug: neuer-clublokalwart-gesucht
 title: Neuer Wart fürs Clublokal gesucht!!

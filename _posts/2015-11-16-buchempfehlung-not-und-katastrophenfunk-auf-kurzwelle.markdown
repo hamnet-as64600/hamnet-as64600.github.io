@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-11-16 09:31:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/buchempfehlung-not-und-katastrophenfunk-auf-kurzwelle/
 slug: buchempfehlung-not-und-katastrophenfunk-auf-kurzwelle
 title: 'Buchempfehlung: Not- und Katastrophenfunk auf Kurzwelle'

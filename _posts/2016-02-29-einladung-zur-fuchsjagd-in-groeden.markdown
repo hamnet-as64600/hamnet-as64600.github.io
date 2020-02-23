@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2016-02-29 17:01:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-fuchsjagd-in-groeden/
 slug: einladung-zur-fuchsjagd-in-groeden
 title: Einladung zur Fuchsjagd in Gröden.

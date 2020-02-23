@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-30 08:49:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/marlinger-berg-ir3uhe-einsatz-hamnet/
 slug: marlinger-berg-ir3uhe-einsatz-hamnet
 title: Marlinger Berg IR3UHE - Einsatz Hamnet

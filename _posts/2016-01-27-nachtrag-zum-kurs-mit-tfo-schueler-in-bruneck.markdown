@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-01-27 11:22:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-kurs-mit-tfo-schueler-in-bruneck/
 slug: nachtrag-zum-kurs-mit-tfo-schueler-in-bruneck
 title: Nachtrag zum Kurs mit TFO Schüler in Bruneck.

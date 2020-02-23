@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-08-28 10:28:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3eb-chavalatsch-mmdvm-d-star-dmr-c4fm-installiert/
 slug: ir3eb-chavalatsch-mmdvm-d-star-dmr-c4fm-installiert
 title: IR3EB Chavalatsch - MMDVM (D-Star, DMR, C4FM) installiert

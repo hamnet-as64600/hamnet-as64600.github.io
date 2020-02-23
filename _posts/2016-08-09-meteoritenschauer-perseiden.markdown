@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-09 09:03:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/meteoritenschauer-perseiden/
 slug: meteoritenschauer-perseiden
 title: Meteoritenschauer Perseiden

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-11-20 07:40:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/achtung-die-suedtiroler-runde-auf-80m-auf-neuer-frequenz/
 slug: achtung-die-suedtiroler-runde-auf-80m-auf-neuer-frequenz
 title: 'Achtung: Die "Südtiroler Runde" auf 80m auf neuer Frequenz!'

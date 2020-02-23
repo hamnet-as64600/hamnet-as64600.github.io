@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-08 10:07:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3ray-michael/
 slug: neues-mitglied-im-drc-in3ray-michael
 title: 'Neues Mitglied im DRC: IN3RAY Michael'

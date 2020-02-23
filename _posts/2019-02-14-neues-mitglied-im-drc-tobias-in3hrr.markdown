@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-02-14 08:02:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-tobias-in3hrr/
 slug: neues-mitglied-im-drc-tobias-in3hrr
 title: 'Neues Mitglied im DRC: Tobias, IN3HRR'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-09-11 16:00:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3eco-roland/
 slug: neues-mitglied-im-drc-in3eco-roland
 title: 'Neues Mitglied im DRC: IN3ECU Roland'

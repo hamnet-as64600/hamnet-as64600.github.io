@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-01 13:33:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dl1pn-peter/
 slug: neues-mitglied-im-drc-dl1pn-peter
 title: 'Neues Mitglied im DRC: DL1PN Peter'

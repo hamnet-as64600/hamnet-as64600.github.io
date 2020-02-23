@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-05-19 21:45:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/ausfall-hamnet-gantkofel/
 slug: ausfall-hamnet-gantkofel
 title: Aufrüstung Hamnet und D-STAR am Gantkofel

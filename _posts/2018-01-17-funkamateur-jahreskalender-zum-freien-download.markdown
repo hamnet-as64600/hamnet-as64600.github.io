@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-17 16:12:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkamateur-jahreskalender-zum-freien-download/
 slug: funkamateur-jahreskalender-zum-freien-download
 title: '"Funkamateur"-Jahreskalender zum freien Download'

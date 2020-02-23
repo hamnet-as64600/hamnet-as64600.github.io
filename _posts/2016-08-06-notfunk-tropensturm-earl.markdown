@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-06 12:46:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunk-tropensturm-earl/
 slug: notfunk-tropensturm-earl
 title: 'Notfunk: Tropensturm "Earl"'

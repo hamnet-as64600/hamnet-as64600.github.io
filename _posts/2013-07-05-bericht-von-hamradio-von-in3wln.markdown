@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-05 08:07:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-von-hamradio-von-in3wln/
 slug: bericht-von-hamradio-von-in3wln
 title: Bericht von HAMRADIO von IN3WLN

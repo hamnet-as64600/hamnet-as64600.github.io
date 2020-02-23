@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-10-11 15:33:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/xix-convention-digital-radio-communications-kastelfeder-auer/
 slug: xix-convention-digital-radio-communications-kastelfeder-auer
 title: XIX Convention digital & radio communications - Kastelfeder, Auer

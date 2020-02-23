@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-01-23 08:05:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/huhnerspiel-wieder-aktiv/
 slug: huhnerspiel-wieder-aktiv
 title: Hühnerspiel wieder aktiv

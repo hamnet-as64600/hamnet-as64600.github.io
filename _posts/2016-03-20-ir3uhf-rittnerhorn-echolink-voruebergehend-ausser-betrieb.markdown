@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-20 17:51:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhf-rittnerhorn-echolink-voruebergehend-ausser-betrieb/
 slug: ir3uhf-rittnerhorn-echolink-voruebergehend-ausser-betrieb
 title: 'IR3UHF Rittnerhorn: Echolink vorübergehend außer Betrieb'

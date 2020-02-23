@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-12 07:34:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/suchen-funkamateur-fuer-vorfuehrung-von-funkverbindungen-ueber-satelliten/
 slug: suchen-funkamateur-fuer-vorfuehrung-von-funkverbindungen-ueber-satelliten
 title: Suchen Funkamateur für Vorführung von Funkverbindungen über Satelliten.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-02 16:25:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3hbf-oskar-aus-meran/
 slug: neues-mitglied-im-drc-in3hbf-oskar-aus-meran
 title: 'Neues Mitglied im DRC: IN3HBF Oskar aus Meran'

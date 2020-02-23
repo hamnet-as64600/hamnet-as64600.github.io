@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2018-07-30 08:34:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-standort-marmolada-ir3ao-aktiv/
 slug: link-suedtirol-standort-marmolada-ir3ao-aktiv
 title: Link Südtirol - Standort Marmolada IR3AO aktiv!

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-02-26 07:42:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/einen-oldtimer-wiederbelebt-von-christian-dl1mcg/
 slug: einen-oldtimer-wiederbelebt-von-christian-dl1mcg
 title: Einen Oldtimer wiederbelebt (von Christian, DL1MCG)

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2020-01-07 09:41:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhf-rittnerhorn-neuer-server/
 slug: ir3uhf-rittnerhorn-neuer-server
 title: IR3UHF - Rittnerhorn, neuer Server

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-15 10:00:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtsessen/
 slug: weihnachtsessen
 title: Weihnachtsfeier 2012

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-01-29 08:59:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/jahreshauptversammlung-und-vorstandswahlen-2019/
 slug: jahreshauptversammlung-und-vorstandswahlen-2019
 title: Jahreshauptversammlung und Vorstandswahlen 2019

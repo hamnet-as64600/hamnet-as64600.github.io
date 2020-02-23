@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-29 15:55:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/beitrag-ueber-amateurfunk-im-suedtiroler-onlinemagazin-barfuss/
 slug: beitrag-ueber-amateurfunk-im-suedtiroler-onlinemagazin-barfuss
 title: Beitrag über Amateurfunk im Südtiroler Onlinemagazin BARFUSS

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2020-02-01 19:36:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurzwellenantennen-am-gitschberg-sind-repariert/
 slug: kurzwellenantennen-am-gitschberg-sind-repariert
 title: Kurzwellenantennen am Gitschberg sind repariert.

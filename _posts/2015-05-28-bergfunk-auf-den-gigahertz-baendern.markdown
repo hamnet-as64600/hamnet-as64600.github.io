@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-05-28 13:48:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/bergfunk-auf-den-gigahertz-baendern/
 slug: bergfunk-auf-den-gigahertz-baendern
 title: Bergfunk auf den Gigahertz-Bändern

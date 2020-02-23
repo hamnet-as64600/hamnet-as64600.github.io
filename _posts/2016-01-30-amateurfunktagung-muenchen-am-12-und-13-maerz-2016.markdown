@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-01-30 19:20:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunktagung-muenchen-am-12-und-13-maerz-2016/
 slug: amateurfunktagung-muenchen-am-12-und-13-maerz-2016
 title: Amateurfunktagung München am 12. und 13. März 2016

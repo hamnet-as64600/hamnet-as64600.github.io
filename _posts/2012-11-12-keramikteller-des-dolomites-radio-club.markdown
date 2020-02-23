@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-12 09:23:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/keramikteller-des-dolomites-radio-club/
 slug: keramikteller-des-dolomites-radio-club
 title: Keramikteller des DOLOMITES RADIO CLUB

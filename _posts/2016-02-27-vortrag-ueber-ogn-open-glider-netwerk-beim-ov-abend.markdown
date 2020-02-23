@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-27 18:55:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-ueber-ogn-open-glider-netwerk-beim-ov-abend/
 slug: vortrag-ueber-ogn-open-glider-netwerk-beim-ov-abend
 title: Vortrag über OGN (Open Glider Netwerk) beim OV Abend.

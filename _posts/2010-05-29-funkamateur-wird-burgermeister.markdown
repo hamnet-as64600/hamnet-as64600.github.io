@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-05-29 18:10:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkamateur-wird-burgermeister/
 slug: funkamateur-wird-burgermeister
 title: Funkamateur wird Bürgermeister

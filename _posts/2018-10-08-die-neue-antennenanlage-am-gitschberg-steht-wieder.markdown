@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-10-08 06:56:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-neue-antennenanlage-am-gitschberg-steht-wieder/
 slug: die-neue-antennenanlage-am-gitschberg-steht-wieder
 title: Die neue Antennenanlage am Gitschberg steht wieder.

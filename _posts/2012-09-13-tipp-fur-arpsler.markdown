@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-09-13 11:48:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/tipp-fur-arpsler/
 slug: tipp-fur-arpsler
 title: Tipp für ARPS'ler.

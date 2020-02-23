@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-27 09:15:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-workshop-am-hohenpeissenberg-am-26-april-2015/
 slug: d-star-workshop-am-hohenpeissenberg-am-26-april-2015
 title: D-STAR Workshop am Hohenpeissenberg am 26. April 2015

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-08-07 22:31:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/standort-chavalatsch-ir3eb-sommereinsatz/
 slug: standort-chavalatsch-ir3eb-sommereinsatz
 title: Standort Chavalatsch - IR3EB, Sommereinsatz

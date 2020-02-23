@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-01 10:26:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunkkurs-findet-statt/
 slug: amateurfunkkurs-findet-statt
 title: Amateurfunkkurs hat begonnen.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-30 08:29:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-ir3ugm-einsatz-hamnet/
 slug: gantkofel-ir3ugm-einsatz-hamnet
 title: Gantkofel IR3UGM - Einsatz Hamnet

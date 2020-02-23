@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-26 15:26:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzbericht-kronplatz/
 slug: einsatzbericht-kronplatz
 title: Einsatzbericht Umsetzer Kronplatz

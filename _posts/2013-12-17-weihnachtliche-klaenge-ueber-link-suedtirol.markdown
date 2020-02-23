@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-17 15:03:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtliche-klaenge-ueber-link-suedtirol/
 slug: weihnachtliche-klaenge-ueber-link-suedtirol
 title: Weihnachtliche Klänge über "Link Südtirol"

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-27 19:49:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/staatliche-amateurfunkgebuehr-fuer-2015/
 slug: staatliche-amateurfunkgebuehr-fuer-2015
 title: Staatliche Amateurfunkgebühr für 2015.

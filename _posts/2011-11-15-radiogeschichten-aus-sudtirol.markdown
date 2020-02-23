@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-11-15 06:28:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/radiogeschichten-aus-sudtirol/
 slug: radiogeschichten-aus-sudtirol
 title: Radiogeschichten aus Südtirol

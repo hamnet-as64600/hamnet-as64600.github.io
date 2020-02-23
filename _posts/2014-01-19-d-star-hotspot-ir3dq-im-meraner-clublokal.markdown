@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-01-19 17:10:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-hotspot-ir3dq-im-meraner-clublokal/
 slug: d-star-hotspot-ir3dq-im-meraner-clublokal
 title: D-Star Hotspot IR3DQ im Meraner Clublokal

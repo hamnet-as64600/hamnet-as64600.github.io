@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-01-09 11:11:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-i-gate-ir3dv-10-wieder-aktiv/
 slug: aprs-i-gate-ir3dv-10-wieder-aktiv
 title: APRS I-Gate IR3DV-10 wieder aktiv

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-07-23 17:20:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/max-valier-sat-ii3mv/
 slug: max-valier-sat-ii3mv
 title: Max Valier Sat II3MV

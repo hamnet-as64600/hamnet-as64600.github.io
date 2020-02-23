@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-30 11:57:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/meraner-stadtanzeiger-funkamateure-im-aufwind/
 slug: meraner-stadtanzeiger-funkamateure-im-aufwind
 title: 'Meraner Stadtanzeiger: Funkamateure im Aufwind'

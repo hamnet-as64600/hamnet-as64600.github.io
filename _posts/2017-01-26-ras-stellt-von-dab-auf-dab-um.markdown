@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-26 16:16:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/ras-stellt-von-dab-auf-dab-um/
 slug: ras-stellt-von-dab-auf-dab-um
 title: RAS stellt von DAB auf DAB+ um.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-10-02 21:42:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-r6-chavalatsch-hat-nun-echolink/
 slug: neuer-r6-chavalatsch-hat-nun-echolink
 title: 'Neuer R6 Chavalatsch: Echolink aktiv!'

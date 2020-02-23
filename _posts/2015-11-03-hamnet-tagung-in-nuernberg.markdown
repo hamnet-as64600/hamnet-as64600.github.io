@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-11-03 20:55:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-tagung-in-nuernberg/
 slug: hamnet-tagung-in-nuernberg
 title: Hamnet Tagung in Nürnberg

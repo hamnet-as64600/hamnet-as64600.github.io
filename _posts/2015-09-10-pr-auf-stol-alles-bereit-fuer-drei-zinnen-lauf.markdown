@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-10 07:42:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/pr-auf-stol-alles-bereit-fuer-drei-zinnen-lauf/
 slug: pr-auf-stol-alles-bereit-fuer-drei-zinnen-lauf
 title: 'PR auf Stol: Alles bereit für Drei Zinnen Lauf'

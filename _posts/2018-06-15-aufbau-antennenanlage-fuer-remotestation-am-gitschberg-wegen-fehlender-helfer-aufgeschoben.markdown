@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-06-15 07:00:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/aufbau-antennenanlage-fuer-remotestation-am-gitschberg-wegen-fehlender-helfer-aufgeschoben/
 slug: aufbau-antennenanlage-fuer-remotestation-am-gitschberg-wegen-fehlender-helfer-aufgeschoben
 title: Aufbau Antennenanlage für Remotestation am Gitschberg wegen fehlender Helfer

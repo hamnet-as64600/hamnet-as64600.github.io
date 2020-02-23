@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-29 13:47:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/ergaenzung-zum-hochsteintreffen/
 slug: ergaenzung-zum-hochsteintreffen
 title: Ergänzung zum Hochsteintreffen

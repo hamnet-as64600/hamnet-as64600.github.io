@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-12-09 08:26:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtsfeier-2019-im-clublokal-in-bruneck/
 slug: weihnachtsfeier-2019-im-clublokal-in-bruneck
 title: Weihnachtsfeier 2019 im Clublokal in Bruneck

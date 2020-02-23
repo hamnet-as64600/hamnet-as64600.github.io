@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-21 12:45:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/sota-treffen-auf-der-hamradio-geplant/
 slug: sota-treffen-auf-der-hamradio-geplant
 title: SOTA Treffen auf der HAMRADIO geplant

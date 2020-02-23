@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-06 14:24:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/ausbau-hamnet-ins-pustertal/
 slug: ausbau-hamnet-ins-pustertal
 title: 'Es geht los: Hamnet ins Pustertal'

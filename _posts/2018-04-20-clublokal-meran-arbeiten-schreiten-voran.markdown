@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-20 07:03:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/clublokal-meran-arbeiten-schreiten-voran/
 slug: clublokal-meran-arbeiten-schreiten-voran
 title: Clublokal Meran - Arbeiten schreiten voran

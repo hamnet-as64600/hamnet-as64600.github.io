@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-28 08:04:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-lebt/
 slug: aprs-lebt
 title: APRS lebt...

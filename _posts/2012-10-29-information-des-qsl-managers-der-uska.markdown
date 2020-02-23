@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-29 13:00:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/information-des-qsl-managers-der-uska/
 slug: information-des-qsl-managers-der-uska
 title: Information des QSL-Managers der USKA

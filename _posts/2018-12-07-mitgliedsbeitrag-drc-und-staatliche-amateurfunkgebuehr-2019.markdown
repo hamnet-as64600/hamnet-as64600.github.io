@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-12-07 16:06:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-2019/
 slug: mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-2019
 title: Mitgliedsbeitrag DRC und staatliche Amateurfunkgebühr 2019.

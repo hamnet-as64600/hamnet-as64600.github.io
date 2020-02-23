@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-07-17 13:40:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/bergunfall-notruf-aus-den-dolomiten/
 slug: bergunfall-notruf-aus-den-dolomiten
 title: 'Bergunfall: Notruf aus den Dolomiten.'

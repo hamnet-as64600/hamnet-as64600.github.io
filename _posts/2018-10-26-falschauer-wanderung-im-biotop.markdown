@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-10-26 07:08:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/falschauer-wanderung-im-biotop/
 slug: falschauer-wanderung-im-biotop
 title: 'Falschauer: Wanderung im Biotop'

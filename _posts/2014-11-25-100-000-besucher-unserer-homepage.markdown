@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-25 16:03:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/100-000-besucher-unserer-homepage/
 slug: 100-000-besucher-unserer-homepage
 title: 100.000 Besucher unserer Homepage!

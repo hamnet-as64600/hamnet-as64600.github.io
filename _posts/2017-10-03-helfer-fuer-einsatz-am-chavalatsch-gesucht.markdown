@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2017-10-03 17:22:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/helfer-fuer-einsatz-am-chavalatsch-gesucht/
 slug: helfer-fuer-einsatz-am-chavalatsch-gesucht
 title: Helfer für Einsatz am Chavalatsch gesucht

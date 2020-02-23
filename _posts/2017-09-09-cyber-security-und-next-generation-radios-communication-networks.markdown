@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-09-09 18:34:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/cyber-security-und-next-generation-radios-communication-networks/
 slug: cyber-security-und-next-generation-radios-communication-networks
 title: Cyber Security und Next Generation Radios Communication Networks.

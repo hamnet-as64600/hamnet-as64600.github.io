@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-04 15:42:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/regelung-rufzeichenzusatz-in-italien/
 slug: regelung-rufzeichenzusatz-in-italien
 title: Regelung Rufzeichenzusatz in Italien

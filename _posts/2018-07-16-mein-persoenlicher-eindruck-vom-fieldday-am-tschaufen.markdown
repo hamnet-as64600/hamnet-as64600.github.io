@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-07-16 07:46:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/mein-persoenlicher-eindruck-vom-fieldday-am-tschaufen/
 slug: mein-persoenlicher-eindruck-vom-fieldday-am-tschaufen
 title: Mein "persönlicher Eindruck" vom Fieldday am Tschaufen.

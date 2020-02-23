@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2011-08-22 11:08:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-echolink-knoten-66750/
 slug: neuer-echolink-knoten-66750
 title: Neuer Echolink-Knoten 66750

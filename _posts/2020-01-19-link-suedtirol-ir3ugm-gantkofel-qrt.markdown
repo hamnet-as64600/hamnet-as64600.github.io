@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2020-01-19 10:12:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-ir3ugm-gantkofel-qrt/
 slug: link-suedtirol-ir3ugm-gantkofel-qrt
 title: Link Südtirol IR3UGM Gantkofel QRT

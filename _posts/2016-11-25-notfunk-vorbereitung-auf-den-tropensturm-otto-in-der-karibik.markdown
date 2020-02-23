@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-11-25 20:51:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunk-vorbereitung-auf-den-tropensturm-otto-in-der-karibik/
 slug: notfunk-vorbereitung-auf-den-tropensturm-otto-in-der-karibik
 title: 'Notfunk: Vorbereitung auf den Tropensturm "Otto" in der Karibik'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-02 15:59:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-ubersiedelt-in-einen-neuen-raum/
 slug: der-drc-ubersiedelt-in-einen-neuen-raum
 title: Der DRC übersiedelt in einen neuen Raum!!

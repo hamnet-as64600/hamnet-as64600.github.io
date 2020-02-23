@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-12 08:39:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/italian-navy-coastal-radio-stations-award-2013/
 slug: italian-navy-coastal-radio-stations-award-2013
 title: ITALIAN NAVY COASTAL RADIO STATIONS AWARD 2013

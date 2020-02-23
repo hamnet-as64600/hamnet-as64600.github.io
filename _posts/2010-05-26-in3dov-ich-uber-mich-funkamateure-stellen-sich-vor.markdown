@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-05-26 11:35:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/in3dov-ich-uber-mich-funkamateure-stellen-sich-vor/
 slug: in3dov-ich-uber-mich-funkamateure-stellen-sich-vor
 title: '"IN3DOV - Ich über mich -" - Funkamateure stellen sich vor'

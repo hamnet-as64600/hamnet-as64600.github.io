@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-09-11 15:19:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-suedtirol-qrg-karte-erstellt/
 slug: neue-suedtirol-qrg-karte-erstellt
 title: Neue Südtirol-QRG Karte erstellt

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-21 12:55:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zum-fieldday-von-c-03-ortsverband-garmisch-patenkirchen/
 slug: einladung-zum-fieldday-von-c-03-ortsverband-garmisch-patenkirchen
 title: Einladung zum Fieldday von C-03, Ortsverband Garmisch Patenkirchen

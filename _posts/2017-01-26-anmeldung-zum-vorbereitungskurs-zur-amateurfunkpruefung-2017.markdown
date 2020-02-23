@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-26 16:36:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/anmeldung-zum-vorbereitungskurs-zur-amateurfunkpruefung-2017/
 slug: anmeldung-zum-vorbereitungskurs-zur-amateurfunkpruefung-2017
 title: Anmeldung zum Vorbereitungskurs zur Funkamateurprüfung 2017

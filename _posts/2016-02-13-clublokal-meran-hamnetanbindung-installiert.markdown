@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-02-13 09:39:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/clublokal-meran-hamnetanbindung-installiert/
 slug: clublokal-meran-hamnetanbindung-installiert
 title: Clublokal Meran - Hamnetanbindung installiert

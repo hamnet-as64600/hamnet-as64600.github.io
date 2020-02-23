@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-02-07 10:59:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/treffen-auf-seceda-bezuglich-hamnet/
 slug: treffen-auf-seceda-bezuglich-hamnet
 title: Treffen auf SECEDA bezüglich HAMNET

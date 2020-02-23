@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-30 07:48:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzplan-brixen-dolomiten-marathon/
 slug: einsatzplan-brixen-dolomiten-marathon
 title: Einsatzplan "Brixen Dolomiten Marathon"

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-01-07 09:51:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3vst-vito-vetrano-aus-meran/
 slug: silent-key-in3vst-vito-vetrano-aus-meran
 title: 'Silent key: IN3VST - Vito Vetrano aus Meran'

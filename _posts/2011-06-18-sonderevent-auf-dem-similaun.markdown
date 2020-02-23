@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2011-06-18 14:54:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/sonderevent-auf-dem-similaun/
 slug: sonderevent-auf-dem-similaun
 title: Sonderevent auf dem Similaun

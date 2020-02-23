@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-31 07:00:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-wars-bei-der-grillfeier-2016-in-olang/
 slug: so-wars-bei-der-grillfeier-2016-in-olang
 title: So war's bei der Grillfeier 2016 in Olang

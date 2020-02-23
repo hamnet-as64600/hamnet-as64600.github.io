@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-01-15 13:09:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/gantkofel-link-suedtirol-und-link-zugspitze-seit-jahresbeginn-qrt/
 slug: gantkofel-link-suedtirol-und-link-zugspitze-seit-jahresbeginn-qrt
 title: Gantkofel Link Südtirol und Link Zugspitze seit Jahresbeginn QRT

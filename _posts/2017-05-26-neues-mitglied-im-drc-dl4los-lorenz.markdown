@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-05-26 11:43:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dl4los-lorenz/
 slug: neues-mitglied-im-drc-dl4los-lorenz
 title: 'Neues Mitglied im DRC: DL4LOS Lorenz'

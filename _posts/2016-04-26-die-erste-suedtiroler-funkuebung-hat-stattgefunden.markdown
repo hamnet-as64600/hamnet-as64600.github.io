@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-26 07:56:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-erste-suedtiroler-funkuebung-hat-stattgefunden/
 slug: die-erste-suedtiroler-funkuebung-hat-stattgefunden
 title: Die erste Südtiroler Funkübung hat stattgefunden.

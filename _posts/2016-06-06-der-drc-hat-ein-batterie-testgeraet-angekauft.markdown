@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-06 14:12:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-hat-ein-batterie-testgeraet-angekauft/
 slug: der-drc-hat-ein-batterie-testgeraet-angekauft
 title: Der DRC hat ein Batterie Testgerät angekauft.

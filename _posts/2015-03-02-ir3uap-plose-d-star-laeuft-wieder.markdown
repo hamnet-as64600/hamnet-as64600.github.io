@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-02 08:22:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uap-plose-d-star-laeuft-wieder/
 slug: ir3uap-plose-d-star-laeuft-wieder
 title: IR3UAP Plose D-Star läuft wieder.

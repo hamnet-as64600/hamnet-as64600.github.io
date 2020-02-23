@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-03 13:52:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-fernsehwetter-fuer-funkamateure/
 slug: das-fernsehwetter-fuer-funkamateure
 title: Das "Fernsehwetter" für Funkamateure

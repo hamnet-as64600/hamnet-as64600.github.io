@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-03-09 10:09:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-ulrich-in3hju/
 slug: neues-mitglied-im-drc-ulrich-in3hju
 title: 'Neues Mitglied im DRC: Ulrich, IN3HJU'

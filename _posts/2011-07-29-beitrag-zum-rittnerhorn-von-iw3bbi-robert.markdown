@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-29 07:28:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/beitrag-zum-rittnerhorn-von-iw3bbi-robert/
 slug: beitrag-zum-rittnerhorn-von-iw3bbi-robert
 title: Beitrag zum Rittnerhorn von IW3BBI Robert

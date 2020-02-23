@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-22 07:02:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/dl1mcg-und-dg2mby-on-tour/
 slug: dl1mcg-und-dg2mby-on-tour
 title: DL1MCG und DG2MBY on tour.

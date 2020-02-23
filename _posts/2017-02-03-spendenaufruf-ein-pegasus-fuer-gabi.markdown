@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-03 08:53:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/spendenaufruf-ein-pegasus-fuer-gabi/
 slug: spendenaufruf-ein-pegasus-fuer-gabi
 title: 'Spendenaufruf: Ein Pegasus für Gabi'

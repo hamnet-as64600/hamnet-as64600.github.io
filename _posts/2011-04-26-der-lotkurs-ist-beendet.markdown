@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-04-26 10:30:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-lotkurs-ist-beendet/
 slug: der-lotkurs-ist-beendet
 title: Der Lötkurs ist beendet....

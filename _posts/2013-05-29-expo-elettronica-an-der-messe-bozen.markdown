@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-05-29 18:57:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/expo-elettronica-an-der-messe-bozen/
 slug: expo-elettronica-an-der-messe-bozen
 title: Expo Elettronica an der Messe Bozen

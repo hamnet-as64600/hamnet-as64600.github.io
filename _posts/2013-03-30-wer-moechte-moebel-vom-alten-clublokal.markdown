@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-03-30 07:01:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-moechte-moebel-vom-alten-clublokal/
 slug: wer-moechte-moebel-vom-alten-clublokal
 title: Wer moechte Moebel vom alten Clublokal?

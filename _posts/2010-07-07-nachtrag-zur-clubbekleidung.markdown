@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2010-07-07 10:15:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zur-clubbekleidung/
 slug: nachtrag-zur-clubbekleidung
 title: Nachtrag zur Clubbekleidung

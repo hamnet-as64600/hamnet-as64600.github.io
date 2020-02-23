@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-22 07:26:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/g3txq-hexbeam-von-oe7opj-peter/
 slug: g3txq-hexbeam-von-oe7opj-peter
 title: G3TXQ Hexbeam von OE7OPJ Peter

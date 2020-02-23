@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-22 17:17:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkamateure-stellen-sich-vor-in3ebz-gerd/
 slug: funkamateure-stellen-sich-vor-in3ebz-gerd
 title: 'Funkamateure stellen sich vor: IN3EBZ Gerd'

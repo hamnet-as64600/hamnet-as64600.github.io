@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-12-18 09:21:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/schnee-eis-und-wind-zerstoeren-die-kurzwelllen-antennenanlage-auf-dem-gitschberg/
 slug: schnee-eis-und-wind-zerstoeren-die-kurzwelllen-antennenanlage-auf-dem-gitschberg
 title: Schnee, Eis und Wind zerstören die Kurzwellen-Antennenanlage auf dem Gitschberg

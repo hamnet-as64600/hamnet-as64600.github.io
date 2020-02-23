@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-12-12 09:37:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtliche-klaenge/
 slug: weihnachtliche-klaenge
 title: Weihnachtliche Klänge hallen aus unseren Umsetzern.

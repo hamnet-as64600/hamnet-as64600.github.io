@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-28 15:42:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/umsetzer-kronplatz-lauft-wieder/
 slug: umsetzer-kronplatz-lauft-wieder
 title: Umsetzer Kronplatz läuft wieder.

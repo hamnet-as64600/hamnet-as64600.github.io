@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-06 10:27:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-bermudadreieck-in-tscherms-bei-meran/
 slug: das-bermudadreieck-in-tscherms-bei-meran
 title: Das "Bermudadreieck" in Tscherms bei Meran

@@ -2,7 +2,7 @@
 author: IN3HCD
 comments: true
 date: 2019-05-17 19:49:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/fieldday-2019-am-tschaufen-im-etschtal/
 slug: fieldday-2019-am-tschaufen-im-etschtal
 title: Fieldday 2019 am Tschaufen im Etschtal mit Treffen der Teilnehmer der "Südtiroler

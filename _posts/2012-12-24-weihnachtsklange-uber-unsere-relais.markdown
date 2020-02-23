@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-24 10:40:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtsklange-uber-unsere-relais/
 slug: weihnachtsklange-uber-unsere-relais
 title: Weihnachtsklänge aus unseren Umsetzern

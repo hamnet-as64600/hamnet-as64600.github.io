@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-12-05 09:25:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/was-erwartet-kurzwellenfunker/
 slug: was-erwartet-kurzwellenfunker
 title: Was erwartet Kurzwellenfunker?

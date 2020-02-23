@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-23 14:50:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-neuen-clublokal/
 slug: nachtrag-zum-neuen-clublokal
 title: Nachtrag zum neuen Clublokal!

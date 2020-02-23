@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-23 18:20:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-fritz-dk6scw/
 slug: silent-key-fritz-dk6scw
 title: 'Silent key: DK6SCW, Fritz'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-02-03 08:24:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-mitglieder-im-drc/
 slug: neue-mitglieder-im-drc
 title: Neue Mitglieder im  DRC

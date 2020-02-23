@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-01-24 18:54:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-dmr-workshop-am-24-01-2015-in-seehausen-am-staffelsee/
 slug: d-star-dmr-workshop-am-24-01-2015-in-seehausen-am-staffelsee
 title: D-Star / DMR Workshop am 24.01.2015 in Seehausen am Staffelsee

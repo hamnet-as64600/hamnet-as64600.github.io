@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-06-14 10:26:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-dienst-bald-uber-den-drc-moglich/
 slug: qsl-dienst-bald-uber-den-drc-moglich
 title: QSL Dienst bald über den DRC möglich?

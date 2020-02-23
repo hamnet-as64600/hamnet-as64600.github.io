@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-05-11 15:55:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/blinden-und-sehbehindertenverband-sucht-freiwillige-fuer-begleitdienst-in-meran-und-bruneck/
 slug: blinden-und-sehbehindertenverband-sucht-freiwillige-fuer-begleitdienst-in-meran-und-bruneck
 title: Blinden- und Sehbehindertenverband sucht Freiwillige für Begleitdienst in Meran

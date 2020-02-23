@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-01-06 16:55:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunkmessen-2012/
 slug: amateurfunkmessen-2012
 title: Amateurfunkmessen 2012

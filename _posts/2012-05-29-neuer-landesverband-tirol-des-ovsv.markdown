@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-05-29 15:30:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-landesverband-tirol-des-ovsv/
 slug: neuer-landesverband-tirol-des-ovsv
 title: Neuer Landesverband Tirol des ÖVSV

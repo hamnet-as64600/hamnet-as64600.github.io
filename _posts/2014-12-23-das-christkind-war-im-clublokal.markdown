@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-23 17:22:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-christkind-war-im-clublokal/
 slug: das-christkind-war-im-clublokal
 title: Das Christkind war im Clublokal...

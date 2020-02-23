@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-05 10:10:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtag-zum-d-star-vortrag/
 slug: nachtag-zum-d-star-vortrag
 title: Nachtag zum D-STAR Vortrag

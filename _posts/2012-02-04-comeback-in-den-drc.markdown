@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-02-04 16:10:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/comeback-in-den-drc/
 slug: comeback-in-den-drc
 title: Comeback in den DRC

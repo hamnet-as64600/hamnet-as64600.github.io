@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-05 16:52:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/meeting-drm-in-treviso/
 slug: meeting-drm-in-treviso
 title: Meeting DRM in Treviso

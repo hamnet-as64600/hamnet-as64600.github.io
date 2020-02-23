@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-07-19 06:02:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/hochstein-treffen-des-oevsv-ortsstelle-lienz/
 slug: hochstein-treffen-des-oevsv-ortsstelle-lienz
 title: Hochstein Treffen der ÖVSV Ortsstelle Lienz

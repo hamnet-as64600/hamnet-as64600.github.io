@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-11 12:33:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/3-zinnen-lauf-2012freiwillige-helfer-gesucht/
 slug: 3-zinnen-lauf-2012freiwillige-helfer-gesucht
 title: 3-Zinnen-Lauf 2012:Freiwillige Helfer gesucht!

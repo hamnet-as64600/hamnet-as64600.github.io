@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-18 14:06:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachricht-von-der-distriktversammlung-von-dl1pn/
 slug: nachricht-von-der-distriktversammlung-von-dl1pn
 title: Nachricht von der Distriktversammlung von DL1PN

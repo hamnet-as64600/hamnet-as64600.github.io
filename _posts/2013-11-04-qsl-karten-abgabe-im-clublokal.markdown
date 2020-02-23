@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-04 12:40:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-karten-abgabe-im-clublokal/
 slug: qsl-karten-abgabe-im-clublokal
 title: QSL Karten Abgabe im Clublokal

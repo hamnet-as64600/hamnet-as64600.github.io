@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-25 07:43:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/instandhaltungsarbeiten-am-umsetzer-am-rittnerhorn/
 slug: instandhaltungsarbeiten-am-umsetzer-am-rittnerhorn
 title: Instandhaltungsarbeiten am Umsetzer am Rittnerhorn

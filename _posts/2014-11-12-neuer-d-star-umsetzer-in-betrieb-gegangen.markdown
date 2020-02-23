@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-12 10:03:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-d-star-umsetzer-in-betrieb-gegangen/
 slug: neuer-d-star-umsetzer-in-betrieb-gegangen
 title: Neuer D-Star Umsetzer in Betrieb gegangen

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-04-12 06:45:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/5-promille-fuer-den-drc/
 slug: 5-promille-fuer-den-drc
 title: 5 Promille für den DRC

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-06-26 18:14:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/diploma-150-anni-cai/
 slug: diploma-150-anni-cai
 title: Diploma 150 anni CAI

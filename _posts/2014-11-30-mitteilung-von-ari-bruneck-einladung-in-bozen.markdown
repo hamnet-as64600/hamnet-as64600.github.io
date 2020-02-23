@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-30 17:54:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitteilung-von-ari-bruneck-einladung-in-bozen/
 slug: mitteilung-von-ari-bruneck-einladung-in-bozen
 title: 'Mitteilung von ARI Bruneck: Einladung in Bozen'

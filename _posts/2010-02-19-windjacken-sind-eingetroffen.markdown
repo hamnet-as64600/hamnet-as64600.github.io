@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-19 15:40:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/windjacken-sind-eingetroffen/
 slug: windjacken-sind-eingetroffen
 title: Windjacken sind eingetroffen

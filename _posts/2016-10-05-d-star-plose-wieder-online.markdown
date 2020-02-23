@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-10-05 11:02:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-plose-wieder-online/
 slug: d-star-plose-wieder-online
 title: D-Star Plose wieder online!

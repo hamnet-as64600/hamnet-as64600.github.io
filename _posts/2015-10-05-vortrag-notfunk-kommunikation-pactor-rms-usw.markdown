@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-05 07:15:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-notfunk-kommunikation-pactor-rms-usw/
 slug: vortrag-notfunk-kommunikation-pactor-rms-usw
 title: Vortrag Notfunk Kommunikation (Pactor, RMS, usw.)

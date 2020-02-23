@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-12-29 11:01:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/staatliche-amateurfunkgebuehr-auch-mit-bankueberweisung-iban-zahlbar/
 slug: staatliche-amateurfunkgebuehr-auch-mit-bankueberweisung-iban-zahlbar
 title: Staatliche Amateurfunkgebühr auch mit Banküberweisung (IBAN) zahlbar

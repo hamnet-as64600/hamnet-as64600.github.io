@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-10-10 14:28:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/pressemitteilung-erschienen-in-der-dolomiten-am-09102014/
 slug: pressemitteilung-erschienen-in-der-dolomiten-am-09102014
 title: Pressemitteilung erschienen in der DOLOMITEN am 09/10/2014

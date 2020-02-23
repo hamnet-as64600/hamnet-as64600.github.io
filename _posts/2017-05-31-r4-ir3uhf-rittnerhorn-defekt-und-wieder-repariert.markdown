@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-05-31 07:00:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/r4-ir3uhf-rittnerhorn-defekt-und-wieder-repariert/
 slug: r4-ir3uhf-rittnerhorn-defekt-und-wieder-repariert
 title: R4 IR3UHF Rittnerhorn defekt und wieder repariert

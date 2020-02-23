@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-08-21 04:30:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-seceda/
 slug: hamnet-seceda
 title: Hamnet Seceda

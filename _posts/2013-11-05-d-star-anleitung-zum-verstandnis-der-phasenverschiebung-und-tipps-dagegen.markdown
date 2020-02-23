@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-05 08:33:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-anleitung-zum-verstandnis-der-phasenverschiebung-und-tipps-dagegen/
 slug: d-star-anleitung-zum-verstandnis-der-phasenverschiebung-und-tipps-dagegen
 title: 'D-Star: Anleitung zum Verständnis der Phasenverschiebung und Tipps dagegen!'

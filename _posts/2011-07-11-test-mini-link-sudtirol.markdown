@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-11 08:03:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/test-mini-link-sudtirol/
 slug: test-mini-link-sudtirol
 title: TEST "Mini Link Südtirol"

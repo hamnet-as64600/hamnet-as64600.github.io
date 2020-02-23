@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-08-21 04:35:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/2-tages-einsatz-am-piz-chavalatsch-erfolgreich-beendet/
 slug: 2-tages-einsatz-am-piz-chavalatsch-erfolgreich-beendet
 title: 2-Tages-Einsatz am Piz Chavalatsch erfolgreich beendet.

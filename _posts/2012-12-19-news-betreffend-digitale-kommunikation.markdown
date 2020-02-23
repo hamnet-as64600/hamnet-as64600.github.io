@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-19 14:26:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/news-betreffend-digitale-kommunikation/
 slug: news-betreffend-digitale-kommunikation
 title: News betreffend "digitale Kommunikation"

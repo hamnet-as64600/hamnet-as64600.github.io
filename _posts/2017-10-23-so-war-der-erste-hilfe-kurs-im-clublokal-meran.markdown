@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-10-23 08:15:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-war-der-erste-hilfe-kurs-im-clublokal-meran/
 slug: so-war-der-erste-hilfe-kurs-im-clublokal-meran
 title: So war der "Erste Hilfe Kurs" im Clublokal Meran.

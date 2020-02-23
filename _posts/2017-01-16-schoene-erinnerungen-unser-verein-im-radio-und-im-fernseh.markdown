@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-16 15:58:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/schoene-erinnerungen-unser-verein-im-radio-und-im-fernseh/
 slug: schoene-erinnerungen-unser-verein-im-radio-und-im-fernseh
 title: 'Schöne Erinnerungen: Unser Verein im Radio und Fernseh'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-07 09:36:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-aufgaben-im-vorstand-sind-vereinbart/
 slug: die-aufgaben-im-vorstand-sind-vereinbart
 title: Die Aufgaben im Vorstand sind vereinbart.

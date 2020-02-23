@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-01-10 10:04:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/hb9cql-ist-qrv-auf-den-azoren/
 slug: hb9cql-ist-qrv-auf-den-azoren
 title: HB9CQL ist QRV von den Azoren

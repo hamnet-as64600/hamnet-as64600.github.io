@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-01-05 10:43:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/ergebnisse-funkamateurpruefung-dezember-2017/
 slug: ergebnisse-funkamateurpruefung-dezember-2017
 title: Ergebnisse Funkamateurprüfung Dezember 2017

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-17 18:13:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/erster-teil-des-betriebstechnikkurses-beendet/
 slug: erster-teil-des-betriebstechnikkurses-beendet
 title: Erster Teil des Betriebstechnikkurses beendet

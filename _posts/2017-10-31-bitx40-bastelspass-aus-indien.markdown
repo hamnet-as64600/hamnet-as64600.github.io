@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-10-31 09:03:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/bitx40-bastelspass-aus-indien/
 slug: bitx40-bastelspass-aus-indien
 title: BITX40 - Bastelspaß aus Indien

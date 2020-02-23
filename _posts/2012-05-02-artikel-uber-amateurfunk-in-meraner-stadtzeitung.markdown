@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-05-02 19:52:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/artikel-uber-amateurfunk-in-meraner-stadtzeitung/
 slug: artikel-uber-amateurfunk-in-meraner-stadtzeitung
 title: Artikel über Amateurfunk in Meraner Stadtzeitung

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-03-24 10:41:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/blog-von-in3ray/
 slug: blog-von-in3ray
 title: Blog von IN3RAY

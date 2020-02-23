@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-11-21 15:29:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/suchen-antragsteller-fuer-das-alpin-flower-award-alpenblumendiplom/
 slug: suchen-antragsteller-fuer-das-alpin-flower-award-alpenblumendiplom
 title: Suchen Antragsteller für das Alpin Flower Award (Alpenblumendiplom)

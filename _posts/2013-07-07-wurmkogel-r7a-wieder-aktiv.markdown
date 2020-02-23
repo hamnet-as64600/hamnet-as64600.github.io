@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-07 18:38:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/wurmkogel-r7a-wieder-aktiv/
 slug: wurmkogel-r7a-wieder-aktiv
 title: Wurmkogel R7a wieder aktiv

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-26 18:14:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/erdbeben-in-italien/
 slug: erdbeben-in-italien
 title: Erdbeben in Italien

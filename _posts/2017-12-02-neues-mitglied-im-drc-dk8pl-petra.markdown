@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-12-02 07:53:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dk8pl-petra/
 slug: neues-mitglied-im-drc-dk8pl-petra
 title: 'Neues Mitglied im DRC: DK8PL, Petra'

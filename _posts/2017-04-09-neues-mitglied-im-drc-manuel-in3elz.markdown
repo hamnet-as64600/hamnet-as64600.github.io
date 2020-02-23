@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-04-09 17:03:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-manuel-in3elz/
 slug: neues-mitglied-im-drc-manuel-in3elz
 title: 'Neues Mitglied im DRC: Manuel, IN3ELZ'

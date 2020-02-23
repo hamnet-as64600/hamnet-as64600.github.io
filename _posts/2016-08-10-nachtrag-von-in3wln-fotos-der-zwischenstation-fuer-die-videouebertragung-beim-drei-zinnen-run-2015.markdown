@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-10 12:03:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-von-in3wln-fotos-der-zwischenstation-fuer-die-videouebertragung-beim-drei-zinnen-run-2015/
 slug: nachtrag-von-in3wln-fotos-der-zwischenstation-fuer-die-videouebertragung-beim-drei-zinnen-run-2015
 title: 'Nachtrag von IN3WLN: Fotos der Zwischenstation für die Videoübertragung beim

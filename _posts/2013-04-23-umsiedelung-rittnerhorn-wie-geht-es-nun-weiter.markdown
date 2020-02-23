@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-23 10:18:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/umsiedelung-rittnerhorn-wie-geht-es-nun-weiter/
 slug: umsiedelung-rittnerhorn-wie-geht-es-nun-weiter
 title: Umsiedelung Rittnerhorn, wie geht es nun weiter?

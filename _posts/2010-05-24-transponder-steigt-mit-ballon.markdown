@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-05-24 16:02:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/transponder-steigt-mit-ballon/
 slug: transponder-steigt-mit-ballon
 title: Transponder steigt mit Ballon

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-06-21 13:07:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/dv4-mobile-mobilfunkgeraet-fuer-fm-d-star-dmr-und-c4fm/
 slug: dv4-mobile-mobilfunkgeraet-fuer-fm-d-star-dmr-und-c4fm
 title: 'DV4-mobile: Mobilfunkgerät für FM, D-Star, DMR und C4FM'

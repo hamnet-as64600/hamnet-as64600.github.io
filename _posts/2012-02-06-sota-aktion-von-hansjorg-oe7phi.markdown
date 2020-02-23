@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-02-06 07:20:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/sota-aktion-von-hansjorg-oe7phi/
 slug: sota-aktion-von-hansjorg-oe7phi
 title: SOTA Aktion von Hansjörg OE7PHI

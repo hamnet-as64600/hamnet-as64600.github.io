@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-19 19:21:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-gitschberg-wieder-aktiv/
 slug: echolink-gitschberg-wieder-aktiv
 title: Echolink Gitschberg wieder aktiv

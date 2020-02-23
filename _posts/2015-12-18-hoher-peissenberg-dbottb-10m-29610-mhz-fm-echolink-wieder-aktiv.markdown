@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-18 08:42:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/hoher-peissenberg-dbottb-10m-29610-mhz-fm-echolink-wieder-aktiv/
 slug: hoher-peissenberg-dbottb-10m-29610-mhz-fm-echolink-wieder-aktiv
 title: Hoher Peissenberg, DBØTTB 10m 29,610 MHz FM, Echolink wieder aktiv

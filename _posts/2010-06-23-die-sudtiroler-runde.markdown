@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-06-23 12:21:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-sudtiroler-runde/
 slug: die-sudtiroler-runde
 title: Die Südtiroler Runde!

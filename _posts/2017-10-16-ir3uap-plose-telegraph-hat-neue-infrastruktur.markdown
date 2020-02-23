@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2017-10-16 13:28:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uap-plose-telegraph-hat-neue-infrastruktur/
 slug: ir3uap-plose-telegraph-hat-neue-infrastruktur
 title: IR3UAP - Plose / Telegraph hat neue Infrastruktur

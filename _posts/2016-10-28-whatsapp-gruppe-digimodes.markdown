@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-10-28 06:55:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/whatsapp-gruppe-digimodes/
 slug: whatsapp-gruppe-digimodes
 title: Whatsapp - Gruppe "Digimodes"

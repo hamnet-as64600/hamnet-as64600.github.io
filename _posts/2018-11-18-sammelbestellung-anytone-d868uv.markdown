@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-11-18 19:13:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/sammelbestellung-anytone-d868uv/
 slug: sammelbestellung-anytone-d868uv
 title: Sammelbestellung ANYTONE D868UV

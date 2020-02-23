@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-19 07:49:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/aenderung-der-echolinkbefehle-am-gitschberg-umsetzer/
 slug: aenderung-der-echolinkbefehle-am-gitschberg-umsetzer
 title: Aenderung der Echolinkbefehle am Gitschberg Umsetzer.

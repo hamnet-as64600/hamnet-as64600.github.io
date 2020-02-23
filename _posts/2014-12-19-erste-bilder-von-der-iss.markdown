@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-19 13:44:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/erste-bilder-von-der-iss/
 slug: erste-bilder-von-der-iss
 title: Erste Bilder von der ISS!

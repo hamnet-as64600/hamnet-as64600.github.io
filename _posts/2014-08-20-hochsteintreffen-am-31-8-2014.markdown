@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-20 10:56:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/hochsteintreffen-am-31-8-2014/
 slug: hochsteintreffen-am-31-8-2014
 title: Hochsteintreffen am 31.8.2014

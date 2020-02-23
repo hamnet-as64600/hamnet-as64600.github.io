@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2017-01-19 15:53:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/vorschlaege-fuer-das-taetigkeitsprogramm-2017/
 slug: vorschlaege-fuer-das-taetigkeitsprogramm-2017
 title: Vorschläge für das Tätigkeitsprogramm 2017

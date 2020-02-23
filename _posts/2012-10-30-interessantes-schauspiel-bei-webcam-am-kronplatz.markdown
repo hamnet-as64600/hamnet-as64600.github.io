@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-30 06:58:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/interessantes-schauspiel-bei-webcam-am-kronplatz/
 slug: interessantes-schauspiel-bei-webcam-am-kronplatz
 title: Interessantes Schauspiel bei Webcam am Kronplatz

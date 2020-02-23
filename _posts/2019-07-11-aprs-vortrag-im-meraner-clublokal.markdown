@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-07-11 04:00:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-vortrag-im-meraner-clublokal/
 slug: aprs-vortrag-im-meraner-clublokal
 title: APRS - Vortrag im Meraner Clublokal

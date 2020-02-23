@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-03-06 10:07:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/vollduplex-funk-auf-einem-kanal-von-intel/
 slug: vollduplex-funk-auf-einem-kanal-von-intel
 title: Vollduplex-Funk auf einem Kanal von Intel

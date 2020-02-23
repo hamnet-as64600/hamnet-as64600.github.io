@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2020-02-15 17:59:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3emw-walter-morat-aus-magreid/
 slug: silent-key-in3emw-walter-morat-aus-magreid
 title: 'Silent key: IN3EMW Walter Morat aus Magreid'

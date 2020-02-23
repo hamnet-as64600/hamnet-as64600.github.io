@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-22 08:49:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/assistenza-radio-de-in3gen/
 slug: assistenza-radio-de-in3gen
 title: Assistenza Radio de IN3GEN

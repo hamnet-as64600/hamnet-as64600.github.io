@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2019-09-09 08:32:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzplan-fuer-den-3-zinnen-lauf-2019/
 slug: einsatzplan-fuer-den-3-zinnen-lauf-2019
 title: Vorläufiger Einsatzplan für den 3 Zinnen Lauf 2019

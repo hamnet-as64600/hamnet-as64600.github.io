@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-29 08:36:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/ausflug-zu-unseren-funkfreunden-nach-suedtirol/
 slug: ausflug-zu-unseren-funkfreunden-nach-suedtirol
 title: Ausflug zu unseren Funkfreunden nach Südtirol

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-09 05:53:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3dos-rod-erhard/
 slug: silent-key-in3dos-rod-erhard
 title: 'Silent key: IN3DOS Röd Erhard'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2018-06-01 12:07:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/suchen-helfer-fuer-grabungsarbeiten-auf-dem-gitschberg/
 slug: suchen-helfer-fuer-grabungsarbeiten-auf-dem-gitschberg
 title: Suchen Helfer für Grabungsarbeiten auf dem Gitschberg!

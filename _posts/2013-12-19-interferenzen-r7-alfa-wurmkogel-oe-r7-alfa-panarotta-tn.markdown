@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-12-19 11:09:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/interferenzen-r7-alfa-wurmkogel-oe-r7-alfa-panarotta-tn/
 slug: interferenzen-r7-alfa-wurmkogel-oe-r7-alfa-panarotta-tn
 title: Interferenzen R7 alfa Wurmkogel (OE) - R7 alfa Panarotta (TN)

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-09 09:52:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/koennte-das-handfunkgeraet-der-zukunft-so-aussehen/
 slug: koennte-das-handfunkgeraet-der-zukunft-so-aussehen
 title: Könnte das Handfunkgerät der Zukunft so aussehen?

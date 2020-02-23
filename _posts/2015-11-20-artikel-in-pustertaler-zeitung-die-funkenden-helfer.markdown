@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-11-20 11:28:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/artikel-in-pustertaler-zeitung-die-funkenden-helfer/
 slug: artikel-in-pustertaler-zeitung-die-funkenden-helfer
 title: 'Artikel in Pustertaler Zeitung: Die funkenden Helfer.'

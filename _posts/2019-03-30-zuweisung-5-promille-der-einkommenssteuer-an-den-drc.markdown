@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-03-30 06:37:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/zuweisung-5-promille-der-einkommenssteuer-an-den-drc/
 slug: zuweisung-5-promille-der-einkommenssteuer-an-den-drc
 title: Zuweisung 5 Promille der Einkommenssteuer an den DRC.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-01-13 15:27:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-qsl-dienst-tritt-in-kraft/
 slug: der-qsl-dienst-tritt-in-kraft
 title: Der QSL Dienst ist in Kraft getreten.

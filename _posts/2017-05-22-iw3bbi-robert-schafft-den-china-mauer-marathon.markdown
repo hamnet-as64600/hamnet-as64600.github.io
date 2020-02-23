@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-05-22 14:53:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/iw3bbi-robert-schafft-den-china-mauer-marathon/
 slug: iw3bbi-robert-schafft-den-china-mauer-marathon
 title: IW3BBI Robert schafft den "China Mauer Marathon"!

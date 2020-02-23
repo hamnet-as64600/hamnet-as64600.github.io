@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-20 08:18:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/kandidatensuche-fur-die-vorstandswahlen-im-janner-2013/
 slug: kandidatensuche-fur-die-vorstandswahlen-im-janner-2013
 title: Kandidatensuche für die Vorstandswahlen im Jänner 2013

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-17 07:54:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-sudtirol-gantkofel-und-kronplatz-in-betrieb/
 slug: link-sudtirol-gantkofel-und-kronplatz-in-betrieb
 title: '"Link Südtirol": Gantkofel und Kronplatz in Betrieb!'

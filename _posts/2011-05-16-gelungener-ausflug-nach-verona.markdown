@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-05-16 13:25:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/gelungener-ausflug-nach-verona/
 slug: gelungener-ausflug-nach-verona
 title: Gelungener Ausflug nach Verona.

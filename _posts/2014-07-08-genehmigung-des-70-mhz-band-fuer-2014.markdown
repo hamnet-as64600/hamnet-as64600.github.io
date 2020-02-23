@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-08 13:33:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/genehmigung-des-70-mhz-band-fuer-2014/
 slug: genehmigung-des-70-mhz-band-fuer-2014
 title: Genehmigung des 70 MHz Bandes für 2014

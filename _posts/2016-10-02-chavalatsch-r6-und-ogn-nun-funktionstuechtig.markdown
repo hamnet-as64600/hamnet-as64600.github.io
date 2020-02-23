@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-10-02 12:33:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/chavalatsch-r6-und-ogn-nun-funktionstuechtig/
 slug: chavalatsch-r6-und-ogn-nun-funktionstuechtig
 title: Chavalatsch - R6 und OGN nun funktionstüchtig!

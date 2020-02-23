@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-02-18 08:39:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/artikel-uber-die-elektromagnetische-belastung-von-funkamateuranlagen-seitens-der-sanitatseinheit-reggio-emilia/
 slug: artikel-uber-die-elektromagnetische-belastung-von-funkamateuranlagen-seitens-der-sanitatseinheit-reggio-emilia
 title: Artikel über die elektromagnetische Belastung von Funkamateuranlagen seitens

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-12-22 20:51:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/diskussionsthemastille-zuhorer-auf-unseren-umsetzern/
 slug: diskussionsthemastille-zuhorer-auf-unseren-umsetzern
 title: Diskussionsthema:"Stille Zuhörer auf unseren Umsetzern"

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-03 07:06:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-antenneninstallation-missgluckt/
 slug: rittnerhorn-antenneninstallation-missgluckt
 title: Rittnerhorn - Antenneninstallation missglückt!

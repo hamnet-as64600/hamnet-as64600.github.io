@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-25 05:46:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/schulsatellit-max-valier-sat-im-orbit/
 slug: schulsatellit-max-valier-sat-im-orbit
 title: Schulsatellit "Max Valier Sat" im Orbit

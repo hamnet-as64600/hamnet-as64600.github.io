@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-03-17 05:01:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/probleme-mit-der-echolink-anbindung-des-gitschberg-umsetzers/
 slug: probleme-mit-der-echolink-anbindung-des-gitschberg-umsetzers
 title: Probleme mit der Echolink Anbindung des Gitschberg-Umsetzers.

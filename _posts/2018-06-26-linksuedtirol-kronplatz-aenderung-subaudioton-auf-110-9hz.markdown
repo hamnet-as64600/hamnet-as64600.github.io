@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-06-26 06:29:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/linksuedtirol-kronplatz-aenderung-subaudioton-auf-110-9hz/
 slug: linksuedtirol-kronplatz-aenderung-subaudioton-auf-110-9hz
 title: 'LinkSüdtirol Kronplatz: Änderung Subaudioton auf 110.9Hz'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-11-10 13:28:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/global-%e2%80%9csimulated-emergency-test%e2%80%9d/
 slug: global-%e2%80%9csimulated-emergency-test%e2%80%9d
 title: Global “Simulated Emergency Test”

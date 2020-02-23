@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-17 06:24:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/betriebstechnikkurs-in-den-clublokalen-in-bruneck-und-meran/
 slug: betriebstechnikkurs-in-den-clublokalen-in-bruneck-und-meran
 title: Betriebstechnikkurs in den Clublokalen in Bruneck und Meran

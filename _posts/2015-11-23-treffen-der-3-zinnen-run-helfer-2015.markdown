@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-11-23 13:58:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/treffen-der-3-zinnen-run-helfer-2015/
 slug: treffen-der-3-zinnen-run-helfer-2015
 title: Treffen der "3 ZINNEN RUN" Helfer 2015.

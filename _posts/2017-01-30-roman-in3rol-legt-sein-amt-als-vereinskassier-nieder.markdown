@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-30 09:05:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/roman-in3rol-legt-sein-amt-als-vereinskassier-nieder/
 slug: roman-in3rol-legt-sein-amt-als-vereinskassier-nieder
 title: Roman IN3ROL legt sein Amt als Vereinskassier nieder.

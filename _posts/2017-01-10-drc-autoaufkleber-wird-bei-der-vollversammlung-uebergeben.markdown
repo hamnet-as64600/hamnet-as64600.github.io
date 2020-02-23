@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-01-10 08:03:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-autoaufkleber-wird-bei-der-vollversammlung-uebergeben/
 slug: drc-autoaufkleber-wird-bei-der-vollversammlung-uebergeben
 title: DRC Autoaufkleber wird bei der Vollversammlung übergeben

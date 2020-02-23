@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-03-20 08:07:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dh4mnj-uwe/
 slug: neues-mitglied-im-drc-dh4mnj-uwe
 title: 'Neues Mitglied im DRC: DH4MNJ Uwe'

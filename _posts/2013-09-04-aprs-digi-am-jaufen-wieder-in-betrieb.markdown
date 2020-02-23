@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-04 18:11:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-digi-am-jaufen-wieder-in-betrieb/
 slug: aprs-digi-am-jaufen-wieder-in-betrieb
 title: APRS Digi am Jaufen wieder in Betrieb

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-01-08 09:35:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/anmeldung-zum-vorbereitungskurs-zur-funkamateurpruefung-2019/
 slug: anmeldung-zum-vorbereitungskurs-zur-funkamateurpruefung-2019
 title: Anmeldung zum Vorbereitungskurs zur Funkamateurprüfung 2019

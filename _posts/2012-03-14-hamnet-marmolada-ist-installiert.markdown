@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-03-14 08:11:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-marmolada-ist-installiert/
 slug: hamnet-marmolada-ist-installiert
 title: Hamnet Marmolada ist neu installiert worden.

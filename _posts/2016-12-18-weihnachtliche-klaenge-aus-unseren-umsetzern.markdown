@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-12-18 23:00:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtliche-klaenge-aus-unseren-umsetzern/
 slug: weihnachtliche-klaenge-aus-unseren-umsetzern
 title: Weihnachtliche Klänge aus unseren Umsetzern.

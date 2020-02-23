@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-05-06 10:03:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/innovative-umsetzerkennung/
 slug: innovative-umsetzerkennung
 title: Innovative Umsetzerkennung!!

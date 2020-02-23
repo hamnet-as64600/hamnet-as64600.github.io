@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-02-16 11:14:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/vorfuehrung-meiner-kurzwellen-magnetic-loop-antenne/
 slug: vorfuehrung-meiner-kurzwellen-magnetic-loop-antenne
 title: Vorführung (m)einer Kurzwellen MAGNETIC LOOP Antenne

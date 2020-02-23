@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-12-23 10:10:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/dm0ww-hoernle-d-star-an-suedtirol-reflector-angeschlossen/
 slug: dm0ww-hoernle-d-star-an-suedtirol-reflector-angeschlossen
 title: DM0WW Hörnle D-Star an Südtirol Reflector angeschlossen

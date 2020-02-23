@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-01-31 08:47:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zur-jahreshauptversammlung-2011/
 slug: nachtrag-zur-jahreshauptversammlung-2011
 title: Nachtrag zur Jahreshauptversammlung 2011

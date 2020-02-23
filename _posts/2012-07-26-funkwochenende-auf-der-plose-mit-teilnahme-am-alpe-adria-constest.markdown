@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-26 06:10:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkwochenende-auf-der-plose-mit-teilnahme-am-alpe-adria-constest/
 slug: funkwochenende-auf-der-plose-mit-teilnahme-am-alpe-adria-constest
 title: Funkwochenende auf der Plose mit Teilnahme am Alpe Adria Constest

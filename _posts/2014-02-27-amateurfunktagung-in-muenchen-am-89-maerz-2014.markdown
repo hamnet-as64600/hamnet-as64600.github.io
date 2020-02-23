@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-02-27 09:41:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunktagung-in-muenchen-am-89-maerz-2014/
 slug: amateurfunktagung-in-muenchen-am-89-maerz-2014
 title: Amateurfunktagung in München am 8/9 März 2014

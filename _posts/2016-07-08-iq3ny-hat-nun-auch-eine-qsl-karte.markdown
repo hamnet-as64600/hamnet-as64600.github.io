@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-08 13:28:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/iq3ny-hat-nun-auch-eine-qsl-karte/
 slug: iq3ny-hat-nun-auch-eine-qsl-karte
 title: IQ3NY hat nun auch eine QSL Karte.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-24 09:53:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/verbesserung-der-2-m-empfangsantenne-am-wendelstein/
 slug: verbesserung-der-2-m-empfangsantenne-am-wendelstein
 title: Verbesserung der 2 m Empfangsantenne am Wendelstein

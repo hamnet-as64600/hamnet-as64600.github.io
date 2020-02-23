@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-03-28 09:58:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/einfuehrung-in-die-moderne-signalerzeugung-von-analog-zu-digital-vor-und-nachteile-sowie-loesungen/
 slug: einfuehrung-in-die-moderne-signalerzeugung-von-analog-zu-digital-vor-und-nachteile-sowie-loesungen
 title: 'Einführung in die moderne Signalerzeugung – von analog zu digital: Vor- und

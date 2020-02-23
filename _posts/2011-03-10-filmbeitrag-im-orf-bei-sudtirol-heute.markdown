@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-03-10 13:21:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/filmbeitrag-im-orf-bei-sudtirol-heute/
 slug: filmbeitrag-im-orf-bei-sudtirol-heute
 title: Filmbeitrag im ORF bei "Südtirol Heute"

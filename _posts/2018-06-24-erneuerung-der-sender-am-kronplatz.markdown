@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-06-24 18:39:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/erneuerung-der-sender-am-kronplatz/
 slug: erneuerung-der-sender-am-kronplatz
 title: Erneuerung der Sender am Kronplatz

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-30 15:09:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/update-aprs/
 slug: update-aprs
 title: Update APRS

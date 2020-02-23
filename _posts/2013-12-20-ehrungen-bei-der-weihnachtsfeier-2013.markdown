@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-20 11:25:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/ehrungen-bei-der-weihnachtsfeier-2013/
 slug: ehrungen-bei-der-weihnachtsfeier-2013
 title: Ehrungen bei der Weihnachtsfeier 2013

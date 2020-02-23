@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-03-26 06:11:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/zwei-neue-mitglieder-in3ltl-karl-und-iw3bhw-simon/
 slug: zwei-neue-mitglieder-in3ltl-karl-und-iw3bhw-simon
 title: 'Zwei neue Mitglieder: IN3LTL Karl und IW3BHW Simon'

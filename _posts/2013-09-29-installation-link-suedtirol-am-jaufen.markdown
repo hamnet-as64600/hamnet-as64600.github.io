@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-29 06:37:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/installation-link-suedtirol-am-jaufen/
 slug: installation-link-suedtirol-am-jaufen
 title: Installation LINK SUEDTIROL am Jaufen

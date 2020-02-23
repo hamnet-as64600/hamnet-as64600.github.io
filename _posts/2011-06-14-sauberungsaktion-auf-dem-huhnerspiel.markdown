@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-06-14 12:50:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/sauberungsaktion-auf-dem-huhnerspiel/
 slug: sauberungsaktion-auf-dem-huhnerspiel
 title: Aufräumaktion auf dem Hühnerspiel

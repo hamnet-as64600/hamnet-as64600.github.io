@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-05-25 21:45:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/tfo-bozen-schickt-wetterballone-in-den-himmel/
 slug: tfo-bozen-schickt-wetterballone-in-den-himmel
 title: TFO Bozen schickt Wetterballone in den Himmel

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-27 11:23:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurs-im-clublokal-der-spektrumanalyser/
 slug: kurs-im-clublokal-der-spektrumanalyser
 title: 'Kurs im Clublokal: Der Spektrumanalyser!'

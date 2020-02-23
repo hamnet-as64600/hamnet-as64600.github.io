@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-11-05 16:38:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-monika-aus-lana/
 slug: neues-mitglied-im-drc-monika-aus-lana
 title: 'Neues Mitglied im DRC: Monika aus Lana'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-16 13:48:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-qso-party/
 slug: d-star-qso-party
 title: D-STAR-QSO-Party

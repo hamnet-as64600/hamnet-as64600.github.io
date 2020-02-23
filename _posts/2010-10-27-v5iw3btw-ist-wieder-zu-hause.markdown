@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-10-27 09:44:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/v5iw3btw-ist-wieder-zu-hause/
 slug: v5iw3btw-ist-wieder-zu-hause
 title: V5/IW3BTW ist wieder zu Hause

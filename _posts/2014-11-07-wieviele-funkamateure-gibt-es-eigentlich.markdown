@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-07 15:12:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/wieviele-funkamateure-gibt-es-eigentlich/
 slug: wieviele-funkamateure-gibt-es-eigentlich
 title: Wieviele Funkamateure gibt es eigentlich?

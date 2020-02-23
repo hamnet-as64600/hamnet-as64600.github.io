@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-05-25 12:27:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/umsetzerstandort-jaufen-qrt/
 slug: umsetzerstandort-jaufen-qrt
 title: Umsetzerstandort Jaufen  QRT

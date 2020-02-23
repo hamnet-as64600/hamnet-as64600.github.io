@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-14 18:45:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/hochsteintreffen-2013/
 slug: hochsteintreffen-2013
 title: Hochsteintreffen 2013

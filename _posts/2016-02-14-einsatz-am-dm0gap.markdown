@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-14 07:45:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatz-am-dm0gap/
 slug: einsatz-am-dm0gap
 title: Einsatz am DM0GAP

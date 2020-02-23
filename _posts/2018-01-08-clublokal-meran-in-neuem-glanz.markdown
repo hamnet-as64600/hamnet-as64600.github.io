@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-01-08 11:45:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/clublokal-meran-in-neuem-glanz/
 slug: clublokal-meran-in-neuem-glanz
 title: Clublokal Meran in neuem Glanz!

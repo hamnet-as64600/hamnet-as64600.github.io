@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-02 16:45:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/ich-uber-mich-in3biy-gino/
 slug: ich-uber-mich-in3biy-gino
 title: 'Ich über mich: IN3BIY Gino'

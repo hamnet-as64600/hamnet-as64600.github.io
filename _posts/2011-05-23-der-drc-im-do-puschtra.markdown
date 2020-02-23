@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-05-23 10:27:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-im-do-puschtra/
 slug: der-drc-im-do-puschtra
 title: Der DRC im "DO PUSCHTRA"

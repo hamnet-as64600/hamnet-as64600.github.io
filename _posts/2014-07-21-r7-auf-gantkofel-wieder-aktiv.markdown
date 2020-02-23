@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-21 10:27:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/r7-auf-gantkofel-wieder-aktiv/
 slug: r7-auf-gantkofel-wieder-aktiv
 title: R7 auf Gantkofel wieder aktiv

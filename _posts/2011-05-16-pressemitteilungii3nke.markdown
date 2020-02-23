@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-05-16 17:49:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/pressemitteilungii3nke/
 slug: pressemitteilungii3nke
 title: Pressemitteilung:II3NKE

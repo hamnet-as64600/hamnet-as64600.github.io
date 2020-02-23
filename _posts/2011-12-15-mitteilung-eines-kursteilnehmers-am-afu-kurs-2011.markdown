@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-15 08:13:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitteilung-eines-kursteilnehmers-am-afu-kurs-2011/
 slug: mitteilung-eines-kursteilnehmers-am-afu-kurs-2011
 title: Mitteilung eines Kursteilnehmers am AFU-Kurs 2011.

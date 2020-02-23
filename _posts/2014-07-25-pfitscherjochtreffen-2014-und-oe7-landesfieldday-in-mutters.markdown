@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-25 05:28:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/pfitscherjochtreffen-2014-und-oe7-landesfieldday-in-mutters/
 slug: pfitscherjochtreffen-2014-und-oe7-landesfieldday-in-mutters
 title: Pfitscherjochtreffen 2014 und OE7 Landesfieldday in Mutters

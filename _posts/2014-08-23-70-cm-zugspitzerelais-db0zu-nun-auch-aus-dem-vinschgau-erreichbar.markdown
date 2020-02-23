@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-08-23 16:13:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/70-cm-zugspitzerelais-db0zu-nun-auch-aus-dem-vinschgau-erreichbar/
 slug: 70-cm-zugspitzerelais-db0zu-nun-auch-aus-dem-vinschgau-erreichbar
 title: 70 cm Zugspitzerelais DB0ZU nun auch aus dem Vinschgau erreichbar!

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-12 05:57:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/iiohq-la-nazionale-contest/
 slug: iiohq-la-nazionale-contest
 title: 'IIØHQ: Nazionale Contest'

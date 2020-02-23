@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-12-29 18:06:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/einige-bilder-von-der-jahresabschlussfeier-2018/
 slug: einige-bilder-von-der-jahresabschlussfeier-2018
 title: Einige Bilder von der Jahresabschlussfeier 2018.

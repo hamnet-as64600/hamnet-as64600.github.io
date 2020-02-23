@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2015-06-04 12:53:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitfahrboerse-zur-hamradio-2015/
 slug: mitfahrboerse-zur-hamradio-2015
 title: Mitfahrbörse zur HAMRADIO 2015

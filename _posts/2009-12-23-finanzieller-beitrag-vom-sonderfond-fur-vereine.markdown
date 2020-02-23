@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2009-12-23 11:01:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/finanzieller-beitrag-vom-sonderfond-fur-vereine/
 slug: finanzieller-beitrag-vom-sonderfond-fur-vereine
 title: Finanzieller Beitrag vom Sonderfond für Vereine

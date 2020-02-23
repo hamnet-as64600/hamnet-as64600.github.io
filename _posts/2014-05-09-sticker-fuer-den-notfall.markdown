@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-09 17:56:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/sticker-fuer-den-notfall/
 slug: sticker-fuer-den-notfall
 title: Sticker für den Notfall

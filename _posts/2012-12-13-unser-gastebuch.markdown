@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-13 11:27:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/unser-gastebuch/
 slug: unser-gastebuch
 title: Unser Gästebuch!

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-28 10:11:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/bald-sollten-wir-mittels-d-star-per-satellit-sprechen-koennen/
 slug: bald-sollten-wir-mittels-d-star-per-satellit-sprechen-koennen
 title: Bald sollten wir mittels D-Star per Satellit sprechen können

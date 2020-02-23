@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-10-02 13:49:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/wichtige-mitteilung-an-alle-helfer-des-3-zinnen-laufes-2019/
 slug: wichtige-mitteilung-an-alle-helfer-des-3-zinnen-laufes-2019
 title: Wichtige Mitteilung an alle Helfer des 3 Zinnen Laufes 2019.

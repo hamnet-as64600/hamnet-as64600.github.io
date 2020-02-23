@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-22 05:27:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/internet-via-satellit/
 slug: internet-via-satellit
 title: Internet via Satellit, Radiogeschichte!

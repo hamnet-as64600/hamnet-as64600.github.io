@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-11-20 08:45:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3ugm-gantkofel-neuer-mmdvm-und-neuer-link-suedtirol-umsetzer/
 slug: ir3ugm-gantkofel-neuer-mmdvm-und-neuer-link-suedtirol-umsetzer
 title: IR3UGM Gantkofel - Neuer MMDVM und neuer Link Südtirol Umsetzer

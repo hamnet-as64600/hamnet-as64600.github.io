@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-01 05:43:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/hurra-wir-haben-es-geschafft/
 slug: hurra-wir-haben-es-geschafft
 title: Hurra, wir haben es geschafft.

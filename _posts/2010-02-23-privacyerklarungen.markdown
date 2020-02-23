@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-23 10:11:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/privacyerklarungen/
 slug: privacyerklarungen
 title: Privacyerklärungen

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-23 08:18:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/relais-hohenpeissenberg-db0ttb/
 slug: relais-hohenpeissenberg-db0ttb
 title: Relais Hohenpeissenberg DB0TTB

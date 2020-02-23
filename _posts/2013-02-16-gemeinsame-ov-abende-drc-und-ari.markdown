@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-16 07:27:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/gemeinsame-ov-abende-drc-und-ari/
 slug: gemeinsame-ov-abende-drc-und-ari
 title: Gemeinsame OV Abende DRC und ARI

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-02-07 10:30:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktualisierung-der-punktelieferanten-liste-fuer-das-alpin-flower-award/
 slug: aktualisierung-der-punktelieferanten-liste-fuer-das-alpin-flower-award
 title: Aktualisierung der Punktelieferanten Liste für das ALPIN FLOWER AWARD

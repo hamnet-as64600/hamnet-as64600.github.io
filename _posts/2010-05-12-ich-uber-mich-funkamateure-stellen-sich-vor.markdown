@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-05-12 21:23:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/ich-uber-mich-funkamateure-stellen-sich-vor/
 slug: ich-uber-mich-funkamateure-stellen-sich-vor
 title: '"IN3BQX - Ich über mich" - Funkamateure stellen sich vor'

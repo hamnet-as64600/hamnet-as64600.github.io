@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-04-12 14:50:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/18-april-2012-weltamateurfunktag/
 slug: 18-april-2012-weltamateurfunktag
 title: '18. April 2012: Weltamateurfunktag'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-03-05 11:32:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/aufruf-zur-einzahlung-der-saeumigen-mitgliedsbeitraege-fuer-2014/
 slug: aufruf-zur-einzahlung-der-saeumigen-mitgliedsbeitraege-fuer-2014
 title: Aufruf zur Einzahlung der säumigen Mitgliedsbeiträge für 2014.

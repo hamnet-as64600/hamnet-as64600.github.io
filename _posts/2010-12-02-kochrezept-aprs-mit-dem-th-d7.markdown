@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-12-02 13:52:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/kochrezept-aprs-mit-dem-th-d7/
 slug: kochrezept-aprs-mit-dem-th-d7
 title: 'Kochrezept : APRS mit dem TH-D7'

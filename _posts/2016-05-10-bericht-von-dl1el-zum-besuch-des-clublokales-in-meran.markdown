@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-10 12:13:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-von-dl1el-zum-besuch-des-clublokales-in-meran/
 slug: bericht-von-dl1el-zum-besuch-des-clublokales-in-meran
 title: Bericht von DL1EL zum Besuch des Clublokales in Meran.

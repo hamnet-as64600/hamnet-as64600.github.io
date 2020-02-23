@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-19 18:44:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/wspr-bake-homemade/
 slug: wspr-bake-homemade
 title: WSPR Bake Homemade!

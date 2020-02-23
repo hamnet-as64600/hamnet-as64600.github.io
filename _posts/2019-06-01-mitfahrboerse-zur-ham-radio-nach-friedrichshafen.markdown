@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2019-06-01 09:44:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitfahrboerse-zur-ham-radio-nach-friedrichshafen/
 slug: mitfahrboerse-zur-ham-radio-nach-friedrichshafen
 title: Mitfahrbörse zur HAM RADIO nach Friedrichshafen.

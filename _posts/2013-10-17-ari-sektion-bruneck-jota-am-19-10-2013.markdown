@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-17 18:18:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/ari-sektion-bruneck-jota-am-19-10-2013/
 slug: ari-sektion-bruneck-jota-am-19-10-2013
 title: 'ARI Sektion Bruneck: JOTA am 19.10.2013'

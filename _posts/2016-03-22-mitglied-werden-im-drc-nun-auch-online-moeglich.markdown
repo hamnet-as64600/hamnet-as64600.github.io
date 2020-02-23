@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-22 13:37:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitglied-werden-im-drc-nun-auch-online-moeglich/
 slug: mitglied-werden-im-drc-nun-auch-online-moeglich
 title: Mitglied werden im DRC nun auch Online möglich.

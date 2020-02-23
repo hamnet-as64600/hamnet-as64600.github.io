@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-28 15:34:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-wieder-einen-schritt-weiter/
 slug: hamnet-wieder-einen-schritt-weiter
 title: 'Hamnet: wieder einen Schritt weiter.'

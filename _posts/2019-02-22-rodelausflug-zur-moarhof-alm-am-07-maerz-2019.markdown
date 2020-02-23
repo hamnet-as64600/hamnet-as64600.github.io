@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2019-02-22 15:13:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/rodelausflug-zur-moarhof-alm-am-07-maerz-2019/
 slug: rodelausflug-zur-moarhof-alm-am-07-maerz-2019
 title: Rodelausflug zur Moarhof Alm am 07. März 2019.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-08 10:27:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/datum-fieldday-steht-nun-fest/
 slug: datum-fieldday-steht-nun-fest
 title: Datum Fieldday steht nun fest.

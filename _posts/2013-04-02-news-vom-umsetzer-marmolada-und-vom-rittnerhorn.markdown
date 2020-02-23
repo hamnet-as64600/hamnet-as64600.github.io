@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-02 18:53:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/news-vom-umsetzer-marmolada-und-vom-rittnerhorn/
 slug: news-vom-umsetzer-marmolada-und-vom-rittnerhorn
 title: News vom Umsetzer Marmolada und vom Rittnerhorn

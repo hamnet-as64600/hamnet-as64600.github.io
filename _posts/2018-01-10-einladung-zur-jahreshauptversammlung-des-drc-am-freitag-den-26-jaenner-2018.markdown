@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-10 08:02:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-jahreshauptversammlung-des-drc-am-freitag-den-26-jaenner-2018/
 slug: einladung-zur-jahreshauptversammlung-des-drc-am-freitag-den-26-jaenner-2018
 title: Einladung zur Jahreshauptversammlung des DRC am Freitag, den 26. Jänner 2018.

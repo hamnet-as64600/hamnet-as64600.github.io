@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-02-26 06:54:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/betriebstechnikkurs-fur-neulizensierte-funkamateure-3/
 slug: betriebstechnikkurs-fur-neulizensierte-funkamateure-3
 title: Betriebstechnikkurs für neulizensierte Funkamateure

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2020-02-20 18:36:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-war-der-besuch-im-radiomuseum-und-im-e-werk/
 slug: so-war-der-besuch-im-radiomuseum-und-im-e-werk
 title: So war der Besuch im Radiomuseum und im E-Werk.

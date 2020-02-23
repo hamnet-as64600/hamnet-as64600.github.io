@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-08-25 09:55:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-vorbereitungen-zum-drei-zinnen-run-laufen-auf-hochtouren/
 slug: die-vorbereitungen-zum-drei-zinnen-run-laufen-auf-hochtouren
 title: Die Vorbereitungen zum DREI ZINNEN RUN laufen auf Hochtouren.

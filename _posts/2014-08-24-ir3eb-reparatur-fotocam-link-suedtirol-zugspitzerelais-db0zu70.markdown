@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-08-24 21:00:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3eb-reparatur-fotocam-link-suedtirol-zugspitzerelais-db0zu70/
 slug: ir3eb-reparatur-fotocam-link-suedtirol-zugspitzerelais-db0zu70
 title: 'IR3EB: Reparatur Fotocam, Link Südtirol & Zugspitzerelais DB0ZU/70'

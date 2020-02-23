@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-02 06:54:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/vorbereitungen-zum-fieldday-sind-getroffen/
 slug: vorbereitungen-zum-fieldday-sind-getroffen
 title: Vorbereitungen zum Fieldday sind getroffen

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-10-02 12:19:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/marlinger-berg-hamnet-userzugang-aktiviert/
 slug: marlinger-berg-hamnet-userzugang-aktiviert
 title: Marlinger Berg - Hamnet Userzugang aktiviert!

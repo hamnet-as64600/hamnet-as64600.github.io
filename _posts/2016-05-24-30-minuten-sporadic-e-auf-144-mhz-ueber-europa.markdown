@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-24 07:54:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/30-minuten-sporadic-e-auf-144-mhz-ueber-europa/
 slug: 30-minuten-sporadic-e-auf-144-mhz-ueber-europa
 title: 30 Minuten Sporadic-E auf 144 MHz über Europa

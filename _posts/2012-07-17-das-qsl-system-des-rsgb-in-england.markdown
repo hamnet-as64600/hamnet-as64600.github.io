@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-17 12:16:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-qsl-system-des-rsgb-in-england/
 slug: das-qsl-system-des-rsgb-in-england
 title: Das QSL-System des RSGB in England

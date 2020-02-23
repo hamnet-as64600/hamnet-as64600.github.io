@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-12-06 14:53:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer-2020/
 slug: mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer-2020
 title: Mitgliedsbeitrag DRC  und staatliche Amateurfunkgebühr für 2020.

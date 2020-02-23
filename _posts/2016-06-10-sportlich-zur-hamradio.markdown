@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-10 12:35:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/sportlich-zur-hamradio/
 slug: sportlich-zur-hamradio
 title: Sportlich zur Hamradio.

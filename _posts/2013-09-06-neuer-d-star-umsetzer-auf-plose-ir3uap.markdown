@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-06 05:35:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/neuer-d-star-umsetzer-auf-plose-ir3uap/
 slug: neuer-d-star-umsetzer-auf-plose-ir3uap
 title: Neuer D-STAR Umsetzer auf Plose IR3UAP

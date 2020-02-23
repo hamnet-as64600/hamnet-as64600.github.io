@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-09-06 09:31:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkamateure-stellen-sich-vor-zu-besuch-bei-bayerischen-amateurfunkern/
 slug: funkamateure-stellen-sich-vor-zu-besuch-bei-bayerischen-amateurfunkern
 title: 'Funkamateure stellen sich vor: Zu Besuch bei bayerischen Amateurfunkern.'

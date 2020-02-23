@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-01-19 13:52:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/antarctic-activity-week/
 slug: antarctic-activity-week
 title: Antarctic Activity Week

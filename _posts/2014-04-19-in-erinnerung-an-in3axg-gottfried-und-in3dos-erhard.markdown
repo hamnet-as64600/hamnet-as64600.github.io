@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-04-19 13:56:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/in-erinnerung-an-in3axg-gottfried-und-in3dos-erhard/
 slug: in-erinnerung-an-in3axg-gottfried-und-in3dos-erhard
 title: In Erinnerung an IN3AXG Gottfried und IN3DOS Erhard

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-10 14:00:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/sonderstationen-zum-weltradiotag-2017-qrv/
 slug: sonderstationen-zum-weltradiotag-2017-qrv
 title: Sonderstationen zum Weltradiotag 2017 QRV

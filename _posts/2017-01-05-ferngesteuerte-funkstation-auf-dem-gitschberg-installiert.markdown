@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-05 10:25:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/ferngesteuerte-funkstation-auf-dem-gitschberg-installiert/
 slug: ferngesteuerte-funkstation-auf-dem-gitschberg-installiert
 title: Ferngesteuerte Funkstation auf dem Gitschberg installiert

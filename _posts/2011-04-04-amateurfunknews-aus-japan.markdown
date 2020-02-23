@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-04-04 07:15:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunknews-aus-japan/
 slug: amateurfunknews-aus-japan
 title: Amateurfunknews aus Japan

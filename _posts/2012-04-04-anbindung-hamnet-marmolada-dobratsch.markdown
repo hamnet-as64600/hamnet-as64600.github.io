@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-04-04 13:46:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/anbindung-hamnet-marmolada-dobratsch/
 slug: anbindung-hamnet-marmolada-dobratsch
 title: Anbindung Hamnet Marmolada-Dobratsch

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-04-08 20:14:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-paolo-iw3bts/
 slug: neues-mitglied-im-drc-paolo-iw3bts
 title: 'Neues Mitglied im DRC: Paolo, IW3BTS'

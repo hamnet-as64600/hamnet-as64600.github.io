@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-04-30 13:54:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-70-cm-ir3ugm-gantkofel-installationsbereit/
 slug: d-star-70-cm-ir3ugm-gantkofel-installationsbereit
 title: D-Star 70 cm IR3UGM Gantkofel installationsbereit!

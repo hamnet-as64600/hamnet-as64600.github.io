@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-05-07 19:17:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurs-hamoffice-logbuchprogramm/
 slug: kurs-hamoffice-logbuchprogramm
 title: Kurs Hamoffice Logbuchprogramm

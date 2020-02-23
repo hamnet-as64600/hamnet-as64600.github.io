@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-29 09:43:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/unglaublich-der-drc-verlost-10-000e/
 slug: unglaublich-der-drc-verlost-10-000e
 title: '** Unglaublich, der DRC verlost 10.000 € **'

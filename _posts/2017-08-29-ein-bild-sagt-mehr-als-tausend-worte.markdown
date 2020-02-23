@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-08-29 10:16:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/ein-bild-sagt-mehr-als-tausend-worte/
 slug: ein-bild-sagt-mehr-als-tausend-worte
 title: '"Ein Bild sagt mehr als tausend Worte"'

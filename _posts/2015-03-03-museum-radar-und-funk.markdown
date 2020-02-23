@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-03 10:33:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/museum-radar-und-funk/
 slug: museum-radar-und-funk
 title: Museum "Radar und Funk"

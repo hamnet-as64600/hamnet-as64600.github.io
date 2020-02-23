@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-27 15:07:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/kameratest-fur-den-drei-zinnen-marathon/
 slug: kameratest-fur-den-drei-zinnen-marathon
 title: Kameratest für den Drei-Zinnen-Marathon

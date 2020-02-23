@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-01-02 07:59:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunkgebuhr-fur-2011/
 slug: amateurfunkgebuhr-fur-2011
 title: Amateurfunkgebühr für 2012

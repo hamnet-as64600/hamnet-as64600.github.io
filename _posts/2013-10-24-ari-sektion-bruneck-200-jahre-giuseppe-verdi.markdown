@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-24 07:57:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/ari-sektion-bruneck-200-jahre-giuseppe-verdi/
 slug: ari-sektion-bruneck-200-jahre-giuseppe-verdi
 title: 'ARI Sektion Bruneck: 200 Jahre Giuseppe Verdi'

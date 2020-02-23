@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-09-17 06:56:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/zeit-danke-zu-sagen/
 slug: zeit-danke-zu-sagen
 title: Zeit "DANKE" zu sagen

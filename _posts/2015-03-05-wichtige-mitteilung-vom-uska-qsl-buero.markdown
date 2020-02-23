@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-05 15:53:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/wichtige-mitteilung-vom-uska-qsl-buero/
 slug: wichtige-mitteilung-vom-uska-qsl-buero
 title: Wichtige Mitteilung vom USKA QSL Büro.

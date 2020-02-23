@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-30 12:49:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunk-bei-erdbeben-in-nepal-und-indien/
 slug: notfunk-bei-erdbeben-in-nepal-und-indien
 title: Notfunk bei Erdbeben in Nepal und Indien

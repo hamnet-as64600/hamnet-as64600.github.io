@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-12 18:49:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-gitschberg-ist-installiert/
 slug: hamnet-gitschberg-ist-installiert
 title: 'Hamnet: Gitschberg ist installiert.'

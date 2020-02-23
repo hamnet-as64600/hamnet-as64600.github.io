@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-08-27 07:27:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/fotos-von-der-grillfeier-2018-sind-im-fotoalbum/
 slug: fotos-von-der-grillfeier-2018-sind-im-fotoalbum
 title: Fotos von der Grillfeier 2018 sind im Fotoalbum.

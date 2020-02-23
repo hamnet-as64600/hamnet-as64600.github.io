@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-06 05:48:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3biy-gino-fait-aus-rovereto/
 slug: silent-key-in3biy-gino-fait-aus-rovereto
 title: 'Silent key: IN3BIY, Gino Fait, aus Rovereto.'

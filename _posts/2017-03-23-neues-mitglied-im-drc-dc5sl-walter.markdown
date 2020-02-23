@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-03-23 15:48:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dc5sl-walter/
 slug: neues-mitglied-im-drc-dc5sl-walter
 title: 'Neues Mitglied im DRC: DC5SL Walter'

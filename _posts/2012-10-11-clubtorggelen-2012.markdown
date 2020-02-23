@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-11 11:34:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/clubtorggelen-2012/
 slug: clubtorggelen-2012
 title: Clubtörggelen im "Villscheider Hof" in Brixen

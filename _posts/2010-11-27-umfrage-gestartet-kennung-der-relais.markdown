@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-11-27 13:22:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/umfrage-gestartet-kennung-der-relais/
 slug: umfrage-gestartet-kennung-der-relais
 title: 'Umfrage gestartet: Kennung der Relais.'

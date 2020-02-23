@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-11-28 11:08:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uhf-rittnerhorn-bekommt-neuen-zentralen-server-im-hamnet/
 slug: ir3uhf-rittnerhorn-bekommt-neuen-zentralen-server-im-hamnet
 title: IR3UHF - Rittnerhorn bekommt neuen zentralen Server im Hamnet

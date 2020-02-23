@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-08-28 08:48:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-oe7agt-gottfried/
 slug: neues-mitglied-im-drc-oe7agt-gottfried
 title: 'Neues Mitglied im DRC: OE7AGT Gottfried'

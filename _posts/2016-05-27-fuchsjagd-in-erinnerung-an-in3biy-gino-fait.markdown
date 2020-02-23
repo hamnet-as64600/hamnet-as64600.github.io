@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-05-27 12:52:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/fuchsjagd-in-erinnerung-an-in3biy-gino-fait/
 slug: fuchsjagd-in-erinnerung-an-in3biy-gino-fait
 title: Fuchsjagd in Erinnerung an IN3BIY, Gino Fait.

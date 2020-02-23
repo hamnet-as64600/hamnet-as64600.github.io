@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-01 16:11:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-seceda-ist-installiert/
 slug: hamnet-seceda-ist-installiert
 title: HAMNET Seceda ist installiert

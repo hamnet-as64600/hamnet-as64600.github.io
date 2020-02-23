@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-09-06 15:10:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/offentlichkeitsarbeit-im-drc/
 slug: offentlichkeitsarbeit-im-drc
 title: Öffentlichkeitsarbeit im DRC

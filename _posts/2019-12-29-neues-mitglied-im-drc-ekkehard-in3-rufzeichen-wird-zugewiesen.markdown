@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-12-29 17:28:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-ekkehard-in3-rufzeichen-wird-zugewiesen/
 slug: neues-mitglied-im-drc-ekkehard-in3-rufzeichen-wird-zugewiesen
 title: 'Neues Mitglied im DRC: Ekkehard, IN3??? (Rufzeichen wird zugewiesen)'

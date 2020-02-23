@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-02 12:57:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/wichtige-info-an-die-teilnehmer-besuch-planetarium/
 slug: wichtige-info-an-die-teilnehmer-besuch-planetarium
 title: Wichtige Info an die Teilnehmer Besuch Planetarium

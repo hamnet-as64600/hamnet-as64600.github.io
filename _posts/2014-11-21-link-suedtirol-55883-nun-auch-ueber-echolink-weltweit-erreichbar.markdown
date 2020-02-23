@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-11-21 22:41:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-55883-nun-auch-ueber-echolink-weltweit-erreichbar/
 slug: link-suedtirol-55883-nun-auch-ueber-echolink-weltweit-erreichbar
 title: Link Südtirol (55883) nun auch über Echolink weltweit erreichbar!

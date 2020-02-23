@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-10-14 09:45:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-kronplatzrelais-sendet-vom-ras-funkturm/
 slug: das-kronplatzrelais-sendet-vom-ras-funkturm
 title: Das Kronplatzrelais sendet jetzt vom RAS Funkturm.

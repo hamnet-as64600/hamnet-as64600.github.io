@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-04-22 13:32:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/brenner-basistunnel-baustellenbesuch-am-6-mai-2016-1-platz-noch-frei/
 slug: brenner-basistunnel-baustellenbesuch-am-6-mai-2016-1-platz-noch-frei
 title: Brenner Basistunnel – Baustellenbesuch am 6. Mai 2016 - 1 Platz noch frei!

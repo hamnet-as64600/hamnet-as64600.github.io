@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-19 08:43:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkuebung-mit-in3erw-reinhart/
 slug: funkuebung-mit-in3erw-reinhart
 title: Funkübung mit IN3ERW - Reinhart

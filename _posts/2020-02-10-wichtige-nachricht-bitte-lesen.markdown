@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2020-02-10 14:01:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/wichtige-nachricht-bitte-lesen/
 slug: wichtige-nachricht-bitte-lesen
 title: 'WICHTIGE NACHRICHT: Bitte lesen!!!!'

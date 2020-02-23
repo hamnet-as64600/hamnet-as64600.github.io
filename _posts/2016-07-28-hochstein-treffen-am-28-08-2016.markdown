@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-28 12:28:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/hochstein-treffen-am-28-08-2016/
 slug: hochstein-treffen-am-28-08-2016
 title: Hochstein Treffen am 28.08.2016

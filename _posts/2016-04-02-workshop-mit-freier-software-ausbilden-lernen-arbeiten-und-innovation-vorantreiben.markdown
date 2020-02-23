@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-02 16:58:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/workshop-mit-freier-software-ausbilden-lernen-arbeiten-und-innovation-vorantreiben/
 slug: workshop-mit-freier-software-ausbilden-lernen-arbeiten-und-innovation-vorantreiben
 title: 'Workshop: "Mit freier Software ausbilden, lernen, arbeiten und Innovation

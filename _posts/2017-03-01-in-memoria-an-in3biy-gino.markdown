@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-03-01 10:51:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/in-memoria-an-in3biy-gino/
 slug: in-memoria-an-in3biy-gino
 title: In Memoria an IN3BIY - Gino

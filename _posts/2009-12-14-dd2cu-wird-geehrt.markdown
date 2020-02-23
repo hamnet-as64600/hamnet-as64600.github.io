@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2009-12-14 10:34:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/dd2cu-wird-geehrt/
 slug: dd2cu-wird-geehrt
 title: DD2CU erhält Ehrenurkunde.

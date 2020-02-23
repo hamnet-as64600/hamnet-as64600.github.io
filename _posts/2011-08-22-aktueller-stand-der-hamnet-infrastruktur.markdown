@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2011-08-22 10:47:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktueller-stand-der-hamnet-infrastruktur/
 slug: aktueller-stand-der-hamnet-infrastruktur
 title: 'Starke Verbindungen: Aktueller Stand der HAMNET-Infrastruktur'

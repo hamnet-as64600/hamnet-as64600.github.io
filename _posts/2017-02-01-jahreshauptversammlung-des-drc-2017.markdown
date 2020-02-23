@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-01 08:45:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/jahreshauptversammlung-des-drc-2017/
 slug: jahreshauptversammlung-des-drc-2017
 title: So war die Jahreshauptversammlung des DRC 2017

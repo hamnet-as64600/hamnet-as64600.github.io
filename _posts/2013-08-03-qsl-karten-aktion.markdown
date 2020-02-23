@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-08-03 17:28:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-karten-aktion/
 slug: qsl-karten-aktion
 title: QSL-Karten Aktion

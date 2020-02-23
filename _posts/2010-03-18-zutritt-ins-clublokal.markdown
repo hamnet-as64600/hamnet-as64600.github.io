@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-03-18 13:59:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/zutritt-ins-clublokal/
 slug: zutritt-ins-clublokal
 title: Zutritt ins Clublokal

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-09-24 15:48:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-sudtirol-update-qrg/
 slug: link-sudtirol-update-qrg
 title: Link Südtirol - Update QRG

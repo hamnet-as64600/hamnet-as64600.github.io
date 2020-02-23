@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-16 16:13:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-dienst-fur-alle-mitglieder/
 slug: qsl-dienst-fur-alle-mitglieder
 title: Der QSL Dienst für alle Mitglieder ist im Anrollen!

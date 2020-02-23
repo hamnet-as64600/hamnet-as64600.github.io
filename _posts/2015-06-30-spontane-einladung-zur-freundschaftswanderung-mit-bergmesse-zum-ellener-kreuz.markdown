@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-06-30 07:23:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/spontane-einladung-zur-freundschaftswanderung-mit-bergmesse-zum-ellener-kreuz/
 slug: spontane-einladung-zur-freundschaftswanderung-mit-bergmesse-zum-ellener-kreuz
 title: Spontane Einladung  zur  Freundschaftswanderung  mit Bergmesse zum "Ellener

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-22 10:10:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-teilnahme-am-alpe-adria-contest-2015-auf-der-seceda-von-arcl/
 slug: einladung-zur-teilnahme-am-alpe-adria-contest-2015-auf-der-seceda-von-arcl
 title: Einladung zur Teilnahme am Alpe Adria Contest 2015 auf der Seceda von ARCL

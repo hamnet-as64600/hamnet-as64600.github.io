@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-05 12:53:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatz-am-gantkofel-wer-moechte-helfen/
 slug: einsatz-am-gantkofel-wer-moechte-helfen
 title: 'Einsatz am Gantkofel: Wer möchte helfen?'

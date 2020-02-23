@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2018-08-20 06:25:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-ir3uhf-link-suedtirol-bekommt-2-neue-dipole/
 slug: rittnerhorn-ir3uhf-link-suedtirol-bekommt-2-neue-dipole
 title: Rittnerhorn IR3UHF - Link Südtirol bekommt 2 neue Dipole

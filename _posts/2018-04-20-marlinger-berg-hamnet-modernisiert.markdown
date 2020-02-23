@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-20 06:30:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/marlinger-berg-hamnet-modernisiert/
 slug: marlinger-berg-hamnet-modernisiert
 title: Marlinger Berg IR3UHE - Hamnet modernisiert

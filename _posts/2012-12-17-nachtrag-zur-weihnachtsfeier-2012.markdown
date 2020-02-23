@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-17 08:41:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zur-weihnachtsfeier-2012/
 slug: nachtrag-zur-weihnachtsfeier-2012
 title: Nachtrag zur Weihnachtsfeier 2012

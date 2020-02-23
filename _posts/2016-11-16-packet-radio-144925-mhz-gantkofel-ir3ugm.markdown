@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-11-16 20:32:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/packet-radio-144925-mhz-gantkofel-ir3ugm/
 slug: packet-radio-144925-mhz-gantkofel-ir3ugm
 title: Packet Radio 144,925 MHz - Gantkofel IR3UGM

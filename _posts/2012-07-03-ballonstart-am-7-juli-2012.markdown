@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-03 12:58:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/ballonstart-am-7-juli-2012/
 slug: ballonstart-am-7-juli-2012
 title: Ballonstart am 7. Juli 2012

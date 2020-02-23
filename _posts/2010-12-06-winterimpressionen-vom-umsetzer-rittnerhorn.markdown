@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-12-06 09:50:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/winterimpressionen-vom-umsetzer-rittnerhorn/
 slug: winterimpressionen-vom-umsetzer-rittnerhorn
 title: Winterimpressionen vom Umsetzer Rittnerhorn

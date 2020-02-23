@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-08 09:43:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-in-der-tageszeitung-dolomiten/
 slug: drc-in-der-tageszeitung-dolomiten
 title: DRC in der Tageszeitung DOLOMITEN

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-15 08:37:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/anleitung-fuer-d-star-funkbetrieb/
 slug: anleitung-fuer-d-star-funkbetrieb
 title: Anleitung für D-STAR Funkbetrieb

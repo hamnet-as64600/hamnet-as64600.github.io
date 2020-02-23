@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-10-17 09:15:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/hochgenaues-globales-hoehenmodell-fertiggestellt/
 slug: hochgenaues-globales-hoehenmodell-fertiggestellt
 title: Hochgenaues globales Höhenmodell fertiggestellt

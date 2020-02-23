@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-19 10:30:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/sstv-uebertragungen-von-der-ariss/
 slug: sstv-uebertragungen-von-der-ariss
 title: SSTV-Übertragungen von der ARISS

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-29 07:06:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-sudtirol-by-iw3amq-thomas/
 slug: link-sudtirol-by-iw3amq-thomas
 title: '"Link Südtirol" by IW3AMQ Thomas'

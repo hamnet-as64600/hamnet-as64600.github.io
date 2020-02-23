@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-05 11:28:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/aufruf-zum-clubtorggelen/
 slug: aufruf-zum-clubtorggelen
 title: Aufruf zum Clubtörggelen

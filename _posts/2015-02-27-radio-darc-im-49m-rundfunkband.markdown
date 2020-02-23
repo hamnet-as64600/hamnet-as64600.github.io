@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-02-27 08:08:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/radio-darc-im-49m-rundfunkband/
 slug: radio-darc-im-49m-rundfunkband
 title: Radio DARC im 49m Rundfunkband

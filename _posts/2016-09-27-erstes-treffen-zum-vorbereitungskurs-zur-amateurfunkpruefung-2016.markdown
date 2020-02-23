@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-09-27 05:45:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/erstes-treffen-zum-vorbereitungskurs-zur-amateurfunkpruefung-2016/
 slug: erstes-treffen-zum-vorbereitungskurs-zur-amateurfunkpruefung-2016
 title: Erstes Treffen zum Vorbereitungskurs zur Amateurfunkprüfung 2016

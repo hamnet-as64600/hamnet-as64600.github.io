@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-04-28 12:48:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/interessantes-zur-kw-ausbreitung/
 slug: interessantes-zur-kw-ausbreitung
 title: Interessantes zur KW-Ausbreitung

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-03-26 13:05:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-nimmt-teil-an-veranstaltung-brunecker-sommer/
 slug: drc-nimmt-teil-an-veranstaltung-brunecker-sommer
 title: DRC nimmt teil an Veranstaltung "Brunecker Sommer"

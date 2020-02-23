@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-05-07 06:06:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/cq-die-amateurfunk-sendung/
 slug: cq-die-amateurfunk-sendung
 title: CQ-Die Amateurfunk Sendung

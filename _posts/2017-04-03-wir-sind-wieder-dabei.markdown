@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-04-03 09:32:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/wir-sind-wieder-dabei/
 slug: wir-sind-wieder-dabei
 title: Wir sind wieder dabei!!!!

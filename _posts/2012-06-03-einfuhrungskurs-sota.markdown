@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-03 05:43:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/einfuhrungskurs-sota/
 slug: einfuhrungskurs-sota
 title: Einführungskurs SOTA

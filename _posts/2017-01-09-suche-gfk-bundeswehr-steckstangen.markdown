@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-09 13:28:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/suche-gfk-bundeswehr-steckstangen/
 slug: suche-gfk-bundeswehr-steckstangen
 title: Suche GFK Bundeswehr Steckstangen.

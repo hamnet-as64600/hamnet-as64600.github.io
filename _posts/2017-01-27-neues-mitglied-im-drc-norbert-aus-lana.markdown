@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-27 09:48:09+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-norbert-aus-lana/
 slug: neues-mitglied-im-drc-norbert-aus-lana
 title: 'Neues Mitglied im DRC: Norbert aus Lana'

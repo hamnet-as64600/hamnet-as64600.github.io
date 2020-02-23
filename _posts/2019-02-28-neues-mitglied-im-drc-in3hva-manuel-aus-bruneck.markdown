@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-02-28 18:07:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3hva-manuel-aus-bruneck/
 slug: neues-mitglied-im-drc-in3hva-manuel-aus-bruneck
 title: 'Neues Mitglied im DRC: IN3HVA Manuel aus Bruneck'

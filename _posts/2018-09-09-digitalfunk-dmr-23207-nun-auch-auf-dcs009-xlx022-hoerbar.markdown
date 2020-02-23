@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-09-09 09:10:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/digitalfunk-dmr-23207-nun-auch-auf-dcs009-xlx022-hoerbar/
 slug: digitalfunk-dmr-23207-nun-auch-auf-dcs009-xlx022-hoerbar
 title: 'Digitalfunk: DMR 23207 nun auch auf DCS009/XLX022 hörbar'

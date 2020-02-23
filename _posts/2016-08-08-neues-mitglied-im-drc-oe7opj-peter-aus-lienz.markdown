@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-08 06:51:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-oe7opj-peter-aus-lienz/
 slug: neues-mitglied-im-drc-oe7opj-peter-aus-lienz
 title: 'Neues Mitglied im DRC: OE7OPJ, Peter aus Lienz'

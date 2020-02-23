@@ -2,7 +2,7 @@
 author: IN3HCD
 comments: false
 date: 2019-07-22 19:50:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/22-suedtirol-drei-zinnen-alpine-run-samstag-14-09-2019-helfer-bitte-melden/
 slug: 22-suedtirol-drei-zinnen-alpine-run-samstag-14-09-2019-helfer-bitte-melden
 title: 22. Südtirol Drei Zinnen Alpine Run Samstag  14.09.2019  Helfer bitte Melden

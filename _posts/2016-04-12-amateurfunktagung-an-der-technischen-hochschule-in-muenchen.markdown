@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-04-12 13:44:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunktagung-an-der-technischen-hochschule-in-muenchen/
 slug: amateurfunktagung-an-der-technischen-hochschule-in-muenchen
 title: Amateurfunktagung an der Technischen Hochschule in München

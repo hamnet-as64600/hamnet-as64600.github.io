@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-03-22 08:17:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-in-sudtirol-heute/
 slug: der-drc-in-sudtirol-heute
 title: Der Dolomites Radio Club in "Südtirol Heute"

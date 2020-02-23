@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-02-04 13:00:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktualisierung-eurer-e-mail-adresse/
 slug: aktualisierung-eurer-e-mail-adresse
 title: Aktualisierung eurer E-Mail Adresse!

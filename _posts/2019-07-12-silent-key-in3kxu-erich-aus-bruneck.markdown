@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-07-12 05:25:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3kxu-erich-aus-bruneck/
 slug: silent-key-in3kxu-erich-aus-bruneck
 title: 'Silent key: IN3KXU Erich aus Bruneck'

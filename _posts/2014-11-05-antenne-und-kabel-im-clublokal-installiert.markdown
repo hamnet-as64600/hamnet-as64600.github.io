@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-05 10:27:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/antenne-und-kabel-im-clublokal-installiert/
 slug: antenne-und-kabel-im-clublokal-installiert
 title: Antenne und Kabel im Clublokal installiert.

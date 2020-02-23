@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-09-29 09:58:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachricht-an-die-helfer-des-3-zinnen-laufes-2017/
 slug: nachricht-an-die-helfer-des-3-zinnen-laufes-2017
 title: Nachricht an die Helfer des 3 Zinnen Laufes 2017

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2018-04-03 07:43:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-vereinshomepage-im-neuen-kleid/
 slug: die-vereinshomepage-im-neuen-kleid
 title: Die Vereinshomepage im neuen Kleid.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-12-01 07:20:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/r4-ir3uhf-rittnerhorn-echolink-wieder-aktiv/
 slug: r4-ir3uhf-rittnerhorn-echolink-wieder-aktiv
 title: 'R4 - IR3UHF, Rittnerhorn: Echolink wieder aktiv'

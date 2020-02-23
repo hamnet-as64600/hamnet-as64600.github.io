@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-18 13:15:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/prompte-vorbereitungen-fuer-die-uebersiedelung-rittnerhorn/
 slug: prompte-vorbereitungen-fuer-die-uebersiedelung-rittnerhorn
 title: Prompte Vorbereitungen für die Übersiedelung Rittnerhorn

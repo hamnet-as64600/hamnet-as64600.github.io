@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-05-08 18:59:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3eub-patrick/
 slug: neues-mitglied-im-drc-in3eub-patrick
 title: 'Neues Mitglied im DRC: IN3EUB Patrick'

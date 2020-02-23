@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-18 18:13:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/feedback-sota-manager-italien/
 slug: feedback-sota-manager-italien
 title: Mitteilung vom SOTA MANAGER ITALIEN

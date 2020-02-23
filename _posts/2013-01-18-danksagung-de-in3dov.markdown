@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-18 16:40:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/danksagung-de-in3dov/
 slug: danksagung-de-in3dov
 title: Danksagung de IN3DOV

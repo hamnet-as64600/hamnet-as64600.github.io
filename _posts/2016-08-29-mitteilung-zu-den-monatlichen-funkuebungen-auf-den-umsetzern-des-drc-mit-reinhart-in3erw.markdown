@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-29 09:28:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitteilung-zu-den-monatlichen-funkuebungen-auf-den-umsetzern-des-drc-mit-reinhart-in3erw/
 slug: mitteilung-zu-den-monatlichen-funkuebungen-auf-den-umsetzern-des-drc-mit-reinhart-in3erw
 title: Mitteilung zu den monatlichen Funkübungen auf den Umsetzern des DRC mit Reinhart

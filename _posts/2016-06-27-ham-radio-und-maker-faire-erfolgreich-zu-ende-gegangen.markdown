@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-27 09:59:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/ham-radio-und-maker-faire-erfolgreich-zu-ende-gegangen/
 slug: ham-radio-und-maker-faire-erfolgreich-zu-ende-gegangen
 title: Ham Radio und Maker Faire erfolgreich zu Ende gegangen

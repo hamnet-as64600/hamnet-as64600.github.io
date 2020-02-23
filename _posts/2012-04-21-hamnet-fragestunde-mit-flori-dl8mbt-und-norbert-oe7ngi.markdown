@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-04-21 07:42:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-fragestunde-mit-flori-dl8mbt-und-norbert-oe7ngi/
 slug: hamnet-fragestunde-mit-flori-dl8mbt-und-norbert-oe7ngi
 title: HamNet-Aktion am Kronplatz mit DL8MBT, OE7NGI und OE7DDI

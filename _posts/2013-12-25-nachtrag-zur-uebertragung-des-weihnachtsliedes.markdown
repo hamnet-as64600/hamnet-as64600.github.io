@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-25 08:15:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zur-uebertragung-des-weihnachtsliedes/
 slug: nachtrag-zur-uebertragung-des-weihnachtsliedes
 title: Nachtrag zur Übertragung des Weihnachtsliedes

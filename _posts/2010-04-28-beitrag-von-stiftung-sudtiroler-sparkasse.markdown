@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-28 13:02:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/beitrag-von-stiftung-sudtiroler-sparkasse/
 slug: beitrag-von-stiftung-sudtiroler-sparkasse
 title: Beitrag von Stiftung Südtiroler Sparkasse

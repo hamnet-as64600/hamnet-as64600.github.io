@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-07-09 06:48:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-zweiter-feldtest/
 slug: hamnet-zweiter-feldtest
 title: HamNet - zweiter Feldtest

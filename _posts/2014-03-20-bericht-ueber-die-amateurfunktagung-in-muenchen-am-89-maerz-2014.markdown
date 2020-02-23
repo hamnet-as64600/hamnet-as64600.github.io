@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-03-20 08:46:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-ueber-die-amateurfunktagung-in-muenchen-am-89-maerz-2014/
 slug: bericht-ueber-die-amateurfunktagung-in-muenchen-am-89-maerz-2014
 title: Bericht über die Amateurfunktagung in München am 8/9 März 2014

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-21 17:24:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-fotos-vom-gitschberg-relais/
 slug: neue-fotos-vom-gitschberg-relais
 title: Neue Fotos vom Gitschberg Relais

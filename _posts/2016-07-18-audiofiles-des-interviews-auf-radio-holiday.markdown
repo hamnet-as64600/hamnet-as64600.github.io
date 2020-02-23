@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-18 11:52:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/audiofiles-des-interviews-auf-radio-holiday/
 slug: audiofiles-des-interviews-auf-radio-holiday
 title: Audiofiles des Interviews auf Radio Holiday.

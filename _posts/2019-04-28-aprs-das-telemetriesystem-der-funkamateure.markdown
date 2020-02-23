@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2019-04-28 09:48:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-das-telemetriesystem-der-funkamateure/
 slug: aprs-das-telemetriesystem-der-funkamateure
 title: Vortrag über APRS – Das Telemetriesystem der Funkamateure

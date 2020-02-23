@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-09-26 10:27:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliedbeitragserhohung-auf-25e-ab-2013/
 slug: mitgliedbeitragserhohung-auf-25e-ab-2013
 title: Mitgliedbeitragserhöhung auf 25€ ab 2013

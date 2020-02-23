@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-04 15:24:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-iw5ehy-marco/
 slug: neues-mitglied-iw5ehy-marco
 title: 'Neues Mitglied: IW5EHY Marco'

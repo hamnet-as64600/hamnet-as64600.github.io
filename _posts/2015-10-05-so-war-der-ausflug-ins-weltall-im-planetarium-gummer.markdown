@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-05 07:54:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-war-der-ausflug-ins-weltall-im-planetarium-gummer/
 slug: so-war-der-ausflug-ins-weltall-im-planetarium-gummer
 title: So war der Ausflug ins Weltall im Planetarium Gummer.

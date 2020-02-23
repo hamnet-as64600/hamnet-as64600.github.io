@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-09-11 18:26:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/definitiver-einsatzplan-fuer-den-drei-zinnen-run-2014/
 slug: definitiver-einsatzplan-fuer-den-drei-zinnen-run-2014
 title: Definitiver Einsatzplan fuer den Drei Zinnen Run 2014

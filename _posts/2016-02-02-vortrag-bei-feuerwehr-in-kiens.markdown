@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-02 07:12:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-bei-feuerwehr-in-kiens/
 slug: vortrag-bei-feuerwehr-in-kiens
 title: Vortrag bei Feuerwehr in Kiens

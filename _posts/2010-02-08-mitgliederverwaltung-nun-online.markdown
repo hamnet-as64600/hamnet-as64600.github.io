@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-08 12:51:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliederverwaltung-nun-online/
 slug: mitgliederverwaltung-nun-online
 title: Mitgliederverwaltung nun Online.

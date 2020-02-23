@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-07 06:18:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-qso-party-am-20-09-2013/
 slug: d-star-qso-party-am-20-09-2013
 title: D-STAR QSO Party am 20.09.2013

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-24 07:22:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3jrz-fabio-aus-meran/
 slug: neues-mitglied-im-drc-in3jrz-fabio-aus-meran
 title: 'Neues Mitglied im DRC: IN3JRZ Fabio aus Meran'

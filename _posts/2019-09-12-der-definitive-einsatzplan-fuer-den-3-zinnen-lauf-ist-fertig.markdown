@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-09-12 16:03:37+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-definitive-einsatzplan-fuer-den-3-zinnen-lauf-ist-fertig/
 slug: der-definitive-einsatzplan-fuer-den-3-zinnen-lauf-ist-fertig
 title: Der definitive Einsatzplan für den 3 Zinnen Lauf ist fertig.

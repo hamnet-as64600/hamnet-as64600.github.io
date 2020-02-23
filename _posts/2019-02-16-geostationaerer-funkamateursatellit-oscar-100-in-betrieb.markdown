@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-02-16 16:49:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/geostationaerer-funkamateursatellit-oscar-100-in-betrieb/
 slug: geostationaerer-funkamateursatellit-oscar-100-in-betrieb
 title: Geostationärer Funkamateursatellit OSCAR-100 in Betrieb

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-01 14:15:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/drei-neue-mitglieder/
 slug: drei-neue-mitglieder
 title: 'Drei neue Mitglieder: IN3EGK, IN3ECS, IN3EFV'

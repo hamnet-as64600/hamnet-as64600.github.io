@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-08-08 07:49:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkaktivitaten-aus-dem-passeiertal/
 slug: funkaktivitaten-aus-dem-passeiertal
 title: Funkaktivitäten aus dem Passeiertal

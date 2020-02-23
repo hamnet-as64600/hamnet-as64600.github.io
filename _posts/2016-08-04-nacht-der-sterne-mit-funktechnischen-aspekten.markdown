@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-04 09:50:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/nacht-der-sterne-mit-funktechnischen-aspekten/
 slug: nacht-der-sterne-mit-funktechnischen-aspekten
 title: '"Nacht der Sterne" mit funktechnischen Aspekten'

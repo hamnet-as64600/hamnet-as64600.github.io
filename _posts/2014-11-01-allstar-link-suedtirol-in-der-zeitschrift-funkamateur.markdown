@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-01 18:58:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/allstar-link-suedtirol-in-der-zeitschrift-funkamateur/
 slug: allstar-link-suedtirol-in-der-zeitschrift-funkamateur
 title: ALLSTAR LINK SÜDTIROL in der Zeitschrift FUNKAMATEUR

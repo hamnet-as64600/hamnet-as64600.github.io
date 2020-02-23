@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-11-27 18:13:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/lauter-luefter-beim-icom-ic-5100/
 slug: lauter-luefter-beim-icom-ic-5100
 title: Lauter Lüfter beim  ICOM IC-5100

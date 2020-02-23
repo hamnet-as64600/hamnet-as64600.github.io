@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-03-04 08:54:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktionsplan-zur-verbesserung-von-aprs/
 slug: aktionsplan-zur-verbesserung-von-aprs
 title: Aktionsplan zur Verbesserung von APRS.

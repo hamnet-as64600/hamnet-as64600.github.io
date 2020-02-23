@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-05 19:02:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-nazionale-rele-vom-col-visentin-am-uhf-zugspitzrele-db0zu-zu-hoeren/
 slug: link-nazionale-rele-vom-col-visentin-am-uhf-zugspitzrele-db0zu-zu-hoeren
 title: '"Link Nazionale" Relè vom Col Visentin am UHF - Zugspitzrelè DB0ZU zu hören'

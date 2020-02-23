@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-06-28 10:01:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/was-wird-das-wohl-sein/
 slug: was-wird-das-wohl-sein
 title: Was wird das wohl sein?

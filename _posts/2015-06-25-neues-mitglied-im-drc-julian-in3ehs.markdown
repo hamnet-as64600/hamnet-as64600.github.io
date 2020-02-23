@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-06-25 15:44:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-julian-in3ehs/
 slug: neues-mitglied-im-drc-julian-in3ehs
 title: 'Neues Mitglied im DRC: Julian IN3EHS'

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-08-20 07:04:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006/
 slug: rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006
 title: Rittnerhorn IR3UHF - Reflector XLX321 hat nun AMBE Transcoder XC-3006

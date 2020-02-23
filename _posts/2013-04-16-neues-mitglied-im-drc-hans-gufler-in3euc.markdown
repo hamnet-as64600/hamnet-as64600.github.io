@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-16 05:53:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-hans-gufler-in3euc/
 slug: neues-mitglied-im-drc-hans-gufler-in3euc
 title: 'Neues Mitglied im DRC: Hans Gufler IN3EUC'

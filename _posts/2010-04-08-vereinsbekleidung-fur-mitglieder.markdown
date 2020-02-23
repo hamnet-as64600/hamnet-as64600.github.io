@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-08 09:59:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/vereinsbekleidung-fur-mitglieder/
 slug: vereinsbekleidung-fur-mitglieder
 title: Vereinsbekleidung für Mitglieder

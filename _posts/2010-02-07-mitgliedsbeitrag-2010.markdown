@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-07 07:10:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliedsbeitrag-2010/
 slug: mitgliedsbeitrag-2010
 title: Mitgliedsbeitrag 2010

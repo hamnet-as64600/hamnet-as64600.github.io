@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-02-20 18:17:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/umbau-im-cl-meran-funkgeraete-und-technik-installiert/
 slug: umbau-im-cl-meran-funkgeraete-und-technik-installiert
 title: Umbau im CL Meran - Funkgeräte und Technik installiert

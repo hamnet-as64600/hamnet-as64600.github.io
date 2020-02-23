@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-09-05 07:47:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-oe7nji-arnold/
 slug: neues-mitglied-im-drc-oe7nji-arnold
 title: 'Neues Mitglied im DRC: OE7NJI, Arnold'

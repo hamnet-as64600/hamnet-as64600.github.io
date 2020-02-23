@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-03-20 07:48:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnetkurs-zillertal-in3-stark-vertreten/
 slug: hamnetkurs-zillertal-in3-stark-vertreten
 title: Hamnetkurs Zillertal - IN3 stark vertreten!

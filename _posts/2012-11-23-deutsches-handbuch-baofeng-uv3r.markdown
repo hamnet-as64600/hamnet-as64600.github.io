@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-23 13:27:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/deutsches-handbuch-baofeng-uv3r/
 slug: deutsches-handbuch-baofeng-uv3r
 title: Deutsches Handbuch BAOFENG UV3R

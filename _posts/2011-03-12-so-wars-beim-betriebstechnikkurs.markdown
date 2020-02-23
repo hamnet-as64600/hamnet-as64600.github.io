@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-03-12 07:06:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-wars-beim-betriebstechnikkurs/
 slug: so-wars-beim-betriebstechnikkurs
 title: So war's beim Betriebstechnikkurs

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2012-08-22 16:40:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-d-star-fur-anfanger-d-star-repeater-von-dg6rch-christian/
 slug: vortrag-d-star-fur-anfanger-d-star-repeater-von-dg6rch-christian
 title: 'Vortrag: D-Star für Anfänger, D-Star Repeater von DG6RCH, Christian'

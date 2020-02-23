@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-26 11:04:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachts-und-neujahrswuensche-ein-bisschen-anders/
 slug: weihnachts-und-neujahrswuensche-ein-bisschen-anders
 title: Weihnachts- und Neujahrswünsche - ein bißchen anders

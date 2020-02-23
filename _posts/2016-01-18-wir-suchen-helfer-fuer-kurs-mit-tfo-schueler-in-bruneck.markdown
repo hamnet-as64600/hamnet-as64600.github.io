@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2016-01-18 08:18:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/wir-suchen-helfer-fuer-kurs-mit-tfo-schueler-in-bruneck/
 slug: wir-suchen-helfer-fuer-kurs-mit-tfo-schueler-in-bruneck
 title: Wir suchen Helfer für Kurs mit TFO Schüler in Bruneck!

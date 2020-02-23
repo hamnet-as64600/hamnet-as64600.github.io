@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-23 17:46:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamradio-nuetzlicher-flyer-zur-hamradio-2014/
 slug: hamradio-nuetzlicher-flyer-zur-hamradio-2014
 title: 'Hamradio: Nützlicher Flyer zur Hamradio 2014'

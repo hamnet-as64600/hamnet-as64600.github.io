@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-29 13:25:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/password-zum-lesen-der-tagesordnungspunkte-fuer-die-ov-abende-entfernt/
 slug: password-zum-lesen-der-tagesordnungspunkte-fuer-die-ov-abende-entfernt
 title: Password zum Lesen der Tagesordnungspunkte für die OV Abende entfernt.

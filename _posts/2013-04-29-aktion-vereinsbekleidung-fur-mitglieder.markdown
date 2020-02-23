@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-29 07:55:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktion-vereinsbekleidung-fur-mitglieder/
 slug: aktion-vereinsbekleidung-fur-mitglieder
 title: Aktion Vereinsbekleidung für Mitglieder

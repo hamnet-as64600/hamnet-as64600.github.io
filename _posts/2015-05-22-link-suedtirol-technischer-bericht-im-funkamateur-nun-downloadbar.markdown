@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-05-22 17:36:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-technischer-bericht-im-funkamateur-nun-downloadbar/
 slug: link-suedtirol-technischer-bericht-im-funkamateur-nun-downloadbar
 title: Link Südtirol - Technischer Bericht im "Funkamateur" nun downloadbar

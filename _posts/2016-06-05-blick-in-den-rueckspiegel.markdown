@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-05 14:00:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/blick-in-den-rueckspiegel/
 slug: blick-in-den-rueckspiegel
 title: Blick in den Rückspiegel.

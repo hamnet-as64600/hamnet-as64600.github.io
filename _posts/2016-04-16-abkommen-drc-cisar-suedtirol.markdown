@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-04-16 17:45:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/abkommen-drc-cisar-suedtirol/
 slug: abkommen-drc-cisar-suedtirol
 title: Abkommen DRC - Cisar Südtirol

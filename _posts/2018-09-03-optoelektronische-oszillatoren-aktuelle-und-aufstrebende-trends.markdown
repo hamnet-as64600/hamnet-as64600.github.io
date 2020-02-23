@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-09-03 10:20:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/optoelektronische-oszillatoren-aktuelle-und-aufstrebende-trends/
 slug: optoelektronische-oszillatoren-aktuelle-und-aufstrebende-trends
 title: 'Optoelektronische Oszillatoren: Aktuelle und aufstrebende Trends'

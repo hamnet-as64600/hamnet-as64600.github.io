@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-12-21 09:34:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zur-weihnachtsfeier-ehrung-von-in3ssb-und-dg1nfz-fuer-die-40-jaehrige-mitgliedschaft/
 slug: nachtrag-zur-weihnachtsfeier-ehrung-von-in3ssb-und-dg1nfz-fuer-die-40-jaehrige-mitgliedschaft
 title: 'Nachtrag zur Weihnachtsfeier: Ehrung von IN3SSB und DG1NFZ für die 40 jährige

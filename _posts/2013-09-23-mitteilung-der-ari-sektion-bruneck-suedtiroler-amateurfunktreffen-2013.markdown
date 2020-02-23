@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-23 05:47:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitteilung-der-ari-sektion-bruneck-suedtiroler-amateurfunktreffen-2013/
 slug: mitteilung-der-ari-sektion-bruneck-suedtiroler-amateurfunktreffen-2013
 title: 'Mitteilung der ARI Sektion Bruneck: Suedtiroler Amateurfunktreffen 2013'

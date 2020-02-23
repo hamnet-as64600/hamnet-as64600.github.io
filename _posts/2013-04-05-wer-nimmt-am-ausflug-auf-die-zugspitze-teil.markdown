@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-05 14:23:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-nimmt-am-ausflug-auf-die-zugspitze-teil/
 slug: wer-nimmt-am-ausflug-auf-die-zugspitze-teil
 title: Wer nimmt am Ausflug auf die Zugspitze teil?

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-04-16 13:51:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/wir-suchen-ein-neues-clublokal/
 slug: wir-suchen-ein-neues-clublokal
 title: Wir suchen ein neues Clublokal!

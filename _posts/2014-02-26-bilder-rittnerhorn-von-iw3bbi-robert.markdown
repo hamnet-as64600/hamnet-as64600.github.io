@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-02-26 14:19:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/bilder-rittnerhorn-von-iw3bbi-robert/
 slug: bilder-rittnerhorn-von-iw3bbi-robert
 title: Bilder Rittnerhorn von IW3BBI Robert

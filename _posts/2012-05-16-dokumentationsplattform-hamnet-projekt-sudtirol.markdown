@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-05-16 10:19:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/dokumentationsplattform-hamnet-projekt-sudtirol/
 slug: dokumentationsplattform-hamnet-projekt-sudtirol
 title: Dokumentationsplattform "Hamnet-Projekt Südtirol"

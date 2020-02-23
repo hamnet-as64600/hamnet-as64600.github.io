@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-01-30 16:56:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-neue-vorstand-2010-2013/
 slug: der-neue-vorstand-2010-2013
 title: Der neue Vorstand des DRC

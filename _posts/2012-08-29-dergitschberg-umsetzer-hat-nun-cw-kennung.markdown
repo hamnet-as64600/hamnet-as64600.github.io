@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-29 15:33:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/dergitschberg-umsetzer-hat-nun-cw-kennung/
 slug: dergitschberg-umsetzer-hat-nun-cw-kennung
 title: Der Gitschbergumsetzer hat nun CW Kennung.

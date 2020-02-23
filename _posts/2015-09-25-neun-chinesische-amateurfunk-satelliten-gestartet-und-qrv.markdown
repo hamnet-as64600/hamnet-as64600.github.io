@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-25 08:32:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/neun-chinesische-amateurfunk-satelliten-gestartet-und-qrv/
 slug: neun-chinesische-amateurfunk-satelliten-gestartet-und-qrv
 title: Neun chinesische Amateurfunk-Satelliten gestartet und QRV

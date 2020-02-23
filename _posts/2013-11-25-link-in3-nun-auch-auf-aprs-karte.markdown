@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-25 14:58:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-in3-nun-auch-auf-aprs-karte/
 slug: link-in3-nun-auch-auf-aprs-karte
 title: '"Link IN3" nun auch auf APRS Karte'

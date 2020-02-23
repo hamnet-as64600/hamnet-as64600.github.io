@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-02 08:21:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/jahreshauptversammlung-und-ergebnis-der-vorstandswahl/
 slug: jahreshauptversammlung-und-ergebnis-der-vorstandswahl
 title: Jahreshauptversammlung und Ergebnis der Vorstandswahl

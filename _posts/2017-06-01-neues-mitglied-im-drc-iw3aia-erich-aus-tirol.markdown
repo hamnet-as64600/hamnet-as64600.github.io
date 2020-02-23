@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-01 07:55:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-iw3aia-erich-aus-tirol/
 slug: neues-mitglied-im-drc-iw3aia-erich-aus-tirol
 title: 'Neues Mitglied im DRC: IW3AIA Erich aus Tirol'

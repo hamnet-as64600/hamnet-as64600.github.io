@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-27 06:42:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-in3efu-gunther/
 slug: neues-mitglied-in3efu-gunther
 title: 'Neues Mitglied: IN3EFU Jürgen'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-31 16:35:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktualisierung-der-rufzeichen-unserer-echolink-umsetzer/
 slug: aktualisierung-der-rufzeichen-unserer-echolink-umsetzer
 title: Aktualisierung der Rufzeichen unserer Echolink Umsetzer

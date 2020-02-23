@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-15 12:25:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/ari-bozen-mercatino-di-scambiotauschmarkt/
 slug: ari-bozen-mercatino-di-scambiotauschmarkt
 title: 'ARI Bozen: Mercatino di scambio/Tauschmarkt'

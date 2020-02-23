@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-13 13:21:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/fortschritte-auf-dem-weg-zum-handfunkgeraet-der-zukunft/
 slug: fortschritte-auf-dem-weg-zum-handfunkgeraet-der-zukunft
 title: Fortschritte auf dem Weg zum Handfunkgerät der Zukunft

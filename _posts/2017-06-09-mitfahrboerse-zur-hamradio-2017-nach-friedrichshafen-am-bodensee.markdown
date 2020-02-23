@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-09 14:42:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitfahrboerse-zur-hamradio-2017-nach-friedrichshafen-am-bodensee/
 slug: mitfahrboerse-zur-hamradio-2017-nach-friedrichshafen-am-bodensee
 title: Mitfahrbörse zur Hamradio 2017 nach Friedrichshafen am Bodensee.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-14 18:51:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/interview-vom-jubilaeumsfieldday-am-tschaufen-bei-radio-holiday/
 slug: interview-vom-jubilaeumsfieldday-am-tschaufen-bei-radio-holiday
 title: Interview vom Jubiläumsfieldday am Tschaufen bei Radio Holiday

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-26 15:01:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/in-memoria-di-in3pwe-egon/
 slug: in-memoria-di-in3pwe-egon
 title: In memoria di IN3PWE Egon

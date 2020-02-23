@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-06-12 17:08:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/betriebstechnikkurs-in-irenberg/
 slug: betriebstechnikkurs-in-irenberg
 title: Betriebstechnikkurs in Irenberg.

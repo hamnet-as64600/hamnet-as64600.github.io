@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-11-21 08:15:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/vereinsformaenderung-des-drc-abgeschlossen/
 slug: vereinsformaenderung-des-drc-abgeschlossen
 title: Vereinsformänderung des DRC abgeschlossen.

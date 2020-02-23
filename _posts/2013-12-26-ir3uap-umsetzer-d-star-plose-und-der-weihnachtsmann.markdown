@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-26 08:15:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uap-umsetzer-d-star-plose-und-der-weihnachtsmann/
 slug: ir3uap-umsetzer-d-star-plose-und-der-weihnachtsmann
 title: IR3UAP, Umsetzer D-Star Plose, und der Weihnachtsmann....

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-08 18:21:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-des-radio-club-ladinia/
 slug: einladung-des-radio-club-ladinia
 title: Einladung des Radio Club Ladinia

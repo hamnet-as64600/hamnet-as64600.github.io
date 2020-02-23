@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-04-03 14:03:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/svxlink-mit-einem-orange-pi-zero/
 slug: svxlink-mit-einem-orange-pi-zero
 title: Svxlink mit einem Orange Pi Zero

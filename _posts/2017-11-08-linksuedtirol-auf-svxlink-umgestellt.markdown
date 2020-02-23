@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2017-11-08 21:03:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/linksuedtirol-auf-svxlink-umgestellt/
 slug: linksuedtirol-auf-svxlink-umgestellt
 title: LinkSüdtirol auf SVXLink umgestellt

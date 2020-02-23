@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-12-13 13:28:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtliche-trompetenklaenge-auf-dem-link-suedtirol/
 slug: weihnachtliche-trompetenklaenge-auf-dem-link-suedtirol
 title: Weihnachtliche Trompetenklänge auf dem Link Südtirol!

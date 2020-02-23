@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-10-14 13:04:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-sudtirol-umsetzer-chavalatsch-qrt/
 slug: link-sudtirol-umsetzer-chavalatsch-qrt
 title: Link Südtirol - Umsetzer Chavalatsch QRT

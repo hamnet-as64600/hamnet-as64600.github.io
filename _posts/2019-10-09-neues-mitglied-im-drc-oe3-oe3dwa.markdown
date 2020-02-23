@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-10-09 10:24:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-oe3-oe3dwa/
 slug: neues-mitglied-im-drc-oe3-oe3dwa
 title: 'Neues Mitglied im DRC:  Walter, OE3DWA'

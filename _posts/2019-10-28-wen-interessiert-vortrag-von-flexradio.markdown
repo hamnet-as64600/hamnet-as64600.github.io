@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-10-28 08:12:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/wen-interessiert-vortrag-von-flexradio/
 slug: wen-interessiert-vortrag-von-flexradio
 title: Wen interessiert Vortrag von FlexRadio?

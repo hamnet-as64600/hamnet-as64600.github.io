@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-12-24 07:04:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/artikel-in-die-neue-suedtiroler-tageszeitung-pusterer-polarlicht/
 slug: artikel-in-die-neue-suedtiroler-tageszeitung-pusterer-polarlicht
 title: 'Artikel in "Die neue Südtiroler Tageszeitung": Pusterer Polarlicht'

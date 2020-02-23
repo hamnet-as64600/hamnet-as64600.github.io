@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-27 15:44:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/unser-qsl-manager-willi-hb9cql/
 slug: unser-qsl-manager-willi-hb9cql
 title: Unser QSL Manager Ruedi, HB9CQL

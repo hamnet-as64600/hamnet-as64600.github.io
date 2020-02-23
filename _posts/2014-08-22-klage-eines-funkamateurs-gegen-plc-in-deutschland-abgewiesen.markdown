@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-08-22 07:22:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/klage-eines-funkamateurs-gegen-plc-in-deutschland-abgewiesen/
 slug: klage-eines-funkamateurs-gegen-plc-in-deutschland-abgewiesen
 title: Klage eines Funkamateurs gegen PLC in Deutschland abgewiesen!

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-05-22 17:14:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/internationales-d-star-treffen-grandsberg-d/
 slug: internationales-d-star-treffen-grandsberg-d
 title: Internationales D-Star Treffen Grandsberg (D)

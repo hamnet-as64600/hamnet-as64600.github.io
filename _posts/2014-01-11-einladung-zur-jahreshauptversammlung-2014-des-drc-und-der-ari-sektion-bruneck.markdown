@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-11 10:43:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-jahreshauptversammlung-2014-des-drc-und-der-ari-sektion-bruneck/
 slug: einladung-zur-jahreshauptversammlung-2014-des-drc-und-der-ari-sektion-bruneck
 title: Einladung zur Jahreshauptversammlung 2014 des DRC und der ARI Sektion Bruneck

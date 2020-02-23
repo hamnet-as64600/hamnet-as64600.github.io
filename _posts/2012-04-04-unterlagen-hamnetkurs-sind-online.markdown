@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-04-04 13:43:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/unterlagen-hamnetkurs-sind-online/
 slug: unterlagen-hamnetkurs-sind-online
 title: Unterlagen Hamnetkurs sind Online

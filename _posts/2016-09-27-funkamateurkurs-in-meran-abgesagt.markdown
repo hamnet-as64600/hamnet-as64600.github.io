@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-09-27 20:01:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkamateurkurs-in-meran-abgesagt/
 slug: funkamateurkurs-in-meran-abgesagt
 title: Funkamateurkurs in Meran abgesagt :-(

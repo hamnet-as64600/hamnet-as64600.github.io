@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-01 18:15:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/vorschlag-von-oe7phi/
 slug: vorschlag-von-oe7phi
 title: Vorschlag von OE7PHI-Textbaustein ist fertig.

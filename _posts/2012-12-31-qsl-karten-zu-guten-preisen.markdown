@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2012-12-31 15:27:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-karten-zu-guten-preisen/
 slug: qsl-karten-zu-guten-preisen
 title: QSL-Karten zu guten Preisen

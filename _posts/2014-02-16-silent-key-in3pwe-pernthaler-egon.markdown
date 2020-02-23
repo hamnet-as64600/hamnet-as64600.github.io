@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-02-16 15:18:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3pwe-pernthaler-egon/
 slug: silent-key-in3pwe-pernthaler-egon
 title: 'Silent key: IN3PWE Pernthaler Egon'

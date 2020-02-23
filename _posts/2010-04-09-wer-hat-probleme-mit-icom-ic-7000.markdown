@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-09 09:15:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-hat-probleme-mit-icom-ic-7000/
 slug: wer-hat-probleme-mit-icom-ic-7000
 title: Wer hat Probleme mit ICOM IC-7000?

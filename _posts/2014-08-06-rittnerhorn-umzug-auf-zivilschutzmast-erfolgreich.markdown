@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-08-06 07:19:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-umzug-auf-zivilschutzmast-erfolgreich/
 slug: rittnerhorn-umzug-auf-zivilschutzmast-erfolgreich
 title: Rittnerhorn - Umzug auf Zivilschutzmast erfolgreich!

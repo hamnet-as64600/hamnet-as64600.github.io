@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2017-03-09 08:07:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/bunkerwanderung-mit-amateurfunkhintergrund/
 slug: bunkerwanderung-mit-amateurfunkhintergrund
 title: Bunkerwanderung mit Amateurfunkhintergrund

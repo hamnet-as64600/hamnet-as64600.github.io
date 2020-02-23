@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-05-24 08:09:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/weltrekord-daten-mit-40-gbs-per-funk-auf-240-ghz/
 slug: weltrekord-daten-mit-40-gbs-per-funk-auf-240-ghz
 title: 'Weltrekord: Daten mit 40 Gb/s per Funk auf 240 GHz'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-12-21 13:03:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-entwicklung-in-italien/
 slug: d-star-entwicklung-in-italien
 title: D-Star Entwicklung in Italien

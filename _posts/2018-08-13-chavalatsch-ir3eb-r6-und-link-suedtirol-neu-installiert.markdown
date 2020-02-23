@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-08-13 12:29:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/chavalatsch-ir3eb-r6-und-link-suedtirol-neu-installiert/
 slug: chavalatsch-ir3eb-r6-und-link-suedtirol-neu-installiert
 title: Chavalatsch IR3EB - R6 und Link Südtirol neu installiert

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-28 15:24:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/afu-satellit-d-star-one-start-gescheitert-projekt-wird-fortgefuehrt/
 slug: afu-satellit-d-star-one-start-gescheitert-projekt-wird-fortgefuehrt
 title: 'AFu-Satellit "D-Star One": Start gescheitert - Projekt wird fortgeführt'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-09-01 10:00:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/clublokal-termingerecht-geraumt/
 slug: clublokal-termingerecht-geraumt
 title: Clublokal termingerecht geräumt.

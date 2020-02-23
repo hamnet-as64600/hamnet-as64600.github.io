@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-08-07 09:40:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/blitzschutz-beim-funken/
 slug: blitzschutz-beim-funken
 title: Blitzschutz beim Funken.

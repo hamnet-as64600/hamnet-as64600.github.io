@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-10-25 17:22:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunk-aktuell-by-uska/
 slug: notfunk-aktuell-by-uska
 title: Notfunk aktuell by USKA

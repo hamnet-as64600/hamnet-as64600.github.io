@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-18 14:50:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/dstar-gantkofel-uebermittelt-nun-auch-gps/
 slug: dstar-gantkofel-uebermittelt-nun-auch-gps
 title: DSTAR Gantkofel übermittelt nun auch GPS

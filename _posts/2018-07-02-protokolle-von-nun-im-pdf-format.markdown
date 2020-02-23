@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-07-02 09:33:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/protokolle-von-nun-im-pdf-format/
 slug: protokolle-von-nun-im-pdf-format
 title: Protokolle von nun im PDF Format

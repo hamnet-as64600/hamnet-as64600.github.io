@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-01 16:34:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/sendung-im-bayrisches-fernsehen-alles-roger/
 slug: sendung-im-bayrisches-fernsehen-alles-roger
 title: 'Sendung im "Bayrisches Fernsehen": Alles Roger?'

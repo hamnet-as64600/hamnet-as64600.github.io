@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-06-04 14:03:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/aenderung-des-vorstandes-ewald-in3eid-ist-neuer-veranstaltungsorganisator/
 slug: aenderung-des-vorstandes-ewald-in3eid-ist-neuer-veranstaltungsorganisator
 title: 'Änderung des Vorstandes: Ewald IN3EID ist neuer Veranstaltungsorganisator'

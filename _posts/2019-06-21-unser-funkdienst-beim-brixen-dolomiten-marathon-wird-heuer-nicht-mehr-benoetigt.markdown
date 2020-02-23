@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-06-21 12:05:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/unser-funkdienst-beim-brixen-dolomiten-marathon-wird-heuer-nicht-mehr-benoetigt/
 slug: unser-funkdienst-beim-brixen-dolomiten-marathon-wird-heuer-nicht-mehr-benoetigt
 title: Unser Funkdienst beim Brixen Dolomiten Marathon wird heuer nicht mehr benötigt.

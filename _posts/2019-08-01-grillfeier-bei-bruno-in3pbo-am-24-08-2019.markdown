@@ -2,7 +2,7 @@
 author: IN3HCD
 comments: false
 date: 2019-08-01 19:42:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/grillfeier-bei-bruno-in3pbo-am-24-08-2019/
 slug: grillfeier-bei-bruno-in3pbo-am-24-08-2019
 title: Grillfeier bei Bruno IN3PBO am 24.08.2019

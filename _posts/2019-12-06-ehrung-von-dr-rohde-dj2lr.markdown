@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-12-06 15:32:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/ehrung-von-dr-rohde-dj2lr/
 slug: ehrung-von-dr-rohde-dj2lr
 title: Ehrung von Dr. Rohde, DJ2LR.

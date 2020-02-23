@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-02 09:52:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-ueber-notfunk-am-staffelsee-bayern/
 slug: vortrag-ueber-notfunk-am-staffelsee-bayern
 title: Vortrag über Notfunk am Staffelsee (Bayern)

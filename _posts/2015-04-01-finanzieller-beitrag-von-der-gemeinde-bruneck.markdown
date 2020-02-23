@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-01 15:16:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/finanzieller-beitrag-von-der-gemeinde-bruneck/
 slug: finanzieller-beitrag-von-der-gemeinde-bruneck
 title: Finanzieller Beitrag von der Gemeinde Bruneck

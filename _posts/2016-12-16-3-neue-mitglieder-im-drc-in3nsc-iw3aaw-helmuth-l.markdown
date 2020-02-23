@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-12-16 14:06:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/3-neue-mitglieder-im-drc-in3nsc-iw3aaw-helmuth-l/
 slug: 3-neue-mitglieder-im-drc-in3nsc-iw3aaw-helmuth-l
 title: '3 neue Mitglieder im DRC: IN3NSC, IW3AAW, Helmuth L.'

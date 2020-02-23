@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-10-12 06:43:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/dstar-neues-nummernsystem/
 slug: dstar-neues-nummernsystem
 title: 'DSTAR: Neues Nummernsystem'

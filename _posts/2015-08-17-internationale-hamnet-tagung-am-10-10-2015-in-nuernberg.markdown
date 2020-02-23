@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-08-17 12:32:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/internationale-hamnet-tagung-am-10-10-2015-in-nuernberg/
 slug: internationale-hamnet-tagung-am-10-10-2015-in-nuernberg
 title: Internationale Hamnet Tagung am 10.10.2015 in Nürnberg

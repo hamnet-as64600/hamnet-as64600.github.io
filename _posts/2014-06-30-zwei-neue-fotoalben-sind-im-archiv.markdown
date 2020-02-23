@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-30 08:28:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/zwei-neue-fotoalben-sind-im-archiv/
 slug: zwei-neue-fotoalben-sind-im-archiv
 title: Zwei neue Fotoalben sind im Archiv

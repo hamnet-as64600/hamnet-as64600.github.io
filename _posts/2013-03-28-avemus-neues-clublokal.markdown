@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-03-28 16:06:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/avemus-neues-clublokal/
 slug: avemus-neues-clublokal
 title: Habemus neues Clublokal

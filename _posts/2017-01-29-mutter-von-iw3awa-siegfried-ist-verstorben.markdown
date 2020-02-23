@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-29 10:00:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/mutter-von-iw3awa-siegfried-ist-verstorben/
 slug: mutter-von-iw3awa-siegfried-ist-verstorben
 title: Mutter von IW3AWA Siegfried ist verstorben.

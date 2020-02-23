@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-08-27 06:46:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/landesverband-tirol-des-oevsv-laedt-zum-landesfieldday-ein/
 slug: landesverband-tirol-des-oevsv-laedt-zum-landesfieldday-ein
 title: Landesverband Tirol des ÖVSV lädt zum Landesfieldday ein.

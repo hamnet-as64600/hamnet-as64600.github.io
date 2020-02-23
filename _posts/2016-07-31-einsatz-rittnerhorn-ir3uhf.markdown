@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-07-31 10:10:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatz-rittnerhorn-ir3uhf/
 slug: einsatz-rittnerhorn-ir3uhf
 title: Einsatz Rittnerhorn IR3UHF

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-07-24 07:53:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/video-des-ueberfluges-vom-ii3mv-satelliten/
 slug: video-des-ueberfluges-vom-ii3mv-satelliten
 title: Video des Ueberfluges vom II3MV Satelliten

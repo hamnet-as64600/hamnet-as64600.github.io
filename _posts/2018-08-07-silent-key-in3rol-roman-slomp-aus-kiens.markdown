@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-08-07 14:15:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-in3rol-roman-slomp-aus-kiens/
 slug: silent-key-in3rol-roman-slomp-aus-kiens
 title: 'Silent Key: IN3ROL Roman Slomp aus Kiens'

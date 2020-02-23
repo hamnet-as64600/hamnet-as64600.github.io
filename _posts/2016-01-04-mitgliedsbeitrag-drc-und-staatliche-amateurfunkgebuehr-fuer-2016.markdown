@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-01-04 07:19:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer-2016/
 slug: mitgliedsbeitrag-drc-und-staatliche-amateurfunkgebuehr-fuer-2016
 title: Mitgliedsbeitrag DRC und staatliche Amateurfunkgebühr für 2016

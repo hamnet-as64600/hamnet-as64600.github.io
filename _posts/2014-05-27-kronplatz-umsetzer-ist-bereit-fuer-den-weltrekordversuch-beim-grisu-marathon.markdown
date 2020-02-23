@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-27 09:48:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/kronplatz-umsetzer-ist-bereit-fuer-den-weltrekordversuch-beim-grisu-marathon/
 slug: kronplatz-umsetzer-ist-bereit-fuer-den-weltrekordversuch-beim-grisu-marathon
 title: Kronplatz Umsetzer ist bereit für den Weltrekordversuch beim GRISU MARATHON

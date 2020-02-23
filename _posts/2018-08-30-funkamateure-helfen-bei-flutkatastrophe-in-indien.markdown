@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-08-30 10:24:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkamateure-helfen-bei-flutkatastrophe-in-indien/
 slug: funkamateure-helfen-bei-flutkatastrophe-in-indien
 title: Funkamateure helfen bei Flutkatastrophe in Indien.

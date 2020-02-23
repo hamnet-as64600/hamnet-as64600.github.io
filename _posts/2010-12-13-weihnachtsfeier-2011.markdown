@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-12-13 08:49:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtsfeier-2011/
 slug: weihnachtsfeier-2011
 title: So war die Weihnachtsfeier 2010

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-07-12 05:05:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/sota-auf-der-grossen-zinne-i-aa-052-brauche-eure-unterstuetzung/
 slug: sota-auf-der-grossen-zinne-i-aa-052-brauche-eure-unterstuetzung
 title: SOTA auf der Großen Zinne I/AA-052 - brauche Eure Unterstützung!!!

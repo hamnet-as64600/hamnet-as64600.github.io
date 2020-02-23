@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-11 12:33:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-hilft-mit-beim-guinness-weltrekord-versuch-grisu-marathon/
 slug: wer-hilft-mit-beim-guinness-weltrekord-versuch-grisu-marathon
 title: Wer hilft mit beim Guinness-Weltrekord-Versuch "GRISU MARATHON"?

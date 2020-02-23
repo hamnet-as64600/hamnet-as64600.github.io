@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-09-02 13:26:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/drei-zinnen-run-2014-vorab-info/
 slug: drei-zinnen-run-2014-vorab-info
 title: 'Drei Zinnen Run 2014: Vorab Info!'

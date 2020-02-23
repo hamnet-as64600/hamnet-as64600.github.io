@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-28 12:12:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/hf-rechner-fuer-technisch-interessierte-bastler/
 slug: hf-rechner-fuer-technisch-interessierte-bastler
 title: HF Rechner für technisch Interessierte (Bastler)

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-08 07:44:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/kommunikationsinfrastrukturen-richtlinien-festgelegt/
 slug: kommunikationsinfrastrukturen-richtlinien-festgelegt
 title: 'Kommunikationsinfrastrukturen: Richtlinien festgelegt.'

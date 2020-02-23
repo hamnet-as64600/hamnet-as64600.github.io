@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-03 07:27:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-vortrag-mit-dg6rch-im-clublokal/
 slug: d-star-vortrag-mit-dg6rch-im-clublokal
 title: 'D-STAR: Vortrag mit DG6RCH im Clublokal'

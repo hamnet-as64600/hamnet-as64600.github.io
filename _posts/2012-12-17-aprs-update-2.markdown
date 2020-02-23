@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-12-17 11:51:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-update-2/
 slug: aprs-update-2
 title: APRS Update 2

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-03-16 14:38:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/richtiges-loten-leicht-gemacht/
 slug: richtiges-loten-leicht-gemacht
 title: Richtiges Löten leicht gemacht

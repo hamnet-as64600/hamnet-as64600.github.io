@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-04-24 16:05:31+00:00
-layout: post
+layout: page
 link: https://drc.bz/dl1mcg-dx-spedition-nach-i3/
 slug: dl1mcg-dx-spedition-nach-i3
 title: DL1MCG DX Spedition nach I3.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-22 14:11:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-antennenkurs-im-clublokal/
 slug: nachtrag-antennenkurs-im-clublokal
 title: Nachtrag Antennenkurs im Clublokal

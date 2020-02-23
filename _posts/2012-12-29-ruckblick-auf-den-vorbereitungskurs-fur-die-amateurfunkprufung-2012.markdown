@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-29 17:19:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/ruckblick-auf-den-vorbereitungskurs-fur-die-amateurfunkprufung-2012/
 slug: ruckblick-auf-den-vorbereitungskurs-fur-die-amateurfunkprufung-2012
 title: Rückblick auf den Vorbereitungskurs für die Amateurfunkprüfung 2012

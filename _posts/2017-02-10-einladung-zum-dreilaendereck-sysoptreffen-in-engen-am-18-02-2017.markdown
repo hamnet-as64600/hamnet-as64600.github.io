@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-02-10 13:52:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zum-dreilaendereck-sysoptreffen-in-engen-am-18-02-2017/
 slug: einladung-zum-dreilaendereck-sysoptreffen-in-engen-am-18-02-2017
 title: Einladung zum Dreiländereck-Sysoptreffen in Engen am 18.02.2017

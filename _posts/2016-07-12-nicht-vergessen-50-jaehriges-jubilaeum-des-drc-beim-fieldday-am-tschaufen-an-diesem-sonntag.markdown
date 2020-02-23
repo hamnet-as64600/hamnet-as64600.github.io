@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-12 12:06:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/nicht-vergessen-50-jaehriges-jubilaeum-des-drc-beim-fieldday-am-tschaufen-an-diesem-sonntag/
 slug: nicht-vergessen-50-jaehriges-jubilaeum-des-drc-beim-fieldday-am-tschaufen-an-diesem-sonntag
 title: 'Nicht vergessen: 50 jähriges Jubiläum des DRC beim Fieldday am Tschaufen an

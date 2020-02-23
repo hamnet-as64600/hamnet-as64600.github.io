@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-08-29 07:20:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/2-m-amsat-filtergruppe-fur-d-star-umsetzer-auf-plose-eingestellt/
 slug: 2-m-amsat-filtergruppe-fur-d-star-umsetzer-auf-plose-eingestellt
 title: 2 m AMSAT Filtergruppe für D-Star Umsetzer auf Plose eingestellt

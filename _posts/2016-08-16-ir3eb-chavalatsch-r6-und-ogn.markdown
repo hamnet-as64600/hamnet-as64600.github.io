@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-08-16 13:31:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3eb-chavalatsch-r6-und-ogn/
 slug: ir3eb-chavalatsch-r6-und-ogn
 title: IR3EB - Chavalatsch, R6 und OGN

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-16 10:24:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/wendelsteinrelais-dmoulr/
 slug: wendelsteinrelais-dmoulr
 title: Wendelsteinrelais DMØULR

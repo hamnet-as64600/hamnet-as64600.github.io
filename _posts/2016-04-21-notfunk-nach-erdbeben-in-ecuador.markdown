@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-21 18:50:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunk-nach-erdbeben-in-ecuador/
 slug: notfunk-nach-erdbeben-in-ecuador
 title: Notfunk nach Erdbeben in Ecuador

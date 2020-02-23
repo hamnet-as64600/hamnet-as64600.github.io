@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-04-15 06:59:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dg4zy-dirk/
 slug: neues-mitglied-im-drc-dg4zy-dirk
 title: 'Neues Mitglied im DRC: DG4ZY Dirk'

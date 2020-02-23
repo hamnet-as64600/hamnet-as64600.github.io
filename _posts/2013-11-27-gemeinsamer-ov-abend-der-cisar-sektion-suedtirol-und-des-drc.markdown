@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-27 12:16:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/gemeinsamer-ov-abend-der-cisar-sektion-suedtirol-und-des-drc/
 slug: gemeinsamer-ov-abend-der-cisar-sektion-suedtirol-und-des-drc
 title: Gemeinsamer OV-Abend der CISAR Sektion Südtirol und des DRC

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-25 07:00:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dg2mby-angelika-aus-murnau/
 slug: neues-mitglied-im-drc-dg2mby-angelika-aus-murnau
 title: 'Neues Mitglied im DRC: DG2MBY Angelika aus Murnau'

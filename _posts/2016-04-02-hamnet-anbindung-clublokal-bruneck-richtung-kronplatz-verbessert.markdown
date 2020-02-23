@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-02 11:20:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-anbindung-clublokal-bruneck-richtung-kronplatz-verbessert/
 slug: hamnet-anbindung-clublokal-bruneck-richtung-kronplatz-verbessert
 title: HAMNET- Anbindung Clublokal Bruneck Richtung Kronplatz verbessert.

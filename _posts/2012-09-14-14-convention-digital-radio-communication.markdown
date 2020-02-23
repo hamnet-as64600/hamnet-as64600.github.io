@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-09-14 18:13:25+00:00
-layout: post
+layout: page
 link: https://drc.bz/14-convention-digital-radio-communication/
 slug: 14-convention-digital-radio-communication
 title: 14. Convention Digital & Radio Communication

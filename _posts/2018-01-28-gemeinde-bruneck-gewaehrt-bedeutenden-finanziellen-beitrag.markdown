@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-28 17:55:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/gemeinde-bruneck-gewaehrt-bedeutenden-finanziellen-beitrag/
 slug: gemeinde-bruneck-gewaehrt-bedeutenden-finanziellen-beitrag
 title: Gemeinde Bruneck gewährt bedeutenden finanziellen Beitrag.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-16 10:00:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/notfunkfrequenzen-7-095khz-und-7-145khz-bitte-frei-halten/
 slug: notfunkfrequenzen-7-095khz-und-7-145khz-bitte-frei-halten
 title: Notfunkfrequenzen 7.095Khz und 7.145Khz bitte frei halten.

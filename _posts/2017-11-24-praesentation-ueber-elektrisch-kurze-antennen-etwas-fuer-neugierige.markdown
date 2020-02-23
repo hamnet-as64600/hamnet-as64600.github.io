@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-11-24 10:29:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/praesentation-ueber-elektrisch-kurze-antennen-etwas-fuer-neugierige/
 slug: praesentation-ueber-elektrisch-kurze-antennen-etwas-fuer-neugierige
 title: Präsentation über elektrisch kurze Antennen (etwas für Neugierige).

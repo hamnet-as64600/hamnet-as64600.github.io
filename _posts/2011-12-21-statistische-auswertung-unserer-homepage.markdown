@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-21 09:20:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/statistische-auswertung-unserer-homepage/
 slug: statistische-auswertung-unserer-homepage
 title: Statistische Auswertung unserer Homepage

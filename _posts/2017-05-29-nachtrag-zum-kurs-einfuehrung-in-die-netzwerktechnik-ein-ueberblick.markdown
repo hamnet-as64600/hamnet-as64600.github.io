@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-05-29 08:33:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-kurs-einfuehrung-in-die-netzwerktechnik-ein-ueberblick/
 slug: nachtrag-zum-kurs-einfuehrung-in-die-netzwerktechnik-ein-ueberblick
 title: Nachtrag zum Kurs "Einführung in die Netzwerktechnik" - Ein Überblick

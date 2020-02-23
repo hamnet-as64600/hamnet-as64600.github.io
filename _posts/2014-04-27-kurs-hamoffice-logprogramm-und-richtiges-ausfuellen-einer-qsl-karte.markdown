@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-04-27 15:55:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurs-hamoffice-logprogramm-und-richtiges-ausfuellen-einer-qsl-karte/
 slug: kurs-hamoffice-logprogramm-und-richtiges-ausfuellen-einer-qsl-karte
 title: Kurs Hamoffice Logprogramm und richtiges Ausfüllen einer QSL Karte

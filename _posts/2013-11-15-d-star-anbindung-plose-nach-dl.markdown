@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-15 08:41:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-anbindung-plose-nach-dl/
 slug: d-star-anbindung-plose-nach-dl
 title: D-Star Anbindung aus DL an Plose

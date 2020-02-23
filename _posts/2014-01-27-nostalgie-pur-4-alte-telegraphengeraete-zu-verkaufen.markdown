@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-01-27 10:50:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/nostalgie-pur-4-alte-telegraphengeraete-zu-verkaufen/
 slug: nostalgie-pur-4-alte-telegraphengeraete-zu-verkaufen
 title: 'Nostalgie pur: 4 alte Telegraphengeräte zu verkaufen!'

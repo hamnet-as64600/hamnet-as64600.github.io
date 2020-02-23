@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2011-11-26 08:23:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/offenes-schreiben-von-iw3brc-zum-thema-hamnet/
 slug: offenes-schreiben-von-iw3brc-zum-thema-hamnet
 title: Offenes Schreiben von IW3BRC zum Thema Hamnet

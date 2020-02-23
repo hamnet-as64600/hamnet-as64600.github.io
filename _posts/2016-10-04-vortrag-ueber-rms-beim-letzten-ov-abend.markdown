@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-10-04 07:29:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/vortrag-ueber-rms-beim-letzten-ov-abend/
 slug: vortrag-ueber-rms-beim-letzten-ov-abend
 title: Vortrag über RMS beim letzten OV-Abend.

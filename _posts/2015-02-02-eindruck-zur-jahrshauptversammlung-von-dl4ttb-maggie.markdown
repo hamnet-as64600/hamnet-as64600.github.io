@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-02-02 08:42:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/eindruck-zur-jahrshauptversammlung-von-dl4ttb-maggie/
 slug: eindruck-zur-jahrshauptversammlung-von-dl4ttb-maggie
 title: Eindruck zur Jahershauptversammlung von DL4TTB, Maggie.

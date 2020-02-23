@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-01 14:35:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/erfolgreicher-einsatz-am-gitschberg/
 slug: erfolgreicher-einsatz-am-gitschberg
 title: Erfolgreicher Einsatz am Gitschberg

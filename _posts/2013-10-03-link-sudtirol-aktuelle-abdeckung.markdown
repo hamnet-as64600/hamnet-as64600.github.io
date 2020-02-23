@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-10-03 22:49:05+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-sudtirol-aktuelle-abdeckung/
 slug: link-sudtirol-aktuelle-abdeckung
 title: Link Südtirol - Aktuelle Abdeckung

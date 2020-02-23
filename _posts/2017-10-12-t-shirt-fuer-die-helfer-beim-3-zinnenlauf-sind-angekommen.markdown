@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-10-12 12:14:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/t-shirt-fuer-die-helfer-beim-3-zinnenlauf-sind-angekommen/
 slug: t-shirt-fuer-die-helfer-beim-3-zinnenlauf-sind-angekommen
 title: T-Shirt für die Helfer beim 3 Zinnenlauf sind angekommen.

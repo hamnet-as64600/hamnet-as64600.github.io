@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-02-01 09:40:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-neue-vorstand-fur-2013-2015/
 slug: der-neue-vorstand-fur-2013-2015
 title: Der neue Vorstand für 2013-2015

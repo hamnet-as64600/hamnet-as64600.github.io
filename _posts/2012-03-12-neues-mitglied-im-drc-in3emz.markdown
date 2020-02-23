@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-03-12 09:57:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3emz/
 slug: neues-mitglied-im-drc-in3emz
 title: 'Neues Mitglied im DRC: IN3EMZ'

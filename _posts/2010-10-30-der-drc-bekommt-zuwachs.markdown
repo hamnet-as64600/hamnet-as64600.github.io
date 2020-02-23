@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-10-30 10:21:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-bekommt-zuwachs/
 slug: der-drc-bekommt-zuwachs
 title: Der DRC bekommt Zuwachs

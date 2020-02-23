@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-03 08:52:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/verlegung-zugspitze-anbindung-von-kronplatz-auf-gitschberg/
 slug: verlegung-zugspitze-anbindung-von-kronplatz-auf-gitschberg
 title: Verlegung Zugspitze Anbindung von Kronplatz auf Gitschberg

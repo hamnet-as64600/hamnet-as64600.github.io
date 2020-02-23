@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-10-05 10:36:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/hurrikan-matthew-in-der-karibik/
 slug: hurrikan-matthew-in-der-karibik
 title: Hurrikan Matthew in der Karibik

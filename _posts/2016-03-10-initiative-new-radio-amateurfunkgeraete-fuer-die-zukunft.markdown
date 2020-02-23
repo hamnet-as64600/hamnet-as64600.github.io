@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-03-10 09:28:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/initiative-new-radio-amateurfunkgeraete-fuer-die-zukunft/
 slug: initiative-new-radio-amateurfunkgeraete-fuer-die-zukunft
 title: 'Initiative NEW RADIO: Amateurfunkgeräte für die Zukunft'

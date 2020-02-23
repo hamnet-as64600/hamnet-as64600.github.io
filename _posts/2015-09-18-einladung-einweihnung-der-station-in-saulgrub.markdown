@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-18 12:14:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-einweihnung-der-station-in-saulgrub/
 slug: einladung-einweihnung-der-station-in-saulgrub
 title: Einladung Einweihnung der Station in Saulgrub

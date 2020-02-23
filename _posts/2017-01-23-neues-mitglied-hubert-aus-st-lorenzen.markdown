@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-23 08:45:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-hubert-aus-st-lorenzen/
 slug: neues-mitglied-hubert-aus-st-lorenzen
 title: 'Neues Mitglied im DRC: Hubert aus St.Lorenzen'

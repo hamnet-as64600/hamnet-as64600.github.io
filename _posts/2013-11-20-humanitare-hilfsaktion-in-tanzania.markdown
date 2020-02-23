@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-20 11:03:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/humanitare-hilfsaktion-in-tanzania/
 slug: humanitare-hilfsaktion-in-tanzania
 title: Humanitäre Hilfsaktion in Tanzania

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2016-11-30 07:21:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/drc-autoaufkleber-klein/
 slug: drc-autoaufkleber-klein
 title: DRC - Autoaufkleber klein

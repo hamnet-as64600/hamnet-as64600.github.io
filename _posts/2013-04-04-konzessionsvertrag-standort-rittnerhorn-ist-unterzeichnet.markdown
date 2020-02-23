@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-04 12:48:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/konzessionsvertrag-standort-rittnerhorn-ist-unterzeichnet/
 slug: konzessionsvertrag-standort-rittnerhorn-ist-unterzeichnet
 title: Konzessionsvertrag Standort Rittnerhorn ist unterzeichnet

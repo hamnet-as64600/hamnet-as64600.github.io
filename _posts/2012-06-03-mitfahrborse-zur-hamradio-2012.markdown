@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-03 05:53:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitfahrborse-zur-hamradio-2012/
 slug: mitfahrborse-zur-hamradio-2012
 title: Mitfahrbörse zur HAMRADIO 2012

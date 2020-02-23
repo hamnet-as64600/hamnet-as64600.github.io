@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-22 08:04:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3goj-christian/
 slug: neues-mitglied-im-drc-in3goj-christian
 title: 'Neues Mitglied im DRC: IN3GOJ, Christian'

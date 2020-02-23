@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-12-20 08:18:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/bald-funktioniert-d-star-auf-der-ploser-wieder/
 slug: bald-funktioniert-d-star-auf-der-ploser-wieder
 title: Bald funktioniert D-Star auf der Ploser wieder!

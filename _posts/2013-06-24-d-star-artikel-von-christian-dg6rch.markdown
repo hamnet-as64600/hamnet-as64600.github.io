@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-06-24 09:03:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/d-star-artikel-von-christian-dg6rch/
 slug: d-star-artikel-von-christian-dg6rch
 title: D Star Artikel von Christian DG6RCH

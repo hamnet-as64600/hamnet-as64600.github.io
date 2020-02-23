@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-03-08 08:38:32+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-rodelauslug-zur-moarhof-alm-ein-gelungener-abend/
 slug: der-rodelauslug-zur-moarhof-alm-ein-gelungener-abend
 title: Der Rodelauslug zur Moarhof Alm, ein gelungener Abend.

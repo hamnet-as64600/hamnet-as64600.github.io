@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-16 07:12:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/einweihung-der-clubstation-dfobh-in-saulgrub-aura-hotel/
 slug: einweihung-der-clubstation-dfobh-in-saulgrub-aura-hotel
 title: Einweihung der Clubstation DFØBH in Saulgrub-AURA-HOTEL

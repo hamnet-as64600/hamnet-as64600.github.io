@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-22 15:19:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/baofeng-gerate-sind-angekommen/
 slug: baofeng-gerate-sind-angekommen
 title: BAOFENG Geräte sind angekommen

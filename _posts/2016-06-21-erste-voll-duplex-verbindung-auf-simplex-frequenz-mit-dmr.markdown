@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-06-21 08:24:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/erste-voll-duplex-verbindung-auf-simplex-frequenz-mit-dmr/
 slug: erste-voll-duplex-verbindung-auf-simplex-frequenz-mit-dmr
 title: Erste Voll-Duplex-Verbindung auf Simplex-Frequenz mit DMR.

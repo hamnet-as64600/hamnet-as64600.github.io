@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-25 07:25:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-vorbereitungen-zum-drei-zinnen-marathon-laufen-auf-hochtouren/
 slug: die-vorbereitungen-zum-drei-zinnen-marathon-laufen-auf-hochtouren
 title: Die Vorbereitungen zum Drei Zinnen Marathon laufen auf Hochtouren.

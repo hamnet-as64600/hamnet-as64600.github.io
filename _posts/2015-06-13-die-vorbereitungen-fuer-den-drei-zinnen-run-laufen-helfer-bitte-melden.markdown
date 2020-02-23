@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2015-06-13 10:57:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-vorbereitungen-fuer-den-drei-zinnen-run-laufen-helfer-bitte-melden/
 slug: die-vorbereitungen-fuer-den-drei-zinnen-run-laufen-helfer-bitte-melden
 title: 'Die Vorbereitungen für den Drei Zinnen Run laufen: Helfer bitte melden!!'

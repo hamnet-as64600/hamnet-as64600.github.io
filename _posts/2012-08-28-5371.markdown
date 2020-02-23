@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-08-28 09:25:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/5371/
 slug: '5371'
 title: APRS I-Gate "Suedtirol Ost" in Betrieb genommen

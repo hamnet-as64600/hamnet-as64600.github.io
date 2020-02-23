@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-08-01 13:11:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/interview-mit-prof-ulrich-rohde-n1ul/
 slug: interview-mit-prof-ulrich-rohde-n1ul
 title: Interview mit Prof. Ulrich Rohde - N1UL, DJ2LR, HB9AWE, V25UL

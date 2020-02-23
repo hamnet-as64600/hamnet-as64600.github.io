@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-07 08:48:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/modifikation-des-baofeng-uv3/
 slug: modifikation-des-baofeng-uv3
 title: Modifikation des BAOFENG UV3

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-05-19 10:32:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/isee-3-bitte-melden/
 slug: isee-3-bitte-melden
 title: „ISEE-3 bitte melden!"

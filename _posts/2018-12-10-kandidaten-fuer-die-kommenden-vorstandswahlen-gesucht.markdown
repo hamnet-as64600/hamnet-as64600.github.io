@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-12-10 10:54:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/kandidaten-fuer-die-kommenden-vorstandswahlen-gesucht/
 slug: kandidaten-fuer-die-kommenden-vorstandswahlen-gesucht
 title: Kandidaten für die kommenden Vorstandswahlen gesucht.

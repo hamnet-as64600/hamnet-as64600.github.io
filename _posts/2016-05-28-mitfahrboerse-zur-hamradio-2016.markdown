@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2016-05-28 07:20:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/mitfahrboerse-zur-hamradio-2016/
 slug: mitfahrboerse-zur-hamradio-2016
 title: Mitfahrbörse zur Hamradio vom 24 - 26 Juni 2016

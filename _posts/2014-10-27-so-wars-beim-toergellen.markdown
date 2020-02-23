@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-10-27 18:07:10+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-wars-beim-toergellen/
 slug: so-wars-beim-toergellen
 title: So wars beim Törggelen.....

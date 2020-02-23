@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-10-26 08:41:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/kronplatz-r2-link-suedtirol-und-d-star-neuinstallation/
 slug: kronplatz-r2-link-suedtirol-und-d-star-neuinstallation
 title: Kronplatz R2, Link Südtirol und D-Star - Neuinstallation

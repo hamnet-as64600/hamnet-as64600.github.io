@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-31 08:48:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3pgd-gerald/
 slug: neues-mitglied-im-drc-in3pgd-gerald
 title: 'Neues Mitglied im DRC: IN3PGD Gerald'

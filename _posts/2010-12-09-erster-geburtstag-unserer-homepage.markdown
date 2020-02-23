@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-12-09 13:39:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/erster-geburtstag-unserer-homepage/
 slug: erster-geburtstag-unserer-homepage
 title: Erster Geburtstag unserer Homepage.

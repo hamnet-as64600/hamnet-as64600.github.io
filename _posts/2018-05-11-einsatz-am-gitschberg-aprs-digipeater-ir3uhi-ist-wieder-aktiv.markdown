@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-05-11 13:31:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatz-am-gitschberg-aprs-digipeater-ir3uhi-ist-wieder-aktiv/
 slug: einsatz-am-gitschberg-aprs-digipeater-ir3uhi-ist-wieder-aktiv
 title: Einsatz am Gitschberg - APRS Digipeater IR3UHI ist wieder aktiv.

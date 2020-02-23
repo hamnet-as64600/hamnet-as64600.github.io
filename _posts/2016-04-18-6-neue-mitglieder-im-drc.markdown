@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-18 12:41:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/6-neue-mitglieder-im-drc/
 slug: 6-neue-mitglieder-im-drc
 title: 6 neue Mitglieder im DRC.

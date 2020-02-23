@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-11-27 10:29:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/artikel-uber-plose-aktivitat-in-cqdl/
 slug: artikel-uber-plose-aktivitat-in-cqdl
 title: Artikel über Plose Aktivität in CQDL

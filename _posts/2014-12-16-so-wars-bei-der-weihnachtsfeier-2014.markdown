@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-16 13:13:49+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-wars-bei-der-weihnachtsfeier-2014/
 slug: so-wars-bei-der-weihnachtsfeier-2014
 title: So war's bei der Weihnachtsfeier 2014

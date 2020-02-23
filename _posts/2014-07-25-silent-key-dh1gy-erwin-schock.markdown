@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-25 13:41:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-dh1gy-erwin-schock/
 slug: silent-key-dh1gy-erwin-schock
 title: 'Silent key: DH1GY, Erwin Schock'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-06-05 19:17:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-der-sota-funktour-auf-korsika-tk/
 slug: bericht-der-sota-funktour-auf-korsika-tk
 title: Bericht der SOTA Funktour auf Korsika (TK).

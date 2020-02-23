@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-06-12 06:57:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zum-fieldday-2017-des-ortsverbandes-c-03-des-darc-garmisch-patenkirchen/
 slug: einladung-zum-fieldday-2017-des-ortsverbandes-c-03-des-darc-garmisch-patenkirchen
 title: Einladung zum Fieldday 2017 des Ortsverbandes C-03 des DARC Garmisch Patenkirchen

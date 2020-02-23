@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-05-30 18:54:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/aprs-das-unbekannte-wesen/
 slug: aprs-das-unbekannte-wesen
 title: APRS – das unbekannte Wesen …

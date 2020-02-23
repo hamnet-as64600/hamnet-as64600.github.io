@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-08-08 08:38:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-antennenanlage-fuer-kurzwelle-am-gitschberg-installiert/
 slug: neue-antennenanlage-fuer-kurzwelle-am-gitschberg-installiert
 title: Neue Antennenanlage für Kurzwelle am Gitschberg installiert.

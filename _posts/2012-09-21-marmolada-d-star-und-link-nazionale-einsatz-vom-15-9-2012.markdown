@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2012-09-21 09:30:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/marmolada-d-star-und-link-nazionale-einsatz-vom-15-9-2012/
 slug: marmolada-d-star-und-link-nazionale-einsatz-vom-15-9-2012
 title: Marmolada -  2 m Repeater, Link Nazionale, D-Star LND (Link Nazionale Digitale)

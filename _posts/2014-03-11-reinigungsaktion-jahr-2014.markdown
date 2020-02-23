@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-03-11 09:48:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/reinigungsaktion-jahr-2014/
 slug: reinigungsaktion-jahr-2014
 title: Reinigungsaktion Jahr 2014

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-02-09 16:39:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/besprechung-zur-verbesserung-von-aprs/
 slug: besprechung-zur-verbesserung-von-aprs
 title: Besprechung zur Verbesserung von APRS.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-12-10 21:18:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/dmr-suedtirol-plugin-fuer-tyt-md-2017-dualband/
 slug: dmr-suedtirol-plugin-fuer-tyt-md-2017-dualband
 title: DMR Südtirol - Codeplug für TYT MD-2017 Dualband

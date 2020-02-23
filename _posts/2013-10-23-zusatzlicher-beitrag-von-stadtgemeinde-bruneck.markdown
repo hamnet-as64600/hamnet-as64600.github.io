@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-10-23 08:39:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/zusatzlicher-beitrag-von-stadtgemeinde-bruneck/
 slug: zusatzlicher-beitrag-von-stadtgemeinde-bruneck
 title: Zusätzlicher Beitrag von Stadtgemeinde Bruneck

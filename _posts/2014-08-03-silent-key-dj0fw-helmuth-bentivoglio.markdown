@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-03 06:31:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-dj0fw-helmuth-bentivoglio/
 slug: silent-key-dj0fw-helmuth-bentivoglio
 title: 'Silent key: DJ0FW, Helmuth Bentivoglio'

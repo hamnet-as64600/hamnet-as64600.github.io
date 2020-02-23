@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-05-05 14:22:34+00:00
-layout: post
+layout: page
 link: https://drc.bz/in-memorial-an-egon-in3pwe/
 slug: in-memorial-an-egon-in3pwe
 title: In Memorial an Egon IN3PWE

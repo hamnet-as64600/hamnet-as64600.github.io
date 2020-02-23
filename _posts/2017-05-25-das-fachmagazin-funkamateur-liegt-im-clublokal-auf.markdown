@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-05-25 14:48:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-fachmagazin-funkamateur-liegt-im-clublokal-auf/
 slug: das-fachmagazin-funkamateur-liegt-im-clublokal-auf
 title: Das Fachmagazin "FUNKAMATEUR" liegt im Clublokal auf.

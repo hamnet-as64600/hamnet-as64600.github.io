@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-01-10 07:50:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/ein-tipp-fuer-selberbauer-kurzwellenfunkgeraete-%c2%b5bitx/
 slug: ein-tipp-fuer-selberbauer-kurzwellenfunkgeraete-%c2%b5bitx
 title: 'Ein Tipp für Selberbauer: Kurzwellenfunkgeräte µBITX'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-04-11 13:17:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/lander-ohne-qsl-service/
 slug: lander-ohne-qsl-service
 title: Länder ohne QSL Service.

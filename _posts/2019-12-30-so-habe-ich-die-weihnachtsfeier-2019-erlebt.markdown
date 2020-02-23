@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-12-30 14:13:06+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-habe-ich-die-weihnachtsfeier-2019-erlebt/
 slug: so-habe-ich-die-weihnachtsfeier-2019-erlebt
 title: So habe ich die Weihnachtsfeier 2019 erlebt.

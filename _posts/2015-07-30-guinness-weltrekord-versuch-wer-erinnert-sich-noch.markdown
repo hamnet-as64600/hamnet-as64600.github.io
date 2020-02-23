@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-30 12:12:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/guinness-weltrekord-versuch-wer-erinnert-sich-noch/
 slug: guinness-weltrekord-versuch-wer-erinnert-sich-noch
 title: 'Guinness Weltrekord Versuch: Wer erinnert sich noch?'

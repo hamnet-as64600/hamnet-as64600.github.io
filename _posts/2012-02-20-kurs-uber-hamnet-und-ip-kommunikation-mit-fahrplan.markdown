@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-02-20 08:47:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/kurs-uber-hamnet-und-ip-kommunikation-mit-fahrplan/
 slug: kurs-uber-hamnet-und-ip-kommunikation-mit-fahrplan
 title: Kurs über HamNet und Ip-Kommunikation // MIT FAHRPLAN

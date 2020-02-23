@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-02 13:29:45+00:00
-layout: post
+layout: page
 link: https://drc.bz/alljaehrliches-treffen-der-nord-und-suedtiroler-funkamateure-am-pfitscherjoch/
 slug: alljaehrliches-treffen-der-nord-und-suedtiroler-funkamateure-am-pfitscherjoch
 title: Alljährliches Treffen der Nord- und Südtiroler Funkamateure am Pfitscherjoch.

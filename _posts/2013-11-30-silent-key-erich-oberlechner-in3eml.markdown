@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-11-30 11:20:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-erich-oberlechner-in3eml/
 slug: silent-key-erich-oberlechner-in3eml
 title: 'Silent key: Erich Oberlechner IN3EML'

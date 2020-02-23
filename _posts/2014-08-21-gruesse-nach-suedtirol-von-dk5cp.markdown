@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-21 11:07:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/gruesse-nach-suedtirol-von-dk5cp/
 slug: gruesse-nach-suedtirol-von-dk5cp
 title: Grüsse nach Südtirol von DK5CP

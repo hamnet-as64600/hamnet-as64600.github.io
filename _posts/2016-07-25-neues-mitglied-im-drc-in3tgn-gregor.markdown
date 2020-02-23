@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-25 08:40:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-in3tgn-gregor/
 slug: neues-mitglied-im-drc-in3tgn-gregor
 title: 'Neues Mitglied im DRC: IN3TGN, Gregor'

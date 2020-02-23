@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-09-03 09:02:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/schildmuetze-nun-auch-verfuegbar/
 slug: schildmuetze-nun-auch-verfuegbar
 title: Schildmütze nun auch verfügbar.

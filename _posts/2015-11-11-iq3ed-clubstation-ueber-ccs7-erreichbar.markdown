@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-11-11 13:34:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/iq3ed-clubstation-ueber-ccs7-erreichbar/
 slug: iq3ed-clubstation-ueber-ccs7-erreichbar
 title: IQ3ED, Clubstation über CCS7 erreichbar.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-08 09:42:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/video-von-dl7zs-ueber-das-hamoffice-logbuchprogramm/
 slug: video-von-dl7zs-ueber-das-hamoffice-logbuchprogramm
 title: Video von DL7ZS über das Hamoffice Logbuchprogramm

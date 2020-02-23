@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-02-21 09:38:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/lotkurs-von-smd-bauteilen/
 slug: lotkurs-von-smd-bauteilen
 title: Lötkurs von SMD Bauteilen

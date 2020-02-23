@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-13 06:59:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/contest-cq-bande-basse-italia/
 slug: contest-cq-bande-basse-italia
 title: Contest CQ Bande Basse Italia

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-09-17 15:42:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-amateurfunkkurse-in-bruneck-und-meran-sind-bestaetigt/
 slug: die-amateurfunkkurse-in-bruneck-und-meran-sind-bestaetigt
 title: Die Amateurfunkkurse in Bruneck und Meran sind bestätigt.

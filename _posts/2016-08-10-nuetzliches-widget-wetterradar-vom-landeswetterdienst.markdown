@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-10 08:45:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/nuetzliches-widget-wetterradar-vom-landeswetterdienst/
 slug: nuetzliches-widget-wetterradar-vom-landeswetterdienst
 title: 'Nützliches Widget: Wetterradar vom Landeswetterdienst'

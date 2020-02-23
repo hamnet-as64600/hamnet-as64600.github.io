@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-02-09 16:13:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uap-d-star-plose-voruebergehend-ausser-betrieb/
 slug: ir3uap-d-star-plose-voruebergehend-ausser-betrieb
 title: IR3UAP D-Star Plose vorübergehend ausser Betrieb.

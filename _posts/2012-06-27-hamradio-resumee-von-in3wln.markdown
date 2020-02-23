@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-27 07:22:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamradio-resumee-von-in3wln/
 slug: hamradio-resumee-von-in3wln
 title: 'HAMRADIO: Resümee von IN3WLN'

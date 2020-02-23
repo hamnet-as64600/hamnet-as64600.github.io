@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-04-07 07:24:23+00:00
-layout: post
+layout: page
 link: https://drc.bz/osterprojekt-von-dl1pn-peter/
 slug: osterprojekt-von-dl1pn-peter
 title: Osterprojekt von DL1PN, Peter

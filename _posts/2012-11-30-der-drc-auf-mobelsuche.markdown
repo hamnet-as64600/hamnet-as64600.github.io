@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-11-30 10:37:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-drc-auf-mobelsuche/
 slug: der-drc-auf-mobelsuche
 title: Der DRC auf Möbelsuche.

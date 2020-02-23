@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-26 15:33:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-anderswo-und-ein-paar-bekannte-gesichter/
 slug: hamnet-anderswo-und-ein-paar-bekannte-gesichter
 title: 'Hamnet: Blick über den Tellerrand und ein paar altbekannte Gesichter'

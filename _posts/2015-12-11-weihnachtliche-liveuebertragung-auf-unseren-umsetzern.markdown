@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2015-12-11 08:01:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/weihnachtliche-liveuebertragung-auf-unseren-umsetzern/
 slug: weihnachtliche-liveuebertragung-auf-unseren-umsetzern
 title: Weihnachtliche Liveübertragung auf unseren Umsetzern.

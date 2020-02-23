@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-06 15:55:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/nacht-der-offenen-tuer-in-gummer/
 slug: nacht-der-offenen-tuer-in-gummer
 title: Nacht der offenen Tür in Gummer

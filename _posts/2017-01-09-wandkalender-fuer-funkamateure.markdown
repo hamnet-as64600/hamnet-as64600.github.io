@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-09 08:11:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/wandkalender-fuer-funkamateure/
 slug: wandkalender-fuer-funkamateure
 title: Wandkalender für Funkamateure

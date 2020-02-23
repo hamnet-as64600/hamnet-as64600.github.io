@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-24 10:56:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-beitrag-in-die-neue-suedtiroler-tageszeitung/
 slug: der-beitrag-in-die-neue-suedtiroler-tageszeitung
 title: Der Beitrag in "Die neue Südtiroler Tageszeitung"

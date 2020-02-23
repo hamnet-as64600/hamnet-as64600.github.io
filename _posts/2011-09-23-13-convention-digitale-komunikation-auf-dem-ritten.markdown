@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-09-23 08:57:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/13-convention-digitale-komunikation-auf-dem-ritten/
 slug: 13-convention-digitale-komunikation-auf-dem-ritten
 title: 13. Convention "Digitale Komunikation" auf dem Ritten

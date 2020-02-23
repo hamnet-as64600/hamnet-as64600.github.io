@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: true
 date: 2015-04-30 13:42:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/aktion-vereinsbekleidung-ist-wieder-angelaufen/
 slug: aktion-vereinsbekleidung-ist-wieder-angelaufen
 title: Aktion Vereinsbekleidung ist wieder angelaufen.

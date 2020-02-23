@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-01-08 11:10:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3ugd-jaufen-link-suedtirol-mit-svxlink-online/
 slug: ir3ugd-jaufen-link-suedtirol-mit-svxlink-online
 title: IR3UGD - Jaufen Link Südtirol mit Svxlink online!

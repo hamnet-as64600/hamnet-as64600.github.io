@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-30 09:29:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-dl9ncy-robert/
 slug: neues-mitglied-im-drc-dl9ncy-robert
 title: 'Neues Mitglied im DRC: DL9NCY, Robert'

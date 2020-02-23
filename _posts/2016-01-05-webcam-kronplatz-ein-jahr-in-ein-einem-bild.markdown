@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-01-05 10:27:11+00:00
-layout: post
+layout: page
 link: https://drc.bz/webcam-kronplatz-ein-jahr-in-ein-einem-bild/
 slug: webcam-kronplatz-ein-jahr-in-ein-einem-bild
 title: 'Webcam Kronplatz: Ein Jahr in einem Bild!'

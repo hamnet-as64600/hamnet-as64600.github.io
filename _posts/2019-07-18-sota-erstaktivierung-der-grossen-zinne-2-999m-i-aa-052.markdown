@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-07-18 07:29:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/sota-erstaktivierung-der-grossen-zinne-2-999m-i-aa-052/
 slug: sota-erstaktivierung-der-grossen-zinne-2-999m-i-aa-052
 title: SOTA - Erstaktivierung der Großen Zinne (2.999m) I/AA-052

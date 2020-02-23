@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-05-26 14:09:33+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3ugd-jaufen-wieder-aktiv/
 slug: ir3ugd-jaufen-wieder-aktiv
 title: IR3UGD - Jaufen wieder aktiv!

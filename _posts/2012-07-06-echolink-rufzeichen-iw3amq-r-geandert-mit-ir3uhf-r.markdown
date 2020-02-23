@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2012-07-06 19:21:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-rufzeichen-iw3amq-r-geandert-mit-ir3uhf-r/
 slug: echolink-rufzeichen-iw3amq-r-geandert-mit-ir3uhf-r
 title: Rittnerhorn R4, 145,700 MHz, Echolink Rufzeichen IW3AMQ-R geändert mit IR3UHF-R

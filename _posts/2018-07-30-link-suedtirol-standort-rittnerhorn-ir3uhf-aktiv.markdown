@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2018-07-30 09:56:38+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-standort-rittnerhorn-ir3uhf-aktiv/
 slug: link-suedtirol-standort-rittnerhorn-ir3uhf-aktiv
 title: Link Südtirol - Standort Rittnerhorn IR3UHF aktiv!

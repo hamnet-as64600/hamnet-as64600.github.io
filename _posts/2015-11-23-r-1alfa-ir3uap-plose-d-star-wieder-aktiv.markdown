@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-11-23 09:12:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/r-1alfa-ir3uap-plose-d-star-wieder-aktiv/
 slug: r-1alfa-ir3uap-plose-d-star-wieder-aktiv
 title: R-1alfa, IR3UAP - Plose D-Star wieder aktiv!

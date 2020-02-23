@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-07-04 12:02:16+00:00
-layout: post
+layout: page
 link: https://drc.bz/ende-des-kostenlosen-ugrades-auf-microsoft-windows-10-naht/
 slug: ende-des-kostenlosen-ugrades-auf-microsoft-windows-10-naht
 title: Ende des kostenlosen Ugrades auf Microsoft Windows 10 naht

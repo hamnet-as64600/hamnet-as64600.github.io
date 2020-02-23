@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-14 06:46:04+00:00
-layout: post
+layout: page
 link: https://drc.bz/echolink-gitschberg-wieder-on/
 slug: echolink-gitschberg-wieder-on
 title: Echolink Gitschberg wieder ON.

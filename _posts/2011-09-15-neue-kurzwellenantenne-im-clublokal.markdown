@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-09-15 08:23:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/neue-kurzwellenantenne-im-clublokal/
 slug: neue-kurzwellenantenne-im-clublokal
 title: Neue Kurzwellenantenne im Clublokal

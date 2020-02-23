@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-23 05:06:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/yl-roswitha-von-iw3awa-siegfried-verstorben/
 slug: yl-roswitha-von-iw3awa-siegfried-verstorben
 title: XYL Roswitha von IW3AWA Siegfried verstorben!

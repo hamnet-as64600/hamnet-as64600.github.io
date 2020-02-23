@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-07-31 12:59:14+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-war-der-fieldday-2017-am-tschaufen/
 slug: so-war-der-fieldday-2017-am-tschaufen
 title: So war der Fieldday 2017 am Tschaufen.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-05-21 11:39:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/erneuter-ausfall-des-umsetzers-am-kronplatz/
 slug: erneuter-ausfall-des-umsetzers-am-kronplatz
 title: Erneuter Ausfall des Umsetzers am Kronplatz

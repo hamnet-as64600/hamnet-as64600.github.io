@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-12-13 15:18:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3uap-d-star-plose-qrt-blitzeinsatz/
 slug: ir3uap-d-star-plose-qrt-blitzeinsatz
 title: IR3UAP - D-Star Plose QRT => Blitzeinsatz

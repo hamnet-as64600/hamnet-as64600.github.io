@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2020-01-14 18:46:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/kostenlos-nachtskifahren-rodeln-fuer-brunecks-vereine-beim-korerlift/
 slug: kostenlos-nachtskifahren-rodeln-fuer-brunecks-vereine-beim-korerlift
 title: Kostenlos Nachtskifahren / Rodeln für Brunecks Vereine beim Korerlift

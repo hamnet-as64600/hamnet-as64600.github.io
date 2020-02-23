@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2013-08-22 13:46:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/chavalatsch-link-sudtirol-wegen-optimierungsarbeiten-vorubergehend-auser-betrieb/
 slug: chavalatsch-link-sudtirol-wegen-optimierungsarbeiten-vorubergehend-auser-betrieb
 title: Chavalatsch - Link Südtirol wegen Optimierungsarbeiten vorübergehend außer

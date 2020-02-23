@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2018-06-29 14:57:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/50-mhz-fm-umsetzer-auf-marmolada-in-betrieb-gegangen/
 slug: 50-mhz-fm-umsetzer-auf-marmolada-in-betrieb-gegangen
 title: 50 MHz FM Umsetzer auf Marmolada in Betrieb gegangen.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-08-31 12:14:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-plose-431375-mhz-aktiv/
 slug: link-suedtirol-plose-431375-mhz-aktiv
 title: Link Südtirol - Plose 431,375 MHz aktiv!

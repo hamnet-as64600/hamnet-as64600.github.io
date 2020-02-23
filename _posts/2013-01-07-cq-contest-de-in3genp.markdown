@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-07 11:16:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/cq-contest-de-in3genp/
 slug: cq-contest-de-in3genp
 title: 'Aktualisierung: CQ Contest de IN3GEN/p'

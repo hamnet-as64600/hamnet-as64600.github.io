@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-08-27 07:33:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-aktion-vereinsbekleidung-laeuft-wieder/
 slug: die-aktion-vereinsbekleidung-laeuft-wieder
 title: Die Aktion Vereinsbekleidung läuft wieder.

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-02-02 10:07:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/funkgeraete-und-morsetasten-von-vito-in3vst-zu-verkaufen/
 slug: funkgeraete-und-morsetasten-von-vito-in3vst-zu-verkaufen
 title: Funkgeräte und Morsetasten von Vito IN3VST + zu verkaufen

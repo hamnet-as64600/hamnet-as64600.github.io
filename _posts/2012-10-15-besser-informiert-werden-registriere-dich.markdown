@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-15 09:00:01+00:00
-layout: post
+layout: page
 link: https://drc.bz/besser-informiert-werden-registriere-dich/
 slug: besser-informiert-werden-registriere-dich
 title: 'Besser informiert werden: Registriere dich!'

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2020-02-08 14:18:00+00:00
-layout: post
+layout: page
 link: https://drc.bz/link-suedtirol-plose-ir3uap/
 slug: link-suedtirol-plose-ir3uap
 title: Link Südtirol Plose IR3UAP

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-07-28 06:41:42+00:00
-layout: post
+layout: page
 link: https://drc.bz/rittnerhorn-umzug-wir-suchen-fuer-samstag-2-august-noch-5-freiwillige/
 slug: rittnerhorn-umzug-wir-suchen-fuer-samstag-2-august-noch-5-freiwillige
 title: Rittnerhorn Umzug - Wir suchen für Samstag, 2. August noch 5 Freiwillige!

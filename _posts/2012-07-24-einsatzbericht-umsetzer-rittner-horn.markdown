@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-24 15:44:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzbericht-umsetzer-rittner-horn/
 slug: einsatzbericht-umsetzer-rittner-horn
 title: Einsatzbericht Umsetzer Rittner Horn

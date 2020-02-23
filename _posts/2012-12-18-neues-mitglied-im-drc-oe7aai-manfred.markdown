@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-12-18 08:26:26+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-oe7aai-manfred/
 slug: neues-mitglied-im-drc-oe7aai-manfred
 title: 'Neues Mitglied im DRC: OE7AAI Manfred'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-01-10 08:22:19+00:00
-layout: post
+layout: page
 link: https://drc.bz/einladung-zur-jahreshauptversammlung-des-drc-am-27-jaenner-2017/
 slug: einladung-zur-jahreshauptversammlung-des-drc-am-27-jaenner-2017
 title: Einladung zur Jahreshauptversammlung des DRC am 27. Jänner 2017

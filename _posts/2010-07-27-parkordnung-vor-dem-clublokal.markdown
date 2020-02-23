@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-07-27 11:55:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/parkordnung-vor-dem-clublokal/
 slug: parkordnung-vor-dem-clublokal
 title: Parkordnung vor dem Clublokal

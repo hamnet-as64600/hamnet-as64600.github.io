@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2020-02-14 20:36:27+00:00
-layout: post
+layout: page
 link: https://drc.bz/helm-ir3uan-link-suedtirol-und-mmdvm/
 slug: helm-ir3uan-link-suedtirol-und-mmdvm
 title: Helm IR3UAN - Link Südtirol und MMDVM

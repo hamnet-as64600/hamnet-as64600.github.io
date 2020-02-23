@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-20 19:22:02+00:00
-layout: post
+layout: page
 link: https://drc.bz/suchen-walkman-fur-guten-zweck/
 slug: suchen-walkman-fur-guten-zweck
 title: Suchen Walkman für guten Zweck

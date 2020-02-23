@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-03-18 10:44:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/experiment-bei-sonnenfinsternis-am-20-maerz-2015/
 slug: experiment-bei-sonnenfinsternis-am-20-maerz-2015
 title: Experiment bei Sonnenfinsternis am 20. März 2015

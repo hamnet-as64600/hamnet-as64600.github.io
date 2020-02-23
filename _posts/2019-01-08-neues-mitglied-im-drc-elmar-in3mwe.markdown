@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-01-08 09:14:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-elmar-in3mwe/
 slug: neues-mitglied-im-drc-elmar-in3mwe
 title: 'Neues Mitglied im DRC: Elmar, IN3MWE'

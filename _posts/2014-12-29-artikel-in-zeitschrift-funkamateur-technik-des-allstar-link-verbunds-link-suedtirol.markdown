@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-29 17:01:47+00:00
-layout: post
+layout: page
 link: https://drc.bz/artikel-in-zeitschrift-funkamateur-technik-des-allstar-link-verbunds-link-suedtirol/
 slug: artikel-in-zeitschrift-funkamateur-technik-des-allstar-link-verbunds-link-suedtirol
 title: 'Artikel in Zeitschrift FUNKAMATEUR: Technik des Allstar-Link-Verbunds „Link

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-04 04:38:57+00:00
-layout: post
+layout: page
 link: https://drc.bz/linkanbindung-plose-gefrorene-wand/
 slug: linkanbindung-plose-gefrorene-wand
 title: Linkanbindung Plose - Gefrorene Wand

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-12-10 20:41:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3dv-kronplatz-modernisierungsarbeiten-fast-beendet/
 slug: ir3dv-kronplatz-modernisierungsarbeiten-fast-beendet
 title: IR3DV Kronplatz - Modernisierungsarbeiten (fast) beendet!

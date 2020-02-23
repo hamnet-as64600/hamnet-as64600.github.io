@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-07-11 08:00:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/blitzschutz-im-amateurfunk/
 slug: blitzschutz-im-amateurfunk
 title: Blitzschutz im Amateurfunk - Version 5

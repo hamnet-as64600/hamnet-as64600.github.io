@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-01-02 16:28:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/nicht-vergessen-amateurfunkgebuhr-fur-2013/
 slug: nicht-vergessen-amateurfunkgebuhr-fur-2013
 title: 'Nicht vergessen: Amateurfunkgebühr für 2013'

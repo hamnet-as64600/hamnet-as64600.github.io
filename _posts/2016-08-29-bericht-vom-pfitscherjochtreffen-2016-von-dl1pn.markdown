@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-08-29 08:42:39+00:00
-layout: post
+layout: page
 link: https://drc.bz/bericht-vom-pfitscherjochtreffen-2016-von-dl1pn/
 slug: bericht-vom-pfitscherjochtreffen-2016-von-dl1pn
 title: Bericht vom Pfitscherjochtreffen 2016 von DL1PN

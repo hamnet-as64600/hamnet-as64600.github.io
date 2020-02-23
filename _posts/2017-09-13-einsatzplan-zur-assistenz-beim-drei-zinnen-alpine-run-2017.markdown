@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-09-13 09:35:54+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzplan-zur-assistenz-beim-drei-zinnen-alpine-run-2017/
 slug: einsatzplan-zur-assistenz-beim-drei-zinnen-alpine-run-2017
 title: Einsatzplan zur Assistenz beim Drei Zinnen Alpine Run 2017

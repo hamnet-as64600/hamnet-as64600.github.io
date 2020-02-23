@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-12-07 21:14:36+00:00
-layout: post
+layout: page
 link: https://drc.bz/ir3dv-kronplatz-umbauarbeiten-am-feitag-8-12-2017/
 slug: ir3dv-kronplatz-umbauarbeiten-am-feitag-8-12-2017
 title: IR3DV Kronplatz - Umbauarbeiten am Feitag, 8.12.2017

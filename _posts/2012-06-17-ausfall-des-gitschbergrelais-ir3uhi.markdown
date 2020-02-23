@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-17 06:10:46+00:00
-layout: post
+layout: page
 link: https://drc.bz/ausfall-des-gitschbergrelais-ir3uhi/
 slug: ausfall-des-gitschbergrelais-ir3uhi
 title: Ausfall des Gitschbergrelais IR3UHI

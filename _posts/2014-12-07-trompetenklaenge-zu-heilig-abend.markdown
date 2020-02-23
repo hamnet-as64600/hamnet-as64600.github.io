@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-12-07 07:41:12+00:00
-layout: post
+layout: page
 link: https://drc.bz/trompetenklaenge-zu-heilig-abend/
 slug: trompetenklaenge-zu-heilig-abend
 title: Trompetenklänge zu Heilig Abend

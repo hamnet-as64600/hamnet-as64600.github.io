@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-09-18 21:55:55+00:00
-layout: post
+layout: page
 link: https://drc.bz/schenkung-funkgeraete-an-den-d-r-c/
 slug: schenkung-funkgeraete-an-den-d-r-c
 title: Schenkung Funkgeräte an den D.R.C.

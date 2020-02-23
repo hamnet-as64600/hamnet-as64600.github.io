@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2019-07-10 07:52:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/rainer-in3krh-mit-80-auf-die-3-zinnen-fernsehbericht-rai-suedtirol-heute-abend-2020-uhr/
 slug: rainer-in3krh-mit-80-auf-die-3-zinnen-fernsehbericht-rai-suedtirol-heute-abend-2020-uhr
 title: Rainer IN3KRH - Mit 80 auf die 3 Zinnen - Fernsehbericht RAI Südtirol, heute

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-05-10 21:54:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatz-gantkofel-dutzende-von-umgefallenen-baeumen-auf-dem-forstweg-und-bis-zu-1-m-schnee/
 slug: einsatz-gantkofel-dutzende-von-umgefallenen-baeumen-auf-dem-forstweg-und-bis-zu-1-m-schnee
 title: 'Einsatz Gantkofel: dutzende von umgefallenen Bäumen auf dem Forstweg und bis

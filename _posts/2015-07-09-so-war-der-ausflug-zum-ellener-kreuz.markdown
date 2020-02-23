@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-07-09 15:35:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/so-war-der-ausflug-zum-ellener-kreuz/
 slug: so-war-der-ausflug-zum-ellener-kreuz
 title: So war der Ausflug zum Ellener Kreuz.

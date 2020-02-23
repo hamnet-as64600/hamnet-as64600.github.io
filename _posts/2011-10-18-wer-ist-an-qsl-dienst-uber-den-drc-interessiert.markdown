@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-10-18 18:55:35+00:00
-layout: post
+layout: page
 link: https://drc.bz/wer-ist-an-qsl-dienst-uber-den-drc-interessiert/
 slug: wer-ist-an-qsl-dienst-uber-den-drc-interessiert
 title: Wer ist an QSL Dienst über den DRC interessiert?

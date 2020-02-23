@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-01-12 08:37:15+00:00
-layout: post
+layout: page
 link: https://drc.bz/vorwort-und-einladung-zur-jahreshauptversammlung-des-drc-am-29-jaenner-2016/
 slug: vorwort-und-einladung-zur-jahreshauptversammlung-des-drc-am-29-jaenner-2016
 title: Vorwort und Einladung zur Jahreshauptversammlung des DRC am 29. Jänner 2016

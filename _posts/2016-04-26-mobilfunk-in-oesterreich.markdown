@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-04-26 07:22:21+00:00
-layout: post
+layout: page
 link: https://drc.bz/mobilfunk-in-oesterreich/
 slug: mobilfunk-in-oesterreich
 title: Mobilfunk in Österreich

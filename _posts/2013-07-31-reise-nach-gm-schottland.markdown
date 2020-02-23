@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-07-31 13:42:28+00:00
-layout: post
+layout: page
 link: https://drc.bz/reise-nach-gm-schottland/
 slug: reise-nach-gm-schottland
 title: Reise nach GM (Schottland)

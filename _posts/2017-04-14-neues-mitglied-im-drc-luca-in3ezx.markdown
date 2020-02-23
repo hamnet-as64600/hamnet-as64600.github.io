@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-04-14 06:40:22+00:00
-layout: post
+layout: page
 link: https://drc.bz/neues-mitglied-im-drc-luca-in3ezx/
 slug: neues-mitglied-im-drc-luca-in3ezx
 title: 'Neues Mitglied im DRC: Luca, IN3EZX'

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-10-16 12:15:24+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-ersten-winterbilder-vom-kronplatz/
 slug: die-ersten-winterbilder-vom-kronplatz
 title: Die ersten Winterbilder vom Kronplatz

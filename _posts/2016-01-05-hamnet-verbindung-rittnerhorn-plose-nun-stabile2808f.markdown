@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2016-01-05 14:50:17+00:00
-layout: post
+layout: page
 link: https://drc.bz/hamnet-verbindung-rittnerhorn-plose-nun-stabil%e2%80%8f/
 slug: hamnet-verbindung-rittnerhorn-plose-nun-stabil%e2%80%8f
 title: HAMNET-Verbindung Rittnerhorn-Plose nun stabil‏

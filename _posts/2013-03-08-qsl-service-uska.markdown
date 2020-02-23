@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-03-08 10:58:48+00:00
-layout: post
+layout: page
 link: https://drc.bz/qsl-service-uska/
 slug: qsl-service-uska
 title: QSL Service USKA

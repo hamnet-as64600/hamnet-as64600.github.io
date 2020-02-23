@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-01-21 06:41:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/fernsehsendung-ueber-giulielmo-marconi/
 slug: fernsehsendung-ueber-giulielmo-marconi
 title: Fernsehsendung über Giuglielmo Marconi

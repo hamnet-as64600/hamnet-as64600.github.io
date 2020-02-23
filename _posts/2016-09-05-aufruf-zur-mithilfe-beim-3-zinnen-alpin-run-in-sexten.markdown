@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-09-05 09:39:51+00:00
-layout: post
+layout: page
 link: https://drc.bz/aufruf-zur-mithilfe-beim-3-zinnen-alpin-run-in-sexten/
 slug: aufruf-zur-mithilfe-beim-3-zinnen-alpin-run-in-sexten
 title: Aufruf zur Mithilfe beim "3 Zinnen Alpin Run" in Sexten.

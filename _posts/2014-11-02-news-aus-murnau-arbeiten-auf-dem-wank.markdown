@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-02 18:00:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/news-aus-murnau-arbeiten-auf-dem-wank/
 slug: news-aus-murnau-arbeiten-auf-dem-wank
 title: 'News aus Murnau: Arbeiten auf dem Wank'

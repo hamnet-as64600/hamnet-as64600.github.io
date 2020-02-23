@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-06-05 12:38:56+00:00
-layout: post
+layout: page
 link: https://drc.bz/der-notfall-aufkleber-kann-abgeholt-werden/
 slug: der-notfall-aufkleber-kann-abgeholt-werden
 title: Der NOTFALL Aufkleber kann abgeholt werden!

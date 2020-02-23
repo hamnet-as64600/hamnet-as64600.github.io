@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-05-03 08:38:03+00:00
-layout: post
+layout: page
 link: https://drc.bz/aura-hotel-in-saulgrub-einweihung-der-clubstation-df0bh-eroeffnung-von-united-buddy-bears/
 slug: aura-hotel-in-saulgrub-einweihung-der-clubstation-df0bh-eroeffnung-von-united-buddy-bears
 title: Aura Hotel in Saulgrub - Einweihung der Clubstation DF0BH + Eröffnung von "United

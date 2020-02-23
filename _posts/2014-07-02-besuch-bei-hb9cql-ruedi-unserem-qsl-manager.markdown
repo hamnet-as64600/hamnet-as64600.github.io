@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-02 06:01:40+00:00
-layout: post
+layout: page
 link: https://drc.bz/besuch-bei-hb9cql-ruedi-unserem-qsl-manager/
 slug: besuch-bei-hb9cql-ruedi-unserem-qsl-manager
 title: Besuch bei HB9CQL, Ruedi, unserem QSL Manager

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-06-22 18:17:18+00:00
-layout: post
+layout: page
 link: https://drc.bz/key-silent-dj1fm-frank/
 slug: key-silent-dj1fm-frank
 title: 'Silent Key: DJ1FM Frank'

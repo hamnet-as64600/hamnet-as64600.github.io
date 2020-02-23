@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-07-11 08:57:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/einsatzbericht-zum-hamnet-wochenende-auf-der-marmolada-und-dem-gitschberg/
 slug: einsatzbericht-zum-hamnet-wochenende-auf-der-marmolada-und-dem-gitschberg
 title: Einsatzbericht zum Hamnet-Wochenende auf der Marmolada und dem Gitschberg

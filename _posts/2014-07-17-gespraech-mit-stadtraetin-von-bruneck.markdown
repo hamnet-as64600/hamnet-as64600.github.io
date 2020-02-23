@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-07-17 07:59:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/gespraech-mit-stadtraetin-von-bruneck/
 slug: gespraech-mit-stadtraetin-von-bruneck
 title: Gespräch mit Stadträtin von Bruneck

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-12-31 06:32:20+00:00
-layout: post
+layout: page
 link: https://drc.bz/umsetzer-rittnerhorn-wieder-aktiv/
 slug: umsetzer-rittnerhorn-wieder-aktiv
 title: Umsetzer Rittnerhorn wieder aktiv.

@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2011-02-21 19:07:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/sendung-uber-marconi-im-zdf/
 slug: sendung-uber-marconi-im-zdf
 title: Sendung über Marconi im ZDF

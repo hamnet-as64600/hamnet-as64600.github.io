@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2017-09-06 13:04:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/aufruf-zur-mithilfe-beim-drei-zinnen-lauf/
 slug: aufruf-zur-mithilfe-beim-drei-zinnen-lauf
 title: Aufruf zur Mithilfe beim "Drei Zinnen Lauf"

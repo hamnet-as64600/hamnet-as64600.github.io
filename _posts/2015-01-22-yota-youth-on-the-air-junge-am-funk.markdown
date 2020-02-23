@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-01-22 07:11:59+00:00
-layout: post
+layout: page
 link: https://drc.bz/yota-youth-on-the-air-junge-am-funk/
 slug: yota-youth-on-the-air-junge-am-funk
 title: YOTA – Youth on the Air - Junge am Funk

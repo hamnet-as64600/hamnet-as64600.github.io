@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2010-10-28 05:47:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/das-kronplatzteam-bedankt-sich-beim-gonner/
 slug: das-kronplatzteam-bedankt-sich-beim-gonner
 title: Das Kronplatzteam bedankt sich für die Einladung

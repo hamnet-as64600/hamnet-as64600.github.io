@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2012-06-11 07:58:07+00:00
-layout: post
+layout: page
 link: https://drc.bz/nachtrag-zum-sota-kurs/
 slug: nachtrag-zum-sota-kurs
 title: Nachtrag zum SOTA Kurs

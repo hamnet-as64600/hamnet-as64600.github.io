@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2015-05-29 19:32:44+00:00
-layout: post
+layout: page
 link: https://drc.bz/sammelbestellung-baofeng-gt-3-tp-mark-iii-%e2%98%858watt%e2%98%85/
 slug: sammelbestellung-baofeng-gt-3-tp-mark-iii-%e2%98%858watt%e2%98%85
 title: Sammelbestellung Baofeng GT-3 TP Mark III ★8Watt★

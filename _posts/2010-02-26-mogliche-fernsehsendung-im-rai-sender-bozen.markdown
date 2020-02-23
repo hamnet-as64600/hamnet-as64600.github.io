@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-02-26 13:30:41+00:00
-layout: post
+layout: page
 link: https://drc.bz/mogliche-fernsehsendung-im-rai-sender-bozen/
 slug: mogliche-fernsehsendung-im-rai-sender-bozen
 title: Mögliche Fernsehsendung im RAI Sender Bozen!!

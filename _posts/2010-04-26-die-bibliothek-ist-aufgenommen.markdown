@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-04-26 11:52:52+00:00
-layout: post
+layout: page
 link: https://drc.bz/die-bibliothek-ist-aufgenommen/
 slug: die-bibliothek-ist-aufgenommen
 title: Die Bibliothek ist aufgenommen!

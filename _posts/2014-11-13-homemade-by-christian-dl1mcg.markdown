@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2014-11-13 08:40:43+00:00
-layout: post
+layout: page
 link: https://drc.bz/homemade-by-christian-dl1mcg/
 slug: homemade-by-christian-dl1mcg
 title: Homemade by Christian DL1MCG

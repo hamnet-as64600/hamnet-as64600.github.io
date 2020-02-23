@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2019-01-16 19:18:30+00:00
-layout: post
+layout: page
 link: https://drc.bz/achtung-link-suedtirol-am-gantkofel-sendet-auf-anderer-frequenz/
 slug: achtung-link-suedtirol-am-gantkofel-sendet-auf-anderer-frequenz
 title: 'Achtung: Link Südtirol am Gantkofel sendet auf anderer Frequenz.'

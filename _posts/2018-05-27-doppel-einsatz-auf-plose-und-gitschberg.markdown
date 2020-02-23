@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-05-27 17:13:08+00:00
-layout: post
+layout: page
 link: https://drc.bz/doppel-einsatz-auf-plose-und-gitschberg/
 slug: doppel-einsatz-auf-plose-und-gitschberg
 title: Doppel-Einsatz auf Plose und Gitschberg

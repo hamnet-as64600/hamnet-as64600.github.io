@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-01-19 12:48:50+00:00
-layout: post
+layout: page
 link: https://drc.bz/amateurfunkmesse-in-riva-del-garda/
 slug: amateurfunkmesse-in-riva-del-garda
 title: Amateurfunkmesse in Riva del Garda

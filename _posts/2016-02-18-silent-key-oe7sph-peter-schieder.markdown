@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2016-02-18 20:01:53+00:00
-layout: post
+layout: page
 link: https://drc.bz/silent-key-oe7sph-peter-schieder/
 slug: silent-key-oe7sph-peter-schieder
 title: 'Silent key: OE7SPH Peter Schieder'

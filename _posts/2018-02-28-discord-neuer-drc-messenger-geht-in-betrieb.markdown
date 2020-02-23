@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-02-28 19:12:29+00:00
-layout: post
+layout: page
 link: https://drc.bz/discord-neuer-drc-messenger-geht-in-betrieb/
 slug: discord-neuer-drc-messenger-geht-in-betrieb
 title: 'Discord: Neuer DRC-Messenger geht in Betrieb'

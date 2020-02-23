@@ -2,7 +2,7 @@
 author: IN3DOV
 comments: false
 date: 2013-09-22 16:09:58+00:00
-layout: post
+layout: page
 link: https://drc.bz/meraner-stadtanzeiger-ortler-panoramablick-in-hd-qualitat/
 slug: meraner-stadtanzeiger-ortler-panoramablick-in-hd-qualitat
 title: 'Meraner Stadtanzeiger: Ortler-Panoramablick in HD-Qualität'

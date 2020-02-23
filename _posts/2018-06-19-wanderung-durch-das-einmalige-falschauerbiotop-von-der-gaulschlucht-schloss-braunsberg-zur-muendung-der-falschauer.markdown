@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: true
 date: 2018-06-19 12:46:13+00:00
-layout: post
+layout: page
 link: https://drc.bz/wanderung-durch-das-einmalige-falschauerbiotop-von-der-gaulschlucht-schloss-braunsberg-zur-muendung-der-falschauer/
 slug: wanderung-durch-das-einmalige-falschauerbiotop-von-der-gaulschlucht-schloss-braunsberg-zur-muendung-der-falschauer
 title: Wanderung durch das einmalige Falschauerbiotop - Von der Gaulschlucht / Schloß
