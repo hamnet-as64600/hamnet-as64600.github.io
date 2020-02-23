@@ -1,0 +1,54 @@
+---
+author: admin
+comments: false
+date: 2012-09-14 19:12:00+00:00
+layout: post
+link: https://drc.bz/5462/
+slug: '5462'
+title: Bericht zum Folgeeinsatz Marmolada IR3AO
+wordpress_id: 5462
+categories:
+- HamNet
+---
+
+[![](https://drc.bz/wp-content/uploads/2012/09/team.jpg)](https://drc.bz/wp-content/uploads/2012/09/team.jpg)  
+  
+
+Hallo Hamnettler,
+aufgrund der schnellen und zahlreichen Spendenbeiträge vieler Funkamateure konnte in relativ kurzer Zeit ein Folgeeinsatz auf der Marmolada getätigt werden. Am Samstag 08/09/2012 und bei strahlendem Sonnenschein traf sich das Team erneut, um die Schäden vor Ort genau zu inspizieren und soweit möglich auch zu beheben.
+Auch diesmal hat es wieder alle Hände gebraucht, um die zuvor gesteckten Einsatzziele zeitgerecht bis Bahnschluss umzusetzen.
+Dabei galt es, einerseits den Blitzschutz ansatzweise zu verbessern als auch die gewünschten Linkstrecken zu reaktivieren.
+Ausserdem war Improvisationstalent gefragt, da sich bestimmte Problemstellungen erst am Berg ergaben.
+Mittlerweilen waren wir aber soweit ausgestattet, dass auch jene Hürde gemeistert werden konnte und wir das Tagesziel komplett erreichten, d.h.
+
+Die Linkstrecke IR3AO <> IR3UHF läuft nun wieder wie gehabt -75 dBi
+Die Linkstrecke IR3AO <> IR3DV konnte zusätzlich aktiviert werden -73 dBi
+Die Linkstrecke IR3AO <> OE8XDR-2 wartet auf die Gegenseite
+Die Linkstrecke IR3AO <> IR3UDZ schwächelt noch ein wenig - Gegenseite muss kontrolliert werden.
+
+Diesmal bestand das Team aus:
+
+Francesco IK3MUI
+Norbert OE7NGI
+Gabriel IN3ECS
+Toni IN3ZMB
+Tobias IW3BRC
+
+Einige Fotos gibts im [Fotoalbum](https://drc.bz/?page_id=205&wppa-album=56&wppa-cover=0&wppa-occur=1) (tnx Norbert!) .....
+
+Mit dem Einsatz wäre nun eine weitere Lücke im Backbone geschlossen und es fehlt uns eigentlich nur mehr die Seceda als Bindeglied zwischen Gantkofel und Gitschberg, wenngleich die Verbindung Ritten <> Marmolada <> Kronplatz <> Gitschberg auch schon läuft.
+Dabei gilt es aber noch, den Link IR3DV<>IR3UHI antennentechnisch zu verbessern, da es bei Schlechtwetter zu Problemen kommen kann.
+
+Sobald nun auch der Westen seine vorläufig letzte Linkanbindung zum Schludernser Berg erhält, kann man im neuen Jahr dann die "sekundären" Linkstrecken angehen, z.B. Marling <> Jaufen <> Flatsch oder Ritten <> Plose.
+Vielleicht findet sich auch jemand, der dann einen "User-Workshop" organisieren möchte, sobald weitere Usereinstiege geschalten werden.
+
+Soviel zum aktuellen Stand der Dinge.
+
+P.S.
+http://hammon.cisarbz.org/ wird nachgepflegt sobald die Einsätze für heuer beendet sind und die Zeit es zulässt.
+
+
+73!
+Tobias
+IW3BRC
+Hamnet-Koordination AS64600

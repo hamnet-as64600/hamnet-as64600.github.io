@@ -1,0 +1,22 @@
+---
+author: IN3DOV
+comments: false
+date: 2014-06-28 08:04:14+00:00
+layout: post
+link: https://drc.bz/aprs-lebt/
+slug: aprs-lebt
+title: APRS lebt...
+wordpress_id: 8482
+categories:
+- APRS
+---
+
+...vorallem auf der Hamradio. Wer Zweifel hat kann sich von diesen Screenshot überzeugen lassen.
+
+73 de IN3DOV Kurt.
+
+[![hamradio aprs](https://drc.bz/wp-content/uploads/2014/06/hamradio-aprs.jpg)](https://drc.bz/wp-content/uploads/2014/06/hamradio-aprs.jpg)
+
+
+
+

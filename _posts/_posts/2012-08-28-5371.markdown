@@ -1,0 +1,59 @@
+---
+author: IN3DOV
+comments: false
+date: 2012-08-28 09:25:57+00:00
+layout: post
+link: https://drc.bz/5371/
+slug: '5371'
+title: APRS I-Gate "Suedtirol Ost" in Betrieb genommen
+wordpress_id: 5371
+categories:
+- APRS
+---
+
+Hallo an alle APRS’ler.
+
+
+
+
+Seit ungefähr einer  Woche läuft im Pustertal probeweise ein sogenanntes  I-Gate mit dem Rufzeichen IR3DV-10 zum Weiterleiten der APRS Funkbaken ins Internet (siehe [hier](https://drc.bz/?page_id=1502)). Es handelt sich dabei um ein fertiges Gerät  (WX3IN1 von MICROSAT),  hergestellt von einem polnischen Funkamateur, das von Georg IW3ABA und mir angekauft wurde.  Nachdem es mit einem Funkgerät verdrahtet und entsprechend konfiguriert war hat es sofort seinen reibungslosen Dienst aufgenommen.  Es ist ein sehr interessantes Gerät mit mehreren Funktionen  die momentan nicht aktiviert sind, wie Wetterbaken,  Digipeaterfunktion , Telemetrie, usw.
+
+
+
+
+Im Prinzip empfängt das angeschlossene Funkgerät die Funkbaken der Funkamateure und leitet sie ins Internet. Um den schon recht belegten APRS Kanal ( 144,800 MHz) nicht noch zusätzlich zu belasten, ist die Digipeater Funktion ausgeschaltet. Dies bedeutet, dass das Gerät nur empfängt und kein HF Signal aussendet.
+
+
+
+
+Überraschenderweise leitet das I-Gate nicht nur Signale aus der Nachbereich (Pustertal) weiter, sondern empfängt auch Baken von Funkamateuren aus entfernten Gebieten, welche über die verschiedenen Digipeater nach Bruneck geleitet werden. Dies bedeutet, dass dieses zusätzliche I-Gate einen großen Einzugsbereich hat.
+
+
+
+
+Im Zeitraum von einer Woche sind mehr als 4.000 Baken ins Internet geleitet worden!!
+
+
+
+
+Wie gut das System nun funktioniert kann jeder selbst auf der APRS Karte angeschauen. Wen es interessieren sollte, wie die Signale weitergeleitet werden,  muss nur mit der Maus auf den Trackingpunkt klicken und die virtuellen Fäden zeigen die Wege an.
+
+
+
+
+Demnächst wird im "westlichen Südtirol" ein solches I-Gate zusätzlich in  Betrieb genommen. Ich bin mir sicher, dass davon alle einen großen Nutzen haben werden und die Betriebsart APRS für viele wieder eine interessante  Aktivität werden wird.
+
+
+
+
+73 an alle und viel Spass
+
+
+
+
+Kurt IN3DOV
+
+
+
+
+[caption id="attachment_5418" align="aligncenter" width="961" caption="Track von DO7DGH-13 durch Südtirol"][![](https://drc.bz/wp-content/uploads/2012/08/track-von-do7dgh-13-durch-suedtirol.jpg)](https://drc.bz/wp-content/uploads/2012/08/track-von-do7dgh-13-durch-suedtirol.jpg)[/caption]

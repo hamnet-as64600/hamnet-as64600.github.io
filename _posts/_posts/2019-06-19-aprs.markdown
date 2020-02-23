@@ -1,0 +1,31 @@
+---
+author: IW3AMQ
+comments: false
+date: 2019-06-19 06:28:30+00:00
+layout: post
+link: https://drc.bz/aprs/
+slug: aprs
+title: APRS
+wordpress_id: 18409
+categories:
+- APRS
+- Kurse
+- Packet Radio
+---
+
+
+
+
+Vortrag über APRS - die Betriebsart kann viel mehr, als man denkt! Samstag, 29. Juni um 14:00 Uhr im Clublokal Meran. Bitte hier innerhalb 23. Juni anmelden:   
+[https://drc.bz/aprs-das-telemetriesystem-der-funkamateure/ ](https://drc.bz/aprs-das-telemetriesystem-der-funkamateure/)
+
+
+
+
+
+
+
+73! Thomas, IW3AMQ
+
+
+

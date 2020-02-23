@@ -1,0 +1,18 @@
+---
+author: IN3DOV
+comments: false
+date: 2016-05-26 10:21:05+00:00
+layout: post
+link: https://drc.bz/aprs-lebt-2/
+slug: aprs-lebt-2
+title: APRS lebt!
+wordpress_id: 12246
+categories:
+- APRS
+---
+
+Karl, IN3EBP, hat mich auf die intensiven Aktivitäten in APRS aufmerksam gemacht. Offensichtlich sind viele Funkamateure aufgrund des Feiertages auf der Durchreise bzw in Südtirol in Urlaub.
+
+Hier geht es auf die [APRS Onlineseite](http://it.aprs.fi/#!mt=roadmap&z=11&call=&others=1&timerange=86400&tail=86400).
+
+73 de Kurt IN3DOV [![aprs](https://drc.bz/wp-content/uploads/2016/05/aprs-1024x654.jpg)](https://drc.bz/wp-content/uploads/2016/05/aprs.jpg)

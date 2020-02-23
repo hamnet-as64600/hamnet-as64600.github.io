@@ -1,0 +1,23 @@
+---
+author: IW3AMQ
+comments: false
+date: 2016-10-02 12:42:19+00:00
+layout: post
+link: https://drc.bz/13069/
+slug: '13069'
+title: Clublokal Meran hat nun schnelle Hamnet-Verbindung!
+wordpress_id: 13069
+categories:
+- Clublokal
+- HamNet
+---
+
+[![20160930_192212](https://drc.bz/wp-content/uploads/2016/10/20160930_192212-e1475412132787-225x300.jpg)](https://drc.bz/wp-content/uploads/2016/10/20160930_192212.jpg)Am Freitag abend konnte dann noch, nach dem Einsatz am Vormittag am Marlinger Berg mit Toni IN3ZMB und Simon IN3FQQ auch im Clublokal der Userzugang aktiviert werden. Die Signalwerte konnten sich sehen lassen! Es waren weitaus bessere Werte als vorher mit der 5 GHz Verbindung feststellbar, - 68 dbm in beide Richtungen. Die Umstellung war relativ einfach, da im Clublokal eine Dualband Antenne mit Dualband-Radiomodul R52Hn von Mikrotik verbaut war.
+
+Ein Problem machte dem Simon aber Schwitzen: anfangs war im RX nur ein Signalwert von wenigen -82 dbm zu sehen! Aber Simon ließ sich nicht beirren und konnte durch die richtige Einstellung im sehr weitläufigem Menü der Miktrotikbedienung das Problem innerhalb weniger Zeit lösen.
+
+Somit verfügt das Clublokal Meran über eine genausoschnelle Hamnet Anbindung wie das Clublokal Bruneck.
+
+Bravo Simon!
+
+73! Thomas, IW3AMQ
