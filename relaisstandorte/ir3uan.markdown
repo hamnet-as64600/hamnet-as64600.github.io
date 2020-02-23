@@ -6,6 +6,8 @@ layout: page
 link: https://drc.bz/relaisstandorte/helm-ir3uan/
 slug: helm-ir3uan
 title: Helm IR3UAN
+header:
+    image_fullwidth: "ir3uan.jpg"
 wordpress_id: 18723
 ---
 
@@ -22,7 +24,7 @@ Einen großen Dank an Norbert IW3AKA von [Radio Antenne](http://www.dieantenne.i
 
 **Technische Daten:**
 
-  * Umsetzer 70 cm – RU23 ([Link Südtirol](https://drc.bz/betriebsarten/linksuedtirol/)) – IR3UAN  
+* Umsetzer 70 cm – RU23 ([Link Südtirol](https://drc.bz/betriebsarten/linksuedtirol/)) – IR3UAN  
 TX: 430,5250 MHz  
 Ablage: + 5,0 MHz  
 Subaudioton: 123,0 Hz  
