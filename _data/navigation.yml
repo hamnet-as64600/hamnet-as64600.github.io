@@ -7,7 +7,6 @@
   side: left
 
 - title: "Relaisstandorte"
-  url: "/releaisstandorte/"
   side: left
   dropdown:
   - title: "Gantkofel IR3UGM"
@@ -24,12 +23,6 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
