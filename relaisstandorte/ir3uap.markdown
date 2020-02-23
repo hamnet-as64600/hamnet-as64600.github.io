@@ -12,7 +12,7 @@ gallery:
       caption: Plose1
     - image_url: 20171014_094133-e1508157135678.webp
       caption: Plose2
-    - image_url: Plose2.jpg
+    - image_url: Plose3.jpg
       caption: Plose3
 
 ---
