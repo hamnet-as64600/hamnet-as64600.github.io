@@ -31,22 +31,22 @@ IN3FQQ - Simon / IW3AMQ - Thomas
 <blockquote>Last update: 08. Februar 2020 </blockquote>
 
 
-![](https://drc.bz/wp-content/uploads/2018/04/OrangePiZero.jpg)
+![](/images/OrangePiZero.jpg)
 
 ### Vorbereitung Hardware
 
 Es braucht beim Orange Pi Zero wirklich wenig, es ist praktisch so gut wie alles schon auf dem Board, auch die Soundkarte! Für die Minimalausführung braucht insgesamt nur 4 Bauteile (2 Elektrolytkondensatoren zu 1 uF, einen Widerstand mit einem NPN Transistor), die auch fliegend im Gehäuse des Orange Pi Zero gelötet werden können.
 
 
-![](https://drc.bz/wp-content/uploads/2018/04/PinoutOrangePiZero.jpg)
+![](/images/PinoutOrangePiZero.jpg)
 
-![](https://drc.bz/wp-content/uploads/2018/09/OrangePi-ZeroPinout.jpg) Die GPIO Numerierung ist besser aus diesem Bild ersichtlich 
+![](/images/OrangePi-ZeroPinout.jpg) Die GPIO Numerierung ist besser aus diesem Bild ersichtlich 
 
 Für den PTT einfach einen NPN Transistor verwenden, Basis mit einem 1 kohm Widerstand zum I/O Pin (Pin 11, PA01, GPIO1) vom I/O Port des Orange Pi Zero verbinden. Den Emitter des Transistors auf Masse legen. Der Kollektor kommt zum PTT des Funkgerätes. 
 
 **In vielen Fällen kann auch auf den Transistor verzichtet werden, wenn der hohe Pegel der PTT-Leitung die 5 V nicht übersteigt.**
 
-![](https://drc.bz/wp-content/uploads/2018/04/SchematicInterfaceOPZ.jpg)
+![](/images/SchematicInterfaceOPZ.webp)
 
 Für den Audioeingang (MIC1N oder MIC1P) das Signal vom Diskriminatorausgang des RX über einen Kondensator zu 1 uF verbinden. Falls das NF-Signal zu hoch ist, vor dem Kondensator einen Spannungsteiler einsetzen. Dieser kann durch einen Widerstand mit 33 kohm in Serie, danach einen Widerstand zu 1,5 kohm Parallel zur Masse realisiert werden oder durch einen 10 kohm Drehwiderstand, dann ist der Pegel regelbar. Im Schaltplan ist der Drehwiderstand eingezeichnet. Dann in Serie den Kondensator zu 1 uF zum MIC Eingang des Orange PI Zero.
 
@@ -54,19 +54,19 @@ Den rechten Audioausgang über einen Kondensator zu 1 uF mit dem Modulatoreingan
 
 **In vielen Fällen kann auf die Schaltung mit den variablen Widerständen verzichtet werden. Wichtig ist aber auf jeden Fall einen Elektrolytkondensator zu 1 uF im RX und einen im TX Zweig in Serie zu schalten, um die Soundkarte des OrangePiZero gleichstrommäßig vom RTX zu trennen!**
 
-![](https://drc.bz/wp-content/uploads/2018/04/Mini-360_2.jpg)
+![](/images/Mini-360_2.webp)
 
 Die Spannungsversorgung von 12 V kann mit einem kleinen Switchingboard zu ein paar Euro auf 5 V für den Orange Pi Zero geregelt werden (min. 1 A). Dieses Board bringt 2 A und kann innen auf die Oberseite des Gehäuses geklebt werden oder direkt auf die zweireihige Steckerleiste. Ich habe dazu das "Mini 360 DC" bei [www.aliexpress.com](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180402220942&SearchText=Mini+360) gekauft. Fünk Stück kosten inklusive Versand 1,50 € ! 
 
 
-![](Mini-360_1.webp)
+![](/images/Mini-360_1.webp)
 
 Als Verbindungsstecker zum Funkgerät(e) habe ich eine MiniDIN Buchse mit 6 Pin verwendet.  
 
 
 **Beispiel der Pinbelegung MiniDIN Buchse zum RTX:**
 
-![](https://drc.bz/wp-content/uploads/2018/04/MiniDinPinout.jpg)
+![](/images/MiniDinPinout.jpg)
 
 
   1 = TX NF  
@@ -90,13 +90,13 @@ DB15 TX: DB15 RX:
 4 = zu Pin 9 4 = zu Pin 9
 
 
-![](20180610_235839.webp)
+![](/images/20180610_235839.webp)
 
 
 Im Bild erkennt man die Lochrasterplatine, die auf den Orange Pi Zero direkt aufgesteckt ist und den Spannungswandler "Mini 360 DC" und die Bauteile der NF mit dem PTT Transistor trägt. Die nötigen Verbindungen für +5V, GND, TX Nf, RX Nf und PTT gehen direkt über die Steckerleisten zum Orange Pi Zero. Vom linken Klemmpfosten führen nur 3 Kabel (GND, TX Nf und PTT) zum TX, vom rechten Klemmpfosten führt nur einer (RX Nf) zum RX und die anderen zwei sind + 12 V und GND für die Stromversorgung. 
 
 
-![](https://drc.bz/wp-content/uploads/2018/06/20180610_235756.jpg)
+![](/images/20180610_235756.webp)
 
 
 Hier wurden 2 Mobilfunkgeräte von Motorola, GM900 verwendet. **Später stellte sich allerdings heraus, dass die GM900 von Motorola im TX - Betrieb sich nach einiger Zeit nicht mehr auf Sendung tasten lassen. Ein bug in der Software! Ein Aus- und Einschalten bringt den TX dann wieder zum Laufen ... äh Senden. **
@@ -107,18 +107,18 @@ Alles hat zusammen mit einem Schaltnetzteil zu 12 V / 10 A (ganz links) in einem
 
 
 
-![](https://drc.bz/wp-content/uploads/2020/01/blue-raspberry-pi-heatsinks-1.jpg)
+![](/images/blue-raspberry-pi-heatsinks-1.jpg)
 
 
 Für eine **Passivkühlung** reicht ein großzügig bemessener  Kühlkörper, der auf den uP des Orange Pi Zero angebracht wird. Für  natürliche Luftzirkulation ist zu sorgen. Einen Kühlkörper der größeren  Art findet man z.B. bei [Aliexpress.com](http://www.aliexpress.com)  mit den Stichworten “Blue Raspberry Pi Heatsinks”. Mit diesem bleibt  die Temperatur unter 50 °C. Der Kühler ist 15 mm x 14 mm x 13 mm groß. 
 
 
 
-![](https://drc.bz/wp-content/uploads/2020/01/kuehlkoerper-opz.jpg)
+![](/images/kuehlkoerper-opz.jpg)
 
 
 
-### **Betriebssystem installieren**
+### Betriebssystem installieren
 
 
 Am Besten eine microSD Karte der Klasse 10 (Class10) mit mindestens 4 GB
@@ -155,7 +155,7 @@ einsetzen.
   * Firmware updaten: **sudo apt dist-upgrade**
 
 
-### **SVXLink installieren**
+### SVXLink installieren
 
 
 
@@ -212,7 +212,7 @@ Abschließend wird mit dem folgenden Befehl die Systemd-Unit "svxlink" beim Boot
   * Diese Datei mit dem Windows PC mit dem Programm „7-zip“ entpacken und den gesamten Ordner mit Unterordnern mit dem Programm „WinSCP“ in den  Ordner **/usr/share/svxlink/sounds/en_US/** kopieren
 
 
-### **SVXLINK konfigurieren**
+### SVXLINK konfigurieren
 
 
   * Mit WinSCP die Datei **svxlink.conf** konfigurieren. Dazu siehe auch deutsche Anleitung im Netz (Test Zuordnung Soundkarte: **aplay -l** und **arecord -l** im Putty eingeben)
@@ -224,7 +224,7 @@ Abschließend wird mit dem folgenden Befehl die Systemd-Unit "svxlink" beim Boot
   * Svxlink als Service stoppen: **service svxlink stop**
   * Svxlink Status abfragen: **service svxlink status**
 
-### **Svxlink Audiopegel, Squelch und CTCSS justieren**
+### Svxlink Audiopegel, Squelch und CTCSS justieren
 
 
 
@@ -307,8 +307,7 @@ Alle anderen ausschalten bzw. auf 0 stellen.
   * Am Ende den PC rebooten mit dem Befehl **reboot** und kontrollieren, ob alles läuft.
 
 
-### **Statische IP Adresse
-setzen**
+### Statische IP Adresse setzen
 
 
 
@@ -345,7 +344,7 @@ nameserver 44.134.190.126**
 Achtung! Wird eine SD Karte auf einem PC konfiguriert und dann in einen anderen PC genutzt, wird automatisch für die neue LAN Schnittstelle mit der neuen MAC Adresse ein DHCP Zugang konfiguriert. Die alten Einstellungen bleiben im Programm **nmtui** als "Wired connection 2" erhalten. Die ursprüngliche statische IP ist aber nicht mehr zugänglich, da diese auf einer "fremden" MAC Adresse lautet!
 
 
-### **Infotext bei Anmeldung ausgeben**
+### Infotext bei Anmeldung ausgeben
 
 
 
@@ -364,8 +363,7 @@ echo ""
 
 
 
-### **Installation von setQRG auf dem MB45 mit
-OrangePiZero**
+### Installation von setQRG auf dem MB45 mit OrangePiZero
 
 
   * Alle Dateien von [setQRG](https://drc.bz/wp-content/uploads/2020/02/setqrg-mb45-1.zip) entpacken und in den Ordner /opt kopieren
@@ -396,7 +394,7 @@ OrangePiZero**
   * Mit folgendem Befehl ruft man die Hilfe auf: **setQRG –h**
 
 
-### **Installation von Read Only Modus SD Karte
+### Installation von Read Only Modus SD Karte
 Orange Pi Zero**
 
 
@@ -442,7 +440,7 @@ Sollte sich die Änderung der IP Adresse trotz des Befehls  **mount –o remount
 
 
 
-### **Ventilator für Orange Pi Zero’s Prozessor**
+### Ventilator für Orange Pi Zero’s Prozessor
 
 
 Da doch der
@@ -465,7 +463,7 @@ beendet werden.
 
 
 
-![](https://drc.bz/wp-content/uploads/2018/12/fan.jpg)
+![](/images/fan.jpg)
 
 
 
@@ -482,31 +480,22 @@ wird eine einfache Textdatei mit dem Namen **fun-control.sh**
 angelegt. Diese Zeilen dort einfügen:
 
 
-**_#!/bin/bash_**  
-
-**_echo
-0 > /sys/class/gpio/export_**  
-
-**_echo
-out > /sys/class/gpio/gpio0/direction_**  
-
-**_temperature=$(<
-/sys/devices/virtual/thermal/thermal_zone1/temp)_**  
-
-**_if
-[ $temperature -gt 45 ]_**  
-
-**_then_**  
-
-**_echo
-“1” > /sys/class/gpio/gpio0/value_**  
-
-**_else_**  
-
-**_echo
-“0” > /sys/class/gpio/gpio0/value_**  
-
-**_fi_**
+    **_#!/bin/bash_**  
+    **_echo
+    0 > /sys/class/gpio/export_**  
+    **_echo
+    out > /sys/class/gpio/gpio0/direction_**  
+    **_temperature=$(<
+    /sys/devices/virtual/thermal/thermal_zone1/temp)_**  
+    **_if
+    [ $temperature -gt 45 ]_**  
+    **_then_**  
+    **_echo
+    “1” > /sys/class/gpio/gpio0/value_**  
+    **_else_**  
+    **_echo
+    “0” > /sys/class/gpio/gpio0/value_**  
+    **_fi_**
 
 
 In der 5. Zeile kann die Schalttemperatur geändert werden (momentan auf 45 °C).  
@@ -519,33 +508,24 @@ Im Ordner **/etc**
 die Datei **crontab**
 bearbeiten. Die fett gedruckte Zeile einfügen und speichern.
 
-_SHELL=/bin/sh_  
-
-_PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin_
-
-
-_# m h dom mon
-dow user command_  
-
-_17 * * * *
-root cd / && run-parts –report /etc/cron.hourly_  
-
-_25 6 * * *
-root test -x /usr/sbin/anacron || ( cd / && run-parts –report
-/etc/cron.daily )_  
-
-_47 6 * * 7
-root test -x /usr/sbin/anacron || ( cd / && run-parts –report
-/etc/cron.weekly )_  
-
-_52 6 1 * *
-root test -x /usr/sbin/anacron || ( cd / && run-parts –report
-/etc/cron.monthly )_  
-
-**_*
-* * * * root /etc/opt/fan-control.sh_**  
-
-_#_
+    SHELL=/bin/sh
+    PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin_
+    # m h dom mon
+    dow user command_  
+    17 * * * *
+    root cd / && run-parts –report /etc/cron.hourly  
+    _25 6 * * *
+    root test -x /usr/sbin/anacron || ( cd / && run-parts –report
+    /etc/cron.daily )_  
+    47 6 * * 7
+    root test -x /usr/sbin/anacron || ( cd / && run-parts –report
+    /etc/cron.weekly )_  
+    52 6 1 * *
+    root test -x /usr/sbin/anacron || ( cd / && run-parts –report
+    /etc/cron.monthly )_  
+    **_*
+    * * * * root /etc/opt/fan-control.sh_**  
+    #
 
 
 
@@ -556,7 +536,7 @@ neu starten. Die Temperatur kann mit folgendem Befehl abgefragt werden: **cat
 
 
 
-## **Parallel Port LPT1 bei einem ITX Pc  ansteuern**
+## Parallel Port LPT1 bei einem ITX Pc  ansteuern
 
 Das Programm
 zur Steuerung der Ausgangspin der parallelen Schnittstelle kann hier
