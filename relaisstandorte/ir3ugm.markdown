@@ -7,7 +7,7 @@ link: https://drc.bz/relaisstandorte/test-mini-link-sudtirol-2/
 slug: test-mini-link-sudtirol-2
 title: Gantkofel IR3UGM IR3V IW3BTS
 header:
-    image_fullwidth: "ir3ugm.png"
+    image_fullwidth: "ir3ugm.webp"
 wordpress_id: 8660
 ---
 
@@ -22,19 +22,9 @@ Der Gantkofel ist 1.866 m hoch. Von dort hat man einen fabelhaften Ausblick auf 
 
 
 
-
-
 Vielen Dank an die Zuständigen des fabelhaften Standortes Adrian, Bartl und Norbert IW3AKA von [Radio Antenne](http://www.dieantenne.it).
 
-
-
-
 Vielen Dank an die Autonome Provinz Bozen und Trient für die Gastfreundschaft in den Gebäuden des Wetterradars (R7 - Ari Bozen).
-
-
-
-
-
 
 
 Eine Live-Web-Cam, die das aktuelle Panorama des Gantkofels bringt, findet man [hier!](https://www.foto-webcam.eu/webcam/gantkofel/)
@@ -42,16 +32,11 @@ Eine Live-Web-Cam, die das aktuelle Panorama des Gantkofels bringt, findet man [
 
 **Technische Daten:**
 
-
-
- 	
-  * Simplexeinstieg 2m - IR3UGM (Gefrorene Wand - Olperer)
---- zur Zeit QRT (14.11.2016) ---
+* Simplexeinstieg 2m - IR3UGM (Gefrorene Wand - Olperer)
 RTX: 145,3125 MHz
 Subaudioton: 123,0 Hz
 Antenne: Vertikale Dualbandantenne
 Geräte: Kenwood Mobilfunkgerät, Bandsperrenfilter auf 431,400 MHz, Bandsperrenfilter auf 101,4 MHz, Duplexer 2m/70cm
-.
 
  	
   * Umsetzer 2 m - R7 - IR3V
@@ -99,7 +84,7 @@ Geräte: Motorola MC Compact, [Soundkarte CM119](https://drc.bz/link-sudtirol-b
 .
 
  	
-  * DV Multimode 70 cm - RU27 - IR3UGM
+* DV Multimode 70 cm - RU27 - IR3UGM
 TX: 431,5125 MHz
 Ablage: +1,6 MHz
 Betriebsarten: DMR, D-Star
