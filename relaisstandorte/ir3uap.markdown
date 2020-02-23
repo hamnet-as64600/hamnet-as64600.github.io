@@ -8,11 +8,11 @@ slug: linkanbindung-plose-gefrorene-wand
 title: Plose IR3UAP IR3R IW3BTS
 wordpress_id: 2456
 gallery:
-    - image_url: 20171014_143115-e1508158126976.webp
+    - image_url: plose1.webp
       caption: Plose1
-    - image_url: 20171014_094133-e1508157135678.webp
+    - image_url: plose2.webp
       caption: Plose2
-    - image_url: Plose3.jpg
+    - image_url: plose3.jpg
       caption: Plose3
 
 ---
@@ -24,7 +24,7 @@ gallery:
 <div class="panel radius" markdown="1">
 #### Steckbrief IR3UAP
 
-![Standort Plose](/images/20171014_143115-e1508158126976.webp)
+![Standort Plose](/images/plose1.webp)
 - **Standort**
 
     Plose - 2.483m
