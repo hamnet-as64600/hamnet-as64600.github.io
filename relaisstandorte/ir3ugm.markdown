@@ -6,6 +6,8 @@ layout: page
 link: https://drc.bz/relaisstandorte/test-mini-link-sudtirol-2/
 slug: test-mini-link-sudtirol-2
 title: Gantkofel IR3UGM IR3V IW3BTS
+header:
+    image_fullwidth: "ir3ugm.png"
 wordpress_id: 8660
 ---
 
