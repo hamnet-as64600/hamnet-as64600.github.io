@@ -46,7 +46,7 @@ gallery:
     D-STAR,
     DMR
     
-- [**Fotos**](../ir3uap-album)
+
 
 </div>
 </div>
