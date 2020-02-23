@@ -1,6 +1,6 @@
 ---
 author: IN3DOV
-comments: false
+comments: true
 date: 2020-02-21 09:00:33+00:00
 layout: page
 link: https://drc.bz/die-ov-vereinsabende-am-letzten-freitag-im-monat-werden-neu-gestaltet/
