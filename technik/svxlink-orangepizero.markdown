@@ -387,14 +387,12 @@ OrangePiZero**
 
         _case      “$1” in_ _       _  
         _start)_  
-  
         **## Starte setQRG**  
         **log_daemon_msg "Setting QRG" "svxlink"**  
         **setQRG**  
-  
         _Log_daemon_msg „Starting SVXLINK server“ „svxlink“_
 
-
+        
 
 
   * Mit folgendem Befehl kann man schon testen, ob der Befehl korrekt ausgeführt wird: **setQRG**

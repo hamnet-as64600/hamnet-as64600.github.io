@@ -17,7 +17,7 @@ slogan: 'Der S&uuml;dtiroler Funkamateurverein'
 description: 'DOLOMITES RADIO CLUB<br>Vereinssitz in 39031 Bruneck, Galileo Galilei Strasse 3'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <b>IN3FQQ</b> with <b>Jekyll</b></p>'
+credits: '<p>Created with &hearts; by <b>IN3FQQ</b> with <b>Jekyll</b> and <b>GitHub Pages</b></p>'
 
 # Main author of the website
 # See > authors.yml

@@ -6,6 +6,17 @@
   url: "/blog/"
   side: left
 
+- title: "Technik"
+  side: left
+  dropdown:
+  - title: "SVXLink auf Orange Pi Zero"
+    url: "/technik/svxlink-orangepizero/"
+  - title: "Antennen / HF-Techik"
+    url: "/technik/antennen-hftechnik/"
+  - title: "Funkgeräte"
+    url: "/technik/funkgeraete/"
+
+
 - title: "Relaisstandorte"
   side: left
   dropdown:
@@ -15,6 +26,7 @@
     url: "/relaisstandorte/ir3uan/"
   - title: "IN3EXL Bozen"
     url: "/relaisstandorte/in3exl/"
+
 
 - title: "Search"
   url: "/search/"

@@ -20,8 +20,6 @@ Hallo liebe Funkfreunde und Mitglieder,
 der Vorstand des DRC hat bei der letzten Sitzung beschlossen, die  OV-Abende die an jedem letzten Freitag eines jeden Monats stattfinden, neu zu organisieren. Diese Maßnahme wurde auch bei der Jahreshauptversammlung von einigen Mitgliedern als notwendig angesehen.
 
 
-
-
 Es wird ab sofort keine OV-Abende im klassischen Sinne alle Monatsende mehr geben, denn die Mitglieder werden ja über Homepage, E-Mail und auch den Discord Messenger regelmäßig und zeitnah über alle Ereignisse im DRC informiert.  
   
 Die **monatlichen Treffen** wird es trotzdem geben und diese sollen ganz unverbindlich sein. Jeder kann kommen zum plaudern und Meinungen auszutauschen oder zu basteln, Geräte zu reparieren, usw.....oder mit der neuen Kurzwelle zu funken, da ist sicherlich für jeden etwas dabei.  
