@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-chavalatsch.png
+  image_fullwidth: header-chavalatsch.webp
 
 permalink: /index.html
 #

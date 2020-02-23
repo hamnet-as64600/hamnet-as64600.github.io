@@ -6,6 +6,7 @@ layout: page
 link: https://drc.bz/die-ov-vereinsabende-am-letzten-freitag-im-monat-werden-neu-gestaltet/
 slug: die-ov-vereinsabende-am-letzten-freitag-im-monat-werden-neu-gestaltet
 title: Die OV-Vereinsabende am letzten Freitag im Monat werden neu gestaltet.
+teaser: Der Vorstand des DRC hat bei der letzten Sitzung beschlossen, die OV-Abende die an jedem letzten Freitag eines jeden Monats stattfinden, neu zu organisieren. Diese Maßnahme wurde auch bei der Jahreshauptversammlung von einigen Mitgliedern als notwendig angesehen.
 wordpress_id: 19357
 categories:
 - Allgemein
