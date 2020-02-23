@@ -11,9 +11,9 @@
   side: left
   dropdown:
   - title: "Gantkofel IR3UGM"
-    url: "/ir3ugm/"
+    url: "/relaisstandorte/ir3ugm/"
   - title: "IN3EXL Bozen"
-    url: "/in3exl"
+    url: "/relaisstandorte/in3exl"
 
 - title: Documentation
   url: "/documentation/"
