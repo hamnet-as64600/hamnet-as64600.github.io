@@ -24,19 +24,16 @@ wordpress_id: 16141
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-#### **Installation SVXLINK auf Orange Pi Zero**  
 **H2 Prozessor**  
 **Betriebssystem: Armbian Buster**  
 IN3FQQ - Simon / IW3AMQ - Thomas 
 
-<blockquote>Last update: 08. Februar 2020
-> 
-> </blockquote>
+<blockquote>Last update: 08. Februar 2020 </blockquote>
 
 
 ![](https://drc.bz/wp-content/uploads/2018/04/OrangePiZero.jpg)
 
-#### **Vorbereitung Hardware**
+### Vorbereitung Hardware
 
 Es braucht beim Orange Pi Zero wirklich wenig, es ist praktisch so gut wie alles schon auf dem Board, auch die Soundkarte! Für die Minimalausführung braucht insgesamt nur 4 Bauteile (2 Elektrolytkondensatoren zu 1 uF, einen Widerstand mit einem NPN Transistor), die auch fliegend im Gehäuse des Orange Pi Zero gelötet werden können.
 
@@ -62,7 +59,7 @@ Den rechten Audioausgang über einen Kondensator zu 1 uF mit dem Modulatoreingan
 Die Spannungsversorgung von 12 V kann mit einem kleinen Switchingboard zu ein paar Euro auf 5 V für den Orange Pi Zero geregelt werden (min. 1 A). Dieses Board bringt 2 A und kann innen auf die Oberseite des Gehäuses geklebt werden oder direkt auf die zweireihige Steckerleiste. Ich habe dazu das "Mini 360 DC" bei [www.aliexpress.com](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180402220942&SearchText=Mini+360) gekauft. Fünk Stück kosten inklusive Versand 1,50 € ! 
 
 
-![](https://drc.bz/wp-content/uploads/2018/04/Mini-360_1.jpg)
+![](Mini-360_1.webp)
 
 Als Verbindungsstecker zum Funkgerät(e) habe ich eine MiniDIN Buchse mit 6 Pin verwendet.  
 
@@ -72,12 +69,12 @@ Als Verbindungsstecker zum Funkgerät(e) habe ich eine MiniDIN Buchse mit 6 Pin 
 ![](https://drc.bz/wp-content/uploads/2018/04/MiniDinPinout.jpg)
 
 
-1 = TX NF  
-2 = PTT  
-3 = GND  
-4 = /  
-5 = RX NF  
-6 = + 12 Volt
+  1 = TX NF  
+  2 = PTT  
+  3 = GND  
+  4 = /  
+  5 = RX NF  
+  6 = + 12 Volt
 
 
 **Pinbelegung Motorola GM900:**
@@ -93,7 +90,7 @@ DB15 TX: DB15 RX:
 4 = zu Pin 9 4 = zu Pin 9
 
 
-![](https://drc.bz/wp-content/uploads/2018/06/20180610_235839.jpg)
+![](20180610_235839.webp)
 
 
 Im Bild erkennt man die Lochrasterplatine, die auf den Orange Pi Zero direkt aufgesteckt ist und den Spannungswandler "Mini 360 DC" und die Bauteile der NF mit dem PTT Transistor trägt. Die nötigen Verbindungen für +5V, GND, TX Nf, RX Nf und PTT gehen direkt über die Steckerleisten zum Orange Pi Zero. Vom linken Klemmpfosten führen nur 3 Kabel (GND, TX Nf und PTT) zum TX, vom rechten Klemmpfosten führt nur einer (RX Nf) zum RX und die anderen zwei sind + 12 V und GND für die Stromversorgung. 
