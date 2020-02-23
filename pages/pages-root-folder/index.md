@@ -11,7 +11,7 @@ header:
 
 
 callforaction:
-  url: wichtige-nachricht-bitte-lesen/
+  url: /wichtige-nachricht-bitte-lesen/
   text: Anmeldung zum Dreizinnenlauf läuft aktuell >
   style: alert
 
