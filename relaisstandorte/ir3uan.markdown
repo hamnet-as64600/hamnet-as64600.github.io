@@ -11,9 +11,6 @@ header:
 wordpress_id: 18723
 ---
 
-
-![](https://drc.bz/wp-content/uploads/2019/09/Helm1-1024x234.jpg)
-
 **Standort:**
 
 Der Helm befindet sich im östlichsten Teil Südtirols und ist 2.434 m hoch. Unser Standort ist allerdings nicht am Helmhaus, sondern etwas tiefer auf 2.170 m. 
