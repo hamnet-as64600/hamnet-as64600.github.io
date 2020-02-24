@@ -16,29 +16,13 @@ Das Link Südtirol umfasst folgende Umsetzerstandorte (von West nach Ost): [Sch�
 
 
 
-
-
-
-
 ![](https://drc.bz/wp-content/uploads/2020/01/ls-deckung-201912-1024x575.jpg)
-
-
-
-
 
 
 
 Im Notfall kann das Link-Südtirol System mit den 2 m Umsetzern vom Chavalatsch (R6), Rittnerhorn (R4) und Kronplatz (R2) zusammengeschalten werden.
 
-
-
-
-
-
 **Für die Auswahl der Relais auf der Karte das Symbol ****![Button](https://drc.bz/wp-content/uploads/2014/09/Button.jpg) oben links klicken.**
-
-
-
 
 
 **Technische Daten (Reihenfolge von West nach Ost):**
@@ -304,12 +288,3 @@ Dazu bitte die zur Verfügung stehenden [lokalen 2 m Umsetzer R2, R4 und R6](htt
 
 **Die Aufstellung mit den aktuell aktiven Umsetzern findet man hier:** [https://linksuedtirol.net.drc.bz/](http://linksuedtirol.net.drc.bz/)
 
-
-
-
-[pageview url="linksuedtirol.net.drc.bz" height="600px" border="yes"]
-
-
-
-
-[ic_add_posts category='Link Suedtirol']

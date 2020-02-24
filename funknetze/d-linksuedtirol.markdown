@@ -17,7 +17,6 @@ Die D-STAR Relais in Südtirol können somit nun alle via HAMNET mit dem Reflekt
 
 Verbindungen nach außerhalb von IN3 werden dann wiederum entweder via HAMNET oder via Internet getätigt. Im folgenden Schaubild sind die aktuellen Peerings mit anderen XLX-Reflektoren und die geteilten Module zu sehen:
 
-[![](https://drc.bz/wp-content/uploads/2017/10/dstar-suedtirol-3-300x212.jpg)](https://drc.bz/wp-content/uploads/2017/10/dstar-suedtirol-3.jpg)
 
 Die wichtigsten Fragen und Antworten gleich auf einen Blick:
 
@@ -53,10 +52,4 @@ _
 **_Ja, auch das ist möglich. Die DMR-Talkgroup **23207 im Brandmeister-Netz** ist auf XLX321F verbunden! Die Sprachqualität ist allerdings momentan noch verbesserungsfähig._
 
 Inzwischen wurde für eine perfekte Sprachtranskodierung das XC-3006 am Rittnerhorn installiert. Siehe Bericht dazu: [https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006/](https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006/)
-
-
-<div class="dashboard">
-    <iframe src="http://xlx321.net.drc.bz" frameborder="0">
-    </iframe>
-</div>
 
