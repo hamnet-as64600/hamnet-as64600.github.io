@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2017-11-02 07:07:47+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/funkgerate/bitx40-40-m-bastelspass-aus-indien/
 slug: bitx40-40-m-bastelspass-aus-indien
 title: BITX40 – 40 m Bastelspaß

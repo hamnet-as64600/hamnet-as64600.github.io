@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 12:45:31+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/adapter-atmega128-tqfp-auf-lochrasterplatine/
 slug: adapter-atmega128-tqfp-auf-lochrasterplatine
 title: Adapter ATMega128 TQFP-2,54 mm

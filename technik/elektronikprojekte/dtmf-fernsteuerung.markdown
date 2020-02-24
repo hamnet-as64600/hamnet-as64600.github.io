@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 13:00:25+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/dtmf-fernsteuerung-20-outputs-mit-atmel-90s8525/
 slug: dtmf-fernsteuerung-20-outputs-mit-atmel-90s8525
 title: DTMF Fernsteuerung 20 Kanäle

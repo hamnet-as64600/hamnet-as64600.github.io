@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-14 08:48:32+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/dtmf-und-lanhamnet-fernsteuerung/
 slug: dtmf-und-lanhamnet-fernsteuerung
 title: DTMF - LAN Fernsteuerung

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-06-14 08:04:50+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/antennen/vhf-dipolantenne-mit-125-ohm-anpassungsglied/
 slug: vhf-dipolantenne-mit-125-ohm-anpassungsglied
 title: VHF Dipolantenne mit 125 Ohm Anpassungsglied

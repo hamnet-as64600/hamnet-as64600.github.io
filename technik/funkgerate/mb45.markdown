@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-14 06:54:27+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/funkgerate/italtel-mb45/
 slug: italtel-mb45
 title: Italtel MB45

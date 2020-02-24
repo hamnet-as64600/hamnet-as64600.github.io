@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 13:08:11+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/echolink-interface-mit-ctcss-decoder/
 slug: echolink-interface-mit-ctcss-decoder
 title: Echolink Interface mit CTCSS

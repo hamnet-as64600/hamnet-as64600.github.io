@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 14:22:53+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/timer-fuer-sprachmodul-conrad/
 slug: timer-fuer-sprachmodul-conrad
 title: Timer Sprachmodul Conrad

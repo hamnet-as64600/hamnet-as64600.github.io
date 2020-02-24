@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 14:41:50+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/transponder-fuer-4-rtx/
 slug: transponder-fuer-4-rtx
 title: Transponder 4 RTX

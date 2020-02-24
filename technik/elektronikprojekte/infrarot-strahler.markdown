@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 14:10:38+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/infrarot-strahler-mit-3-mm-led/
 slug: infrarot-strahler-mit-3-mm-led
 title: Infrarot Strahler 3 mm LED

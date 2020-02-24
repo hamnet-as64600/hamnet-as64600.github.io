@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-08-24 07:35:06+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/step-down-converter-mini-360-test/
 slug: step-down-converter-mini-360-test
 title: Step down converter MINI-360 - Test

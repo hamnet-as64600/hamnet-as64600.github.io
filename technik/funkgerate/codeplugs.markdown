@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2018-11-17 13:51:00+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/betriebsarten/digitalfunk/codeplugs/
 slug: codeplugs
 title: Codeplugs

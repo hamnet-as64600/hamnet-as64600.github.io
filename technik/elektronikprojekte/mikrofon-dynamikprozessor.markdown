@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2015-03-18 13:03:55+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/mikrofon-dynamikkompressor/
 slug: mikrofon-dynamikkompressor
 title: Mikrofon Dynamikkompressor

@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2017-11-08 20:36:01+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/betriebsarten/linksuedtirol/
 slug: linksuedtirol
 title: Link Südtirol

@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-16 13:49:48+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/antennen/einfache-quadrifilar-helixantenne-in3ghz/
 slug: einfache-quadrifilar-helixantenne-in3ghz
 title: 2 m Quadrifilar Helixantenne

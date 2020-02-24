@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-14 13:00:36+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/antennen/blitzschutz-fuer-antennen/
 slug: blitzschutz-fuer-antennen
 title: Blitzschutz Antennen

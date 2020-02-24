@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 14:15:01+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/spannungswandler-von-12v-auf-5v-12v-36v/
 slug: spannungswandler-von-12v-auf-5v-12v-36v
 title: Spannungswandler 12V => -5V -12V +36V

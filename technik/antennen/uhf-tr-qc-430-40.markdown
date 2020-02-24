@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2018-06-17 19:24:24+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/antennen/uhf-antenne-tr-qc-430-40-7dib/
 slug: uhf-antenne-tr-qc-430-40-7dib
 title: UHF Antenne “TR QC-430-40-7dib”

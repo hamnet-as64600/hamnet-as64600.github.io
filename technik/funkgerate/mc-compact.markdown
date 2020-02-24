@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-14 07:28:21+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/funkgerate/motorola-mc-compact/
 slug: motorola-mc-compact
 title: Motorola MC Compact

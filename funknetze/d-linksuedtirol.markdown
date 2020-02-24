@@ -2,7 +2,7 @@
 author: IN3FQQ
 comments: false
 date: 2017-10-01 11:35:31+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/betriebsarten/digitalfunk/dashboard/
 slug: dashboard
 title: XLX321 Dashboard

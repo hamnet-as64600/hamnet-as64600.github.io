@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 13:17:21+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/einfache-steuerschaltung-fuer-power-n-mosfet-30-v-70-a/
 slug: einfache-steuerschaltung-fuer-power-n-mosfet-30-v-70-a
 title: Steuerschaltung Power N-MosFet

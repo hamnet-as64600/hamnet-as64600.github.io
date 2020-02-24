@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-13 14:17:55+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/temperaturgeregelter-ventilator/
 slug: temperaturgeregelter-ventilator
 title: Temperaturgeregelter Ventilator

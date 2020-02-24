@@ -2,7 +2,7 @@
 author: IW3AMQ
 comments: false
 date: 2014-10-14 06:40:43+00:00
-layout: page
+layout: page-fullwidth
 link: https://drc.bz/technik/analog-digitaltechnik/wasseralarmsensor/
 slug: wasseralarmsensor
 title: Wasseralarmsensor
