@@ -55,4 +55,8 @@ _
 Inzwischen wurde für eine perfekte Sprachtranskodierung das XC-3006 am Rittnerhorn installiert. Siehe Bericht dazu: [https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006/](https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006/)
 
 
-<iframe src=http://xlx321.net.drc.bz width=100% height=100% ></iframe>
+<div class="dashboard">
+    <iframe src="http://xlx321.net.drc.bz" frameborder="0">
+    </iframe>
+</div>
+
