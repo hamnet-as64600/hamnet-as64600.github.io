@@ -1,0 +1,57 @@
+---
+author: IW3AMQ
+comments: false
+date: 2014-10-14 06:54:27+00:00
+layout: page
+link: https://drc.bz/technik/funkgerate/italtel-mb45/
+slug: italtel-mb45
+title: Italtel MB45
+wordpress_id: 9460
+---
+
+## Mobilfunktelefon MB45 von Italtel (450 MHz) – Steuerschaltung und Platine zum Umbau als 70 cm Funkamateurumsetzer
+
+
+[caption id="attachment_9477" align="alignnone" width="300"][![Links unten VCO des TX, links oben Endstufe des TX, rechts RX ](https://drc.bz/wp-content/uploads/2014/10/mb45_top-300x298.jpg)](https://drc.bz/wp-content/uploads/2014/10/mb45_top.jpg) Links unten VCO des TX, links oben Endstufe des TX, rechts RX[/caption]
+
+[caption id="attachment_9473" align="alignnone" width="300"][![Leere Unterseite des MB-45, einst Platz für Steuerlogik und HF-Duplexer](https://drc.bz/wp-content/uploads/2014/10/mb45_bottom-300x289.jpg)](https://drc.bz/wp-content/uploads/2014/10/mb45_bottom.jpg) Leere Unterseite des MB-45, einst Platz für Steuerlogik und HF-Duplexer[/caption]
+
+
+## 
+
+
+
+
+## Alte Dokumentation (neue Dokumentation mit uP [ATMega128](http://www.atmel.com/dyn/resources/prod_documents/doc2467.pdf) und [Bascom](http://www.mcselec.com) siehe weiter unten):
+
+
+Das Datenword zu 19 Bit wurde mit 3 x CD4017 generiert, also ohne Microprozessor. Diese Schaltung wurde mit Hilfe con Toni, IN3KUA, entworfen. Die Beschreibung ist in italienischer Sprache, die Zeichnungen dürften für das Verständnis der Schaltung jedoch genügen:
+
+[![1_9](https://drc.bz/wp-content/uploads/2014/10/1_9-217x300.jpg)](https://drc.bz/wp-content/uploads/2014/10/1_9.jpg)  [![2_9](https://drc.bz/wp-content/uploads/2014/10/2_9-217x300.jpg)](https://drc.bz/wp-content/uploads/2014/10/2_9.jpg)  [![3_9](https://drc.bz/wp-content/uploads/2014/10/3_9-217x300.jpg)](https://drc.bz/wp-content/uploads/2014/10/3_9.jpg)  [![4_9](https://drc.bz/wp-content/uploads/2014/10/4_9-300x217.jpg)](https://drc.bz/wp-content/uploads/2014/10/4_9.jpg)  [![5_9](https://drc.bz/wp-content/uploads/2014/10/5_9-300x217.jpg)](https://drc.bz/wp-content/uploads/2014/10/5_9.jpg)  [![6_9](https://drc.bz/wp-content/uploads/2014/10/6_9-300x217.jpg)](https://drc.bz/wp-content/uploads/2014/10/6_9.jpg)  [![7_9](https://drc.bz/wp-content/uploads/2014/10/7_9-217x300.jpg)](https://drc.bz/wp-content/uploads/2014/10/7_9.jpg)  [![8_9](https://drc.bz/wp-content/uploads/2014/10/8_9-300x217.jpg)](https://drc.bz/wp-content/uploads/2014/10/8_9.jpg)  [![9_9](https://drc.bz/wp-content/uploads/2014/10/9_9-300x217.jpg)](https://drc.bz/wp-content/uploads/2014/10/9_9.jpg)
+
+
+
+
+## Neue Dokumentation (mit ATMega128 und einziger Platine, die genau in den dafür vorgesehenen Platz des MB45 passt):
+
+
+
+
+
+	
+  * [Schaltplan](https://drc.bz/wp-content/uploads/2014/10/mb45_schaltplan.tiff) (tif-Datei 2,16 MB)
+
+	
+  * [Platine Bauteileseite](https://drc.bz/wp-content/uploads/2014/10/mb45_sch_top.tiff)
+
+	
+  * [Platine Lötseite](https://drc.bz/wp-content/uploads/2014/10/mb45_sch_bottom.tiff)
+
+	
+  * [Bestückungsplan](https://drc.bz/wp-content/uploads/2014/10/mb45_best.jpg)
+
+	
+  * Software für ATMega128 in Bascom (noch nicht verfügbar)
+
+
+ACHTUNG: der uP von ATMEL, der 90S8535_44, wurde inzwischen durch eine Adapterplatine mit dem ATMega128 ersetzt, da das Programm zu umfangreich wurde und im 8535 nicht mehr Platz hatte. Hier der Schaltplan [des Adapters im tif-Format](https://drc.bz/wp-content/uploads/2014/10/m128-8535.tiff), der [Schaltplan im Eagle sch-Format](https://drc.bz/wp-content/uploads/2014/10/m128-8535.sch_.zip), und die [Adapterplatine im Eagle brd-Format](https://drc.bz/wp-content/uploads/2014/10/m128-8535.brd_.zip).

@@ -6,16 +6,51 @@
   url: "/blog/"
   side: left
 
-- title: "Technik"
+- title: "Elektronikprojekte"
   side: left
   dropdown:
   - title: "SVXLink auf Orange Pi Zero"
-    url: "/technik/svxlink-orangepizero/"
-  - title: "Antennen / HF-Techik"
-    url: "/technik/antennen-hftechnik/"
-  - title: "Funkgeräte"
-    url: "/technik/funkgeraete/"
+    url: "/technik/elektronikprojekte/svxlink-orangepizero/"
+  - title: "Adapter ATMega128 TQFP-2,54 mm"
+    url: "/technik/elektronikprojekte/atmega-tqfp/"
+  - title: "DTMF Fernsteuerung 20 Kanäle"
+    url: "/technik/elektronikprojekte/dtmf-fernsteuerung/"
+  - title: "DTMF - LAN Fernsteuerung"
+    url: "/technik/elektronikprojekte/dtmf-hamnet-fernsteuerung/"
 
+- title: "Antennen"
+  side: left
+  dropdown:
+  - title: "Blitzschutz für Antennen"
+    url: "/technik/antennen/blitzschutz/"
+  - title: "2m Quadrifilar Helix"
+    url: "/technik/antennen/qfh/"
+  - title: "UHF Antenne “TR QC-430-40-7dib"
+    url: "/technik/antennen/uhf-tr-qc-430-40/"
+  - title: "VHF Dipolantenne mit 125 Ohm Anpassungsglied"
+    url: "/technik/antennen/vhf-dipol/"
+
+- title: "Funkgeräte"
+  side: left
+  dropdown:
+  - title: "BITX40 – 40 m Bastelspaß"
+    url: "/technik/funkgeraete/bitx40/"
+  - title: "Italtel MB45"
+    url: "/technik/funkgeraete/mb45/"
+  - title: "Motorola MC Compact"
+    url: "/technik/funkgeraete/mc-compact/"
+  - title: "Wouxun KG UVD1"
+    url: "/technik/funkgeraete/wouxun-kguvd1/"
+  - title: "Codeplugs MD2017 und AnyTone"
+    url: "/technik/funkgeraete/codeplugs/"
+
+- title: "Funknetze"
+  side: left
+  dropdown:
+  - title: "Link Südtirol"
+    url: "/funknetze/linksuedtirol/"
+  - title: "Digital LinkSüdtirol"
+    url: "/funknetze/d-linksuedtirol/"
 
 - title: "Relaisstandorte"
   side: left
