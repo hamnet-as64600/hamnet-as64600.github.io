@@ -60,7 +60,7 @@ Knotenpunkt: [Gitschberg](https://drc.bz/relaisstandorte/gitschberg/), [Marmolad
 Usereinstieg QRG: 2,397 GHz
 
 
-[ic_add_posts category='Umsetzer Kronplatz']
+{% include list-posts tag='Umsetzer Kronplatz' %}
 
 Aktualisierung Oktober 2011: Um die Hamnet Antennen und die Routerboard auf der Struktur unterzubringen war es erforderlich die Antennenanlage umzubauen. Noch kurz vor dem Wintereinbruch konnte diese Arbeit ausgefuehrt werden dank des prompten Einsatzes von IN3EKH, IN3EID, IN3BWF und IN3DOV. Zudem wurde die neue 70 cm Antenne fuer das Link Suedtirol montiert und angeschlossen.[![](https://drc.bz/wp-content/uploads/2009/12/hamnetkronplatz1-1024x768-300x225.jpg)](https://drc.bz/wp-content/uploads/2009/12/hamnetkronplatz1-1024x768.jpg)
 
@@ -212,9 +212,6 @@ Nachträglich hat IN3HER die Antennenanlage verbessert und zwei Dipole angebrach
 
 
 -----------------------------------
-
-
-
 
 
 

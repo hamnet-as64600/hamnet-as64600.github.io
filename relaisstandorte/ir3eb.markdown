@@ -82,4 +82,4 @@ Zugang: bei Interesse für einen Zugang ins Hamnet bitte Anfrage an [drc@drc.bz]
 
 ** **
 
-[ic_add_posts category='Umsetzer Chavalatsch']
+{% include list-posts tag='Umsetzer Chavalatsch' %}

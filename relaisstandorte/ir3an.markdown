@@ -115,6 +115,6 @@ Die Anlage wird vom Cisar Agordo (IK3MUI – Francesco) betrieben. HamNet wird
 
 
 
-[ic_add_posts category='Umsetzer Marmolada']
+{% include list-posts tag='Umsetzer Marmolada' %}
 
 

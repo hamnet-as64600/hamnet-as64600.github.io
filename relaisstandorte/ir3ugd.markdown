@@ -50,4 +50,4 @@ Usereinstieg: nein
 
 
 
-[ic_add_posts category='Umsetzer Jaufen']
+{% include list-posts tag='Umsetzer Jaufen' %}

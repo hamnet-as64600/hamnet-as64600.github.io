@@ -86,7 +86,7 @@ Zugang: Anfragen für den Zugang bitte an [drc@drc.bz](mailto:drc@drc.bz) richte
 
 Am Rittnerhorn befindet sich weiters ein Server mit verschiedenen Diensten (Reflektor XLX321, Asterisk Telefonie, Überwachung der Geräte im Hamnet usw.). Ein eigener [AMBE Transcoder](https://drc.bz/rittnerhorn-ir3uhf-reflector-xlx321-hat-nun-ambe-transcoder-xc-3006/) mit 6 Audiokanälen erledigt die Sprachtranskodierung zwischen D-Star und DMR/C4FM.
 
-[ic_add_posts category='Umsetzer Rittner Horn']
+{% include list-posts tag='Umsetzer Rittner Horn' %}
 
 
 **Aktualisierung am 11.10.2012:**- Antenne 2,4 GHz (defekt) mit Antenne 2,3 GHz ausgetauscht und auf Gantkofel ausgerichtet (- 52 dbm ! schwankend);- Dualband Antenne für R4 und Link Nazionale (431,375 MHz) wieder aktiviert;- alle Antennen durchgemessen, alle mit SWR ok (kein Koaxkabeltausch notwendig);- alter R4 wieder aktiv;- Reserve R4 (Motorola Mc Compact) als Ersatz im Kasten**Aktualisierung am 17.07.2012**: Am 6. Juli 2012, wurde das Echolink – Rufzeichen des R4 auf dem Rittnerhorn von IW3AMQ-R auf das zugewiesene Rufzeichen des Standortes IR3UHF-R geändert. Die Nodenummer 12500 ist dabei die selbe geblieben.

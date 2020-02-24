@@ -41,6 +41,5 @@ Usereinstieg: 2,397 GHz
 Zugang: Info für den Zugang bitte an [drc@drc.bz](mailto:drc@drc.bz) richten!
 
 
-[ic_add_posts category='Umsetzer Marlinger Berg']
-
+{% include list-posts tag='Umsetzer Marlinger Berg' %}
 

@@ -56,4 +56,4 @@ Der Transponder verbindet den süddeutschen Raum mit Südtirol und wird vom Cisa
 
 Weitere Bilder findet man hier: [http://www.uhini.com/huehnerspiel.htm](http://www.uhini.com/huehnerspiel.htm)
 
-[ic_add_posts category='umsetzer-huehnerspiel']
+{% include list-posts tag='Umsetzer Huehnerspiel' %}

@@ -87,4 +87,4 @@ Usereinstieg QRG: keiner
 
 
 
-[ic_add_posts category='Umsetzer Seceda']
+{% include list-posts tag='Umsetzer Seceda' %}

@@ -66,7 +66,7 @@ Zugang: Info für den Zugang bitte an [drc@drc.bz](mailto:drc@drc.bz) richten!
 
 
 
-[ic_add_posts category='Umsetzer Gitschberg']
+{% include list-posts tag='Umsetzer Gitschberg' %}
 
 **Aktualisierung am 03.07.2013: **IN3ECS Gabriel und IW3AWA Siegfried haben die Stromversorgung fachgerecht angeschlossen. Zudem wurde die Strecke Hamnet auf den Kronplatz in Betrieb genommen.
 

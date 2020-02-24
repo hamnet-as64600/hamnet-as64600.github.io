@@ -57,4 +57,4 @@ Usereinstieg: keiner
 
 ** **
 
-[ic_add_posts category='Umsetzer Schöneben']
+{% include list-posts tag='Umsetzer Schöneben' %}
