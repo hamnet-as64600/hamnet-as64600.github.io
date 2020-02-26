@@ -9,11 +9,11 @@ title: Plose IR3UAP IR3R IW3BTS
 wordpress_id: 2456
 gallery:
     - image_url: plose1.webp
-      caption: Plose1
+      caption: Sendemast
     - image_url: plose2.webp
-      caption: Plose2
+      caption: Antennen von IR3UAP: 120 Grad Sektor für HAMNET, 4 gestockte 70cm Dipole und darunter zwei Faltdipole für 2m
     - image_url: plose3.jpg
-      caption: Plose3
+      caption: Sendemast von IW3BTS
 
 ---
 
@@ -32,20 +32,20 @@ gallery:
 - **Standortbetreiber**
 
     [Amt für Zivilschutz](http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/default.asp)
-    
+
 - **Amateurfunk-Anlagen**
 
     *IR3UAP* (DRC)
-    
+
     *IW3BTS* (DMR-TAA)
-    
+
 - **Betriebsarten**
 
     FM lokal,
     FM Link Suedtirol,
     D-STAR,
     DMR
-    
+
 
 
 </div>
@@ -55,7 +55,7 @@ gallery:
 
 <div>
 {% include gallery %}
-</div> 
+</div>
 
 Der Brixner Hausberg, die Plose, ist mit dem Telegraph 2.483 m hoch. Ein Umsetzerstandort ist nicht so hoch, er ist in der Nähe der Plosehütte und befindet sich auf 2.446 m, ein anderer ist direkt am Telegraph. Seit Oktober 2017 sind die Anlagen des DRC auf dem Mast vom Amt für Zivilschutz der Autonomen Provinz Bozen untergebracht.
 
@@ -83,7 +83,7 @@ Der Standort erlaubt folgende Deckung: Richtung Süden bis Trient, Westen mit de
 - Geräte: 2x Motorola GM340
 - Interface: UP4DAR
 
- 	
+
 #### DMR 70 cm (wird von [DMR-TAA](http://www.dmr-taa.it) betrieben) IW3BTS
 - TX: 430,9125 MHz
 - Ablage: +5,0 MHz
@@ -102,7 +102,7 @@ Der Standort erlaubt folgende Deckung: Richtung Süden bis Trient, Westen mit de
 - Filter: 6 x Bandsperrenfilter FOREM - Eigenumbau, Zirkulator, RX mit Vorverstärker
 - Geräte: Motorola GM900, Soundkarte CM119, PC Intel ITX D2500, Software AllStarLink mit Linux CentOS, Einspeisung ins [Hamnet](http://hamnetdb.net/mapwindow.cgi?as=64600)
 
- 	
+
 #### [HamNet](http://hamnetdb.net/mapwindow.cgi?as=64600) IR3UAP
 - Knotenpunkt: [Rittnerhorn](https://drc.bz/relaisstandorte/rittner-horn-ir3w/), [Gitschberg](https://drc.bz/relaisstandorte/test-mini-link-sudtirol/), [Kronplatz](https://drc.bz/relaisstandorte/umsetzer-kronplatz-lauft-wieder/)
 - Usereinstieg: 2,3GHz (noch nicht aktiviert)
