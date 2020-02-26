@@ -10,8 +10,20 @@ $('audio,video').mediaelementplayer();
 
 {% if page.header.image_fullwidth %}
 <script>
+  {% if page.header.image_fullwidth_webp %}
+    if (Modernizr.webp) {
+      $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_webp }}", {fade: 700});
+      $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth_webp }}", {fade: 700});
+    } else {
+      $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+      $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+    }
+
+  {% else %}
     $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
     $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+  {% endif %}
+
 </script>
 {% endif %}
 
@@ -52,4 +64,3 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 {% endif %}
-
