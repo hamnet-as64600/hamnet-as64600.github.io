@@ -8,12 +8,15 @@ slug: linkanbindung-plose-gefrorene-wand
 title: Plose IR3UAP IR3R IW3BTS
 wordpress_id: 2456
 gallery:
-    - image_url: plose1.webp
+    - image_url: plose1.jpg
       caption: Sendemast
-    - image_url: plose2.webp
+    - image_url: plose2.jpg
       caption: Antennen von IR3UAP: 120 Grad Sektor für HAMNET, 4 gestockte 70cm Dipole und darunter zwei Faltdipole für 2m
+    - image_url: plose4.jpg
+      caption: Rack mit den Geräten von IR3UAP
     - image_url: plose3.jpg
       caption: Sendemast von IW3BTS
+
 
 ---
 
