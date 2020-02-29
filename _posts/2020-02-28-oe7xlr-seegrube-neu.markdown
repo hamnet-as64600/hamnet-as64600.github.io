@@ -1,10 +1,10 @@
 ---
 author: IW3AMQ
 comments: true
-date: 2020-02-28 12:00:00+00:00
+date: 2020-02-28 17:53:00+00:00
 layout: page
-title: Fieldday in Auer am Samstag, 7. März 2020
-teaser: Zur Saisoneröffnung laden Martin, Robert, Reinhard und Sigi zum Fieldday in Auer am Samstag, 7. März 2020
+title: Link (Süd)Tirol OE7XLR – Innsbruck Seegrube neu
+teaser: Manfred OE7AAI, Alexius IW3AIB und Thomas IW3AMQ haben am Samstag, 15. Februar 2020 das Relais auf der Seegrube erneuert.
 wordpress_id: 19357
 tags:
 - Allgemein
